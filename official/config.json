@@ -1,0 +1,75 @@
+{
+  "root": {
+    "children": [
+      {
+        "path": "icpc",
+        "name": "ICPC",
+        "children": [
+          {
+            "path": "icpc-prompt",
+            "name": "更多数据迁移中，请耐心等待"
+          }
+        ]
+      },
+      {
+        "path": "ccpc",
+        "name": "CCPC",
+        "children": [
+          {
+            "path": "ccpc2022",
+            "name": "CCPC 2022",
+            "children": [
+              {
+                "path": "ccpc2022province-henan",
+                "format": "srk.json",
+                "name": "2022-10-02 河南省赛"
+              }
+            ]
+          },
+          {
+            "path": "ccpc2021",
+            "name": "CCPC 2021",
+            "children": [
+              {
+                "path": "ccpc2021ladies",
+                "format": "srk.json",
+                "name": "2021-10-31 女生赛"
+              }
+            ]
+          },
+          {
+            "path": "ccpc2020",
+            "name": "CCPC 2020",
+            "children": [
+              {
+                "path": "ccpc2020weihai",
+                "format": "srk.json",
+                "name": "2020-10-25 威海站"
+              },
+              {
+                "path": "ccpc2020mianyang",
+                "format": "srk.json",
+                "name": "2020-11-01 绵阳站"
+              },
+              {
+                "path": "ccpc2020changchun",
+                "format": "srk.json",
+                "name": "2020-11-08 长春站"
+              },
+              {
+                "path": "ccpc2020final",
+                "format": "srk.json",
+                "name": "2021-05-30 Final"
+              },
+              {
+                "path": "ccpc2020province-henan",
+                "format": "srk.json",
+                "name": "2020-11-21 河南省赛"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
