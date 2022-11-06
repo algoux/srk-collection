@@ -1,0 +1,29 @@
+{
+  "name": "srk-collection",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "sync": "node scripts/sync.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algoux/srk-collection.git"
+  },
+  "keywords": [],
+  "author": "bLue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algoux/srk-collection/issues"
+  },
+  "homepage": "https://github.com/algoux/srk-collection#readme",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "got": "^11.8.5",
+    "md5": "^2.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
