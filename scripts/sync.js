@@ -163,4 +163,8 @@ if (!process.argv[2]) {
 if (!process.env.ALGOUX_API_TOKEN) {
   console.warn('No API token provided. Sync may fail');
 }
-sync(process.argv[2]);
+
+sync(process.argv[2]).catch((e) => {
+  console.error(e);
+  process.exit(1);
+});
