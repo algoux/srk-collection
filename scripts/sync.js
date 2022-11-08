@@ -165,5 +165,6 @@ if (!process.env.ALGOUX_API_TOKEN) {
 }
 
 sync(process.argv[2]).catch((e) => {
+  console.error(e);
   process.exit(1);
 });
