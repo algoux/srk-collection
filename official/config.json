@@ -6,9 +6,15 @@
         "name": "ICPC",
         "children": [
           {
-            "path": "icpc-prompt",
-            "name": "更多数据迁移中，请耐心等待",
-            "children": []
+            "path": "icpc2022",
+            "name": "ICPC 2022",
+            "children": [
+              {
+                "path": "icpc2022xian",
+                "format": "srk.json",
+                "name": "2022-11-13 西安站"
+              }
+            ]
           }
         ]
       },
