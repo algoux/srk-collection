@@ -15,6 +15,39 @@
                 "name": "2022-11-13 西安站"
               }
             ]
+          },
+          {
+            "path": "icpc2022",
+            "name": "ICPC 2022",
+            "children": [
+              {
+                "path": "icpc2022hefei",
+                "format": "srk.json",
+                "name": "2022-11-20 合肥站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2022",
+            "name": "ICPC 2022",
+            "children": [
+              {
+                "path": "icpc2022shenyang",
+                "format": "srk.json",
+                "name": "2022-11-06 沈阳站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2021",
+            "name": "ICPC 2021",
+            "children": [
+              {
+                "path": "icpc2021final",
+                "format": "srk.json",
+                "name": "2022-07-20 EC Final"
+              }
+            ]
           }
         ]
       },
