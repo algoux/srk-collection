@@ -48,6 +48,26 @@
             "name": "CCPC 2022",
             "children": [
               {
+                "path": "ccpc2022mianyang",
+                "format": "srk.json",
+                "name": "2022-11-20 绵阳站"
+              },
+              {
+                "path": "ccpc2022guangzhou",
+                "format": "srk.json",
+                "name": "2022-11-13 广州站"
+              },
+              {
+                "path": "ccpc2022weihai",
+                "format": "srk.json",
+                "name": "2022-11-06 威海站"
+              },
+              {
+                "path": "ccpc2022guilin",
+                "format": "srk.json",
+                "name": "2022-10-30 桂林站"
+              },
+              {
                 "path": "ccpc2022province-henan",
                 "format": "srk.json",
                 "name": "2022-10-02 河南省赛"
