@@ -34,6 +34,26 @@
                 "path": "icpc2021final",
                 "format": "srk.json",
                 "name": "2022-07-20 EC Final"
+              },
+              {
+                "path": "icpc2021nanjing",
+                "format": "srk.json",
+                "name": "2021-12-04 南京站"
+              },
+              {
+                "path": "icpc2021shanghai",
+                "format": "srk.json",
+                "name": "2021-11-28 上海站"
+              },
+              {
+                "path": "icpc2021shenyang",
+                "format": "srk.json",
+                "name": "2021-11-21 沈阳站"
+              },
+              {
+                "path": "icpc2021jinan",
+                "format": "srk.json",
+                "name": "2021-11-14 济南站"
               }
             ]
           }
