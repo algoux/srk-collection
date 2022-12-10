@@ -110,6 +110,11 @@
             "name": "CCPC 2020",
             "children": [
               {
+                "path": "ccpc2020qinhuangdao",
+                "format": "srk.json",
+                "name": "2020-10-18 秦皇岛站"
+              },
+              {
                 "path": "ccpc2020weihai",
                 "format": "srk.json",
                 "name": "2020-10-25 威海站"
