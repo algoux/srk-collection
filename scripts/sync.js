@@ -6,7 +6,8 @@ const FormData = require('form-data');
 const { parseConfig } = require('./parse');
 
 const req = got.extend({
-  prefixUrl: 'https://rl.mushan.top/',
+  // prefixUrl: 'https://rl.mushan.top/',
+  prefixUrl: 'https://rl-dev.algoux.org/',
   headers: {
     algoux: process.env.ALGOUX_API_TOKEN,
   },

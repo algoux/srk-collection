@@ -10,19 +10,29 @@
             "name": "ICPC 2022",
             "children": [
               {
-                "path": "icpc2022xian",
-                "format": "srk.json",
-                "name": "2022-11-13 西安站"
-              },
-              {
                 "path": "icpc2022shenyang",
                 "format": "srk.json",
                 "name": "2022-11-06 沈阳站"
               },
               {
+                "path": "icpc2022xian",
+                "format": "srk.json",
+                "name": "2022-11-13 西安站"
+              },
+              {
                 "path": "icpc2022hefei",
                 "format": "srk.json",
                 "name": "2022-11-20 合肥站"
+              },
+              {
+                "path": "icpc2022jinan",
+                "format": "srk.json",
+                "name": "2022-11-27 济南站"
+              },
+              {
+                "path": "icpc2022hangzhou",
+                "format": "srk.json",
+                "name": "2022-12-04 杭州站"
               }
             ]
           },
@@ -31,19 +41,9 @@
             "name": "ICPC 2021",
             "children": [
               {
-                "path": "icpc2021final",
+                "path": "icpc2021jinan",
                 "format": "srk.json",
-                "name": "2022-07-20 EC Final"
-              },
-              {
-                "path": "icpc2021nanjing",
-                "format": "srk.json",
-                "name": "2021-12-04 南京站"
-              },
-              {
-                "path": "icpc2021shanghai",
-                "format": "srk.json",
-                "name": "2021-11-28 上海站"
+                "name": "2021-11-14 济南站"
               },
               {
                 "path": "icpc2021shenyang",
@@ -51,9 +51,29 @@
                 "name": "2021-11-21 沈阳站"
               },
               {
-                "path": "icpc2021jinan",
+                "path": "icpc2021shanghai",
                 "format": "srk.json",
-                "name": "2021-11-14 济南站"
+                "name": "2021-11-28 上海站"
+              },
+              {
+                "path": "icpc2021nanjing",
+                "format": "srk.json",
+                "name": "2021-12-04 南京站"
+              },
+              {
+                "path": "icpc2021macau",
+                "format": "srk.json",
+                "name": "2022-04-03 澳門站"
+              },
+              {
+                "path": "icpc2021kunming",
+                "format": "srk.json",
+                "name": "2022-04-17 昆明站"
+              },
+              {
+                "path": "icpc2021ecfinal",
+                "format": "srk.json",
+                "name": "2022-07-20 EC Final"
               }
             ]
           }
@@ -68,14 +88,9 @@
             "name": "CCPC 2022",
             "children": [
               {
-                "path": "ccpc2022mianyang",
+                "path": "ccpc2022guilin",
                 "format": "srk.json",
-                "name": "2022-11-20 绵阳站"
-              },
-              {
-                "path": "ccpc2022guangzhou",
-                "format": "srk.json",
-                "name": "2022-11-13 广州站"
+                "name": "2022-10-30 桂林站"
               },
               {
                 "path": "ccpc2022weihai",
@@ -83,9 +98,24 @@
                 "name": "2022-11-06 威海站"
               },
               {
-                "path": "ccpc2022guilin",
+                "path": "ccpc2022guangzhou",
                 "format": "srk.json",
-                "name": "2022-10-30 桂林站"
+                "name": "2022-11-13 广州站"
+              },
+              {
+                "path": "ccpc2022mianyang",
+                "format": "srk.json",
+                "name": "2022-11-20 绵阳站"
+              },
+              {
+                "path": "ccpc2022hv",
+                "format": "srk.json",
+                "name": "2022-10-23 高职专场"
+              },
+              {
+                "path": "ccpc2022ladies",
+                "format": "srk.json",
+                "name": "2022-11-27 女生赛"
               },
               {
                 "path": "ccpc2022province-henan",
@@ -146,14 +176,14 @@
             "name": "CCPC 2019",
             "children": [
               {
-                "path": "ccpc2019beijing",
-                "format": "srk.json",
-                "name": "2019-11-17 北京站-中国传媒大学"
-              },
-              {
                 "path": "ccpc2019haerbin",
                 "format": "srk.json",
-                "name": "2019-10-13 哈尔滨站-东北林业大学"
+                "name": "2019-10-13 哈尔滨站"
+              },
+              {
+                "path": "ccpc2019beijing",
+                "format": "srk.json",
+                "name": "2019-11-17 北京站"
               }
             ]
           }
