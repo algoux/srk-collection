@@ -76,6 +76,52 @@
                 "name": "2022-07-20 EC Final"
               }
             ]
+          },
+          {
+            "path": "icpc2020",
+            "name": "ICPC 2020",
+            "children": [
+              {
+                "path": "icpc2020shanghai",
+                "format": "srk.json",
+                "name": "2020-12-13 上海站"
+              },
+              {
+                "path": "icpc2020nanjing",
+                "format": "srk.json",
+                "name": "2020-12-20 南京站"
+              },
+              {
+                "path": "icpc2020jinan",
+                "format": "srk.json",
+                "name": "2020-12-27 济南站"
+              },
+              {
+                "path": "icpc2020kunming",
+                "format": "srk.json",
+                "name": "2021-04-03 昆明站"
+              },
+              {
+                "path": "icpc2020yinchuan",
+                "format": "srk.json",
+                "name": "2021-05-16 银川站"
+              },
+              {
+                "path": "icpc2020shenyang",
+                "format": "srk.json",
+                "name": "2021-07-18 沈阳站"
+              },
+              {
+                "path": "icpc2020ecfinal",
+                "format": "srk.json",
+                "name": "2021-04-18 EC Final"
+              },
+              {
+                "path": "icpc2020invitational-xiaomi",
+                "format": "srk.json",
+                "name": "2020-11-22 小米邀请赛"
+              }
+            ]
           }
         ]
       },
