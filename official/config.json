@@ -128,6 +128,32 @@
             "path": "ccpc2021",
             "name": "CCPC 2021",
             "children": [
+              
+              {
+                "path": "ccpc2021guilin",
+                "format": "srk.json",
+                "name": "2021-11-07 桂林站"
+              },
+              {
+                "path": "ccpc2021hangzhou",
+                "format": "srk.json",
+                "name": "2021-11-14 杭州站"
+              },
+              {
+                "path": "ccpc2021weihai",
+                "format": "srk.json",
+                "name": "2021-11-21 威海站"
+              },
+              {
+                "path": "ccpc2021harbin",
+                "format": "srk.json",
+                "name": "2021-11-28 哈尔滨站"
+              },
+              {
+                "path": "ccpc2021final",
+                "format": "srk.json",
+                "name": "2022-07-27 Final"
+              },
               {
                 "path": "ccpc2021ladies",
                 "format": "srk.json",
