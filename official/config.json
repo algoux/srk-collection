@@ -122,6 +122,306 @@
                 "name": "2020-11-22 小米邀请赛"
               }
             ]
+          },
+          {
+            "path": "icpc2019",
+            "name": "ICPC 2019",
+            "children": [
+              {
+                "path": "icpc2019yinchuan",
+                "format": "srk.json",
+                "name": "2019-10-20 银川站"
+              },
+              {
+                "path": "icpc2019nanchang",
+                "format": "srk.json",
+                "name": "2019-11-11 南昌站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2017",
+            "name": "ICPC 2017",
+            "children": [
+              {
+                "path": "icpc2017harbin",
+                "format": "srk.json",
+                "name": "2017-??-?? 哈尔滨站"
+              },
+              {
+                "path": "icpc2017urumchi",
+                "format": "srk.json",
+                "name": "2017-??-?? 乌鲁木齐站"
+              },
+              {
+                "path": "icpc2017shenyang",
+                "format": "srk.json",
+                "name": "2017-10-22 沈阳站"
+              },
+              {
+                "path": "icpc2017xi_an",
+                "format": "srk.json",
+                "name": "2017-10-29 西安站"
+              },
+              {
+                "path": "icpc2017beijing",
+                "format": "srk.json",
+                "name": "2017-11-19 北京站"
+              },
+              {
+                "path": "icpc2017nanning",
+                "format": "srk.json",
+                "name": "2017-11-26 南宁站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2016",
+            "name": "ICPC 2016",
+            "children": [
+              {
+                "path": "icpc2016harbin",
+                "format": "srk.json",
+                "name": "2016-??-?? 哈尔滨站"
+              },
+              {
+                "path": "icpc2016xi_an",
+                "format": "srk.json",
+                "name": "2016-??-?? 西安站"
+              },
+              {
+                "path": "icpc2016shanghai",
+                "format": "srk.json",
+                "name": "2016-??-?? 上海站"
+              },
+              {
+                "path": "icpc2016dalian",
+                "format": "srk.json",
+                "name": "2016-10-16 大连站"
+              },
+              {
+                "path": "icpc2016shenyang",
+                "format": "srk.json",
+                "name": "2016-10-23 沈阳站"
+              },
+              {
+                "path": "icpc2016hongkong",
+                "format": "srk.json",
+                "name": "2016-11-06 香港站"
+              },
+              {
+                "path": "icpc2016beijing",
+                "format": "srk.json",
+                "name": "2016-11-13 北京站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2015",
+            "name": "ICPC 2015",
+            "children": [
+              {
+                "path": "icpc2015changchun",
+                "format": "srk.json",
+                "name": "2015-10-18 长春站"
+              },
+              {
+                "path": "icpc2015shenyang",
+                "format": "srk.json",
+                "name": "2015-10-25 沈阳站"
+              },
+              {
+                "path": "icpc2015hefei",
+                "format": "srk.json",
+                "name": "2015-11-08 合肥站"
+              },
+              {
+                "path": "icpc2015beijing",
+                "format": "srk.json",
+                "name": "2015-11-15 北京站"
+              },
+              {
+                "path": "icpc2015shanghai",
+                "format": "srk.json",
+                "name": "2015-11-22 上海站"
+              },
+              {
+                "path": "icpc2015ecfinal",
+                "format": "srk.json",
+                "name": "2015-12-13 EC Final"
+              }
+            ]
+          },
+          {
+            "path": "icpc2014",
+            "name": "ICPC 2014",
+            "children": [
+              {
+                "path": "icpc2014mudanjiang",
+                "format": "srk.json",
+                "name": "2014-10-12 牡丹江站"
+              },
+              {
+                "path": "icpc2014anshan",
+                "format": "srk.json",
+                "name": "2014-10-19 鞍山站"
+              },
+              {
+                "path": "icpc2014xi_an",
+                "format": "srk.json",
+                "name": "2014-10-26 西安站"
+              },
+              {
+                "path": "icpc2014beijing",
+                "format": "srk.json",
+                "name": "2014-11-16 北京站"
+              },
+              {
+                "path": "icpc2014guangzhou",
+                "format": "srk.json",
+                "name": "2014-11-23 广州站"
+              },
+              {
+                "path": "icpc2014shanghai",
+                "format": "srk.json",
+                "name": "2014-12-07 上海站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2013",
+            "name": "ICPC 2013",
+            "children": [
+              {
+                "path": "icpc2013chengdu",
+                "format": "srk.json",
+                "name": "2013-10-20 成都站"
+              },
+              {
+                "path": "icpc2013hangzhou",
+                "format": "srk.json",
+                "name": "2013-10-27 杭州站"
+              },
+              {
+                "path": "icpc2013nanjing",
+                "format": "srk.json",
+                "name": "2013-11-02 南京站"
+              },
+              {
+                "path": "icpc2013changsha",
+                "format": "srk.json",
+                "name": "2013-11-17 长沙站"
+              },
+              {
+                "path": "icpc2013changchun",
+                "format": "srk.json",
+                "name": "2013-12-08 长春站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2012",
+            "name": "ICPC 2012",
+            "children": [
+              {
+                "path": "icpc2012changchun",
+                "format": "srk.json",
+                "name": "2012-10-14 长春站"
+              },
+              {
+                "path": "icpc2012tianjin",
+                "format": "srk.json",
+                "name": "2012-10-21 天津站"
+              },
+              {
+                "path": "icpc2012jinhua",
+                "format": "srk.json",
+                "name": "2012-10-28 金华站"
+              },
+              {
+                "path": "icpc2012hangzhou",
+                "format": "srk.json",
+                "name": "2012-11-04 杭州站"
+              },
+              {
+                "path": "icpc2012chengdu",
+                "format": "srk.json",
+                "name": "2012-11-11 成都站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2011",
+            "name": "ICPC 2011",
+            "children": [
+              {
+                "path": "icpc2011dalian",
+                "format": "srk.json",
+                "name": "2011-09-25 大连站"
+              },
+              {
+                "path": "icpc2011shanghai",
+                "format": "srk.json",
+                "name": "2011-10-16 上海站"
+              },
+              {
+                "path": "icpc2011beijing",
+                "format": "srk.json",
+                "name": "2011-10-23 北京站"
+              },
+              {
+                "path": "icpc2011chengdu",
+                "format": "srk.json",
+                "name": "2011-11-06 成都站"
+              },
+              {
+                "path": "icpc2011fuzhou",
+                "format": "srk.json",
+                "name": "2011-11-20 福州站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2010",
+            "name": "ICPC 2010",
+            "children": [
+              {
+                "path": "icpc2010harbin",
+                "format": "srk.json",
+                "name": "2010-09-26 哈尔滨站"
+              },
+              {
+                "path": "icpc2010tianjin",
+                "format": "srk.json",
+                "name": "2010-10-17 天津站"
+              },
+              {
+                "path": "icpc2010hangzhou",
+                "format": "srk.json",
+                "name": "2010-10-24 杭州站"
+              },
+              {
+                "path": "icpc2010chengdu",
+                "format": "srk.json",
+                "name": "2010-11-07 成都站"
+              },
+              {
+                "path": "icpc2010fuzhou",
+                "format": "srk.json",
+                "name": "2010-11-21 福州站"
+              }
+            ]
+          },
+          {
+            "path": "icpc2009",
+            "name": "ICPC 2009",
+            "children": [
+              {
+                "path": "icpc2009wuhan",
+                "format": "srk.json",
+                "name": "2009-09-11 武汉站"
+              }
+            ]
           }
         ]
       },
@@ -174,7 +474,6 @@
             "path": "ccpc2021",
             "name": "CCPC 2021",
             "children": [
-              
               {
                 "path": "ccpc2021guilin",
                 "format": "srk.json",
