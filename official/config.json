@@ -674,6 +674,17 @@
             ]
           },
           {
+            "path": "ccpc2018",
+            "name": "CCPC 2018",
+            "children": [
+              {
+                "path": "ccpc2018qinhuangdao",
+                "format": "srk.json",
+                "name": "2018-09-28 秦皇岛站"
+              }
+            ]
+          },
+          {
             "path": "ccpc2017",
             "name": "CCPC 2017",
             "children": [
