@@ -637,6 +637,11 @@
             "name": "CCPC 2019",
             "children": [
               {
+                "path": "ccpc2019qinhuangdao",
+                "format": "srk.json",
+                "name": "2019-09-22 秦皇岛站"
+              },
+              {
                 "path": "ccpc2019harbin",
                 "format": "srk.json",
                 "name": "2019-10-13 哈尔滨站"
