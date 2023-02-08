@@ -678,9 +678,24 @@
             "name": "CCPC 2018",
             "children": [
               {
+                "path": "ccpc2018jilin",
+                "format": "srk.json",
+                "name": "2018-09-22 吉林站"
+              },
+              {
                 "path": "ccpc2018qinhuangdao",
                 "format": "srk.json",
                 "name": "2018-09-28 秦皇岛站"
+              },
+              {
+                "path": "ccpc2018guilin",
+                "format": "srk.json",
+                "name": "2018-10-28 桂林站"
+              },
+              {
+                "path": "ccpc2018final",
+                "format": "srk.json",
+                "name": "2018-11-25 Final"
               }
             ]
           },
