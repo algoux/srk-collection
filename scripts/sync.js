@@ -39,8 +39,8 @@ async function sync(dir) {
     }
   });
   for (const file of files) {
-    console.log('Syncing rank', file.uniqueKey);
     queue.add(async () => {
+      console.log('Syncing rank', file.uniqueKey);
       const { body: checkRes } = await req.get(`rank/${file.uniqueKey}`, {
         responseType: 'json',
       });
