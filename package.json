@@ -21,7 +21,8 @@
   "dependencies": {
     "form-data": "^4.0.0",
     "got": "^11.8.5",
-    "md5": "^2.3.0"
+    "md5": "^2.3.0",
+    "p-queue": "^6.6.2"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
