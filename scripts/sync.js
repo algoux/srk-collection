@@ -26,12 +26,12 @@ async function sync(dir) {
     const filePath = path.resolve(dir, fileMap[uniqueKey].path);
     switch (fileMap[uniqueKey].format) {
       case 'srk.json': {
-        const fileContent = fs.readFileSync(path.resolve(dir, fileMap[uniqueKey].path));
+        const fileJson = JSON.parse(fs.readFileSync(path.resolve(dir, fileMap[uniqueKey].path), 'utf8'));
         return {
           uniqueKey,
           name: fileMap[uniqueKey].name,
           filePath,
-          fileContent,
+          fileContent: JSON.stringify(fileJson),
         };
       }
       default:
