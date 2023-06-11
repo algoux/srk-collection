@@ -31,7 +31,7 @@ async function sync(dir) {
           uniqueKey,
           name: fileMap[uniqueKey].name,
           filePath,
-          fileContent: JSON.stringify(fileJson),
+          fileContent: Buffer.from(JSON.stringify(fileJson), 'utf8'),
         };
       }
       default:
