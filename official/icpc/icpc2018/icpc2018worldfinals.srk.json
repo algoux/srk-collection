@@ -61,66 +61,110 @@
       "alias": "A",
       "style": {
         "backgroundColor": "rgb(88, 162, 209)"
+      },
+      "statistics": {
+        "accepted": 100,
+        "submitted": 252
       }
     },
     {
       "alias": "B",
       "style": {
         "backgroundColor": "rgb(252, 109, 62)"
+      },
+      "statistics": {
+        "accepted": 135,
+        "submitted": 236
       }
     },
     {
       "alias": "C",
       "style": {
         "backgroundColor": "rgb(124, 84, 170)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 4
       }
     },
     {
       "alias": "D",
       "style": {
         "backgroundColor": "rgb(100, 214, 203)"
+      },
+      "statistics": {
+        "accepted": 5,
+        "submitted": 15
       }
     },
     {
       "alias": "E",
       "style": {
         "backgroundColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 10,
+        "submitted": 88
       }
     },
     {
       "alias": "F",
       "style": {
         "backgroundColor": "rgb(213, 199, 72)"
+      },
+      "statistics": {
+        "accepted": 125,
+        "submitted": 460
       }
     },
     {
       "alias": "G",
       "style": {
         "backgroundColor": "rgb(232, 64, 84)"
+      },
+      "statistics": {
+        "accepted": 5,
+        "submitted": 67
       }
     },
     {
       "alias": "H",
       "style": {
         "backgroundColor": "rgb(239, 128, 166)"
+      },
+      "statistics": {
+        "accepted": 46,
+        "submitted": 269
       }
     },
     {
       "alias": "I",
       "style": {
         "backgroundColor": "rgb(0, 0, 0)"
+      },
+      "statistics": {
+        "accepted": 44,
+        "submitted": 203
       }
     },
     {
       "alias": "J",
       "style": {
         "backgroundColor": "rgb(173, 121, 211)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 1
       }
     },
     {
       "alias": "K",
       "style": {
         "backgroundColor": "rgb(99, 216, 105)"
+      },
+      "statistics": {
+        "accepted": 124,
+        "submitted": 253
       }
     }
   ],
