@@ -6,7 +6,7 @@ const { default: PQueue } = require('p-queue');
 const FormData = require('form-data');
 const { parseConfig } = require('./parse');
 
-const queue = new PQueue({ concurrency: 20 });
+const queue = new PQueue({ concurrency: 10 });
 
 const req = got.extend({
   prefixUrl: 'https://rl.mushan.top/',
@@ -63,6 +63,9 @@ async function sync(dir) {
             }
           }
         } catch (e) {
+          if (!e.response) {
+            throw e;
+          }
           if (e.response.statusCode !== 404) {
             throw e;
           } else {
