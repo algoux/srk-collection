@@ -6,11 +6,11 @@ const { default: PQueue } = require('p-queue');
 const FormData = require('form-data');
 const { parseConfig } = require('./parse');
 
-const queue = new PQueue({ concurrency: 10 });
+const queue = new PQueue({ concurrency: 20 });
 
 const req = got.extend({
   prefixUrl: 'https://rl.mushan.top/',
-  // prefixUrl: 'https://rl-dev.algoux.org/',
+  // prefixUrl: 'http://rl_dev.mushan.top/',
   headers: {
     algoux: process.env.ALGOUX_API_TOKEN,
   },

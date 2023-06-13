@@ -498,51 +498,6 @@
                 "path": "ccpc2022ladies",
                 "format": "srk.json",
                 "name": "2022-11-27 女生赛"
-              },
-              {
-                "path": "ccpc2022province-zhejiang",
-                "format": "srk.json",
-                "name": "2022-04-16 浙江省赛"
-              },
-              {
-                "path": "ccpc2022province-hebei",
-                "format": "srk.json",
-                "name": "2022-05-22 河北省赛"
-              },
-              {
-                "path": "ccpc2022province-jiangsu",
-                "format": "srk.json",
-                "name": "2022-05-28 江苏省赛"
-              },
-              {
-                "path": "ccpc2022province-guangdong",
-                "format": "srk.json",
-                "name": "2022-06-05 广东省赛"
-              },
-              {
-                "path": "ccpc2022province-guangxi",
-                "format": "srk.json",
-                "name": "2022-06-26 广西省赛"
-              },
-              {
-                "path": "ccpc2022province-henan",
-                "format": "srk.json",
-                "name": "2022-10-02 河南省赛"
-              },
-              {
-                "path": "ccpc2022province-shaanxi",
-                "format": "srk.json",
-                "name": "2022-10-22 陕西省赛"
-              },
-              {
-                "path": "ccpc2022province-jiangxi",
-                "format": "srk.json",
-                "name": "2022-10-23 江西省赛"
-              },
-              {
-                "path": "ccpc2022province-liaoning",
-                "format": "srk.json",
-                "name": "2022-10-23 辽宁省赛"
               }
             ]
           },
@@ -579,41 +534,6 @@
                 "path": "ccpc2021ladies",
                 "format": "srk.json",
                 "name": "2021-10-31 女生赛"
-              },
-              {
-                "path": "ccpc2021province-zhejiang",
-                "format": "srk.json",
-                "name": "2021-04-17 浙江省赛"
-              },
-              {
-                "path": "ccpc2021province-shandong",
-                "format": "srk.json",
-                "name": "2021-05-09 山东省赛"
-              },
-              {
-                "path": "ccpc2021province-northeast",
-                "format": "srk.json",
-                "name": "2021-06-13 东北地区"
-              },
-              {
-                "path": "ccpc2021province-shanghai",
-                "format": "srk.json",
-                "name": "2021-07-11 上海市赛"
-              },
-              {
-                "path": "ccpc2021province-henan",
-                "format": "srk.json",
-                "name": "2021-10-30 河南省赛"
-              },
-              {
-                "path": "ccpc2021province-jilin",
-                "format": "srk.json",
-                "name": "2021-11-30 吉林省赛"
-              },
-              {
-                "path": "ccpc2021province-jiangsu",
-                "format": "srk.json",
-                "name": "2021-12-25 江苏省赛"
               }
             ]
           },
@@ -645,26 +565,6 @@
                 "path": "ccpc2020final",
                 "format": "srk.json",
                 "name": "2021-05-30 Final"
-              },
-              {
-                "path": "ccpc2020province-northeast",
-                "format": "srk.json",
-                "name": "2020-10-11 东北地区"
-              },
-              {
-                "path": "ccpc2020province-zhejiang",
-                "format": "srk.json",
-                "name": "2020-10-17 浙江省赛"
-              },
-              {
-                "path": "ccpc2020province-jiangxi",
-                "format": "srk.json",
-                "name": "2020-11-15 江西省赛"
-              },
-              {
-                "path": "ccpc2020province-henan",
-                "format": "srk.json",
-                "name": "2020-11-21 河南省赛"
               }
             ]
           },
@@ -691,21 +591,6 @@
                 "path": "ccpc2019final",
                 "format": "srk.json",
                 "name": "2019-11-17 Final"
-              },
-              {
-                "path": "ccpc2019province-shandong",
-                "format": "srk.json",
-                "name": "2019-05-02 山东省赛"
-              },
-              {
-                "path": "ccpc2019province-jiangsu",
-                "format": "srk.json",
-                "name": "2019-05-14 江苏省赛"
-              },
-              {
-                "path": "ccpc2019province-shaanxi",
-                "format": "srk.json",
-                "name": "2019-06-02 陕西省赛"
               }
             ]
           },
@@ -815,6 +700,226 @@
                 "path": "ccpc2015nanyang",
                 "format": "srk.json",
                 "name": "2015-10-18 南阳站"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "path": "provincial",
+        "name": "省赛",
+        "children": [
+          {
+            "path": "gd",
+            "name": "广东省赛",
+            "children": [
+              {
+                "path": "gdcpc19th",
+                "format": "srk.json",
+                "name": "2022-06-05 第十九届"
+              }
+            ]
+          },
+          {
+            "path": "gx",
+            "name": "广西区赛",
+            "children": [
+              {
+                "path": "gxcpc5th",
+                "format": "srk.json",
+                "name": "2022-06-26 第五届"
+              }
+            ]
+          },
+          {
+            "path": "ha",
+            "name": "河南省赛",
+            "children": [
+              {
+                "path": "haccpccpc4th",
+                "format": "srk.json",
+                "name": "2022-10-02 第四届CCPC"
+              },
+              {
+                "path": "haccpccpc3rd",
+                "format": "srk.json",
+                "name": "2021-10-30 第三届CCPC"
+              },
+              {
+                "path": "haccpccpc2nd",
+                "format": "srk.json",
+                "name": "2020-11-21 第二届CCPC"
+              }
+            ]
+          },
+          {
+            "path": "hb",
+            "name": "湖北省赛",
+            "children": [
+              {
+                "path": "hbcpc4th",
+                "format": "srk.json",
+                "name": "2022-05-22 第四届"
+              }
+            ]
+          },
+          {
+            "path": "jl",
+            "name": "吉林省赛",
+            "children": [
+              {
+                "path": "jlcpc15th",
+                "format": "srk.json",
+                "name": "2021-11-30 第十五届"
+              }
+            ]
+          },
+          {
+            "path": "js",
+            "name": "江苏省赛",
+            "children": [
+              {
+                "path": "jscpc7th",
+                "format": "srk.json",
+                "name": "2022-05-28 第七届"
+              },
+              {
+                "path": "jscpc6th",
+                "format": "srk.json",
+                "name": "2021-12-25 第六届"
+              },
+              {
+                "path": "jscpc4th",
+                "format": "srk.json",
+                "name": "2019-05-14 第四届"
+              }
+            ]
+          },
+          {
+            "path": "jx",
+            "name": "江西省赛",
+            "children": [
+              {
+                "path": "jxcpc2022",
+                "format": "srk.json",
+                "name": "2022-10-23 2022"
+              },
+              {
+                "path": "jxcpc2020",
+                "format": "srk.json",
+                "name": "2020-11-15 2020"
+              }
+            ]
+          },
+          {
+            "path": "ln",
+            "name": "辽宁省赛",
+            "children": [
+              {
+                "path": "lncpc3rd",
+                "format": "srk.json",
+                "name": "2022-10-23 第三届"
+              }
+            ]
+          },
+          {
+            "path": "sc",
+            "name": "四川省赛",
+            "children": [
+              {
+                "path": "sccpc15th",
+                "format": "srk.json",
+                "name": "2023-06-04 第十五届"
+              }
+            ]
+          },
+          {
+            "path": "sd",
+            "name": "山东省赛",
+            "children": [
+              {
+                "path": "sdcpc13th",
+                "format": "srk.json",
+                "name": "2023-06-04 第十三届"
+              },
+              {
+                "path": "sdcpc12th",
+                "format": "srk.json",
+                "name": "2022-05-22 第十二届"
+              },
+              {
+                "path": "sdcpc11th",
+                "format": "srk.json",
+                "name": "2021-05-09 第十一届"
+              },
+              {
+                "path": "sdcpc10th",
+                "format": "srk.json",
+                "name": "2019-05-12 第十届"
+              }
+            ]
+          },
+          {
+            "path": "sh",
+            "name": "上海市赛",
+            "children": [
+              {
+                "path": "shcpc2021",
+                "format": "srk.json",
+                "name": "2021-07-11 2021"
+              }
+            ]
+          },
+          {
+            "path": "sn",
+            "name": "陕西省赛",
+            "children": [
+              {
+                "path": "sncpc10th",
+                "format": "srk.json",
+                "name": "2022-10-22 第十届"
+              },
+              {
+                "path": "sncpc7th",
+                "format": "srk.json",
+                "name": "2019-06-02 第七届"
+              }
+            ]
+          },
+          {
+            "path": "zj",
+            "name": "浙江省赛",
+            "children": [
+              {
+                "path": "zjcpc19th",
+                "format": "srk.json",
+                "name": "2022-04-16 第十九届"
+              },
+              {
+                "path": "zjcpc18th",
+                "format": "srk.json",
+                "name": "2021-04-17 第十八届"
+              },
+              {
+                "path": "zjcpc17th",
+                "format": "srk.json",
+                "name": "2020-10-17 第十七届"
+              }
+            ]
+          },
+          {
+            "path": "northeast",
+            "name": "东北地区赛",
+            "children": [
+              {
+                "path": "northeastcpc15th",
+                "format": "srk.json",
+                "name": "2021-06-13 第十五届"
+              },
+              {
+                "path": "northeastcpc14th",
+                "format": "srk.json",
+                "name": "2020-10-11 第十四届"
               }
             ]
           }

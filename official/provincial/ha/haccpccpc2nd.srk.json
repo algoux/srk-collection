@@ -3,8 +3,8 @@
   "version": "0.3.2",
   "contest": {
     "title": {
-      "zh-CN": "2020年河南省CCPC大学生程序设计竞赛",
-      "fallback": "“卓见杯”2020年河南省CCPC大学生程序设计竞赛"
+      "zh-CN": "2020年河南省CCPC大学生程序设计竞赛（线上赛，郑州轻工业大学）",
+      "fallback": "“卓见杯”2020年河南省CCPC大学生程序设计竞赛（线上赛，郑州轻工业大学）"
     },
     "startAt": "2020-11-21T12:00:00+08:00",
     "duration": [
@@ -79,10 +79,6 @@
   "problems": [
     {
       "alias": "A",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#bd0e0e"
-      },
       "statistics": {
         "accepted": 217,
         "submitted": 265
@@ -90,10 +86,6 @@
     },
     {
       "alias": "B",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#ff90e4"
-      },
       "statistics": {
         "accepted": 12,
         "submitted": 181
@@ -101,10 +93,6 @@
     },
     {
       "alias": "C",
-      "style": {
-        "textColor": "#000000",
-        "backgroundColor": "#ffffff"
-      },
       "statistics": {
         "accepted": 110,
         "submitted": 984
@@ -112,10 +100,6 @@
     },
     {
       "alias": "D",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#26b93c"
-      },
       "statistics": {
         "accepted": 1,
         "submitted": 37
@@ -123,10 +107,6 @@
     },
     {
       "alias": "E",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#bd0e0e"
-      },
       "statistics": {
         "accepted": 58,
         "submitted": 1006
@@ -134,10 +114,6 @@
     },
     {
       "alias": "F",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#ff90e4"
-      },
       "statistics": {
         "accepted": 3,
         "submitted": 17
@@ -145,10 +121,6 @@
     },
     {
       "alias": "G",
-      "style": {
-        "textColor": "#000000",
-        "backgroundColor": "#ffffff"
-      },
       "statistics": {
         "accepted": 1,
         "submitted": 15
@@ -156,10 +128,6 @@
     },
     {
       "alias": "H",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#26b93c"
-      },
       "statistics": {
         "accepted": 0,
         "submitted": 4
@@ -167,10 +135,6 @@
     },
     {
       "alias": "I",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#bd0e0e"
-      },
       "statistics": {
         "accepted": 43,
         "submitted": 339
@@ -178,10 +142,6 @@
     },
     {
       "alias": "J",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#ff90e4"
-      },
       "statistics": {
         "accepted": 9,
         "submitted": 159
@@ -189,10 +149,6 @@
     },
     {
       "alias": "K",
-      "style": {
-        "textColor": "#000000",
-        "backgroundColor": "#ffffff"
-      },
       "statistics": {
         "accepted": 5,
         "submitted": 160
@@ -200,10 +156,6 @@
     },
     {
       "alias": "L",
-      "style": {
-        "textColor": "#ffffff",
-        "backgroundColor": "#26b93c"
-      },
       "statistics": {
         "accepted": 2,
         "submitted": 25
