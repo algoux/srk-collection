@@ -1,7 +1,7 @@
 const path = require('path');
-const fs = require('fs');
+const fs = require('fs-extra');
+const os = require('os');
 const got = require('got');
-const md5 = require('md5');
 const { default: PQueue } = require('p-queue');
 const FormData = require('form-data');
 const { parseConfig } = require('./parse');
@@ -20,6 +20,8 @@ const req = got.extend({
 async function sync(dir) {
   console.log(`Starting sync collection ${dir} (in parallel)`);
   const _s = Date.now();
+  const tempUploadingDir = path.resolve(os.tmpdir(), 'rl-srk-collection-sync');
+  await fs.ensureDir(tempUploadingDir);
   const { config, fileMap } = parseConfig(dir);
   // sync srk files
   const files = Object.keys(fileMap).map((uniqueKey) => {
@@ -80,8 +82,10 @@ async function sync(dir) {
       let fileID = checkRes && checkRes.code === 0 ? checkRes.data.fileID : undefined;
       if (needUpload) {
         console.log('Uploading file', file.uniqueKey);
+        const tempFilePath = path.join(tempUploadingDir, path.basename(file.filePath));
+        await fs.writeFile(tempFilePath, file.fileContent); 
         const uploadForm = new FormData();
-        uploadForm.append('file', fs.createReadStream(file.filePath));
+        uploadForm.append('file', fs.createReadStream(tempFilePath));
         const { body: uploadRes } = await req.post('file/upload', {
           body: uploadForm,
           responseType: 'json',
@@ -163,6 +167,7 @@ async function sync(dir) {
   } else {
     throw new Error(`Sync failed: unknown response (code: ${checkCollectionRes.code}) when checking remote collection`);
   }
+  await fs.remove(tempUploadingDir);
   console.log(`Done in ${Date.now() - _s}ms`);
 }
 
