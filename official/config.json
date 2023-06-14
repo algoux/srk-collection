@@ -856,6 +856,16 @@
                 "path": "sdcpc10th",
                 "format": "srk.json",
                 "name": "2019-05-12 第十届"
+              },
+              {
+                "path": "sdcpc9th",
+                "format": "srk.json",
+                "name": "2018-06-06 第九届"
+              },
+              {
+                "path": "sdcpc9th-rejudged",
+                "format": "srk.json",
+                "name": "2018-06-06 第九届（重判）"
               }
             ]
           },
