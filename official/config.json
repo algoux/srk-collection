@@ -927,6 +927,17 @@
             ]
           },
           {
+            "path": "xj",
+            "name": "新疆区赛",
+            "children": [
+              {
+                "path": "xjcpc2023",
+                "format": "srk.json",
+                "name": "2023-05-20 2023"
+              }
+            ]
+          },
+          {
             "path": "zj",
             "name": "浙江省赛",
             "children": [

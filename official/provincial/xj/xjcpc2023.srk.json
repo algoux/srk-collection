@@ -1,0 +1,6988 @@
+{
+  "type": "general",
+  "version": "0.3.2",
+  "remarks": {
+    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "contest": {
+    "title": {
+      "zh-CN": "2023年国际大学生程序设计竞赛（ACM-ICPC）新疆赛区（新疆大学）",
+      "fallback": "2023年国际大学生程序设计竞赛（ACM-ICPC）新疆赛区（新疆大学）"
+    },
+    "startAt": "2023-05-20T13:00:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ]
+  },
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "title": "Gold Medalist",
+          "style": "gold"
+        },
+        {
+          "title": "Silver Medalist",
+          "style": "silver"
+        },
+        {
+          "title": "Bronze Medalist",
+          "style": "bronze"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              0,
+              0,
+              0
+            ],
+            "noTied": true
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal",
+        "options": {}
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        20,
+        "min"
+      ]
+    }
+  },
+  "problems": [
+    {
+      "alias": "A",
+      "statistics": {
+        "accepted": 3,
+        "submitted": 8
+      }
+    },
+    {
+      "alias": "B",
+      "statistics": {
+        "accepted": 40,
+        "submitted": 152
+      }
+    },
+    {
+      "alias": "C",
+      "statistics": {
+        "accepted": 0,
+        "submitted": 3
+      }
+    },
+    {
+      "alias": "D",
+      "statistics": {
+        "accepted": 9,
+        "submitted": 118
+      }
+    },
+    {
+      "alias": "E",
+      "statistics": {
+        "accepted": 54,
+        "submitted": 224
+      }
+    },
+    {
+      "alias": "F",
+      "statistics": {
+        "accepted": 26,
+        "submitted": 107
+      }
+    },
+    {
+      "alias": "G",
+      "statistics": {
+        "accepted": 10,
+        "submitted": 136
+      }
+    },
+    {
+      "alias": "H",
+      "statistics": {
+        "accepted": 96,
+        "submitted": 431
+      }
+    },
+    {
+      "alias": "I",
+      "statistics": {
+        "accepted": 22,
+        "submitted": 135
+      }
+    },
+    {
+      "alias": "J",
+      "statistics": {
+        "accepted": 52,
+        "submitted": 224
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "1030012664",
+        "name": "狮子变猫猫",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          87912000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "FB",
+          "time": [
+            11626000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            4493000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            17655000,
+            "ms"
+          ],
+          "tries": 10
+        },
+        {
+          "result": "AC",
+          "time": [
+            3365000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            8599000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            13950000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            3126000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            5797000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1301000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012727",
+        "name": "没有心跳的少女",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          90597000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            17802000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            11545000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12202000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            2107000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            7479000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            13677000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1176000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            9682000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            1727000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012724",
+        "name": "qyyyyy",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          91524000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            16990000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            12900000,
+            "ms"
+          ],
+          "tries": 8
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            13401000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            1236000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            4848000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            14193000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            630000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            11529000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            197000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012635",
+        "name": "打铁侠",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          54333000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            10043000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            4915000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2264000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            7193000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "FB",
+          "time": [
+            11725000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1844000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            13041000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            908000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012726",
+        "name": "Yep",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          54792000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            11032000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7994000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2976000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            5132000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            13406000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            1637000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            4490000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2125000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012679",
+        "name": "陈老师的粉丝",
+        "organization": "新疆师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          55785000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            8722000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4921000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            1436000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            6162000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            14383000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            844000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            11945000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "FB",
+          "time": [
+            172000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012731",
+        "name": "两年半",
+        "organization": "中国石油大学(北京)克拉玛依校区",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          69034000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            10820000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5606000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            2896000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            12509000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            16670000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            2071000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            7656000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            1206000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012640",
+        "name": "cyy迷弟",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          60469000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            10603000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7435000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            1835000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            3043000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            15553000,
+            "ms"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "FB",
+          "time": [
+            239000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 12
+        },
+        {
+          "result": "AC",
+          "time": [
+            1361000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012659",
+        "name": "观鸟者",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          60625000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6776000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            16174000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            2126000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            7843000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            1203000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            11530000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            573000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012634",
+        "name": "新疆第一纯情",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          80638000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5010000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2531000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            12808000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            17613000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            1618000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            11895000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            9963000,
+            "ms"
+          ],
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012669",
+        "name": "DDL战神",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          31962000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7077000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            1824000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            4479000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            962000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            12364000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            456000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012651",
+        "name": "JockerA",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          32101000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6005000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            1761000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            8479000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            1154000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            10350000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            752000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012658",
+        "name": "柚子厨失败学",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          38239000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7301000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "AC",
+          "time": [
+            2465000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            15250000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            1029000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            6288000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            3506000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012636",
+        "name": "你也不想你打铁的事被别人知道吧？那这次就拜托你了",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          43551000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12231000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3023000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            9022000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2558000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            13746000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1771000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012707",
+        "name": "无名队",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          44446000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9906000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4333000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            11026000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        },
+        {
+          "result": "AC",
+          "time": [
+            2652000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            8551000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1978000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012694",
+        "name": "梯度爆炸",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          50429000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            15133000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            754000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            7026000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            17648000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            1528000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2340000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012720",
+        "name": "HighACP",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          50458000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            10422000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4019000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            8955000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1627000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            13542000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1093000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012673",
+        "name": "花园宝宝",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          52601000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            13812000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            6393000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            13263000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2337000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            5769000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1427000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012728",
+        "name": "重生之罚时坐穿",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          64304000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14015000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            7993000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            10307000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2812000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            13108000,
+            "ms"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            1669000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012647",
+        "name": "来年做女队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          25624000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7402000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            3231000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            6746000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1698000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1747000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012680",
+        "name": "男拳梦之队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          33224000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            15017000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            4112000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            9495000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1181000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2219000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012718",
+        "name": "异世界探险之坐牢",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          36046000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            8176000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 18
+        },
+        {
+          "result": "AC",
+          "time": [
+            3027000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            13828000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1116000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3899000,
+            "ms"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012742",
+        "name": "花里胡哨",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          37447000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6322000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            14481000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3670000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            8864000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1710000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012740",
+        "name": "WARNING",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          38884000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12246000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4883000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1314000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            8577000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            3464000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012624",
+        "name": "剪影",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          41254000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6280000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5038000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            17504000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2335000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "AC",
+          "time": [
+            2897000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012709",
+        "name": "BING",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          41285000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            17208000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            2776000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            11602000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            903000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1596000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012677",
+        "name": "cbcbcc",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          56439000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9643000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "AC",
+          "time": [
+            6534000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3789000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            16999000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            5074000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012650",
+        "name": "柚子厨屁用没有",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          57444000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9247000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5013000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1435000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            16523000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            16826000,
+            "ms"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012675",
+        "name": "orz_orz_orz",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          21654000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14059000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 15
+        },
+        {
+          "result": "AC",
+          "time": [
+            4904000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": "AC",
+          "time": [
+            1100000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1591000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012736",
+        "name": "壮哥帮忙带个饭！",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          26807000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            15673000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6147000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            582000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2005000,
+            "ms"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012723",
+        "name": "紧集等价于有界闭集",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          31020000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12783000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7927000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2364000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            5546000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012741",
+        "name": "无",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          33770000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            11180000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            10445000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4938000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            2407000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012648",
+        "name": "我们走",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          37233000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14699000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            8763000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1978000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            4593000,
+            "ms"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012711",
+        "name": "震雷削队",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          37959000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7362000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4985000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            9491000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6521000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012631",
+        "name": "人工智能短路",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          42390000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            11719000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            9823000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2849000,
+            "ms"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            8399000,
+            "ms"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012703",
+        "name": "工业大学1队",
+        "organization": "新疆工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          58687000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            13604000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            3324000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            16893000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            17666000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012692",
+        "name": "Accept",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          3548000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1727000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            1162000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            659000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012622",
+        "name": "看看你的",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          11108000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            5026000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2662000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3420000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012653",
+        "name": "家人们谁懂啊",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          15835000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6604000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1905000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4926000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012633",
+        "name": "玛卡巴卡",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          16815000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4221000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2599000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5195000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012637",
+        "name": "撸啊撸 Men",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          18859000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9016000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1136000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3907000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012626",
+        "name": "ZCZ",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          21138000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            7074000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4281000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7383000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012710",
+        "name": "飞天小女警",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          24449000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12350000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3923000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4576000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012704",
+        "name": "工业大学2队",
+        "organization": "新疆工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          26161000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            15205000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2963000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6793000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012642",
+        "name": "Awc自动机",
+        "organization": "新疆理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          44070000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14392000,
+            "ms"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5826000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            7052000,
+            "ms"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012688",
+        "name": "重生之我的ICPC物语果然只有暴力枚举",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          45543000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            16496000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            5562000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            17485000,
+            "ms"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012706",
+        "name": "广告位招租",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          54891000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7606000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7997000,
+            "ms"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            17688000,
+            "ms"
+          ],
+          "tries": 10
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012660",
+        "name": "不会算法队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          58683000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            11209000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            16445000,
+            "ms"
+          ],
+          "tries": 12
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            13029000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012713",
+        "name": "蔡徐坤nb",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          8577000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4384000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1793000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012678",
+        "name": "三个青年",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          8725000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            2269000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            6456000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012654",
+        "name": "铁牌队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          9090000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4814000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3076000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012734",
+        "name": "疆心",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          11610000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2055000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9555000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012644",
+        "name": "WYZ 向前冲",
+        "organization": "新疆理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          11977000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6471000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1906000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012725",
+        "name": "开拓者",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          12275000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2937000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "AC",
+          "time": [
+            8138000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012696",
+        "name": "荔枝队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          15289000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9861000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4228000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012661",
+        "name": "JB小分队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          18463000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            11094000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1369000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012729",
+        "name": "蛋仔派队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          20192000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12955000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7237000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012721",
+        "name": "穿越火线",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          24805000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4831000,
+            "ms"
+          ],
+          "tries": 8
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            10374000,
+            "ms"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012632",
+        "name": "宋朱杨",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          25190000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14482000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4708000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012708",
+        "name": "豆浆白倒",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          25891000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 12
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            16469000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4622000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012676",
+        "name": "为新疆添砖JAVA队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          26258000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            8287000,
+            "ms"
+          ],
+          "tries": 8
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9571000,
+            "ms"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012717",
+        "name": "素质三人",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          40890000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14813000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12877000,
+            "ms"
+          ],
+          "tries": 12
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012674",
+        "name": "我爱大数据",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          47533000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14077000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            8256000,
+            "ms"
+          ],
+          "tries": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012629",
+        "name": "XJITqwq",
+        "organization": "新疆理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          916000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            916000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012715",
+        "name": "糖醋里脊队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          1736000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1736000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012671",
+        "name": "咸鱼",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          2250000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2250000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012649",
+        "name": "1919810",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          3740000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            2540000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012683",
+        "name": "菜菜，佬佬，带带",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          3824000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            3824000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012639",
+        "name": "坚持",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          4338000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            1938000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012628",
+        "name": "低-手感",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          5138000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5138000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012645",
+        "name": "最高队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          5212000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4012000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012697",
+        "name": "守护最好的淑平",
+        "organization": "新疆师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          5347000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4147000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012662",
+        "name": "帅气且猛男",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          5461000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3061000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012699",
+        "name": "就坐五小时",
+        "organization": "新疆师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          5892000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5892000,
+            "ms"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012625",
+        "name": "4549",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          6601000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4201000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012719",
+        "name": "9亿少女的梦",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          7051000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            3451000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012656",
+        "name": "CZY",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          7129000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            3529000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012630",
+        "name": "肯定能做队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          7371000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6171000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012652",
+        "name": "ABC123",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          7672000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4072000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012686",
+        "name": "你说的没事",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          7872000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5472000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012638",
+        "name": "铃音",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          9381000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5781000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012690",
+        "name": "果宝特攻",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          9557000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7157000,
+            "ms"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012643",
+        "name": "TNT特战队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          10023000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6423000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012668",
+        "name": "啊对对队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          12685000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9085000,
+            "ms"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012641",
+        "name": "cxy",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          12707000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6707000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012739",
+        "name": "植物系队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          12928000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            6928000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012685",
+        "name": "鸡你真美",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          13311000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7311000,
+            "ms"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012691",
+        "name": "3T",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          14179000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            9379000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012716",
+        "name": "1024号编程队",
+        "organization": "新疆师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          14210000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            13010000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012701",
+        "name": "三人行",
+        "organization": "新疆师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          14912000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4112000,
+            "ms"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012684",
+        "name": "晨悦",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          16829000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            15629000,
+            "ms"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012670",
+        "name": "新大福大",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          17500000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            4300000,
+            "ms"
+          ],
+          "tries": 12
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012687",
+        "name": "重生之我是练习时长八鲲年的IKUN",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          17917000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            7117000,
+            "ms"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012702",
+        "name": "开荒者",
+        "organization": "新疆工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          19000000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5800000,
+            "ms"
+          ],
+          "tries": 12
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012712",
+        "name": "我们队",
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          19138000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14338000,
+            "ms"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012737",
+        "name": "飞天小猪",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          19400000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            12200000,
+            "ms"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012623",
+        "name": "柒城2",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          20396000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            5996000,
+            "ms"
+          ],
+          "tries": 13
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012732",
+        "name": "(^.^)",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          20642000,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            13442000,
+            "ms"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012705",
+        "name": "随便吧2332323",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012722",
+        "name": "战斗",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012733",
+        "name": "跑步人",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012735",
+        "name": "小卒队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 28
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012730",
+        "name": "鹿蔚烧烧队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012682",
+        "name": "superWA",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012695",
+        "name": "中归集团",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012663",
+        "name": "在尝试中获胜",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012665",
+        "name": "做出一题就算成功",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012666",
+        "name": "GXL-go go go！",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "1030012627",
+        "name": "佘唐潘",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "ms"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    }
+  ]
+}
