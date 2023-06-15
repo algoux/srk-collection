@@ -942,6 +942,11 @@
             "name": "浙江省赛",
             "children": [
               {
+                "path": "zjcpc20th",
+                "format": "srk.json",
+                "name": "2023-04-15 第二十届"
+              },
+              {
                 "path": "zjcpc19th",
                 "format": "srk.json",
                 "name": "2022-04-16 第十九届"
