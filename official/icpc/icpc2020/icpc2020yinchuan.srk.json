@@ -1,11 +1,15 @@
 {
   "type": "general",
   "version": "0.3.2",
+  "remarks": {
+    "zh-CN": "该比赛因主办方宁夏理工学院舞弊事件存在较大争议，请注意甄别结果，慎重参考。您可以通过这个链接了解更多：https://github.com/awesome-iupc2021/awesome-iupc2021",
+    "fallback": "The contest is highly controversial due to the fraudulent incident of the organizer Ningxia Institute of Science and Technology, so please pay attention to the screening results and refer to them carefully. You can learn more at this link: https://github.com/awesome-iupc2021/awesome-iupc2021"
+  },
   "contest": {
     "title": {
-      "zh-CN": "The 45th ICPC Asia Yinchuan Regional Programming Contest",
-      "en": "The 45th ICPC Asia Yinchuan Regional Programming Contest",
-      "fallback": "The 45th ICPC Asia Yinchuan Regional Programming Contest"
+      "zh-CN": "The 45th ICPC Asia Yinchuan Regional Programming Contest (Hosted by Ningxia Institute of Science and Technology, also known as IUPC 2021)",
+      "en": "The 45th ICPC Asia Yinchuan Regional Programming Contest (Hosted by Ningxia Institute of Science and Technology, also known as IUPC 2021)",
+      "fallback": "The 45th ICPC Asia Yinchuan Regional Programming Contest (Hosted by Ningxia Institute of Science and Technology, also known as IUPC 2021)"
     },
     "startAt": "2021-05-16T09:00:00+08:00",
     "duration": [
