@@ -1,0 +1,5872 @@
+{
+  "type": "general",
+  "version": "0.3.2",
+  "contributors": [
+    "SDUTACM (https://acm.sdut.edu.cn)",
+    "algoUX (https://algoux.org)"
+  ],
+  "contest": {
+    "title": {
+      "zh-CN": "2013年\"浪潮杯\"山东省第四届ACM大学生程序设计竞赛（中国石油大学(华东)）",
+      "fallback": "2013年\"浪潮杯\"山东省第四届ACM大学生程序设计竞赛（中国石油大学(华东)）"
+    },
+    "startAt": "2013-06-09T09:00:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ]
+  },
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "title": "Gold Medalist",
+          "style": "gold"
+        },
+        {
+          "title": "Silver Medalist",
+          "style": "silver"
+        },
+        {
+          "title": "Bronze Medalist",
+          "style": "bronze"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              7,
+              13,
+              20
+            ],
+            "noTied": true
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal",
+        "options": {}
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        20,
+        "min"
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "female",
+      "label": "Female",
+      "style": "pink"
+    }
+  ],
+  "problems": [
+    {
+      "alias": "A",
+      "statistics": {
+        "accepted": 68,
+        "submitted": 176
+      }
+    },
+    {
+      "alias": "B",
+      "statistics": {
+        "accepted": 16,
+        "submitted": 97
+      }
+    },
+    {
+      "alias": "C",
+      "statistics": {
+        "accepted": 1,
+        "submitted": 89
+      }
+    },
+    {
+      "alias": "D",
+      "statistics": {
+        "accepted": 0,
+        "submitted": 11
+      }
+    },
+    {
+      "alias": "E",
+      "statistics": {
+        "accepted": 10,
+        "submitted": 43
+      }
+    },
+    {
+      "alias": "F",
+      "statistics": {
+        "accepted": 55,
+        "submitted": 207
+      }
+    },
+    {
+      "alias": "G",
+      "statistics": {
+        "accepted": 1,
+        "submitted": 3
+      }
+    },
+    {
+      "alias": "H",
+      "statistics": {
+        "accepted": 6,
+        "submitted": 95
+      }
+    },
+    {
+      "alias": "I",
+      "statistics": {
+        "accepted": 19,
+        "submitted": 34
+      }
+    },
+    {
+      "alias": "J",
+      "statistics": {
+        "accepted": 29,
+        "submitted": 333
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "山东大学_Plaisant",
+        "name": "Plaisant",
+        "organization": "山东大学",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1107,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            11,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            94,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            224,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            139,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            41,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            195,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            63,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            79,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            121,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东大学_ThreeMusketeers",
+        "name": "ThreeMusketeers",
+        "organization": "山东大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          977,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            19,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            122,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            92,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            55,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            204,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            164,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            141,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东大学_Surpise",
+        "name": "Surpise",
+        "organization": "山东大学",
+        "official": false
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1166,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "FB",
+          "time": [
+            9,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            202,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            262,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            98,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            157,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            162,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国石油大学_<·)#)))≦",
+        "name": "<·)#)))≦",
+        "organization": "中国石油大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1200,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            13,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            119,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            180,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            27,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            286,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            79,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            296,
+            "min"
+          ],
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东理工大学_Dumbledore",
+        "name": "Dumbledore",
+        "organization": "山东理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1416,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            118,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            259,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            60,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            143,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            245,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            193,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            278,
+            "min"
+          ],
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "油田一中_playing_cute",
+        "name": "playing_cute",
+        "organization": "油田一中",
+        "official": false
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          809,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            150,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            85,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            109,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            244,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            139,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛二中_QDEZ's_Team",
+        "name": "QDEZ's_Team",
+        "organization": "青岛二中",
+        "official": false
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          667,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            23,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            179,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            65,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            232,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            148,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东科技大学_King_Arthur",
+        "name": "King_Arthur",
+        "organization": "山东科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          685,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            200,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            100,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            247,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            67,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东科技大学_Sir_Gawaine",
+        "name": "Sir_Gawaine",
+        "organization": "山东科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          954,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            294,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            146,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            234,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            91,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国海洋大学_OUC_Balabala",
+        "name": "OUC_Balabala",
+        "organization": "中国海洋大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          979,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            116,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            255,
+            "min"
+          ],
+          "tries": 8
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            156,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            87,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            185,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国石油大学_Up_Up_C",
+        "name": "Up_Up_C",
+        "organization": "中国石油大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          987,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            19,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            205,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            104,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            162,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            277,
+            "min"
+          ],
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东大学_WCG",
+        "name": "WCG",
+        "organization": "山东大学",
+        "official": false
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          410,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            27,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "FB",
+          "time": [
+            65,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            52,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            186,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "哈尔滨工业大学（威海）_HIT@WH_LOCUS",
+        "name": "HIT@WH_LOCUS",
+        "organization": "哈尔滨工业大学（威海）",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          467,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            41,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            197,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            67,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            142,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东农业大学_Spectre",
+        "name": "Spectre",
+        "organization": "山东农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          470,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            58,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            163,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            113,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "FB",
+          "time": [
+            56,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东大学（威海）_Seal",
+        "name": "Seal",
+        "organization": "山东大学（威海）",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          636,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            99,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            251,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            142,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            84,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东师范大学_SDNU_Excalibur",
+        "name": "SDNU_Excalibur",
+        "organization": "山东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          828,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            51,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            276,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            205,
+            "min"
+          ],
+          "tries": 8
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东理工大学_QinchuanMM",
+        "name": "QinchuanMM",
+        "organization": "山东理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          894,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            32,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            145,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            288,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            269,
+            "min"
+          ],
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东科技大学_Bedivere",
+        "name": "Bedivere",
+        "organization": "山东科技大学",
+        "official": false
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          935,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            167,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            221,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            282,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            245,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛理工大学_Open_Wisdom",
+        "name": "Open_Wisdom",
+        "organization": "青岛理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          995,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            208,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            79,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            257,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            291,
+            "min"
+          ],
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东工商学院_3B_Pencil",
+        "name": "3B_Pencil",
+        "organization": "山东工商学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          316,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            14,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            102,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            140,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东大学_dracula",
+        "name": "dracula",
+        "organization": "山东大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          336,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            214,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            84,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东科技大学_Sir_Lancelot_du_Lac",
+        "name": "Sir_Lancelot_du_Lac",
+        "organization": "山东科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          337,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            46,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            232,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "济南大学_我的前辈怎么都这么强",
+        "name": "我的前辈怎么都这么强",
+        "organization": "济南大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          384,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            67,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            171,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            126,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国石油大学_I_don't_know",
+        "name": "I_don't_know",
+        "organization": "中国石油大学",
+        "official": false
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          548,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            47,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            142,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            239,
+            "min"
+          ],
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛理工大学_bug_maker",
+        "name": "bug_maker",
+        "organization": "青岛理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          551,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            60,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            99,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            272,
+            "min"
+          ],
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "哈尔滨工业大学（威海）_HIT@WH_PureBaby",
+        "name": "HIT@WH_PureBaby",
+        "organization": "哈尔滨工业大学（威海）",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          553,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            64,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            193,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            256,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东大学_AcProject",
+        "name": "AcProject",
+        "organization": "山东大学",
+        "official": false
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          561,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            54,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            90,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            277,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国石油大学_const_heart_*ours=&AC",
+        "name": "const_heart_*ours=&AC",
+        "organization": "中国石油大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          609,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            190,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            103,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东师范大学_SDNU_Ultimate",
+        "name": "SDNU_Ultimate",
+        "organization": "山东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          685,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            61,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            132,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            272,
+            "min"
+          ],
+          "tries": 8
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国海洋大学_OUC_Genesis",
+        "name": "OUC_Genesis",
+        "organization": "中国海洋大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          836,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            198,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            225,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            293,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东建筑大学_Sweet_RecalLing",
+        "name": "Sweet_RecalLing",
+        "organization": "山东建筑大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          898,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            201,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            264,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            253,
+            "min"
+          ],
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东科技大学_Merlin",
+        "name": "Merlin",
+        "organization": "山东科技大学",
+        "official": false
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          905,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            134,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            283,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            288,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东工商学院_Jtest",
+        "name": "Jtest",
+        "organization": "山东工商学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          982,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            169,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            274,
+            "min"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            299,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国海洋大学_OUC_32A88",
+        "name": "OUC_32A88",
+        "organization": "中国海洋大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          127,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            43,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            64,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东理工大学_Yestoday",
+        "name": "Yestoday",
+        "organization": "山东理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          161,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            56,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            85,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛大学_unde5ed",
+        "name": "unde5ed",
+        "organization": "青岛大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          161,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            35,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            106,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国海洋大学_OUC_RP++",
+        "name": "OUC_RP++",
+        "organization": "中国海洋大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          268,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            126,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国石油大学_Codefish",
+        "name": "Codefish",
+        "organization": "中国石油大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          277,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            75,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            162,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "烟台大学_猎人",
+        "name": "猎人",
+        "organization": "烟台大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          319,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            43,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            276,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国石油大学_Beauty_AC",
+        "name": "Beauty_AC",
+        "organization": "中国石油大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          338,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            244,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "鲁东大学_Kite_runner",
+        "name": "Kite_runner",
+        "organization": "鲁东大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          351,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            165,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            146,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东大学（威海）_Whale",
+        "name": "Whale",
+        "organization": "山东大学（威海）",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          381,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            123,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            158,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国海洋大学_OUC_Fighting",
+        "name": "OUC_Fighting",
+        "organization": "中国海洋大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          408,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            144,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            164,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东工商学院_CLG",
+        "name": "CLG",
+        "organization": "山东工商学院",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          423,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            146,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            257,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东农业大学_Icarus",
+        "name": "Icarus",
+        "organization": "山东农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          489,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            297,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            172,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 12
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东建筑大学_Water_GodLing",
+        "name": "Water_GodLing",
+        "organization": "山东建筑大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          497,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            251,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            246,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东工商学院_LOL",
+        "name": "LOL",
+        "organization": "山东工商学院",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          512,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            225,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            207,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛理工大学_3L",
+        "name": "3L",
+        "organization": "青岛理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          519,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            239,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            160,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "鲁东大学_gank",
+        "name": "gank",
+        "organization": "鲁东大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          522,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            196,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            226,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东理工大学_NULL",
+        "name": "NULL",
+        "organization": "山东理工大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          537,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            214,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            263,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东农业大学_bing",
+        "name": "bing",
+        "organization": "山东农业大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          569,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            259,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            290,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东财经大学_dream",
+        "name": "dream",
+        "organization": "山东财经大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          573,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            255,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            278,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东建筑大学_Keep_StilLing",
+        "name": "Keep_StilLing",
+        "organization": "山东建筑大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          579,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            287,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            112,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东科技大学_Galahad",
+        "name": "Galahad",
+        "organization": "山东科技大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          599,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            220,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            259,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东农业大学_Tiny",
+        "name": "Tiny",
+        "organization": "山东农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          615,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            205,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            290,
+            "min"
+          ],
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛科技大学_QUST",
+        "name": "QUST",
+        "organization": "青岛科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          45,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            45,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东师范大学_SDNU_Beginner's_Mind",
+        "name": "SDNU_Beginner's_Mind",
+        "organization": "山东师范大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          59,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "哈尔滨工业大学（威海）_HIT@WH_FloatingSSclouD",
+        "name": "HIT@WH_FloatingSSclouD",
+        "organization": "哈尔滨工业大学（威海）",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          85,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            85,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东建筑大学_EVAN",
+        "name": "EVAN",
+        "organization": "山东建筑大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          86,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            66,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛理工大学_Qtech2",
+        "name": "Qtech2",
+        "organization": "青岛理工大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          127,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            127,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "烟台大学_Moveon",
+        "name": "Moveon",
+        "organization": "烟台大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          178,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            178,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛农业大学_Multiply_Stars",
+        "name": "Multiply_Stars",
+        "organization": "青岛农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          187,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            127,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国海洋大学_OUC_Gogogo",
+        "name": "OUC_Gogogo",
+        "organization": "中国海洋大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          189,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            189,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "鲁东大学_AcmDreamers",
+        "name": "AcmDreamers",
+        "organization": "鲁东大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          210,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            210,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东师范大学_SDNU_Stone",
+        "name": "SDNU_Stone",
+        "organization": "山东师范大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          215,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            175,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛工学院_Ambition",
+        "name": "Ambition",
+        "organization": "青岛工学院",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          255,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            255,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东财经大学_sdufe",
+        "name": "sdufe",
+        "organization": "山东财经大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          272,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            192,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "中国石油大学_Sharp",
+        "name": "Sharp",
+        "organization": "中国石油大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          278,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            278,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东理工大学_N_gu",
+        "name": "N_gu",
+        "organization": "山东理工大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          291,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            211,
+            "min"
+          ],
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "哈工大（威海）_HIT@WH_Lonely",
+        "name": "HIT@WH_Lonely",
+        "organization": "哈工大（威海）",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          310,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            250,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东理工大学_Soyer",
+        "name": "Soyer",
+        "organization": "山东理工大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          325,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            265,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛理工大学_Qtech1",
+        "name": "Qtech1",
+        "organization": "青岛理工大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          330,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            250,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "烟台大学_快乐编程",
+        "name": "快乐编程",
+        "organization": "烟台大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          360,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            280,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛农业大学_Knights",
+        "name": "Knights",
+        "organization": "青岛农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          370,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            290,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "济南大学_TIME",
+        "name": "TIME",
+        "organization": "济南大学",
+        "official": false
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "济南大学_小葱豆腐",
+        "name": "小葱豆腐",
+        "organization": "济南大学",
+        "official": false
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "潍坊学院_BaoNuan",
+        "name": "BaoNuan",
+        "organization": "潍坊学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "潍坊学院_Cabbage",
+        "name": "Cabbage",
+        "organization": "潍坊学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 12
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "济南大学_ChasingDream",
+        "name": "ChasingDream",
+        "organization": "济南大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛大学_cp3",
+        "name": "cp3",
+        "organization": "青岛大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛农业大学_Deepest",
+        "name": "Deepest",
+        "organization": "青岛农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛工学院_ENCORE",
+        "name": "ENCORE",
+        "organization": "青岛工学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "济南大学_Flamingo",
+        "name": "Flamingo",
+        "organization": "济南大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东财经大学_future",
+        "name": "future",
+        "organization": "山东财经大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东女子学院_it10",
+        "name": "it10",
+        "organization": "山东女子学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东女子学院_it1101",
+        "name": "it1101",
+        "organization": "山东女子学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东女子学院_it1102",
+        "name": "it1102",
+        "organization": "山东女子学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛科技大学_LWY",
+        "name": "LWY",
+        "organization": "青岛科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛大学_QDU0",
+        "name": "QDU0",
+        "organization": "青岛大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛职业技术学院_qtc",
+        "name": "qtc",
+        "organization": "青岛职业技术学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "山东师范大学_SDNU_Infinity",
+        "name": "SDNU_Infinity",
+        "organization": "山东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "RJ",
+          "tries": 14
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "滨海学院_The_Team_of_Dream",
+        "name": "The_Team_of_Dream",
+        "organization": "滨海学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "滨海学院_The_Team_of_Star",
+        "name": "The_Team_of_Star",
+        "organization": "滨海学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛工学院_TKOL",
+        "name": "TKOL",
+        "organization": "青岛工学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "青岛科技大学_Zeus",
+        "name": "Zeus",
+        "organization": "青岛科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "烟台大学_代码人",
+        "name": "代码人",
+        "organization": "烟台大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    }
+  ]
+}
