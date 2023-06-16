@@ -6,6 +6,17 @@
         "name": "ICPC",
         "children": [
           {
+            "path": "icpc2023",
+            "name": "ICPC 2023",
+            "children": [
+              {
+                "path": "icpc2023invitational-xi_an",
+                "format": "srk.json",
+                "name": "2023-05-14 西安邀请赛"
+              }
+            ]
+          },
+          {
             "path": "icpc2022",
             "name": "ICPC 2022",
             "children": [
@@ -714,6 +725,11 @@
             "name": "广东省赛",
             "children": [
               {
+                "path": "gdcpc20th",
+                "format": "srk.json",
+                "name": "2023-05-14 第二十届"
+              },
+              {
                 "path": "gdcpc19th",
                 "format": "srk.json",
                 "name": "2022-06-05 第十九届"
@@ -725,6 +741,11 @@
             "name": "广西区赛",
             "children": [
               {
+                "path": "gxcpc6th",
+                "format": "srk.json",
+                "name": "2023-06-04 第六届"
+              },
+              {
                 "path": "gxcpc5th",
                 "format": "srk.json",
                 "name": "2022-06-26 第五届"
@@ -735,6 +756,11 @@
             "path": "ha",
             "name": "河南省赛",
             "children": [
+              {
+                "path": "haccpccpc5th",
+                "format": "srk.json",
+                "name": "2023-05-07 第五届CCPC"
+              },
               {
                 "path": "haccpccpc4th",
                 "format": "srk.json",
@@ -757,9 +783,25 @@
             "name": "湖北省赛",
             "children": [
               {
+                "path": "hbcpc5th",
+                "format": "srk.json",
+                "name": "2023-04-30 第五届"
+              },
+              {
                 "path": "hbcpc4th",
                 "format": "srk.json",
                 "name": "2022-05-22 第四届"
+              }
+            ]
+          },
+          {
+            "path": "he",
+            "name": "河北省赛",
+            "children": [
+              {
+                "path": "hecpc7th",
+                "format": "srk.json",
+                "name": "2023-05-21 第七届"
               }
             ]
           },
@@ -799,6 +841,11 @@
             "path": "jx",
             "name": "江西省赛",
             "children": [
+              {
+                "path": "jxcpc2023",
+                "format": "srk.json",
+                "name": "2023-05-21 2023"
+              },
               {
                 "path": "jxcpc2022",
                 "format": "srk.json",
