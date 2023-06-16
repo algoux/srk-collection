@@ -472,6 +472,17 @@
         "name": "CCPC",
         "children": [
           {
+            "path": "ccpc2023",
+            "name": "CCPC 2023",
+            "children": [
+              {
+                "path": "ccpc2023invitational-xiangtan",
+                "format": "srk.json",
+                "name": "2023-05-28 湘潭邀请赛"
+              }
+            ]
+          },
+          {
             "path": "ccpc2022",
             "name": "CCPC 2022",
             "children": [
@@ -820,6 +831,11 @@
             "path": "js",
             "name": "江苏省赛",
             "children": [
+              {
+                "path": "jscpc8th",
+                "format": "srk.json",
+                "name": "2023-05-28 第八届"
+              },
               {
                 "path": "jscpc7th",
                 "format": "srk.json",
