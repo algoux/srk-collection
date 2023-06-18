@@ -737,80 +737,6 @@
         "name": "省赛",
         "children": [
           {
-            "path": "gd",
-            "name": "广东省赛",
-            "children": [
-              {
-                "path": "gdcpc20th",
-                "format": "srk.json",
-                "name": "2023-05-14 第二十届"
-              },
-              {
-                "path": "gdcpc19th",
-                "format": "srk.json",
-                "name": "2022-06-05 第十九届"
-              }
-            ]
-          },
-          {
-            "path": "gx",
-            "name": "广西区赛",
-            "children": [
-              {
-                "path": "gxcpc6th",
-                "format": "srk.json",
-                "name": "2023-06-04 第六届"
-              },
-              {
-                "path": "gxcpc5th",
-                "format": "srk.json",
-                "name": "2022-06-26 第五届"
-              }
-            ]
-          },
-          {
-            "path": "ha",
-            "name": "河南省赛",
-            "children": [
-              {
-                "path": "haccpccpc5th",
-                "format": "srk.json",
-                "name": "2023-05-07 第五届CCPC"
-              },
-              {
-                "path": "haccpccpc4th",
-                "format": "srk.json",
-                "name": "2022-10-02 第四届CCPC"
-              },
-              {
-                "path": "haccpccpc3rd",
-                "format": "srk.json",
-                "name": "2021-10-30 第三届CCPC"
-              },
-              {
-                "path": "haccpccpc2nd",
-                "format": "srk.json",
-                "name": "2020-11-21 第二届CCPC"
-              }
-            ]
-          },
-          {
-            "path": "hb",
-            "name": "湖北省赛",
-            "children": [
-              {
-                "path": "hbcpc5th",
-                "format": "srk.json",
-                "name": "2023-04-30 第五届"
-              },
-              {
-                "path": "hbcpc4th",
-                "format": "srk.json",
-                "name": "2022-05-22 第四届"
-              }
-            ]
-          },
-          {
             "path": "he",
             "name": "河北省赛",
             "children": [
@@ -822,6 +748,17 @@
             ]
           },
           {
+            "path": "ln",
+            "name": "辽宁省赛",
+            "children": [
+              {
+                "path": "lncpc3rd",
+                "format": "srk.json",
+                "name": "2022-10-23 第三届"
+              }
+            ]
+          },
+          {
             "path": "jl",
             "name": "吉林省赛",
             "children": [
@@ -829,6 +766,17 @@
                 "path": "jlcpc15th",
                 "format": "srk.json",
                 "name": "2021-11-30 第十五届"
+              }
+            ]
+          },
+          {
+            "path": "sh",
+            "name": "上海市赛",
+            "children": [
+              {
+                "path": "shcpc2021",
+                "format": "srk.json",
+                "name": "2021-07-11 2021"
               }
             ]
           },
@@ -859,6 +807,32 @@
             ]
           },
           {
+            "path": "zj",
+            "name": "浙江省赛",
+            "children": [
+              {
+                "path": "zjcpc20th",
+                "format": "srk.json",
+                "name": "2023-04-15 第二十届"
+              },
+              {
+                "path": "zjcpc19th",
+                "format": "srk.json",
+                "name": "2022-04-16 第十九届"
+              },
+              {
+                "path": "zjcpc18th",
+                "format": "srk.json",
+                "name": "2021-04-17 第十八届"
+              },
+              {
+                "path": "zjcpc17th",
+                "format": "srk.json",
+                "name": "2020-10-17 第十七届"
+              }
+            ]
+          },
+          {
             "path": "jx",
             "name": "江西省赛",
             "children": [
@@ -876,28 +850,6 @@
                 "path": "jxcpc2020",
                 "format": "srk.json",
                 "name": "2020-11-15 2020"
-              }
-            ]
-          },
-          {
-            "path": "ln",
-            "name": "辽宁省赛",
-            "children": [
-              {
-                "path": "lncpc3rd",
-                "format": "srk.json",
-                "name": "2022-10-23 第三届"
-              }
-            ]
-          },
-          {
-            "path": "sc",
-            "name": "四川省赛",
-            "children": [
-              {
-                "path": "sccpc15th",
-                "format": "srk.json",
-                "name": "2023-06-04 第十五届"
               }
             ]
           },
@@ -968,13 +920,87 @@
             ]
           },
           {
-            "path": "sh",
-            "name": "上海市赛",
+            "path": "ha",
+            "name": "河南省赛",
             "children": [
               {
-                "path": "shcpc2021",
+                "path": "haccpccpc5th",
                 "format": "srk.json",
-                "name": "2021-07-11 2021"
+                "name": "2023-05-07 第五届CCPC"
+              },
+              {
+                "path": "haccpccpc4th",
+                "format": "srk.json",
+                "name": "2022-10-02 第四届CCPC"
+              },
+              {
+                "path": "haccpccpc3rd",
+                "format": "srk.json",
+                "name": "2021-10-30 第三届CCPC"
+              },
+              {
+                "path": "haccpccpc2nd",
+                "format": "srk.json",
+                "name": "2020-11-21 第二届CCPC"
+              }
+            ]
+          },
+          {
+            "path": "hb",
+            "name": "湖北省赛",
+            "children": [
+              {
+                "path": "hbcpc5th",
+                "format": "srk.json",
+                "name": "2023-04-30 第五届"
+              },
+              {
+                "path": "hbcpc4th",
+                "format": "srk.json",
+                "name": "2022-05-22 第四届"
+              }
+            ]
+          },
+          {
+            "path": "gd",
+            "name": "广东省赛",
+            "children": [
+              {
+                "path": "gdcpc20th",
+                "format": "srk.json",
+                "name": "2023-05-14 第二十届"
+              },
+              {
+                "path": "gdcpc19th",
+                "format": "srk.json",
+                "name": "2022-06-05 第十九届"
+              }
+            ]
+          },
+          {
+            "path": "gx",
+            "name": "广西区赛",
+            "children": [
+              {
+                "path": "gxcpc6th",
+                "format": "srk.json",
+                "name": "2023-06-04 第六届"
+              },
+              {
+                "path": "gxcpc5th",
+                "format": "srk.json",
+                "name": "2022-06-26 第五届"
+              }
+            ]
+          },
+          {
+            "path": "sc",
+            "name": "四川省赛",
+            "children": [
+              {
+                "path": "sccpc15th",
+                "format": "srk.json",
+                "name": "2023-06-04 第十五届"
               }
             ]
           },
@@ -1002,32 +1028,6 @@
                 "path": "xjcpc2023",
                 "format": "srk.json",
                 "name": "2023-05-20 2023"
-              }
-            ]
-          },
-          {
-            "path": "zj",
-            "name": "浙江省赛",
-            "children": [
-              {
-                "path": "zjcpc20th",
-                "format": "srk.json",
-                "name": "2023-04-15 第二十届"
-              },
-              {
-                "path": "zjcpc19th",
-                "format": "srk.json",
-                "name": "2022-04-16 第十九届"
-              },
-              {
-                "path": "zjcpc18th",
-                "format": "srk.json",
-                "name": "2021-04-17 第十八届"
-              },
-              {
-                "path": "zjcpc17th",
-                "format": "srk.json",
-                "name": "2020-10-17 第十七届"
               }
             ]
           },
