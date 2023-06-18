@@ -10,14 +10,14 @@
             "name": "ICPC 2023",
             "children": [
               {
-                "path": "icpc2023srni",
-                "format": "srk.json",
-                "name": "2023-06-04 丝绸之路邀请赛"
-              },
-              {
                 "path": "icpc2023invitational-xi_an",
                 "format": "srk.json",
                 "name": "2023-05-14 西安邀请赛"
+              },
+              {
+                "path": "icpc2023srni",
+                "format": "srk.json",
+                "name": "2023-06-04 丝绸之路邀请赛"
               }
             ]
           },
