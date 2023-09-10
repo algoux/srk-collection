@@ -12,10 +12,20 @@
     "title": {
       "fallback": "第十三届山东省 ICPC 大学生程序设计竞赛（齐鲁工业大学）",
       "zh-CN": "第十三届山东省 ICPC 大学生程序设计竞赛（齐鲁工业大学）"
-    }
+    },
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://qoj.ac/contest/1280"
+      }
+    ]    
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ],
   "markers": [
     {

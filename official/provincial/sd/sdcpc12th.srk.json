@@ -2,7 +2,8 @@
   "type": "general",
   "version": "0.3.2",
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ],
   "contest": {
     "title": {
@@ -13,6 +14,15 @@
     "duration": [
       5,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://ac.nowcoder.com/acm/contest/34980"
+      }
     ]
   },
   "series": [

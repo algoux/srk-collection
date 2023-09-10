@@ -14,6 +14,15 @@
     "frozenDuration": [
       1,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://codeforces.com/gym/103941"
+      }
     ]
   },
   "sorter": {
@@ -89578,5 +89587,9 @@
         ]
       }
     }
+  ],
+  "contributors": [
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ]
 }
