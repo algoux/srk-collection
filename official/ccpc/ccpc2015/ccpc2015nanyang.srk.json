@@ -3,9 +3,9 @@
   "version": "0.3.2",
   "contest": {
     "title": {
-      "zh-CN": "2015 中国大学生程序设计竞赛（南阳）",
-      "en": "2015 China Collegiate Programming Contest Nanyang Site",
-      "fallback": "2015 China Collegiate Programming Contest Nanyang Site"
+      "zh-CN": "2015 中国大学生程序设计竞赛 (CCPC 2015)（南阳）",
+      "en": "The 2015 China Collegiate Programming Contest (CCPC 2015)",
+      "fallback": "The 2015 China Collegiate Programming Contest (CCPC 2015)"
     },
     "startAt": "2015-10-18T09:00:00+08:00",
     "duration": [
@@ -15,6 +15,15 @@
     "frozenDuration": [
       0,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://codeforces.com/gym/103964"
+      }
     ]
   },
   "problems": [
@@ -55319,7 +55328,8 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",

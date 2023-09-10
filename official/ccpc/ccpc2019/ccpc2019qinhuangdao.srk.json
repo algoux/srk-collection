@@ -3,7 +3,8 @@
   "version": "0.3.2",
   "contributors": [
     "SDUTACM (https://acm.sdut.edu.cn)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ],
   "contest": {
     "title": {
@@ -15,6 +16,15 @@
     "duration": [
       5,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://codeforces.com/gym/102361"
+      }
     ]
   },
   "series": [
