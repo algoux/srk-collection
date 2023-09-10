@@ -15,6 +15,15 @@
     "frozenDuration": [
       1,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://codeforces.com/gym/104160"
+      }
     ]
   },
   "problems": [
@@ -146844,6 +146853,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ]
 }

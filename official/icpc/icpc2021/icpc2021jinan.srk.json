@@ -15,6 +15,15 @@
     "frozenDuration": [
       1,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://pintia.cn/market/item/1459833348620926976"
+      }
     ]
   },
   "problems": [
@@ -187756,6 +187765,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ]
 }

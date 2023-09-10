@@ -15,6 +15,15 @@
     "frozenDuration": [
       0,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://vjudge.net/contest/3505"
+      }
     ]
   },
   "problems": [
@@ -22347,7 +22356,8 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
