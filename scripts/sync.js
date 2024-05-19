@@ -9,8 +9,7 @@ const { parseConfig } = require('./parse');
 const queue = new PQueue({ concurrency: 20 });
 
 const req = got.extend({
-  prefixUrl: 'https://rl.mushan.top/',
-  // prefixUrl: 'http://rl_dev.mushan.top/',
+  prefixUrl: 'https://rl-api.algoux.cn/',
   headers: {
     algoux: process.env.ALGOUX_API_TOKEN,
   },
