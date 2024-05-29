@@ -517,6 +517,17 @@
         "name": "CCPC",
         "children": [
           {
+            "path": "ccpc2024",
+            "name": "CCPC 2024",
+            "children": [
+              {
+                "path": "ccpc2024invitational-jinan",
+                "format": "srk.json",
+                "name": "2024-05-26 济南邀请赛"
+              }
+            ]
+          },
+          {
             "path": "ccpc2023",
             "name": "CCPC 2023",
             "children": [
@@ -932,6 +943,11 @@
             "path": "sd",
             "name": "山东省赛",
             "children": [
+              {
+                "path": "sdcpc14th",
+                "format": "srk.json",
+                "name": "2024-05-26 第十四届"
+              },
               {
                 "path": "sdcpc13th",
                 "format": "srk.json",
