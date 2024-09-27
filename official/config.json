@@ -11,9 +11,9 @@
             "name": "ICPC 2024",
             "children": [
               {
-                "path": "icpc2024invitational-kunming",
+                "path": "icpc2024invitational-wuhan",
                 "format": "srk.json",
-                "name": "2024-05-26 昆明邀请赛"
+                "name": "2024-05-02 武汉邀请赛"
               },
               {
                 "path": "icpc2024invitational-xi_an",
@@ -21,14 +21,19 @@
                 "name": "2024-05-19 西安邀请赛"
               },
               {
-                "path": "icpc2024invitational-wuhan",
+                "path": "icpc2024invitational-kunming",
                 "format": "srk.json",
-                "name": "2024-05-02 武汉邀请赛"
+                "name": "2024-05-26 昆明邀请赛"
               },
               {
-                "path": "icpc2024worldfinals",
+                "path": "icpc46th2024worldfinals",
                 "format": "srk.json",
-                "name": "2024-04-18 World Finals"
+                "name": "2024-04-18 World Finals(46th)"
+              },
+              {
+                "path": "icpc47th2024worldfinals",
+                "format": "srk.json",
+                "name": "2024-04-18 World Finals(47th)"
               }
             ]
           },
@@ -875,7 +880,7 @@
             "name": "福建省赛",
             "children": [
               {
-                "path": "fjcpc11th",
+                "path": "fjcpc11st",
                 "format": "srk.json",
                 "name": "2024-05-26 第十一届"
               }
@@ -955,7 +960,7 @@
             "name": "浙江省赛",
             "children": [
               {
-                "path": "zjcpc21th",
+                "path": "zjcpc21st",
                 "format": "srk.json",
                 "name": "2024-04-13 第二十一届"
               },
@@ -1017,17 +1022,17 @@
                 "name": "2024-05-26 第十四届"
               },
               {
-                "path": "sdcpc13th",
+                "path": "sdcpc13rd",
                 "format": "srk.json",
                 "name": "2023-06-04 第十三届"
               },
               {
-                "path": "sdcpc12th",
+                "path": "sdcpc12nd",
                 "format": "srk.json",
                 "name": "2022-05-22 第十二届"
               },
               {
-                "path": "sdcpc11th",
+                "path": "sdcpc11st",
                 "format": "srk.json",
                 "name": "2021-05-09 第十一届"
               },
@@ -1140,7 +1145,7 @@
             "name": "广东省赛",
             "children": [
               {
-                "path": "gdcpc21th",
+                "path": "gdcpc21st",
                 "format": "srk.json",
                 "name": "2024-05-26 第二十一届"
               },
@@ -1209,7 +1214,7 @@
             "name": "陕西省赛",
             "children": [
               {
-                "path": "sncpc12th",
+                "path": "sncpc12nd",
                 "format": "srk.json",
                 "name": "2024-06-02 第十二届"
               },
