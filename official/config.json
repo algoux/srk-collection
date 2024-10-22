@@ -561,6 +561,11 @@
                 "path": "ccpc2024invitational-jinan",
                 "format": "srk.json",
                 "name": "2024-05-26 济南邀请赛"
+              },
+              {
+                "path": "ccpc2024harbin",
+                "format": "srk.json",
+                "name": "2024-10-20 哈尔滨站"
               }
             ]
           },
@@ -876,11 +881,22 @@
             ]
           },
           {
+            "path": "hn",
+            "name": "湖南省赛",
+            "children": [
+              {
+                "path": "hncpc20th",
+                "format": "srk.json",
+                "name": "2024-10-13 第二十届"
+              }
+            ]
+          },
+          {
             "path": "fj",
             "name": "福建省赛",
             "children": [
               {
-                "path": "fjcpc11th",
+                "path": "fjcpc11st",
                 "format": "srk.json",
                 "name": "2024-05-26 第十一届"
               }
@@ -1022,17 +1038,17 @@
                 "name": "2024-05-26 第十四届"
               },
               {
-                "path": "sdcpc13th",
+                "path": "sdcpc13rd",
                 "format": "srk.json",
                 "name": "2023-06-04 第十三届"
               },
               {
-                "path": "sdcpc12th",
+                "path": "sdcpc12nd",
                 "format": "srk.json",
                 "name": "2022-05-22 第十二届"
               },
               {
-                "path": "sdcpc11th",
+                "path": "sdcpc11st",
                 "format": "srk.json",
                 "name": "2021-05-09 第十一届"
               },
@@ -1214,7 +1230,7 @@
             "name": "陕西省赛",
             "children": [
               {
-                "path": "sncpc12th",
+                "path": "sncpc12nd",
                 "format": "srk.json",
                 "name": "2024-06-02 第十二届"
               },
