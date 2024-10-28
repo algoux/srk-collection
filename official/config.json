@@ -26,6 +26,11 @@
                 "name": "2024-05-26 昆明邀请赛"
               },
               {
+                "path": "icpc2024chengdu",
+                "format": "srk.json",
+                "name": "2024-10-27 成都站"
+              },
+              {
                 "path": "icpc46th2024worldfinals",
                 "format": "srk.json",
                 "name": "2024-04-18 World Finals (46th)"
@@ -566,6 +571,11 @@
                 "path": "ccpc2024harbin",
                 "format": "srk.json",
                 "name": "2024-10-20 哈尔滨站"
+              },
+              {
+                "path": "ccpc2024jinan",
+                "format": "srk.json",
+                "name": "2024-10-27 济南站"
               }
             ]
           },
