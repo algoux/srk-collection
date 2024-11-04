@@ -31,6 +31,11 @@
                 "name": "2024-10-27 成都站"
               },
               {
+                "path": "icpc2024nanjing",
+                "format": "srk.json",
+                "name": "2024-11-03 南京站"
+              },
+              {
                 "path": "icpc46th2024worldfinals",
                 "format": "srk.json",
                 "name": "2024-04-18 World Finals (46th)"
@@ -916,6 +921,11 @@
             "path": "ln",
             "name": "辽宁省赛",
             "children": [
+              {
+                "path": "lncpc5th",
+                "format": "srk.json",
+                "name": "2024-11-03 第五届"
+              },
               {
                 "path": "lncpc3rd",
                 "format": "srk.json",
