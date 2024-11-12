@@ -36,6 +36,11 @@
                 "name": "2024-11-03 南京站"
               },
               {
+                "path": "icpc2024hangzhou",
+                "format": "srk.json",
+                "name": "2024-11-10 杭州站"
+              },
+              {
                 "path": "icpc46th2024worldfinals",
                 "format": "srk.json",
                 "name": "2024-04-18 World Finals (46th)"
@@ -581,6 +586,11 @@
                 "path": "ccpc2024jinan",
                 "format": "srk.json",
                 "name": "2024-10-27 济南站"
+              },
+              {
+                "path": "ccpc2024chongqing",
+                "format": "srk.json",
+                "name": "2024-11-10 重庆站"
               }
             ]
           },
