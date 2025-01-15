@@ -56,6 +56,11 @@
                 "name": "2024-12-01 昆明站"
               },
               {
+                "path": "icpc2024hongkong",
+                "format": "srk.json",
+                "name": "2024-12-22 香港站"
+              },
+              {
                 "path": "icpc46th2024worldfinals",
                 "format": "srk.json",
                 "name": "2024-04-18 World Finals (46th)"
@@ -64,6 +69,11 @@
                 "path": "icpc47th2024worldfinals",
                 "format": "srk.json",
                 "name": "2024-04-18 World Finals (47th)"
+              },
+              {
+                "path": "icpc2024ecfinal",
+                "format": "srk.json",
+                "name": "2024-12-28 EC Final"
               }
             ]
           },
