@@ -7,6 +7,22 @@
         "name": "ICPC",
         "children": [
           {
+            "path":"icpc2025",
+            "name":"ICPC 2025",
+            "children": [
+              {
+                "path": "icpc2025invitational-wuhan",
+                "format": "srk.json",
+                "name": "2025-05-18 南昌邀请赛"
+              },
+              {
+                "path": "icpc2025invitational-nanchang",
+                "format": "srk.json",
+                "name": "2025-04-27 武汉邀请赛"
+              }
+            ]
+          },
+          {
             "path": "icpc2024",
             "name": "ICPC 2024",
             "children": [
@@ -589,6 +605,22 @@
         "name": "CCPC",
         "children": [
           {
+            "path": "ccpc2025",
+            "name": "CCPC 2025",
+            "children": [
+              {
+                "path": "ccpc2025invitational-dongbei",
+                "format": "srk.json",
+                "name": "2025-05-25 东北邀请赛"
+              },
+              {
+                "path": "ccpc2025invitational-zhengzhou",
+                "format": "srk.json",
+                "name": "2025-06-02 郑州邀请赛"
+              }
+            ]
+          },
+          {
             "path": "ccpc2024",
             "name": "CCPC 2024",
             "children": [
@@ -924,6 +956,11 @@
             "name": "河北省赛",
             "children": [
               {
+                "path": "hecpc9th",
+                "format": "srk.json",
+                "name": "2025-05-18 第九届"
+              },
+              {
                 "path": "hecpc8th",
                 "format": "srk.json",
                 "name": "2024-05-26 第八届"
@@ -939,6 +976,11 @@
             "path": "hn",
             "name": "湖南省赛",
             "children": [
+              {
+                "path": "hncpc21th",
+                "format": "srk.json",
+                "name": "2025-05-11 第二十一届"
+              },
               {
                 "path": "hncpc20th",
                 "format": "srk.json",
@@ -978,6 +1020,11 @@
             "name": "吉林省赛",
             "children": [
               {
+                "path": "jlcpc18th",
+                "format": "srk.json",
+                "name": "2025-05-24 第十八届"
+              },
+              {
                 "path": "jlcpc15th",
                 "format": "srk.json",
                 "name": "2021-11-30 第十五届"
@@ -1004,6 +1051,11 @@
             "path": "js",
             "name": "江苏省赛",
             "children": [
+              {
+                "path": "jscpc10th",
+                "format": "srk.json",
+                "name": "2025-06-02 第十届"
+              },
               {
                 "path": "jscpc9th",
                 "format": "srk.json",
@@ -1036,6 +1088,11 @@
             "name": "浙江省赛",
             "children": [
               {
+                "path": "zjcpc22st",
+                "format": "srk.json",
+                "name": "2025-04-26 第二十二届"
+              },
+              {
                 "path": "zjcpc21st",
                 "format": "srk.json",
                 "name": "2024-04-13 第二十一届"
@@ -1067,6 +1124,11 @@
             "name": "江西省赛",
             "children": [
               {
+                "path": "jxcpc2025",
+                "format": "srk.json",
+                "name": "2025-05-18 2025"
+              },
+              {
                 "path": "jxcpc2024",
                 "format": "srk.json",
                 "name": "2023-05-21 2024"
@@ -1092,6 +1154,11 @@
             "path": "sd",
             "name": "山东省赛",
             "children": [
+              {
+                "path": "sdcpc15th",
+                "format": "srk.json",
+                "name": "2025-05-25 第十五届"
+              },
               {
                 "path": "sdcpc14th",
                 "format": "srk.json",
@@ -1289,6 +1356,11 @@
             "path": "sn",
             "name": "陕西省赛",
             "children": [
+              {
+                "path": "sncpc13th",
+                "format": "srk.json",
+                "name": "2025-05-10 第十三届"
+              },
               {
                 "path": "sncpc12th",
                 "format": "srk.json",
