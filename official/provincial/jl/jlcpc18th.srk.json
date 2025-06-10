@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "contest": {
     "title": {
       "zh-CN": "第 18 届吉林省大学生程序设计竞赛 - 正式赛",
@@ -367,14 +367,14 @@
             { "result": "WA", "time": [17673206, "ms"] },
             { "result": "WA", "time": [17765400, "ms"] },
             { "result": "WA", "time": [17866232, "ms"] },
-            { "result": "AC", "time": [17902969, "ms"] }
+            { "result": "FB", "time": [17902969, "ms"] }
           ]
         },
         {
           "result": "FB",
           "time": [104, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [104664, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [104664, "ms"] }]
         },
         {
           "result": "FB",
@@ -387,7 +387,7 @@
             { "result": "WA", "time": [12638836, "ms"] },
             { "result": "WA", "time": [12977517, "ms"] },
             { "result": "TLE", "time": [13685160, "ms"] },
-            { "result": "AC", "time": [13913507, "ms"] }
+            { "result": "FB", "time": [13913507, "ms"] }
           ]
         },
         {
@@ -516,7 +516,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [1298550, "ms"] },
-            { "result": "AC", "time": [1369366, "ms"] }
+            { "result": "FB", "time": [1369366, "ms"] }
           ]
         },
         {
@@ -545,7 +545,7 @@
           "result": "FB",
           "time": [386, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [386596, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [386596, "ms"] }]
         },
         {
           "result": "AC",
@@ -577,11 +577,7 @@
           "result": "AC",
           "time": [2580, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [2580158, "ms"] },
-            { "result": "RTE", "time": [16924099, "ms"] },
-            { "result": "RTE", "time": [17466016, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [2580158, "ms"] }]
         }
       ]
     },
@@ -621,7 +617,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [10692574, "ms"] },
-            { "result": "AC", "time": [11996973, "ms"] }
+            { "result": "FB", "time": [11996973, "ms"] }
           ]
         },
         {
@@ -644,7 +640,7 @@
           "result": "FB",
           "time": [214, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [214859, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [214859, "ms"] }]
         },
         {
           "result": "AC",
@@ -659,7 +655,7 @@
           "result": "FB",
           "time": [3207, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [3207041, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [3207041, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -884,10 +880,7 @@
           "result": "AC",
           "time": [5767, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [5767016, "ms"] },
-            { "result": "WA", "time": [6503274, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [5767016, "ms"] }]
         },
         {
           "result": "AC",
@@ -945,8 +938,7 @@
           "tries": 2,
           "solutions": [
             { "result": "TLE", "time": [1711537, "ms"] },
-            { "result": "AC", "time": [1779659, "ms"] },
-            { "result": "WA", "time": [6517385, "ms"] }
+            { "result": "FB", "time": [1779659, "ms"] }
           ]
         }
       ]
@@ -1408,16 +1400,7 @@
             { "result": "WA", "time": [16409659, "ms"] },
             { "result": "WA", "time": [16517606, "ms"] },
             { "result": "WA", "time": [16775157, "ms"] },
-            { "result": "AC", "time": [17268566, "ms"] },
-            { "result": "WA", "time": [17352743, "ms"] },
-            { "result": "AC", "time": [17375463, "ms"] },
-            { "result": "WA", "time": [17393397, "ms"] },
-            { "result": "WA", "time": [17416279, "ms"] },
-            { "result": "WA", "time": [17428500, "ms"] },
-            { "result": "WA", "time": [17443111, "ms"] },
-            { "result": "AC", "time": [17456983, "ms"] },
-            { "result": "WA", "time": [17473105, "ms"] },
-            { "result": "WA", "time": [17483731, "ms"] }
+            { "result": "AC", "time": [17268566, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -2527,7 +2510,7 @@
           "result": "FB",
           "time": [432, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [432855, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [432855, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -10355,10 +10338,7 @@
           "result": "AC",
           "time": [255, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [255850, "ms"] },
-            { "result": "WA", "time": [1561576, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [255850, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 }
@@ -11146,8 +11126,7 @@
             { "result": "WA", "time": [5239833, "ms"] },
             { "result": "WA", "time": [14052355, "ms"] },
             { "result": "WA", "time": [16129027, "ms"] },
-            { "result": "AC", "time": [16292692, "ms"] },
-            { "result": "AC", "time": [17838512, "ms"] }
+            { "result": "AC", "time": [16292692, "ms"] }
           ]
         },
         {
@@ -11282,10 +11261,7 @@
           "result": "AC",
           "time": [338, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [338115, "ms"] },
-            { "result": "AC", "time": [9899178, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [338115, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 }
@@ -11961,6 +11937,11 @@
       "timeRounding": "floor"
     }
   },
-  "markers": [{ "id": "female", "label": "女队", "style": "pink" }],
+  "markers": [
+    { "id": "A", "label": "普通高校", "style": "purple" },
+    { "id": "B", "label": "独立学院", "style": "blue" },
+    { "id": "female", "label": "A组女队", "style": "pink" },
+    { "id": "female", "label": "B组女队", "style": "pink" }
+  ],
   "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"]
 }

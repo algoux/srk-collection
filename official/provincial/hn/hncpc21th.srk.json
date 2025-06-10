@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "contest": {
     "title": {
       "zh-CN": "2025 ICPC 河南省大学生程序设计竞赛 - 正式赛",
@@ -347,7 +347,7 @@
           "solutions": [
             { "result": "TLE", "time": [2396893, "ms"] },
             { "result": "TLE", "time": [2804796, "ms"] },
-            { "result": "AC", "time": [4309235, "ms"] }
+            { "result": "FB", "time": [4309235, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -439,10 +439,7 @@
           "result": "AC",
           "time": [17700, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [17700605, "ms"] },
-            { "result": "CE", "time": [17941885, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [17700605, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -565,12 +562,7 @@
             { "result": "TLE", "time": [9632721, "ms"] },
             { "result": "TLE", "time": [11856698, "ms"] },
             { "result": "WA", "time": [17214249, "ms"] },
-            { "result": "AC", "time": [17361875, "ms"] },
-            { "result": "TLE", "time": [17804924, "ms"] },
-            { "result": "TLE", "time": [17875180, "ms"] },
-            { "result": "TLE", "time": [17881252, "ms"] },
-            { "result": "TLE", "time": [17887628, "ms"] },
-            { "result": "TLE", "time": [17932187, "ms"] }
+            { "result": "AC", "time": [17361875, "ms"] }
           ]
         },
         {
@@ -639,7 +631,7 @@
             { "result": "TLE", "time": [8426080, "ms"] },
             { "result": "TLE", "time": [9372529, "ms"] },
             { "result": "TLE", "time": [10846788, "ms"] },
-            { "result": "AC", "time": [11784490, "ms"] }
+            { "result": "FB", "time": [11784490, "ms"] }
           ]
         },
         {
@@ -877,10 +869,7 @@
           "result": "AC",
           "time": [426, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [426925, "ms"] },
-            { "result": "AC", "time": [2640026, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [426925, "ms"] }]
         },
         {
           "result": "AC",
@@ -993,7 +982,7 @@
           "result": "FB",
           "time": [1439, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [1439748, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [1439748, "ms"] }]
         },
         {
           "result": "AC",
@@ -1081,7 +1070,7 @@
           "result": "FB",
           "time": [1478, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [1478648, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [1478648, "ms"] }]
         },
         {
           "result": "AC",
@@ -1239,7 +1228,7 @@
           "result": "FB",
           "time": [8374, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [8374296, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [8374296, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -1645,8 +1634,7 @@
             { "result": "WA", "time": [15487874, "ms"] },
             { "result": "NOUT", "time": [17292466, "ms"] },
             { "result": "WA", "time": [17452818, "ms"] },
-            { "result": "AC", "time": [17653348, "ms"] },
-            { "result": "AC", "time": [17916772, "ms"] }
+            { "result": "AC", "time": [17653348, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -1684,7 +1672,7 @@
           "solutions": [
             { "result": "RTE", "time": [3136411, "ms"] },
             { "result": "WA", "time": [3609951, "ms"] },
-            { "result": "AC", "time": [5151340, "ms"] }
+            { "result": "FB", "time": [5151340, "ms"] }
           ]
         },
         {
@@ -1822,9 +1810,7 @@
             { "result": "WA", "time": [4959628, "ms"] },
             { "result": "WA", "time": [17477872, "ms"] },
             { "result": "WA", "time": [17730697, "ms"] },
-            { "result": "AC", "time": [17962624, "ms"] },
-            { "result": "WA", "time": [17988523, "ms"] },
-            { "result": "WA", "time": [17992483, "ms"] }
+            { "result": "AC", "time": [17962624, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -2075,10 +2061,7 @@
           "result": "AC",
           "time": [7268, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [7268199, "ms"] },
-            { "result": "AC", "time": [15955742, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [7268199, "ms"] }]
         },
         {
           "result": "AC",
@@ -2090,19 +2073,13 @@
           "result": "AC",
           "time": [3840, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [3840041, "ms"] },
-            { "result": "AC", "time": [16017222, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [3840041, "ms"] }]
         },
         {
           "result": "AC",
           "time": [14173, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [14173335, "ms"] },
-            { "result": "AC", "time": [15920495, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [14173335, "ms"] }]
         },
         {
           "result": "AC",
@@ -2290,7 +2267,7 @@
           "result": "FB",
           "time": [3504, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [3504042, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [3504042, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -2425,10 +2402,7 @@
           "result": "AC",
           "time": [411, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [411262, "ms"] },
-            { "result": "WA", "time": [12895504, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [411262, "ms"] }]
         },
         {
           "result": "RJ",
@@ -2873,8 +2847,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [11223235, "ms"] },
-            { "result": "AC", "time": [13167351, "ms"] },
-            { "result": "AC", "time": [15124129, "ms"] }
+            { "result": "AC", "time": [13167351, "ms"] }
           ]
         },
         {
@@ -3106,8 +3079,7 @@
           "solutions": [
             { "result": "WA", "time": [4649921, "ms"] },
             { "result": "WA", "time": [6491130, "ms"] },
-            { "result": "AC", "time": [13771350, "ms"] },
-            { "result": "AC", "time": [14246980, "ms"] }
+            { "result": "AC", "time": [13771350, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -3202,7 +3174,7 @@
           "result": "FB",
           "time": [4758, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [4758882, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [4758882, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -5344,7 +5316,7 @@
           "result": "FB",
           "time": [187, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [187417, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [187417, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -5479,7 +5451,7 @@
           "result": "FB",
           "time": [21, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [21806, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [21806, "ms"] }]
         }
       ]
     },
@@ -5583,11 +5555,7 @@
             { "result": "WA", "time": [17403914, "ms"] },
             { "result": "WA", "time": [17733641, "ms"] },
             { "result": "WA", "time": [17745164, "ms"] },
-            { "result": "AC", "time": [17779380, "ms"] },
-            { "result": "AC", "time": [17809500, "ms"] },
-            { "result": "AC", "time": [17845223, "ms"] },
-            { "result": "AC", "time": [17887467, "ms"] },
-            { "result": "AC", "time": [17981570, "ms"] }
+            { "result": "AC", "time": [17779380, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -5838,10 +5806,7 @@
           "result": "AC",
           "time": [455, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [455041, "ms"] },
-            { "result": "AC", "time": [604915, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [455041, "ms"] }]
         },
         {
           "result": "AC",
@@ -5862,8 +5827,7 @@
             { "result": "WA", "time": [7980290, "ms"] },
             { "result": "WA", "time": [8442977, "ms"] },
             { "result": "WA", "time": [10802066, "ms"] },
-            { "result": "AC", "time": [15192761, "ms"] },
-            { "result": "AC", "time": [17666964, "ms"] }
+            { "result": "AC", "time": [15192761, "ms"] }
           ]
         },
         {
@@ -7090,8 +7054,7 @@
             { "result": "WA", "time": [17465655, "ms"] },
             { "result": "WA", "time": [17707868, "ms"] },
             { "result": "WA", "time": [17761515, "ms"] },
-            { "result": "AC", "time": [17838146, "ms"] },
-            { "result": "WA", "time": [17956559, "ms"] }
+            { "result": "AC", "time": [17838146, "ms"] }
           ]
         },
         {
@@ -9104,10 +9067,7 @@
           "result": "AC",
           "time": [8905, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [8905737, "ms"] },
-            { "result": "CE", "time": [17997385, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [8905737, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -9525,10 +9485,7 @@
           "result": "AC",
           "time": [1191, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [1191359, "ms"] },
-            { "result": "WA", "time": [15150385, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [1191359, "ms"] }]
         },
         {
           "result": "RJ",
@@ -11546,7 +11503,7 @@
           "result": "FB",
           "time": [304, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [304084, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [304084, "ms"] }]
         },
         {
           "result": "AC",
@@ -13763,10 +13720,7 @@
           "result": "AC",
           "time": [665, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [665381, "ms"] },
-            { "result": "AC", "time": [1113809, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [665381, "ms"] }]
         },
         {
           "result": "RJ",
@@ -15984,10 +15938,7 @@
           "result": "AC",
           "time": [824, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [824116, "ms"] },
-            { "result": "AC", "time": [1058494, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [824116, "ms"] }]
         }
       ]
     },
@@ -16414,10 +16365,7 @@
           "result": "AC",
           "time": [3115, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [3115713, "ms"] },
-            { "result": "AC", "time": [3125253, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [3115713, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -16670,10 +16618,7 @@
           "result": "AC",
           "time": [1410, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [1410049, "ms"] },
-            { "result": "WA", "time": [6058361, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [1410049, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },

@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "contest": {
     "title": {
       "zh-CN": "2025年icpc全国邀请赛（南昌）暨2025年（icpc）江西省大学生程序设计竞赛 - 正式赛",
@@ -384,7 +384,7 @@
           "solutions": [
             { "result": "RTE", "time": [1669789, "ms"] },
             { "result": "RTE", "time": [1850591, "ms"] },
-            { "result": "AC", "time": [2732258, "ms"] }
+            { "result": "FB", "time": [2732258, "ms"] }
           ]
         },
         {
@@ -399,7 +399,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [2563405, "ms"] },
-            { "result": "AC", "time": [2875000, "ms"] }
+            { "result": "FB", "time": [2875000, "ms"] }
           ]
         },
         {
@@ -477,9 +477,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [14558395, "ms"] },
-            { "result": "AC", "time": [14813992, "ms"] },
-            { "result": "AC", "time": [17139560, "ms"] },
-            { "result": "AC", "time": [17719364, "ms"] }
+            { "result": "AC", "time": [14813992, "ms"] }
           ]
         },
         {
@@ -520,7 +518,7 @@
           "result": "FB",
           "time": [4586, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [4586810, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [4586810, "ms"] }]
         },
         {
           "result": "AC",
@@ -598,7 +596,7 @@
           "tries": 2,
           "solutions": [
             { "result": "TLE", "time": [2932310, "ms"] },
-            { "result": "AC", "time": [3129159, "ms"] }
+            { "result": "FB", "time": [3129159, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -606,7 +604,7 @@
           "result": "FB",
           "time": [4106, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [4106021, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [4106021, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -619,17 +617,7 @@
           "result": "AC",
           "time": [14674, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [14674389, "ms"] },
-            { "result": "AC", "time": [16519703, "ms"] },
-            { "result": "AC", "time": [17652099, "ms"] },
-            { "result": "AC", "time": [17949938, "ms"] },
-            { "result": "AC", "time": [17966980, "ms"] },
-            { "result": "AC", "time": [17973573, "ms"] },
-            { "result": "AC", "time": [17980882, "ms"] },
-            { "result": "AC", "time": [17987218, "ms"] },
-            { "result": "AC", "time": [17999410, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [14674389, "ms"] }]
         },
         {
           "result": "AC",
@@ -730,7 +718,7 @@
           "result": "FB",
           "time": [444, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [444056, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [444056, "ms"] }]
         },
         {
           "result": "RJ",
@@ -799,7 +787,7 @@
           "result": "FB",
           "time": [3055, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [3055489, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [3055489, "ms"] }]
         },
         {
           "result": "AC",
@@ -880,7 +868,7 @@
           "result": "FB",
           "time": [3744, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [3744900, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [3744900, "ms"] }]
         },
         {
           "result": "AC",
@@ -1415,11 +1403,7 @@
           "result": "AC",
           "time": [17171, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [17171872, "ms"] },
-            { "result": "WA", "time": [17865599, "ms"] },
-            { "result": "WA", "time": [17969692, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [17171872, "ms"] }]
         },
         {
           "result": "AC",
@@ -1621,7 +1605,7 @@
           "solutions": [
             { "result": "WA", "time": [957365, "ms"] },
             { "result": "WA", "time": [1090118, "ms"] },
-            { "result": "AC", "time": [1364020, "ms"] }
+            { "result": "FB", "time": [1364020, "ms"] }
           ]
         },
         {
@@ -1703,10 +1687,7 @@
           "result": "AC",
           "time": [16366, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [16366391, "ms"] },
-            { "result": "WA", "time": [17998255, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [16366391, "ms"] }]
         },
         {
           "result": "AC",
@@ -2552,10 +2533,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [4238292, "ms"] },
-            { "result": "AC", "time": [4399792, "ms"] },
-            { "result": "AC", "time": [17315528, "ms"] },
-            { "result": "AC", "time": [17322470, "ms"] },
-            { "result": "AC", "time": [17830026, "ms"] }
+            { "result": "AC", "time": [4399792, "ms"] }
           ]
         },
         {
@@ -2574,19 +2552,13 @@
           "result": "AC",
           "time": [6532, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [6532311, "ms"] },
-            { "result": "AC", "time": [17343392, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [6532311, "ms"] }]
         },
         {
           "result": "AC",
           "time": [8504, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [8504193, "ms"] },
-            { "result": "AC", "time": [17349529, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [8504193, "ms"] }]
         },
         {
           "result": "AC",
@@ -2595,50 +2567,14 @@
           "solutions": [
             { "result": "WA", "time": [13309134, "ms"] },
             { "result": "TLE", "time": [13411283, "ms"] },
-            { "result": "AC", "time": [15402063, "ms"] },
-            { "result": "TLE", "time": [15630917, "ms"] },
-            { "result": "AC", "time": [15729532, "ms"] },
-            { "result": "AC", "time": [17293227, "ms"] },
-            { "result": "AC", "time": [17355901, "ms"] },
-            { "result": "AC", "time": [17453686, "ms"] },
-            { "result": "AC", "time": [17486448, "ms"] },
-            { "result": "WA", "time": [17588724, "ms"] },
-            { "result": "WA", "time": [17597215, "ms"] },
-            { "result": "WA", "time": [17604515, "ms"] },
-            { "result": "CE", "time": [17649711, "ms"] },
-            { "result": "TLE", "time": [17666463, "ms"] },
-            { "result": "TLE", "time": [17680002, "ms"] },
-            { "result": "TLE", "time": [17686194, "ms"] },
-            { "result": "TLE", "time": [17693414, "ms"] },
-            { "result": "TLE", "time": [17701214, "ms"] },
-            { "result": "TLE", "time": [17707861, "ms"] },
-            { "result": "TLE", "time": [17715762, "ms"] },
-            { "result": "TLE", "time": [17723026, "ms"] },
-            { "result": "TLE", "time": [17728619, "ms"] },
-            { "result": "TLE", "time": [17733725, "ms"] },
-            { "result": "TLE", "time": [17740344, "ms"] },
-            { "result": "TLE", "time": [17748391, "ms"] },
-            { "result": "TLE", "time": [17758417, "ms"] },
-            { "result": "TLE", "time": [17765042, "ms"] },
-            { "result": "TLE", "time": [17771909, "ms"] },
-            { "result": "TLE", "time": [17780013, "ms"] },
-            { "result": "TLE", "time": [17835329, "ms"] },
-            { "result": "TLE", "time": [17967063, "ms"] },
-            { "result": "TLE", "time": [17974714, "ms"] },
-            { "result": "TLE", "time": [17980380, "ms"] },
-            { "result": "TLE", "time": [17987341, "ms"] },
-            { "result": "TLE", "time": [17995554, "ms"] }
+            { "result": "AC", "time": [15402063, "ms"] }
           ]
         },
         {
           "result": "AC",
           "time": [12664, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [12664618, "ms"] },
-            { "result": "AC", "time": [17363262, "ms"] },
-            { "result": "AC", "time": [17370967, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [12664618, "ms"] }]
         },
         {
           "result": "RJ",
@@ -2719,13 +2655,7 @@
           "result": "AC",
           "time": [15512, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [15512477, "ms"] },
-            { "result": "AC", "time": [16042561, "ms"] },
-            { "result": "AC", "time": [17287225, "ms"] },
-            { "result": "AC", "time": [17583773, "ms"] },
-            { "result": "AC", "time": [17818204, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [15512477, "ms"] }]
         },
         {
           "result": "AC",
@@ -3282,10 +3212,7 @@
           "result": "AC",
           "time": [383, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [383266, "ms"] },
-            { "result": "WA", "time": [4072836, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [383266, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -3312,9 +3239,7 @@
             { "result": "WA", "time": [11153406, "ms"] },
             { "result": "WA", "time": [12529593, "ms"] },
             { "result": "TLE", "time": [14760200, "ms"] },
-            { "result": "AC", "time": [16762350, "ms"] },
-            { "result": "AC", "time": [16766283, "ms"] },
-            { "result": "AC", "time": [16864190, "ms"] }
+            { "result": "AC", "time": [16762350, "ms"] }
           ]
         },
         {
@@ -3329,8 +3254,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [6150405, "ms"] },
-            { "result": "AC", "time": [6356418, "ms"] },
-            { "result": "WA", "time": [16875428, "ms"] }
+            { "result": "AC", "time": [6356418, "ms"] }
           ]
         },
         {
@@ -3343,10 +3267,7 @@
           "result": "AC",
           "time": [16595, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [16595725, "ms"] },
-            { "result": "RTE", "time": [16895736, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [16595725, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -3367,7 +3288,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [318777, "ms"] },
-            { "result": "AC", "time": [495235, "ms"] }
+            { "result": "FB", "time": [495235, "ms"] }
           ]
         }
       ]
@@ -3409,17 +3330,7 @@
             { "result": "TLE", "time": [16602866, "ms"] },
             { "result": "WA", "time": [17155101, "ms"] },
             { "result": "WA", "time": [17215908, "ms"] },
-            { "result": "AC", "time": [17312120, "ms"] },
-            { "result": "WA", "time": [17366928, "ms"] },
-            { "result": "WA", "time": [17434439, "ms"] },
-            { "result": "WA", "time": [17493893, "ms"] },
-            { "result": "WA", "time": [17563059, "ms"] },
-            { "result": "WA", "time": [17581324, "ms"] },
-            { "result": "WA", "time": [17620926, "ms"] },
-            { "result": "WA", "time": [17690369, "ms"] },
-            { "result": "WA", "time": [17771089, "ms"] },
-            { "result": "AC", "time": [17815203, "ms"] },
-            { "result": "AC", "time": [17857273, "ms"] }
+            { "result": "AC", "time": [17312120, "ms"] }
           ]
         },
         {
@@ -3671,8 +3582,7 @@
           "solutions": [
             { "result": "RTE", "time": [6373879, "ms"] },
             { "result": "WA", "time": [6633259, "ms"] },
-            { "result": "AC", "time": [6684684, "ms"] },
-            { "result": "CE", "time": [6919064, "ms"] }
+            { "result": "AC", "time": [6684684, "ms"] }
           ]
         },
         {
@@ -3708,10 +3618,7 @@
           "solutions": [
             { "result": "WA", "time": [13250777, "ms"] },
             { "result": "WA", "time": [13355199, "ms"] },
-            { "result": "AC", "time": [15237444, "ms"] },
-            { "result": "AC", "time": [17861092, "ms"] },
-            { "result": "AC", "time": [17875008, "ms"] },
-            { "result": "AC", "time": [17913170, "ms"] }
+            { "result": "AC", "time": [15237444, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -5739,8 +5646,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [13524551, "ms"] },
-            { "result": "AC", "time": [14631041, "ms"] },
-            { "result": "AC", "time": [17697067, "ms"] }
+            { "result": "AC", "time": [14631041, "ms"] }
           ]
         },
         {
@@ -6262,22 +6168,7 @@
           "solutions": [
             { "result": "WA", "time": [14712961, "ms"] },
             { "result": "WA", "time": [14788782, "ms"] },
-            { "result": "AC", "time": [16200684, "ms"] },
-            { "result": "WA", "time": [16456496, "ms"] },
-            { "result": "WA", "time": [16657233, "ms"] },
-            { "result": "WA", "time": [17328379, "ms"] },
-            { "result": "WA", "time": [17412630, "ms"] },
-            { "result": "WA", "time": [17424756, "ms"] },
-            { "result": "WA", "time": [17459975, "ms"] },
-            { "result": "AC", "time": [17619375, "ms"] },
-            { "result": "AC", "time": [17649492, "ms"] },
-            { "result": "AC", "time": [17656137, "ms"] },
-            { "result": "AC", "time": [17663866, "ms"] },
-            { "result": "AC", "time": [17674286, "ms"] },
-            { "result": "AC", "time": [17679996, "ms"] },
-            { "result": "AC", "time": [17685216, "ms"] },
-            { "result": "AC", "time": [17716742, "ms"] },
-            { "result": "AC", "time": [17723645, "ms"] }
+            { "result": "AC", "time": [16200684, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -6941,9 +6832,7 @@
             { "result": "WA", "time": [1449870, "ms"] },
             { "result": "WA", "time": [2931552, "ms"] },
             { "result": "WA", "time": [3997338, "ms"] },
-            { "result": "AC", "time": [6489471, "ms"] },
-            { "result": "AC", "time": [17630617, "ms"] },
-            { "result": "WA", "time": [17659742, "ms"] }
+            { "result": "AC", "time": [6489471, "ms"] }
           ]
         }
       ]
@@ -7153,8 +7042,7 @@
           "tries": 2,
           "solutions": [
             { "result": "RTE", "time": [7652786, "ms"] },
-            { "result": "AC", "time": [8056929, "ms"] },
-            { "result": "WA", "time": [8377386, "ms"] }
+            { "result": "AC", "time": [8056929, "ms"] }
           ]
         },
         {
@@ -7285,12 +7173,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [17277552, "ms"] },
-            { "result": "AC", "time": [17413217, "ms"] },
-            { "result": "AC", "time": [17466563, "ms"] },
-            { "result": "AC", "time": [17505193, "ms"] },
-            { "result": "WA", "time": [17880588, "ms"] },
-            { "result": "WA", "time": [17923646, "ms"] },
-            { "result": "WA", "time": [17944042, "ms"] }
+            { "result": "AC", "time": [17413217, "ms"] }
           ]
         },
         {
@@ -7642,8 +7525,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [1408401, "ms"] },
-            { "result": "AC", "time": [1712809, "ms"] },
-            { "result": "WA", "time": [17343393, "ms"] }
+            { "result": "AC", "time": [1712809, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -7885,9 +7767,7 @@
           "solutions": [
             { "result": "WA", "time": [9463525, "ms"] },
             { "result": "WA", "time": [9647761, "ms"] },
-            { "result": "AC", "time": [9740890, "ms"] },
-            { "result": "AC", "time": [11976666, "ms"] },
-            { "result": "WA", "time": [11998092, "ms"] }
+            { "result": "AC", "time": [9740890, "ms"] }
           ]
         },
         {
@@ -7999,12 +7879,7 @@
           "result": "AC",
           "time": [14928, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [14928849, "ms"] },
-            { "result": "AC", "time": [17539539, "ms"] },
-            { "result": "AC", "time": [17555186, "ms"] },
-            { "result": "AC", "time": [17947618, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [14928849, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -8583,10 +8458,7 @@
           "result": "AC",
           "time": [6526, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [6526606, "ms"] },
-            { "result": "AC", "time": [17771182, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [6526606, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -8599,10 +8471,7 @@
             { "result": "WA", "time": [15278381, "ms"] },
             { "result": "WA", "time": [15380158, "ms"] },
             { "result": "RTE", "time": [16340784, "ms"] },
-            { "result": "AC", "time": [16378913, "ms"] },
-            { "result": "AC", "time": [17706712, "ms"] },
-            { "result": "AC", "time": [17726740, "ms"] },
-            { "result": "AC", "time": [17961276, "ms"] }
+            { "result": "AC", "time": [16378913, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -8731,7 +8600,7 @@
           "result": "FB",
           "time": [9, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [9199, "ms"] }]
+          "solutions": [{ "result": "FB", "time": [9199, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -8995,12 +8864,7 @@
           "solutions": [
             { "result": "RTE", "time": [15500006, "ms"] },
             { "result": "RTE", "time": [16536286, "ms"] },
-            { "result": "AC", "time": [16708800, "ms"] },
-            { "result": "AC", "time": [17632628, "ms"] },
-            { "result": "WA", "time": [17814569, "ms"] },
-            { "result": "AC", "time": [17931581, "ms"] },
-            { "result": "AC", "time": [17957820, "ms"] },
-            { "result": "AC", "time": [17993680, "ms"] }
+            { "result": "AC", "time": [16708800, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -9563,17 +9427,7 @@
           "solutions": [
             { "result": "RTE", "time": [11843195, "ms"] },
             { "result": "WA", "time": [11917615, "ms"] },
-            { "result": "AC", "time": [13391109, "ms"] },
-            { "result": "AC", "time": [17564223, "ms"] },
-            { "result": "AC", "time": [17583865, "ms"] },
-            { "result": "AC", "time": [17631273, "ms"] },
-            { "result": "WA", "time": [17703567, "ms"] },
-            { "result": "WA", "time": [17750484, "ms"] },
-            { "result": "WA", "time": [17793754, "ms"] },
-            { "result": "AC", "time": [17892276, "ms"] },
-            { "result": "WA", "time": [17920057, "ms"] },
-            { "result": "AC", "time": [17944382, "ms"] },
-            { "result": "AC", "time": [17974403, "ms"] }
+            { "result": "AC", "time": [13391109, "ms"] }
           ]
         },
         {
@@ -9829,8 +9683,7 @@
             { "result": "WA", "time": [16618688, "ms"] },
             { "result": "WA", "time": [16724412, "ms"] },
             { "result": "WA", "time": [16806969, "ms"] },
-            { "result": "AC", "time": [17432661, "ms"] },
-            { "result": "AC", "time": [17596038, "ms"] }
+            { "result": "AC", "time": [17432661, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -10690,10 +10543,7 @@
           "result": "AC",
           "time": [195, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [195302, "ms"] },
-            { "result": "WA", "time": [10425905, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [195302, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -10724,8 +10574,7 @@
             { "result": "RTE", "time": [9549218, "ms"] },
             { "result": "RTE", "time": [9950716, "ms"] },
             { "result": "RTE", "time": [10145218, "ms"] },
-            { "result": "AC", "time": [10440782, "ms"] },
-            { "result": "AC", "time": [10468715, "ms"] }
+            { "result": "AC", "time": [10440782, "ms"] }
           ]
         },
         {
@@ -11007,10 +10856,7 @@
           "result": "AC",
           "time": [115, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [115365, "ms"] },
-            { "result": "WA", "time": [13744612, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [115365, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -11375,8 +11221,7 @@
             { "result": "RTE", "time": [3642591, "ms"] },
             { "result": "WA", "time": [4061614, "ms"] },
             { "result": "RTE", "time": [5073928, "ms"] },
-            { "result": "AC", "time": [5811283, "ms"] },
-            { "result": "AC", "time": [5838363, "ms"] }
+            { "result": "AC", "time": [5811283, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -11645,10 +11490,7 @@
           "result": "AC",
           "time": [189, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [189342, "ms"] },
-            { "result": "WA", "time": [14981082, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [189342, "ms"] }]
         },
         {
           "result": "RJ",
@@ -12984,8 +12826,7 @@
             { "result": "RTE", "time": [8018881, "ms"] },
             { "result": "RTE", "time": [9164716, "ms"] },
             { "result": "WA", "time": [9569130, "ms"] },
-            { "result": "AC", "time": [10384068, "ms"] },
-            { "result": "AC", "time": [10584890, "ms"] }
+            { "result": "AC", "time": [10384068, "ms"] }
           ]
         },
         {
@@ -13149,18 +12990,14 @@
           "solutions": [
             { "result": "TLE", "time": [10704073, "ms"] },
             { "result": "TLE", "time": [11423742, "ms"] },
-            { "result": "AC", "time": [11629672, "ms"] },
-            { "result": "AC", "time": [11851621, "ms"] }
+            { "result": "AC", "time": [11629672, "ms"] }
           ]
         },
         {
           "result": "AC",
           "time": [14564, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [14564759, "ms"] },
-            { "result": "AC", "time": [17892458, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [14564759, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -13744,10 +13581,7 @@
           "result": "AC",
           "time": [12531, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [12531690, "ms"] },
-            { "result": "WA", "time": [17922560, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [12531690, "ms"] }]
         },
         {
           "result": "AC",
@@ -14790,10 +14624,7 @@
           "result": "AC",
           "time": [3388, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [3388325, "ms"] },
-            { "result": "WA", "time": [4655236, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [3388325, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -15013,8 +14844,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [11601114, "ms"] },
-            { "result": "AC", "time": [12428918, "ms"] },
-            { "result": "WA", "time": [12522330, "ms"] }
+            { "result": "AC", "time": [12428918, "ms"] }
           ]
         },
         {
@@ -15024,8 +14854,7 @@
           "solutions": [
             { "result": "WA", "time": [14434272, "ms"] },
             { "result": "WA", "time": [14704884, "ms"] },
-            { "result": "AC", "time": [15011302, "ms"] },
-            { "result": "AC", "time": [15112850, "ms"] }
+            { "result": "AC", "time": [15011302, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -15337,8 +15166,7 @@
             { "result": "WA", "time": [11511654, "ms"] },
             { "result": "RTE", "time": [14489957, "ms"] },
             { "result": "RTE", "time": [14581389, "ms"] },
-            { "result": "AC", "time": [15172495, "ms"] },
-            { "result": "RTE", "time": [15286454, "ms"] }
+            { "result": "AC", "time": [15172495, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -18032,10 +17860,7 @@
           "result": "AC",
           "time": [16477, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [16477925, "ms"] },
-            { "result": "WA", "time": [16511226, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [16477925, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -19536,8 +19361,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [106696, "ms"] },
-            { "result": "AC", "time": [198279, "ms"] },
-            { "result": "WA", "time": [5372042, "ms"] }
+            { "result": "AC", "time": [198279, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -19877,10 +19701,7 @@
             { "result": "WA", "time": [13848891, "ms"] },
             { "result": "WA", "time": [14473029, "ms"] },
             { "result": "WA", "time": [15677365, "ms"] },
-            { "result": "AC", "time": [16863823, "ms"] },
-            { "result": "AC", "time": [16991834, "ms"] },
-            { "result": "AC", "time": [16998601, "ms"] },
-            { "result": "AC", "time": [17005126, "ms"] }
+            { "result": "AC", "time": [16863823, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -20014,8 +19835,7 @@
             { "result": "WA", "time": [10011089, "ms"] },
             { "result": "WA", "time": [10413098, "ms"] },
             { "result": "WA", "time": [12374148, "ms"] },
-            { "result": "AC", "time": [14927878, "ms"] },
-            { "result": "AC", "time": [17894555, "ms"] }
+            { "result": "AC", "time": [14927878, "ms"] }
           ]
         }
       ]
@@ -21230,8 +21050,7 @@
             { "result": "WA", "time": [15377428, "ms"] },
             { "result": "WA", "time": [16416306, "ms"] },
             { "result": "TLE", "time": [17808563, "ms"] },
-            { "result": "AC", "time": [17834560, "ms"] },
-            { "result": "WA", "time": [17901009, "ms"] }
+            { "result": "AC", "time": [17834560, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -21571,9 +21390,7 @@
             { "result": "TLE", "time": [16150400, "ms"] },
             { "result": "TLE", "time": [16792933, "ms"] },
             { "result": "WA", "time": [16876781, "ms"] },
-            { "result": "AC", "time": [16975108, "ms"] },
-            { "result": "AC", "time": [17511429, "ms"] },
-            { "result": "AC", "time": [17649641, "ms"] }
+            { "result": "AC", "time": [16975108, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -21703,8 +21520,7 @@
           "tries": 2,
           "solutions": [
             { "result": "RTE", "time": [16830071, "ms"] },
-            { "result": "AC", "time": [17047314, "ms"] },
-            { "result": "RTE", "time": [17280445, "ms"] }
+            { "result": "AC", "time": [17047314, "ms"] }
           ]
         },
         {
@@ -21750,10 +21566,7 @@
           "result": "AC",
           "time": [7693, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [7693748, "ms"] },
-            { "result": "CE", "time": [17118820, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [7693748, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         {
@@ -23503,8 +23316,7 @@
           "solutions": [
             { "result": "WA", "time": [691026, "ms"] },
             { "result": "WA", "time": [1421170, "ms"] },
-            { "result": "AC", "time": [6032859, "ms"] },
-            { "result": "WA", "time": [11835766, "ms"] }
+            { "result": "AC", "time": [6032859, "ms"] }
           ]
         }
       ]
@@ -23819,10 +23631,7 @@
           "result": "AC",
           "time": [237, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [237145, "ms"] },
-            { "result": "TLE", "time": [16870880, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [237145, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -24634,8 +24443,7 @@
             { "result": "WA", "time": [14054468, "ms"] },
             { "result": "WA", "time": [14390791, "ms"] },
             { "result": "WA", "time": [15584645, "ms"] },
-            { "result": "AC", "time": [16489591, "ms"] },
-            { "result": "WA", "time": [17966866, "ms"] }
+            { "result": "AC", "time": [16489591, "ms"] }
           ]
         },
         {
@@ -26005,10 +25813,7 @@
           "result": "AC",
           "time": [187, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [187240, "ms"] },
-            { "result": "RTE", "time": [17447382, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [187240, "ms"] }]
         },
         {
           "result": "RJ",
@@ -28529,8 +28334,7 @@
             { "result": "WA", "time": [4774858, "ms"] },
             { "result": "WA", "time": [5628711, "ms"] },
             { "result": "WA", "time": [9075142, "ms"] },
-            { "result": "AC", "time": [10037502, "ms"] },
-            { "result": "WA", "time": [17779834, "ms"] }
+            { "result": "AC", "time": [10037502, "ms"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -32604,10 +32408,7 @@
           "result": "AC",
           "time": [350, "s"],
           "tries": 1,
-          "solutions": [
-            { "result": "AC", "time": [350867, "ms"] },
-            { "result": "AC", "time": [548027, "ms"] }
-          ]
+          "solutions": [{ "result": "AC", "time": [350867, "ms"] }]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -33703,6 +33504,10 @@
       "timeRounding": "floor"
     }
   },
-  "markers": [{ "id": "female", "label": "女队", "style": "pink" }],
+  "markers": [
+    { "id": "icpc", "label": "ICPC", "style": "purple" },
+    { "id": "edu-provincial", "label": "教育厅省赛", "style": "blue" },
+    { "id": "icpc-provincial", "label": "ICPC省赛", "style": "green" }
+  ],
   "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"]
 }

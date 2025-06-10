@@ -612,11 +612,6 @@
                 "path": "ccpc2025invitational-dongbei",
                 "format": "srk.json",
                 "name": "2025-05-25 东北邀请赛"
-              },
-              {
-                "path": "ccpc2025invitational-zhengzhou",
-                "format": "srk.json",
-                "name": "2025-06-02 郑州邀请赛"
               }
             ]
           },
@@ -1341,9 +1336,14 @@
             "name": "四川省赛",
             "children": [
               {
+                "path": "sccpc17th",
+                "format": "srk.json",
+                "name": "2025-06-08 第十七届"
+              },
+              {
                 "path": "sccpc16th",
                 "format": "srk.json",
-                "name": "2024-06-16 第十五届"
+                "name": "2024-06-16 第十六届"
               },
               {
                 "path": "sccpc15th",
@@ -1393,6 +1393,11 @@
             "path": "northeast",
             "name": "东北地区赛",
             "children": [
+              {
+                "path": "northeastcpc19th",
+                "format": "srk.json",
+                "name": "2025-05-25 第十九届"
+              },
               {
                 "path": "northeastcpc15th",
                 "format": "srk.json",

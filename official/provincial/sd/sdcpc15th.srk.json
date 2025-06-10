@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.4",
+  "version": "0.3.7",
   "contest": {
     "title": {
       "zh-CN": "2025年山东省大学生程序设计竞赛 - 正式赛",
@@ -68,7 +68,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [1124, "s"] },
-            { "result": "AC", "time": [1309, "s"] }
+            { "result": "FB", "time": [1309, "s"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -99,7 +99,7 @@
             { "result": "WA", "time": [2395, "s"] },
             { "result": "WA", "time": [2525, "s"] },
             { "result": "WA", "time": [2729, "s"] },
-            { "result": "AC", "time": [3237, "s"] }
+            { "result": "FB", "time": [3237, "s"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -139,7 +139,7 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [2473, "s"] },
-            { "result": "AC", "time": [6766, "s"] }
+            { "result": "FB", "time": [6766, "s"] }
           ]
         },
         {
@@ -157,7 +157,7 @@
             { "result": "WA", "time": [15056, "s"] },
             { "result": "RTE", "time": [15313, "s"] },
             { "result": "WA", "time": [15355, "s"] },
-            { "result": "AC", "time": [16691, "s"] }
+            { "result": "FB", "time": [16691, "s"] }
           ]
         }
       ]
@@ -236,7 +236,7 @@
             { "result": "TLE", "time": [7756, "s"] },
             { "result": "TLE", "time": [8397, "s"] },
             { "result": "TLE", "time": [8930, "s"] },
-            { "result": "AC", "time": [9202, "s"] }
+            { "result": "FB", "time": [9202, "s"] }
           ]
         },
         {
@@ -472,14 +472,14 @@
           "tries": 2,
           "solutions": [
             { "result": "WA", "time": [10663, "s"] },
-            { "result": "AC", "time": [11377, "s"] }
+            { "result": "FB", "time": [11377, "s"] }
           ]
         },
         {
           "result": "FB",
           "time": [739, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [739, "s"] }]
+          "solutions": [{ "result": "FB", "time": [739, "s"] }]
         },
         {
           "result": "AC",
@@ -824,7 +824,7 @@
           "tries": 1,
           "solutions": [
             { "result": "CE", "time": [212, "s"] },
-            { "result": "AC", "time": [219, "s"] }
+            { "result": "FB", "time": [219, "s"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 }
@@ -913,7 +913,7 @@
           "tries": 1,
           "solutions": [
             { "result": "CE", "time": [2319, "s"] },
-            { "result": "AC", "time": [2326, "s"] }
+            { "result": "FB", "time": [2326, "s"] }
           ]
         },
         {
@@ -2279,8 +2279,7 @@
           "tries": 2,
           "solutions": [
             { "result": "TLE", "time": [8084, "s"] },
-            { "result": "AC", "time": [10513, "s"] },
-            { "result": "TLE", "time": [16312, "s"] }
+            { "result": "AC", "time": [10513, "s"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -2504,8 +2503,7 @@
           "solutions": [
             { "result": "WA", "time": [13859, "s"] },
             { "result": "WA", "time": [14196, "s"] },
-            { "result": "AC", "time": [16152, "s"] },
-            { "result": "AC", "time": [17992, "s"] }
+            { "result": "AC", "time": [16152, "s"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -2634,8 +2632,7 @@
             { "result": "RTE", "time": [7698, "s"] },
             { "result": "TLE", "time": [7776, "s"] },
             { "result": "TLE", "time": [8158, "s"] },
-            { "result": "AC", "time": [14342, "s"] },
-            { "result": "WA", "time": [17170, "s"] }
+            { "result": "AC", "time": [14342, "s"] }
           ]
         },
         {
@@ -3621,7 +3618,7 @@
           "result": "FB",
           "time": [1274, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [1274, "s"] }]
+          "solutions": [{ "result": "FB", "time": [1274, "s"] }]
         },
         {
           "result": "RJ",
@@ -3962,7 +3959,7 @@
           "result": "FB",
           "time": [2437, "s"],
           "tries": 1,
-          "solutions": [{ "result": "AC", "time": [2437, "s"] }]
+          "solutions": [{ "result": "FB", "time": [2437, "s"] }]
         },
         {
           "result": "AC",
@@ -6884,8 +6881,7 @@
           "tries": 2,
           "solutions": [
             { "result": "TLE", "time": [17848, "s"] },
-            { "result": "AC", "time": [17927, "s"] },
-            { "result": "AC", "time": [17945, "s"] }
+            { "result": "AC", "time": [17927, "s"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -9835,8 +9831,7 @@
           "tries": 2,
           "solutions": [
             { "result": "RTE", "time": [9666, "s"] },
-            { "result": "AC", "time": [10119, "s"] },
-            { "result": "AC", "time": [14239, "s"] }
+            { "result": "AC", "time": [10119, "s"] }
           ]
         },
         { "result": null, "time": [0, "s"], "tries": 0 },
@@ -17861,7 +17856,9 @@
       "noPenaltyResults": ["FB", "AC", "?", "CE", "UKE", null],
       "penalty": [20, "min"],
       "timePrecision": "s",
-      "timeRounding": "floor"
+      "timeRounding": "floor",
+      "rankingTimePrecision": "min",
+      "rankingTimeRounding": "floor"
     }
   },
   "markers": [{ "id": "female", "label": "女队", "style": "pink" }],
