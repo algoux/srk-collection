@@ -967,11 +967,6 @@
             "name": "湖南省赛",
             "children": [
               {
-                "path": "hncpc21st",
-                "format": "srk.json",
-                "name": "2025-05-11 第二十一届"
-              },
-              {
                 "path": "hncpc20th",
                 "format": "srk.json",
                 "name": "2024-10-13 第二十届"
@@ -983,7 +978,7 @@
             "name": "福建省赛",
             "children": [
               {
-                "path": "fjcpc11st",
+                "path": "fjcpc11th",
                 "format": "srk.json",
                 "name": "2024-05-26 第十一届"
               }
@@ -1220,6 +1215,11 @@
             "path": "ha",
             "name": "河南省赛",
             "children": [
+              {
+                "path": "haicpccpc16th",
+                "format": "srk.json",
+                "name": "2025-05-11 第十六届ICPC"
+              },
               {
                 "path": "haicpccpc15th",
                 "format": "srk.json",
