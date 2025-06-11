@@ -35,7 +35,7 @@
       ],
       "rule": {
         "preset": "ICPC",
-        "options": { "count": { "value": [0, 0, 0] } }
+        "options": { "ratio": { "value": [0.1, 0.2, 0.3] } }
       }
     },
     { "title": "R#", "rule": { "preset": "Normal" } },

@@ -90,6 +90,30 @@
         "options": { "count": { "value": [0, 0, 0] } }
       }
     },
+    {
+      "title": "本科组#",
+      "segments": [
+        { "title": "金奖", "style": "gold" },
+        { "title": "银奖", "style": "silver" },
+        { "title": "铜奖", "style": "bronze" }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": { "count": { "value": [27, 40, 67] } }
+      }
+    },
+    {
+      "title": "专科组#",
+      "segments": [
+        { "title": "金奖", "style": "gold" },
+        { "title": "银奖", "style": "silver" },
+        { "title": "铜奖", "style": "bronze" }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": { "count": { "value": [16, 22, 38] } }
+      }
+    },
     { "title": "R#", "rule": { "preset": "Normal" } },
     {
       "title": "S#",
@@ -31414,5 +31438,8 @@
     { "id": "undergraduate", "label": "本科组", "style": "purple" },
     { "id": "vocational", "label": "专科组", "style": "blue" }
   ],
-  "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"]
+  "contributors": [
+    "XCPCIO (https://xcpcio.com)",
+    "algoUX (https://algoux.org)"
+  ]
 }

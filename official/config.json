@@ -13,12 +13,12 @@
               {
                 "path": "icpc2025invitational-wuhan",
                 "format": "srk.json",
-                "name": "2025-05-18 南昌邀请赛"
+                "name": "2025-04-27 武汉邀请赛"
               },
               {
                 "path": "icpc2025invitational-nanchang",
                 "format": "srk.json",
-                "name": "2025-04-27 武汉邀请赛"
+                "name": "2025-05-18 南昌邀请赛"
               }
             ]
           },
@@ -609,7 +609,7 @@
             "name": "CCPC 2025",
             "children": [
               {
-                "path": "ccpc2025invitational-dongbei",
+                "path": "ccpc2025invitational-northeast",
                 "format": "srk.json",
                 "name": "2025-05-25 东北邀请赛"
               }
@@ -967,7 +967,7 @@
             "name": "湖南省赛",
             "children": [
               {
-                "path": "hncpc21th",
+                "path": "hncpc21st",
                 "format": "srk.json",
                 "name": "2025-05-11 第二十一届"
               },
@@ -983,7 +983,7 @@
             "name": "福建省赛",
             "children": [
               {
-                "path": "fjcpc11th",
+                "path": "fjcpc11st",
                 "format": "srk.json",
                 "name": "2024-05-26 第十一届"
               }
@@ -1078,7 +1078,7 @@
             "name": "浙江省赛",
             "children": [
               {
-                "path": "zjcpc22st",
+                "path": "zjcpc22nd",
                 "format": "srk.json",
                 "name": "2025-04-26 第二十二届"
               },

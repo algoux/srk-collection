@@ -19743,5 +19743,12 @@
     { "id": "female", "label": "女队", "style": "pink" },
     { "id": "colleges", "label": "高职队伍", "style": "purple" }
   ],
-  "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"]
+  "contributors": [
+    "XCPCIO (https://xcpcio.com)",
+    "algoUX (https://algoux.org)"
+  ],
+  "remarks": {
+    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  }
 }
