@@ -2427,7 +2427,7 @@
           { "name": "陈欣玥" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 6, "time": [43560, "s"] },
       "statuses": [
@@ -9380,7 +9380,7 @@
           { "name": "朱明慧" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 4, "time": [55020, "s"] },
       "statuses": [
@@ -10282,7 +10282,7 @@
           { "name": "张苏停" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 3, "time": [19980, "s"] },
       "statuses": [
@@ -11677,7 +11677,8 @@
         "id": "E23",
         "organization": "四川现代职业学院",
         "teamMembers": [{ "name": "何彦儒" }, { "name": "王广仁" }],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 3, "time": [32940, "s"] },
       "statuses": [
@@ -12428,7 +12429,8 @@
           { "name": "孙海宇" },
           { "name": "王文俊" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 3, "time": [42600, "s"] },
       "statuses": [
@@ -13181,7 +13183,7 @@
           { "name": "毛露涵" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 3, "time": [59340, "s"] },
       "statuses": [
@@ -14043,7 +14045,8 @@
           { "name": "叶瑞鑫" },
           { "name": "青灿" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 2, "time": [16020, "s"] },
       "statuses": [
@@ -14554,7 +14557,7 @@
           { "name": "朱容嫣" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 2, "time": [20940, "s"] },
       "statuses": [
@@ -14757,7 +14760,7 @@
           { "name": "蓝小雅" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 2, "time": [22560, "s"] },
       "statuses": [
@@ -14829,7 +14832,7 @@
           { "name": "周阳妍鳳" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 2, "time": [25320, "s"] },
       "statuses": [
@@ -15673,7 +15676,7 @@
           { "name": "谢心淳" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 2, "time": [36720, "s"] },
       "statuses": [
@@ -15735,7 +15738,8 @@
           { "name": "杨夕平" },
           { "name": "王垚" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 2, "time": [37680, "s"] },
       "statuses": [
@@ -16164,7 +16168,7 @@
           { "name": "荆蕊" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [5640, "s"] },
       "statuses": [
@@ -16360,7 +16364,7 @@
           { "name": "郭子欣" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [6720, "s"] },
       "statuses": [
@@ -16483,7 +16487,7 @@
           { "name": "文婧" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [7020, "s"] },
       "statuses": [
@@ -16855,7 +16859,8 @@
           { "name": "赵伍林" },
           { "name": "龚渭庭" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 1, "time": [10560, "s"] },
       "statuses": [
@@ -17191,7 +17196,7 @@
           { "name": "郑媛" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [13140, "s"] },
       "statuses": [
@@ -17375,7 +17380,7 @@
           { "name": "王哓燕" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [16680, "s"] },
       "statuses": [
@@ -17425,7 +17430,7 @@
           { "name": "杨美雪" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [16860, "s"] },
       "statuses": [
@@ -17493,7 +17498,7 @@
           { "name": "邱瑞娴" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [16920, "s"] },
       "statuses": [
@@ -17637,7 +17642,7 @@
           { "name": "周言" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 1, "time": [18060, "s"] },
       "statuses": [
@@ -17844,7 +17849,8 @@
           { "name": "詹定祥" },
           { "name": "何宇航" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 1, "time": [18660, "s"] },
       "statuses": [
@@ -18011,7 +18017,8 @@
           { "name": "刘杰洋" },
           { "name": "李春林" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 1, "time": [23040, "s"] },
       "statuses": [
@@ -18476,7 +18483,7 @@
           { "name": "胡又苹" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -18576,7 +18583,8 @@
           { "name": "李夕多" },
           { "name": "陈瑜" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -18617,7 +18625,8 @@
           { "name": "唐伯宇" },
           { "name": "肖童" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -18971,7 +18980,8 @@
           { "name": "邱何艳" },
           { "name": "罗秋萍" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -19007,7 +19017,8 @@
           { "name": "廖创" },
           { "name": "党元晟" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -19048,7 +19059,8 @@
           { "name": "韩露阳" },
           { "name": "刘劲草" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -19202,7 +19214,7 @@
           { "name": "王璇" }
         ],
         "official": true,
-        "marker": "female"
+        "markers": ["female"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -19250,7 +19262,8 @@
           { "name": "杨浩" },
           { "name": "胡杰伦" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["colleges"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
