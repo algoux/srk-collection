@@ -27,6 +27,16 @@
             "name": "ICPC 2024",
             "children": [
               {
+                "path": "icpc46th2024worldfinals",
+                "format": "srk.json",
+                "name": "2024-04-18 World Finals (46th)"
+              },
+              {
+                "path": "icpc47th2024worldfinals",
+                "format": "srk.json",
+                "name": "2024-04-18 World Finals (47th)"
+              },
+              {
                 "path": "icpc2024invitational-wuhan",
                 "format": "srk.json",
                 "name": "2024-05-02 武汉邀请赛"
@@ -75,16 +85,6 @@
                 "path": "icpc2024hongkong",
                 "format": "srk.json",
                 "name": "2024-12-22 香港站"
-              },
-              {
-                "path": "icpc46th2024worldfinals",
-                "format": "srk.json",
-                "name": "2024-04-18 World Finals (46th)"
-              },
-              {
-                "path": "icpc47th2024worldfinals",
-                "format": "srk.json",
-                "name": "2024-04-18 World Finals (47th)"
               },
               {
                 "path": "icpc2024ecfinal",
