@@ -612,6 +612,11 @@
                 "path": "ccpc2025invitational-northeast",
                 "format": "srk.json",
                 "name": "2025-05-25 东北邀请赛"
+              },
+              {
+                "path": "ccpc2025invitational-zhengzhou",
+                "format": "srk.json",
+                "name": "2025-06-02 郑州邀请赛"
               }
             ]
           },
@@ -1170,14 +1175,14 @@
                 "name": "2019-05-12 第十届"
               },
               {
-                "path": "sdcpc9th",
-                "format": "srk.json",
-                "name": "2018-06-06 第九届"
-              },
-              {
                 "path": "sdcpc9th-rejudged",
                 "format": "srk.json",
                 "name": "2018-06-06 第九届（重判）"
+              },
+              {
+                "path": "sdcpc9th",
+                "format": "srk.json",
+                "name": "2018-06-06 第九届"
               },
               {
                 "path": "sdcpc8th",
@@ -1216,39 +1221,44 @@
             "name": "河南省赛",
             "children": [
               {
-                "path": "haicpccpc16th",
+                "path": "haccpc7th",
                 "format": "srk.json",
-                "name": "2025-05-11 第十六届ICPC"
+                "name": "2025-06-02 第七届 CCPC"
               },
               {
-                "path": "haicpccpc15th",
+                "path": "haicpc16th",
                 "format": "srk.json",
-                "name": "2024-06-03 第十五届ICPC"
+                "name": "2025-05-11 第十六届 ICPC"
               },
               {
-                "path": "haccpccpc6th",
+                "path": "haicpc15th",
                 "format": "srk.json",
-                "name": "2024-05-12 第六届CCPC"
+                "name": "2024-06-03 第十五届 ICPC"
               },
               {
-                "path": "haccpccpc5th",
+                "path": "haccpc6th",
                 "format": "srk.json",
-                "name": "2023-05-07 第五届CCPC"
+                "name": "2024-05-12 第六届 CCPC"
               },
               {
-                "path": "haccpccpc4th",
+                "path": "haccpc5th",
                 "format": "srk.json",
-                "name": "2022-10-02 第四届CCPC"
+                "name": "2023-05-07 第五届 CCPC"
               },
               {
-                "path": "haccpccpc3rd",
+                "path": "haccpc4th",
                 "format": "srk.json",
-                "name": "2021-10-30 第三届CCPC"
+                "name": "2022-10-02 第四届 CCPC"
               },
               {
-                "path": "haccpccpc2nd",
+                "path": "haccpc3rd",
                 "format": "srk.json",
-                "name": "2020-11-21 第二届CCPC"
+                "name": "2021-10-30 第三届 CCPC"
+              },
+              {
+                "path": "haccpc2nd",
+                "format": "srk.json",
+                "name": "2020-11-21 第二届 CCPC"
               }
             ]
           },
