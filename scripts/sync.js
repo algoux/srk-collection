@@ -161,7 +161,7 @@ async function sync(dir) {
   if (hasError) {
     console.error('Some ranklists failed to sync, aborting collection sync');
     await fs.remove(tempUploadingDir);
-    return;
+    process.exit(1);
   }
 
   console.log('Syncing collection', dir);
