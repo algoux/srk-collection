@@ -14,6 +14,19 @@ const req = got.extend({
     algoux: process.env.ALGOUX_API_TOKEN,
   },
   timeout: 30000,
+  retry: {
+    limit: 3,
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'HEAD', 'OPTIONS'],
+    statusCodes: [408, 413, 429, 500, 502, 503, 504],
+    errorCodes: ['ETIMEDOUT', 'ECONNRESET', 'ENOTFOUND', 'EAI_AGAIN'],
+    calculateDelay: ({ computedValue, error, attemptCount }) => {
+      console.log(`Retrying request due to error: ${error.code} ${error.message} (attempt ${attemptCount})`);
+      if (error.code === 'ETIMEDOUT' && attemptCount < 2) {
+        return 1000;
+      }
+      return computedValue;
+    },
+  },
 });
 
 async function sync(dir) {
@@ -27,7 +40,9 @@ async function sync(dir) {
     const filePath = path.resolve(dir, fileMap[uniqueKey].path);
     switch (fileMap[uniqueKey].format) {
       case 'srk.json': {
-        const fileJson = JSON.parse(fs.readFileSync(path.resolve(dir, fileMap[uniqueKey].path), 'utf8'));
+        const fileJson = JSON.parse(
+          fs.readFileSync(path.resolve(dir, fileMap[uniqueKey].path), 'utf8'),
+        );
         return {
           uniqueKey,
           name: fileMap[uniqueKey].name,
@@ -36,98 +51,118 @@ async function sync(dir) {
         };
       }
       default:
-        throw new Error(`Prepare failed for ${uniqueKey}: unknown file format ${fileMap[uniqueKey]}`);
+        throw new Error(
+          `Prepare failed for ${uniqueKey}: unknown file format ${fileMap[uniqueKey]}`,
+        );
     }
   });
+  let hasError = false;
   for (const file of files) {
     queue.add(async () => {
       console.log('Syncing rank', file.uniqueKey);
-      const { body: checkRes } = await req.get(`rank/${file.uniqueKey}`, {
-        responseType: 'json',
-      });
-      if (!checkRes) {
-        throw new Error('Sync failed: no response when checking remote rank');
-      }
-      let needUpload = true;
-      let isUpsert = false;
-      if (checkRes.code === 0) {
-        try {
-          const remoteFileContent = await req.get(`file/download?id=${checkRes.data.fileID}`, {
-            responseType: 'buffer',
-          });
-          if (Buffer.isBuffer(remoteFileContent.body) && remoteFileContent.body.equals(file.fileContent)) {
-            console.log(`Skipped cuz file ${file.uniqueKey} is up to date`);
-            needUpload = false;
-            if (checkRes.data.name === file.name) {
-              console.log(`Skipped cuz rank ${file.uniqueKey} is up to date`);
-              return;
+      try {
+        const { body: checkRes } = await req.get(`rank/${file.uniqueKey}`, {
+          responseType: 'json',
+        });
+        if (!checkRes) {
+          throw new Error('Sync failed: no response when checking remote rank');
+        }
+        let needUpload = true;
+        let isUpsert = false;
+        if (checkRes.code === 0) {
+          try {
+            const remoteFileContent = await req.get(`file/download?id=${checkRes.data.fileID}`, {
+              responseType: 'buffer',
+            });
+            if (
+              Buffer.isBuffer(remoteFileContent.body) &&
+              remoteFileContent.body.equals(file.fileContent)
+            ) {
+              console.log(`Skipped cuz file ${file.uniqueKey} is up to date`);
+              needUpload = false;
+              if (checkRes.data.name === file.name) {
+                console.log(`Skipped cuz rank ${file.uniqueKey} is up to date`);
+                return;
+              }
+            }
+          } catch (e) {
+            if (!e.response) {
+              throw e;
+            }
+            if (e.response.statusCode !== 404) {
+              throw e;
+            } else {
+              // file not found, upload it later
             }
           }
-        } catch (e) {
-          if (!e.response) {
-            throw e;
+          isUpsert = true;
+        } else if (checkRes.code !== 11) {
+          throw new Error(
+            `Sync failed: unknown response (code: ${checkRes.code}) when checking remote rank`,
+          );
+        }
+        // upload file
+        let fileID = checkRes && checkRes.code === 0 ? checkRes.data.fileID : undefined;
+        if (needUpload) {
+          console.log('Uploading file', file.uniqueKey);
+          const tempFilePath = path.join(tempUploadingDir, path.basename(file.filePath));
+          await fs.writeFile(tempFilePath, file.fileContent);
+          const uploadForm = new FormData();
+          uploadForm.append('file', fs.createReadStream(tempFilePath));
+          const { body: uploadRes } = await req.post('file/upload', {
+            body: uploadForm,
+            responseType: 'json',
+          });
+          if (!(uploadRes && uploadRes.code === 0)) {
+            console.error('Upload failed:', uploadRes);
+            throw new Error('Sync failed: unexpected response when uploading file');
           }
-          if (e.response.statusCode !== 404) {
-            throw e;
-          } else {
-            // file not found, upload it later
+          fileID = uploadRes.data.id;
+        }
+        // create or update rank
+        if (!isUpsert) {
+          console.log('Creating rank', file.uniqueKey);
+          const { body: createRes } = await req.post('rank', {
+            json: {
+              uniqueKey: file.uniqueKey,
+              name: file.name,
+              fileID,
+            },
+            responseType: 'json',
+          });
+          if (!(createRes && createRes.code === 0)) {
+            console.error('Create rank failed:', createRes);
+            throw new Error('Sync failed: unexpected response when creating rank');
+          }
+        } else {
+          console.log('Updating rank', file.uniqueKey);
+          const { body: updateRes } = await req.put(`rank/${checkRes.data.id}`, {
+            json: {
+              uniqueKey: file.uniqueKey,
+              name: file.name,
+              fileID,
+            },
+            responseType: 'json',
+          });
+          if (!(updateRes && updateRes.code === 0)) {
+            console.error('Update rank failed:', updateRes);
+            throw new Error('Sync failed: unexpected response when updating rank');
           }
         }
-        isUpsert = true;
-      } else if (checkRes.code !== 11) {
-        throw new Error(`Sync failed: unknown response (code: ${checkRes.code}) when checking remote rank`);
+      } catch (e) {
+        console.error(`Sync failed for ${file.uniqueKey}:`, e);
+        hasError = true;
+        throw e;
       }
-      // upload file
-      let fileID = checkRes && checkRes.code === 0 ? checkRes.data.fileID : undefined;
-      if (needUpload) {
-        console.log('Uploading file', file.uniqueKey);
-        const tempFilePath = path.join(tempUploadingDir, path.basename(file.filePath));
-        await fs.writeFile(tempFilePath, file.fileContent); 
-        const uploadForm = new FormData();
-        uploadForm.append('file', fs.createReadStream(tempFilePath));
-        const { body: uploadRes } = await req.post('file/upload', {
-          body: uploadForm,
-          responseType: 'json',
-        });
-        if (!(uploadRes && uploadRes.code === 0)) {
-          console.error('Upload failed:', uploadRes);
-          throw new Error('Sync failed: unexpected response when uploading file');
-        }
-        fileID = uploadRes.data.id;
-      }
-      // create or update rank
-      if (!isUpsert) {
-        console.log('Creating rank', file.uniqueKey);
-        const { body: createRes } = await req.post('rank', {
-          json: {
-            uniqueKey: file.uniqueKey,
-            name: file.name,
-            fileID,
-          },
-          responseType: 'json',
-        });
-        if (!(createRes && createRes.code === 0)) {
-          console.error('Create rank failed:', createRes);
-          throw new Error('Sync failed: unexpected response when creating rank');
-        }
-      } else {
-        console.log('Updating rank', file.uniqueKey);
-        const { body: updateRes } = await req.put(`rank/${checkRes.data.id}`, {
-          json: {
-            uniqueKey: file.uniqueKey,
-            name: file.name,
-            fileID,
-          },
-          responseType: 'json',
-        });
-        if (!(updateRes && updateRes.code === 0)) {
-          console.error('Update rank failed:', updateRes);
-          throw new Error('Sync failed: unexpected response when updating rank');
-        }
-      }
-    })
+    });
   }
   await queue.onIdle();
+
+  if (hasError) {
+    console.error('Some ranklists failed to sync, aborting collection sync');
+    await fs.remove(tempUploadingDir);
+    return;
+  }
 
   console.log('Syncing collection', dir);
   const { body: checkCollectionRes } = await req.get(`rank/group/${dir}`, {
@@ -138,13 +173,16 @@ async function sync(dir) {
   }
   if (checkCollectionRes.code === 0) {
     console.log('Updating collection', dir);
-    const { body: updateCollectionRes } = await req.put(`rank/group/${checkCollectionRes.data.id}`, {
-      json: {
-        name: config.name,
-        content: JSON.stringify(config),
+    const { body: updateCollectionRes } = await req.put(
+      `rank/group/${checkCollectionRes.data.id}`,
+      {
+        json: {
+          name: config.name,
+          content: JSON.stringify(config),
+        },
+        responseType: 'json',
       },
-      responseType: 'json',
-    });
+    );
     if (!(updateCollectionRes && updateCollectionRes.code === 0)) {
       console.error('Update collection failed:', updateCollectionRes);
       throw new Error('Sync failed: unexpected response when updating collection');
@@ -164,7 +202,9 @@ async function sync(dir) {
       throw new Error('Sync failed: unexpected response when creating collection');
     }
   } else {
-    throw new Error(`Sync failed: unknown response (code: ${checkCollectionRes.code}) when checking remote collection`);
+    throw new Error(
+      `Sync failed: unknown response (code: ${checkCollectionRes.code}) when checking remote collection`,
+    );
   }
   await fs.remove(tempUploadingDir);
   console.log(`Done in ${Date.now() - _s}ms`);
