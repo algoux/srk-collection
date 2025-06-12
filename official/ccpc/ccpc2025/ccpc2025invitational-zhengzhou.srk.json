@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "contest": {
     "title": {
       "zh-CN": "2025CCPC全国邀请赛（郑州）暨第七届河南省赛",
@@ -16,6 +16,84 @@
       "min"
     ]
   },
+  "contributors": [
+    "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
+    "algoUX (https://algoux.org)"
+  ],
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "ratio": {
+            "value": [
+              0.1,
+              0.2,
+              0.3
+            ],
+            "denominator": "scored"
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "noPenaltyResults": [
+        "FB",
+        "AC",
+        "?",
+        "CE",
+        "UKE",
+        null
+      ],
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "s",
+      "rankingTimePrecision": "min"
+    }
+  },
+  "markers": [
+    {
+      "id": "female",
+      "label": "女队",
+      "style": "pink"
+    }
+  ],
   "problems": [
     {
       "title": "C8455F",
@@ -121,83 +199,6 @@
         "submitted": 971
       }
     }
-  ],
-  "series": [
-    {
-      "title": "#",
-      "segments": [
-        {
-          "style": "gold",
-          "title": "Gold Award"
-        },
-        {
-          "style": "silver",
-          "title": "Silver Award"
-        },
-        {
-          "style": "bronze",
-          "title": "Bronze Award"
-        }
-      ],
-      "rule": {
-        "preset": "ICPC",
-        "options": {
-          "ratio": {
-            "value": [
-              0.1,
-              0.2,
-              0.3
-            ]
-          }
-        }
-      }
-    },
-    {
-      "title": "R#",
-      "rule": {
-        "preset": "Normal"
-      }
-    },
-    {
-      "title": "S#",
-      "rule": {
-        "preset": "UniqByUserField",
-        "options": {
-          "field": "organization",
-          "includeOfficialOnly": true
-        }
-      }
-    }
-  ],
-  "markers": [
-    {
-      "id": "female",
-      "label": "女队",
-      "style": "pink"
-    }
-  ],
-  "sorter": {
-    "algorithm": "ICPC",
-    "config": {
-      "noPenaltyResults": [
-        "FB",
-        "AC",
-        "?",
-        "CE",
-        "UKE",
-        null
-      ],
-      "penalty": [
-        20,
-        "min"
-      ],
-      "timePrecision": "s",
-      "rankingTimePrecision": "min"
-    }
-  },
-  "contributors": [
-    "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
   ],
   "rows": [
     {
