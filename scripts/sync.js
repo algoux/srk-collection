@@ -17,14 +17,9 @@ const req = got.extend({
   retry: {
     limit: 3,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'HEAD', 'OPTIONS'],
-    statusCodes: [408, 413, 429, 500, 502, 503, 504],
-    errorCodes: ['ETIMEDOUT', 'ECONNRESET', 'ENOTFOUND', 'EAI_AGAIN'],
-    calculateDelay: ({ computedValue, error, attemptCount }) => {
+    calculateDelay: ({ error, attemptCount }) => {
       console.log(`Retrying request due to error: ${error.code} ${error.message} (attempt ${attemptCount})`);
-      if (error.code === 'ETIMEDOUT' && attemptCount < 2) {
-        return 1000;
-      }
-      return computedValue;
+      return 1000;
     },
   },
 });
