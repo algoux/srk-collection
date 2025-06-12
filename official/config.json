@@ -19,6 +19,11 @@
                 "path": "icpc2025invitational-nanchang",
                 "format": "srk.json",
                 "name": "2025-05-18 南昌邀请赛"
+              },
+              {
+                "path": "icpc2025srni",
+                "format": "srk.json",
+                "name": "2025-06-08 丝绸之路邀请赛"
               }
             ]
           },
@@ -50,6 +55,11 @@
                 "path": "icpc2024invitational-kunming",
                 "format": "srk.json",
                 "name": "2024-05-26 昆明邀请赛"
+              },
+              {
+                "path": "icpc2024srni",
+                "format": "srk.json",
+                "name": "2024-06-09 丝绸之路邀请赛"
               },
               {
                 "path": "icpc2024chengdu",
@@ -263,7 +273,7 @@
               {
                 "path": "icpc2020yinchuan",
                 "format": "srk.json",
-                "name": "2021-05-16 银川站"
+                "name": "2021-05-16 银川站 (IUPC 2021)"
               },
               {
                 "path": "icpc2020shenyang",

@@ -1,0 +1,1924 @@
+{
+  "type": "general",
+  "version": "0.3.8",
+  "remarks": {
+    "zh-CN": "⚠️【低公信度警告】该比赛主办方在近五年内存在包括涉嫌舞弊事件等较大争议，如果您正在参考的候选人曾参加此次竞赛，请注意甄别比赛结果，谨慎参考。这个榜单缺失详细评测结果和参赛选手信息，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "⚠️ [Low Credibility Warning] The contest host has been involved in major controversies in the last five years, including alleged fraudulent incidents, so if the candidate you are referencing has participated in this contest, please be careful to screen the results and refer with caution. This ranklist is missing detailed solutions and information about the contestants. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  },
+  "contest": {
+    "title": {
+      "en": "The 2025 ICPC China Silk Road National Invitational Programming Contest (Ningxia Institute of Science and Technology)",
+      "fallback": "The 2025 ICPC China Silk Road National Invitational Programming Contest (Ningxia Institute of Science and Technology)"
+    },
+    "startAt": "2025-06-08T09:00:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ],
+    "frozenDuration": [
+      1,
+      "h"
+    ]
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "金奖"
+        },
+        {
+          "style": "silver",
+          "title": "银奖"
+        },
+        {
+          "style": "bronze",
+          "title": "铜奖"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              20,
+              36,
+              57
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "noPenaltyResults": [
+        "FB",
+        "AC",
+        "?",
+        "CE",
+        "UKE",
+        null
+      ],
+      "penalty": [
+        20,
+        "min"
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "spunofficial",
+      "label": { "zh-CN": "疑似打星", "fallback": "Possibly Unofficial" },
+      "style": "yellow"
+    }
+  ],
+  "problems": [],
+  "rows": [
+    {
+      "user": {
+        "id": "光年船说.*命运的齿轮开始转动",
+        "name": "*命运的齿轮开始转动",
+        "organization": "光年船说",
+        "markers": [
+          "spunofficial"
+        ],
+        "official": true,
+        "x_photo": "光年船说_命运的齿轮开始转动.jpg"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          1,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "光年船说.*金牌与她皆失",
+        "name": "*金牌与她皆失",
+        "organization": "光年船说",
+        "markers": [
+          "spunofficial"
+        ],
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          2,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.分块糕手",
+        "name": "分块糕手",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          3,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "香港城市大学（东莞）.我的指针有点硬",
+        "name": "我的指针有点硬",
+        "organization": "香港城市大学（东莞）",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          4,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.未定义队",
+        "name": "未定义队",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          5,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "浙大城市学院.烤翅中",
+        "name": "烤翅中",
+        "organization": "浙大城市学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          6,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "中国矿业大学（北京）.北矿大队",
+        "name": "北矿大队",
+        "organization": "中国矿业大学（北京）",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          7,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "上海纽约大学.()不是回文",
+        "name": "()不是回文",
+        "organization": "上海纽约大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          8,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "广西师范大学.哦吼吼吼吼吼",
+        "name": "哦吼吼吼吼吼",
+        "organization": "广西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          9,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "浙大城市学院.繁星之夜",
+        "name": "繁星之夜",
+        "organization": "浙大城市学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          10,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "北师香港浸会大学.Rank1是我们的大号",
+        "name": "Rank1是我们的大号",
+        "organization": "北师香港浸会大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          11,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "山西大学.好想睡醒就会acm",
+        "name": "好想睡醒就会acm",
+        "organization": "山西大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          12,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "长江大学.金厕传说",
+        "name": "金厕传说",
+        "organization": "长江大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          13,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "华南师范大学.一路向南",
+        "name": "一路向南",
+        "organization": "华南师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          14,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.算法星云",
+        "name": "算法星云",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          15,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.最后ICPC",
+        "name": "最后ICPC",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          16,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.首银涉金",
+        "name": "首银涉金",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          17,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.我必行",
+        "name": "我必行",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          18,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "曲阜师范大学.快乐小狗",
+        "name": "快乐小狗",
+        "organization": "曲阜师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          19,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.还年轻，我们还可以重来",
+        "name": "还年轻，我们还可以重来",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          20,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "河南师范大学.一路生花",
+        "name": "一路生花",
+        "organization": "河南师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          21,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "郑州西亚斯学院.旺仔小分队",
+        "name": "旺仔小分队",
+        "organization": "郑州西亚斯学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          22,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "北京科技大学.测试点全对",
+        "name": "测试点全对",
+        "organization": "北京科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          23,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.包大将军",
+        "name": "包大将军",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          24,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "湖南农业大学.夏眠不觉晓",
+        "name": "夏眠不觉晓",
+        "organization": "湖南农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          25,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "江苏海洋大学.把奖牌给我",
+        "name": "把奖牌给我",
+        "organization": "江苏海洋大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          26,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "中国矿业大学（北京）.Fortune",
+        "name": "Fortune",
+        "organization": "中国矿业大学（北京）",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          27,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "汕头大学.飞天小解解",
+        "name": "飞天小解解",
+        "organization": "汕头大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          28,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "湖州师范学院.晚安，孩子们",
+        "name": "晚安，孩子们",
+        "organization": "湖州师范学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          29,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "湖州师范学院.ac自动机",
+        "name": "ac自动机",
+        "organization": "湖州师范学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          30,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "南京晓庄学院.雪豹蛤蜊蛇",
+        "name": "雪豹蛤蜊蛇",
+        "organization": "南京晓庄学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          31,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "中国矿业大学（北京）.云淡风清",
+        "name": "云淡风清",
+        "organization": "中国矿业大学（北京）",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          32,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.云",
+        "name": "云",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          33,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "广西师范大学.哇哈哈哈哈哈",
+        "name": "哇哈哈哈哈哈",
+        "organization": "广西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          34,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "青海大学.宇宙不熄，爱不停机",
+        "name": "宇宙不熄，爱不停机",
+        "organization": "青海大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          35,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "浙大城市学院.顿宕",
+        "name": "顿宕",
+        "organization": "浙大城市学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          36,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "青海大学.青春猪头少年不会梦到ACM学姐",
+        "name": "青春猪头少年不会梦到ACM学姐",
+        "organization": "青海大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          37,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.银色闪电",
+        "name": "银色闪电",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          38,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "西藏民族大学.秦汉_雒",
+        "name": "秦汉_雒",
+        "organization": "西藏民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          39,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "北京电子科技学院.丢掉幻想准备斗争",
+        "name": "丢掉幻想准备斗争",
+        "organization": "北京电子科技学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          40,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "西藏民族大学.秦汉_樊",
+        "name": "秦汉_樊",
+        "organization": "西藏民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          41,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.精神状态遥遥领先",
+        "name": "精神状态遥遥领先",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          42,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.码林扫地僧",
+        "name": "码林扫地僧",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          43,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "上海纽约大学.上纽队伍2",
+        "name": "上纽队伍2",
+        "organization": "上海纽约大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          44,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.啊对对队",
+        "name": "啊对对队",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          45,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.XLL",
+        "name": "XLL",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          46,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "南京工业大学.小飞机来喽",
+        "name": "小飞机来喽",
+        "organization": "南京工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          47,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "江西农业大学.祈尔繁芜胜常春",
+        "name": "祈尔繁芜胜常春",
+        "organization": "江西农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          48,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "广西师范大学.无始",
+        "name": "无始",
+        "organization": "广西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          49,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "山西大学.刷煤炭忘带牛奶了",
+        "name": "刷煤炭忘带牛奶了",
+        "organization": "山西大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          50,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "广西师范大学.噫嘻嘻嘻嘻嘻",
+        "name": "噫嘻嘻嘻嘻嘻",
+        "organization": "广西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          51,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "山东协和学院.无咏唱AC魔法",
+        "name": "无咏唱AC魔法",
+        "organization": "山东协和学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          52,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宁夏大学.熠笑儿过",
+        "name": "熠笑儿过",
+        "organization": "宁夏大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          53,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.玄学过样例",
+        "name": "玄学过样例",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          54,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "青海大学.碱基对",
+        "name": "碱基对",
+        "organization": "青海大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          55,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "广西师范大学.Nan上加Nan",
+        "name": "Nan上加Nan",
+        "organization": "广西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          56,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "长江大学.两佬戏蒟",
+        "name": "两佬戏蒟",
+        "organization": "长江大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          57,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "湖州师范学院.睁眼看世界",
+        "name": "睁眼看世界",
+        "organization": "湖州师范学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          58,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "河北地质大学.永雏塔菲可能会变质但绝不会毕业",
+        "name": "永雏塔菲可能会变质但绝不会毕业",
+        "organization": "河北地质大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          59,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "长江大学.扬子江比特",
+        "name": "扬子江比特",
+        "organization": "长江大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          60,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "中国石油大学（北京）克拉玛 依校区.关于我们一个月十场考试加acm这件 事",
+        "name": "关于我们一个月十场考试加acm这件 事",
+        "organization": "中国石油大学（北京）克拉玛 依校区",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          61,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "上海纽约大学.原神",
+        "name": "原神",
+        "organization": "上海纽约大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          62,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "石家庄铁道大学.蔚蓝辰星",
+        "name": "蔚蓝辰星",
+        "organization": "石家庄铁道大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          63,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古科技大学.海底小纵队",
+        "name": "海底小纵队",
+        "organization": "内蒙古科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          64,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "西藏民族大学.秦汉_w1",
+        "name": "秦汉_w1",
+        "organization": "西藏民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          65,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.程小程",
+        "name": "程小程",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          66,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.万事如意",
+        "name": "万事如意",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          67,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "石家庄铁道大学.哈基米哦那美路多阿西噶哈压库纳 路",
+        "name": "哈基米哦那美路多阿西噶哈压库纳 路",
+        "organization": "石家庄铁道大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          68,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "中国矿业大学（北京）.宇宙究极无敌龙神变身",
+        "name": "宇宙究极无敌龙神变身",
+        "organization": "中国矿业大学（北京）",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          69,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "南京晓庄学院.来打XCPC并带老师旅游",
+        "name": "来打XCPC并带老师旅游",
+        "organization": "南京晓庄学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          70,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宁夏大学.季节更替",
+        "name": "季节更替",
+        "organization": "宁夏大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          71,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "陕西科技大学.WA了,胡整里嘛;AC了,一个意思",
+        "name": "WA了,胡整里嘛;AC了,一个意思",
+        "organization": "陕西科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          72,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "南京工业大学.AC一题就算win",
+        "name": "AC一题就算win",
+        "organization": "南京工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          73,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "山西大学.这一发，贯彻星辰",
+        "name": "这一发，贯彻星辰",
+        "organization": "山西大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          74,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "长江大学.黑暗深邃幻想",
+        "name": "黑暗深邃幻想",
+        "organization": "长江大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          75,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "上海纽约大学.上纽队伍0",
+        "name": "上纽队伍0",
+        "organization": "上海纽约大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          76,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "太原理工大学.不要当菜鸡",
+        "name": "不要当菜鸡",
+        "organization": "太原理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          77,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "江西农业大学.加训不加睡",
+        "name": "加训不加睡",
+        "organization": "江西农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          78,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "广西师范大学.原此行终抵群星",
+        "name": "原此行终抵群星",
+        "organization": "广西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          79,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "重庆对外经贸学院.我不是酒队",
+        "name": "我不是酒队",
+        "organization": "重庆对外经贸学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          80,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.小怪兽差点AC",
+        "name": "小怪兽差点AC",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          81,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "太原理工大学.贪心优化者",
+        "name": "贪心优化者",
+        "organization": "太原理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          82,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.奶妈",
+        "name": "奶妈",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          83,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "太原理工大学.这暴力可太队了",
+        "name": "这暴力可太队了",
+        "organization": "太原理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          84,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学.慢即快",
+        "name": "慢即快",
+        "organization": "阜阳师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          85,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "北京电子科技学院.华风夏韵,洛水天依",
+        "name": "华风夏韵,洛水天依",
+        "organization": "北京电子科技学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          86,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "南京晓庄学院.只能站着因为没座",
+        "name": "只能站着因为没座",
+        "organization": "南京晓庄学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          87,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "江西农业大学.火花",
+        "name": "火花",
+        "organization": "江西农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          88,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "光年船说.*答案说明所有",
+        "name": "*答案说明所有",
+        "organization": "光年船说",
+        "markers": [
+          "spunofficial"
+        ],
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          89,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "光年船说.*我就站在你面前",
+        "name": "*我就站在你面前",
+        "organization": "光年船说",
+        "markers": [
+          "spunofficial"
+        ],
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          90,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "青海大学.混分",
+        "name": "混分",
+        "organization": "青海大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          91,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "青海大学.无限进步",
+        "name": "无限进步",
+        "organization": "青海大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          92,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "中北大学.想个中文队名真难",
+        "name": "想个中文队名真难",
+        "organization": "中北大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          93,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宁夏大学.样例AC也是AC",
+        "name": "样例AC也是AC",
+        "organization": "宁夏大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          94,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "青海大学.TAT队",
+        "name": "TAT队",
+        "organization": "青海大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          95,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "西藏民族大学.秦汉孙",
+        "name": "秦汉孙",
+        "organization": "西藏民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          96,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "西安明德理工学院.全都队",
+        "name": "全都队",
+        "organization": "西安明德理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          97,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "西藏民族大学.秦汉_w2",
+        "name": "秦汉_w2",
+        "organization": "西藏民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          98,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宁夏大学.666有品哥",
+        "name": "666有品哥",
+        "organization": "宁夏大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          99,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "江西农业大学.铁牌",
+        "name": "铁牌",
+        "organization": "江西农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          100,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "光年船说.*小猫猫你可以吃猫猫小芝士",
+        "name": "*小猫猫你可以吃猫猫小芝士",
+        "organization": "光年船说",
+        "markers": [
+          "spunofficial"
+        ],
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          101,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "内蒙古大学创业学院.英菲码",
+        "name": "英菲码",
+        "organization": "内蒙古大学创业学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          102,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.谁与争锋",
+        "name": "谁与争锋",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          103,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "新疆大学.水是水",
+        "name": "水是水",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          104,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宁夏大学.杂～鱼?杂～鱼?大哥哥连签到题都 过不掉嘛",
+        "name": "杂～鱼?杂～鱼?大哥哥连签到题都 过不掉嘛",
+        "organization": "宁夏大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          105,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "新疆大学.咋写都队",
+        "name": "咋写都队",
+        "organization": "新疆大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          106,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宁夏大学.买的哦润几有点酸",
+        "name": "买的哦润几有点酸",
+        "organization": "宁夏大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          107,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "昆明理工大学.代码巫师",
+        "name": "代码巫师",
+        "organization": "昆明理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          108,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "桂林航天工业学院.热辣列咯热辣辣",
+        "name": "热辣列咯热辣辣",
+        "organization": "桂林航天工业学院",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          109,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宁夏大学.醉爱哦润几",
+        "name": "醉爱哦润几",
+        "organization": "宁夏大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          110,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.心火萌渊",
+        "name": "心火萌渊",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          111,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "广西师范大学.最后一舞",
+        "name": "最后一舞",
+        "organization": "广西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          112,
+          "ms"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "兰州理工大学.加油小分队",
+        "name": "加油小分队",
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          113,
+          "ms"
+        ]
+      },
+      "statuses": []
+    }
+  ]
+}
