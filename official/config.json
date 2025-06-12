@@ -1436,6 +1436,44 @@
             ]
           }
         ]
+      },
+      {
+        "path": "university-level",
+        "name": "校赛",
+        "children": [
+          {
+            "path":"thu",
+            "name":"清华大学",
+            "children": [
+              {
+                "path": "thupc2023",
+                "format": "srk.json",
+                "name": "2023-05-28 2023"
+              }
+            ]
+          },
+          {
+            "path":"sdut",
+            "name":"山东理工大学",
+            "children": [
+              {
+                "path": "sdutpc17",
+                "format": "srk.json",
+                "name": "2025-05-18 第十七届"
+              },
+              {
+                "path": "sdutpc16",
+                "format": "srk.json",
+                "name": "2024-05-12 第十六届"
+              },
+              {
+                "path": "sdutpc15",
+                "format": "srk.json",
+                "name": "2023-05-28 第十五届"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
