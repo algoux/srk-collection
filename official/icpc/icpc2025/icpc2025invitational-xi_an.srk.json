@@ -96,78 +96,130 @@
       "alias": "A",
       "style": {
         "backgroundColor": "rgb(253, 1, 0)"
+      },
+      "statistics": {
+        "accepted": 330,
+        "submitted": 1021
       }
     },
     {
       "alias": "B",
       "style": {
         "backgroundColor": "rgb(5, 130, 2)"
+      },
+      "statistics": {
+        "accepted": 10,
+        "submitted": 165
       }
     },
     {
       "alias": "C",
       "style": {
         "backgroundColor": "rgb(255, 255, 0)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 14
       }
     },
     {
       "alias": "D",
       "style": {
         "backgroundColor": "rgb(102, 1, 254)"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 15
       }
     },
     {
       "alias": "E",
       "style": {
         "backgroundColor": "rgb(246, 179, 179)"
+      },
+      "statistics": {
+        "accepted": 3,
+        "submitted": 26
       }
     },
     {
       "alias": "F",
       "style": {
         "backgroundColor": "rgb(0, 34, 254)"
+      },
+      "statistics": {
+        "accepted": 5,
+        "submitted": 72
       }
     },
     {
       "alias": "G",
       "style": {
         "backgroundColor": "rgb(255, 174, 0)"
+      },
+      "statistics": {
+        "accepted": 300,
+        "submitted": 1093
       }
     },
     {
       "alias": "H",
       "style": {
         "backgroundColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 11
       }
     },
     {
       "alias": "I",
       "style": {
         "backgroundColor": "rgb(1, 254, 242)"
+      },
+      "statistics": {
+        "accepted": 254,
+        "submitted": 556
       }
     },
     {
       "alias": "J",
       "style": {
         "backgroundColor": "rgb(240, 50, 253)"
+      },
+      "statistics": {
+        "accepted": 163,
+        "submitted": 848
       }
     },
     {
       "alias": "K",
       "style": {
         "backgroundColor": "rgb(247, 231, 59)"
+      },
+      "statistics": {
+        "accepted": 48,
+        "submitted": 261
       }
     },
     {
       "alias": "L",
       "style": {
         "backgroundColor": "rgb(254, 200, 252)"
+      },
+      "statistics": {
+        "accepted": 387,
+        "submitted": 783
       }
     },
     {
       "alias": "M",
       "style": {
         "backgroundColor": "rgb(0, 255, 39)"
+      },
+      "statistics": {
+        "accepted": 135,
+        "submitted": 461
       }
     }
   ],
@@ -29822,7 +29874,9 @@
         "name": "难道铁牌不算牌？",
         "organization": "青岛农业大学",
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "female"
+        ]
       },
       "score": {
         "value": 1,

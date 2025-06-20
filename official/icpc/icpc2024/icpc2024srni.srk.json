@@ -91,7 +91,10 @@
   "markers": [
     {
       "id": "spunofficial",
-      "label": { "zh-CN": "疑似打星", "fallback": "Possibly Unofficial" },
+      "label": {
+        "zh-CN": "疑似打星",
+        "fallback": "Possibly Unofficial"
+      },
       "style": "yellow"
     }
   ],
@@ -100,84 +103,140 @@
       "alias": "A",
       "style": {
         "backgroundColor": "#ff350d"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 67
       }
     },
     {
       "alias": "B",
       "style": {
         "backgroundColor": "#26ff2d"
+      },
+      "statistics": {
+        "accepted": 259,
+        "submitted": 307
       }
     },
     {
       "alias": "C",
       "style": {
         "backgroundColor": "#e7ff47"
+      },
+      "statistics": {
+        "accepted": 128,
+        "submitted": 479
       }
     },
     {
       "alias": "D",
       "style": {
         "backgroundColor": "#d1a8ff"
+      },
+      "statistics": {
+        "accepted": 272,
+        "submitted": 336
       }
     },
     {
       "alias": "E",
       "style": {
         "backgroundColor": "#94dbff"
+      },
+      "statistics": {
+        "accepted": 274,
+        "submitted": 295
       }
     },
     {
       "alias": "F",
       "style": {
         "backgroundColor": "#ff764d"
+      },
+      "statistics": {
+        "accepted": 130,
+        "submitted": 563
       }
     },
     {
       "alias": "G",
       "style": {
         "backgroundColor": "#ff9830"
+      },
+      "statistics": {
+        "accepted": 171,
+        "submitted": 412
       }
     },
     {
       "alias": "H",
       "style": {
         "backgroundColor": "#6e4aff"
+      },
+      "statistics": {
+        "accepted": 55,
+        "submitted": 172
       }
     },
     {
       "alias": "I",
       "style": {
         "backgroundColor": "#3d6920"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 214
       }
     },
     {
       "alias": "J",
       "style": {
         "backgroundColor": "#57bcff"
+      },
+      "statistics": {
+        "accepted": 78,
+        "submitted": 546
       }
     },
     {
       "alias": "K",
       "style": {
         "backgroundColor": "#ffb199"
+      },
+      "statistics": {
+        "accepted": 15,
+        "submitted": 211
       }
     },
     {
       "alias": "L",
       "style": {
         "backgroundColor": "#fff942"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 41
       }
     },
     {
       "alias": "M",
       "style": {
         "backgroundColor": "#4da6ff"
+      },
+      "statistics": {
+        "accepted": 280,
+        "submitted": 300
       }
     },
     {
       "alias": "N",
       "style": {
         "backgroundColor": "#02090f"
+      },
+      "statistics": {
+        "accepted": 233,
+        "submitted": 412
       }
     }
   ],
@@ -6513,7 +6572,9 @@
         "name": "蓝色天空",
         "organization": "杭州海哲爱科技有限公司",
         "official": true,
-        "markers": ["spunofficial"]
+        "markers": [
+          "spunofficial"
+        ]
       },
       "score": {
         "value": 9,
