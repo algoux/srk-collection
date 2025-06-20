@@ -27,7 +27,9 @@
       "penalty": [
         20,
         "min"
-      ]
+      ],
+      "timePrecision": "min",
+      "timePrecisionRounding": "floor"
     }
   },
   "series": [
