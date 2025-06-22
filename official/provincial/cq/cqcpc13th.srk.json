@@ -85,7 +85,6 @@
         "AC",
         "?",
         "CE",
-        "UKE",
         null
       ],
       "penalty": [
@@ -4791,7 +4790,7 @@
         },
         {
           "result": "AC",
-          "tries": 2,
+          "tries": 3,
           "time": [
             3675,
             "s"
@@ -11286,7 +11285,7 @@
         },
         {
           "result": "AC",
-          "tries": 3,
+          "tries": 4,
           "time": [
             9812,
             "s"
@@ -12155,7 +12154,7 @@
         },
         {
           "result": "AC",
-          "tries": 11,
+          "tries": 12,
           "time": [
             14595,
             "s"
@@ -13320,7 +13319,7 @@
         },
         {
           "result": "AC",
-          "tries": 10,
+          "tries": 11,
           "time": [
             13015,
             "s"
@@ -15042,7 +15041,7 @@
         },
         {
           "result": "RJ",
-          "tries": 12,
+          "tries": 13,
           "solutions": [
             {
               "result": "WA",
@@ -19224,7 +19223,7 @@
       "statuses": [
         {
           "result": "AC",
-          "tries": 2,
+          "tries": 3,
           "time": [
             2428,
             "s"
@@ -22289,7 +22288,7 @@
       "statuses": [
         {
           "result": "AC",
-          "tries": 12,
+          "tries": 13,
           "time": [
             16179,
             "s"
@@ -25056,7 +25055,7 @@
         },
         {
           "result": "RJ",
-          "tries": 8,
+          "tries": 9,
           "solutions": [
             {
               "result": "WA",
@@ -26947,7 +26946,7 @@
         },
         {
           "result": "AC",
-          "tries": 4,
+          "tries": 5,
           "time": [
             15443,
             "s"
@@ -28579,7 +28578,7 @@
         },
         {
           "result": "AC",
-          "tries": 3,
+          "tries": 4,
           "time": [
             9685,
             "s"
@@ -32988,7 +32987,7 @@
       "statuses": [
         {
           "result": "AC",
-          "tries": 3,
+          "tries": 4,
           "time": [
             3748,
             "s"
@@ -38319,7 +38318,7 @@
         },
         {
           "result": "RJ",
-          "tries": 18,
+          "tries": 19,
           "solutions": [
             {
               "result": "WA",
@@ -39966,7 +39965,7 @@
         },
         {
           "result": "RJ",
-          "tries": 1,
+          "tries": 2,
           "solutions": [
             {
               "result": "WA",
@@ -40226,7 +40225,7 @@
         },
         {
           "result": "RJ",
-          "tries": 1,
+          "tries": 2,
           "solutions": [
             {
               "result": "WA",
@@ -40301,7 +40300,7 @@
         },
         {
           "result": "RJ",
-          "tries": 10,
+          "tries": 11,
           "solutions": [
             {
               "result": "TLE",
@@ -52512,7 +52511,7 @@
         },
         {
           "result": "RJ",
-          "tries": 14,
+          "tries": 15,
           "solutions": [
             {
               "result": "WA",
@@ -55001,7 +55000,7 @@
         },
         {
           "result": "AC",
-          "tries": 13,
+          "tries": 14,
           "time": [
             3022,
             "s"

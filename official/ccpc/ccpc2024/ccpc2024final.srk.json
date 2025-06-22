@@ -85,7 +85,6 @@
         "AC",
         "?",
         "CE",
-        "UKE",
         null
       ],
       "penalty": [
@@ -98,11 +97,6 @@
   },
   "markers": [
     {
-      "id": "female",
-      "label": "女队",
-      "style": "pink"
-    },
-    {
       "id": "4",
       "label": "本科",
       "style": "purple"
@@ -111,6 +105,11 @@
       "id": "5",
       "label": "专科",
       "style": "blue"
+    },
+    {
+      "id": "female",
+      "label": "女队",
+      "style": "pink"
     }
   ],
   "problems": [
@@ -943,7 +942,7 @@
         },
         {
           "result": "RJ",
-          "tries": 1,
+          "tries": 8,
           "solutions": [
             {
               "result": "WA",
@@ -4632,7 +4631,7 @@
         },
         {
           "result": "RJ",
-          "tries": 1,
+          "tries": 2,
           "solutions": [
             {
               "result": "WA",
@@ -13536,7 +13535,7 @@
         },
         {
           "result": "RJ",
-          "tries": 4,
+          "tries": 6,
           "solutions": [
             {
               "result": "WA",
@@ -14622,7 +14621,31 @@
           "result": null
         },
         {
-          "result": null
+          "result": "RJ",
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "UKE",
+              "time": [
+                5198,
+                "s"
+              ]
+            },
+            {
+              "result": "UKE",
+              "time": [
+                10693,
+                "s"
+              ]
+            },
+            {
+              "result": "UKE",
+              "time": [
+                16322,
+                "s"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -16187,7 +16210,17 @@
           "result": null
         },
         {
-          "result": null
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "UKE",
+              "time": [
+                17961,
+                "s"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -21653,7 +21686,17 @@
           ]
         },
         {
-          "result": null
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "UKE",
+              "time": [
+                17920,
+                "s"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
@@ -22117,7 +22160,7 @@
         },
         {
           "result": "RJ",
-          "tries": 6,
+          "tries": 10,
           "solutions": [
             {
               "result": "TLE",
@@ -22165,7 +22208,7 @@
         },
         {
           "result": "AC",
-          "tries": 15,
+          "tries": 20,
           "time": [
             16232,
             "s"
@@ -22293,7 +22336,7 @@
         },
         {
           "result": "RJ",
-          "tries": 2,
+          "tries": 4,
           "solutions": [
             {
               "result": "TLE",
@@ -22312,11 +22355,12 @@
           ]
         },
         {
-          "result": null
+          "result": null,
+          "solutions": []
         },
         {
           "result": "RJ",
-          "tries": 1,
+          "tries": 13,
           "solutions": [
             {
               "result": "WA",
@@ -22396,11 +22440,12 @@
           ]
         },
         {
-          "result": null
+          "result": null,
+          "solutions": []
         },
         {
           "result": "RJ",
-          "tries": 49,
+          "tries": 50,
           "solutions": [
             {
               "result": "WA",
@@ -22749,7 +22794,7 @@
         },
         {
           "result": "RJ",
-          "tries": 15,
+          "tries": 21,
           "solutions": [
             {
               "result": "WA",
