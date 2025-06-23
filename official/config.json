@@ -6,8 +6,8 @@
         "name": "ICPC",
         "children": [
           {
-            "path":"icpc2025",
-            "name":"ICPC 2025",
+            "path": "icpc2025",
+            "name": "ICPC 2025",
             "children": [
               {
                 "path": "icpc2025invitational-wuhan",
@@ -636,6 +636,11 @@
                 "path": "ccpc2025invitational-guangdong-preliminary",
                 "format": "srk.json",
                 "name": "2025-06-02 广东邀请赛 预赛"
+              },
+              {
+                "path": "ccpc2025invitational-fujian",
+                "format": "srk.json",
+                "name": "2025-06-21 福建邀请赛"
               }
             ]
           },
@@ -1164,6 +1169,11 @@
             "name": "福建省赛",
             "children": [
               {
+                "path": "fjcpc12th",
+                "format": "srk.json",
+                "name": "2025-06-21 第十二届"
+              },
+              {
                 "path": "fjcpc11th",
                 "format": "srk.json",
                 "name": "2024-05-26 第十一届"
@@ -1504,8 +1514,8 @@
         "name": "校赛",
         "children": [
           {
-            "path":"thu",
-            "name":"清华大学",
+            "path": "thu",
+            "name": "清华大学",
             "children": [
               {
                 "path": "thupc2023",
@@ -1515,8 +1525,8 @@
             ]
           },
           {
-            "path":"sdut",
-            "name":"山东理工大学",
+            "path": "sdut",
+            "name": "山东理工大学",
             "children": [
               {
                 "path": "sdutpc17",
