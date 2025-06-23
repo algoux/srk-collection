@@ -49,13 +49,12 @@
       "rule": {
         "preset": "ICPC",
         "options": {
-          "ratio": {
+          "count": {
             "value": [
               0,
               0,
               0
-            ],
-            "denominator": "scored"
+            ]
           }
         }
       }
@@ -357,7 +356,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 14333,
                 "s"
@@ -453,7 +452,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 10165,
                 "s"
@@ -630,7 +629,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 8579,
                 "s"
@@ -893,7 +892,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 1876,
                 "s"
@@ -1203,7 +1202,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 148,
                 "s"
@@ -2781,7 +2780,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 2387,
                 "s"
@@ -4593,7 +4592,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 14304,
                 "s"
@@ -6258,7 +6257,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 6773,
                 "s"
@@ -6552,7 +6551,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 59,
                 "s"
@@ -6853,7 +6852,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 7248,
                 "s"
@@ -7683,7 +7682,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 1040,
                 "s"
@@ -10572,7 +10571,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 1195,
                 "s"

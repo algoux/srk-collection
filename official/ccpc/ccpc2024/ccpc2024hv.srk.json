@@ -49,13 +49,12 @@
       "rule": {
         "preset": "ICPC",
         "options": {
-          "ratio": {
+          "count": {
             "value": [
               0,
               0,
               0
-            ],
-            "denominator": "scored"
+            ]
           }
         }
       }
@@ -257,7 +256,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 418,
                 "s"
@@ -281,7 +280,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 7673,
                 "s"
@@ -315,7 +314,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 2366,
                 "s"
@@ -426,7 +425,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 1488,
                 "s"
@@ -556,7 +555,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 1465,
                 "s"
@@ -580,7 +579,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 3476,
                 "s"
@@ -1335,7 +1334,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 8883,
                 "s"
@@ -4497,7 +4496,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 153,
                 "s"
@@ -4662,7 +4661,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 414,
                 "s"

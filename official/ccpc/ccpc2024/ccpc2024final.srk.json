@@ -49,13 +49,12 @@
       "rule": {
         "preset": "ICPC",
         "options": {
-          "ratio": {
+          "count": {
             "value": [
               0,
               0,
               0
-            ],
-            "denominator": "scored"
+            ]
           }
         }
       }
@@ -360,7 +359,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 12512,
                 "s"
@@ -377,7 +376,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 4184,
                 "s"
@@ -506,7 +505,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 13601,
                 "s"
@@ -575,7 +574,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 1231,
                 "s"
@@ -902,7 +901,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 2385,
                 "s"
@@ -1194,7 +1193,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 5543,
                 "s"
@@ -1568,7 +1567,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 13664,
                 "s"
@@ -1649,7 +1648,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 878,
                 "s"
@@ -3104,7 +3103,7 @@
           ],
           "solutions": [
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 1236,
                 "s"
@@ -3957,7 +3956,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 3728,
                 "s"
@@ -4047,7 +4046,7 @@
               ]
             },
             {
-              "result": "AC",
+              "result": "FB",
               "time": [
                 3425,
                 "s"
