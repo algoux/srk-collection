@@ -97,6 +97,11 @@
   },
   "markers": [
     {
+      "id": "provincial",
+      "label": "省内",
+      "style": "blue"
+    },
+    {
       "id": "female",
       "label": "女队",
       "style": "pink"
@@ -465,7 +470,10 @@
             "name": "陈建涛"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 11,
@@ -735,7 +743,10 @@
             "name": "栾英石"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 11,
@@ -1285,7 +1296,10 @@
             "name": "王子豪"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 9,
@@ -2230,7 +2244,10 @@
             "name": "陈华弘"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 9,
@@ -2489,7 +2506,10 @@
             "name": "李林泽"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 9,
@@ -4043,7 +4063,10 @@
             "name": "张宏志"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 8,
@@ -4813,7 +4836,10 @@
             "name": "彭泽喜"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 8,
@@ -5051,7 +5077,10 @@
             "name": "王曹俨"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 8,
@@ -5993,7 +6022,10 @@
             "name": "姜凯森"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 8,
@@ -8182,7 +8214,10 @@
             "name": "王郑涵"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 7,
@@ -9231,7 +9266,10 @@
             "name": "杨晟明"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 7,
@@ -9434,7 +9472,10 @@
             "name": "许超洪"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 7,
@@ -10047,7 +10088,10 @@
             "name": "肖羽石"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 7,
@@ -11164,7 +11208,10 @@
             "name": "廖棋灿"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 7,
@@ -11398,7 +11445,10 @@
             "name": "张子漠"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 7,
@@ -12575,7 +12625,10 @@
             "name": "林卓毅"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -12936,7 +12989,10 @@
             "name": "崔韩磊"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -13796,7 +13852,10 @@
             "name": "郭伟平"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -14181,7 +14240,10 @@
             "name": "张俊艺"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -15753,7 +15815,10 @@
             "name": "熊炜"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -16970,7 +17035,10 @@
             "name": "江彦韬"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -17727,7 +17795,10 @@
             "name": "颜嘉民"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -18164,7 +18235,10 @@
             "name": "傅世杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -19187,7 +19261,10 @@
             "name": "孙硕"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -20209,7 +20286,10 @@
             "name": "白宇"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 6,
@@ -21188,7 +21268,10 @@
             "name": "柳永康"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -21349,7 +21432,10 @@
             "name": "林嘉祚"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -21551,7 +21637,10 @@
             "name": "吴羽晗"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -22222,7 +22311,10 @@
             "name": "吴宇轩"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -22359,7 +22451,10 @@
             "name": "卢竑宇"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -24798,7 +24893,10 @@
             "name": "吴铠东"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -25117,7 +25215,10 @@
             "name": "温家宇"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -25681,7 +25782,10 @@
             "name": "张仁杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -25880,7 +25984,10 @@
             "name": "叶诗恒"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -26062,7 +26169,10 @@
             "name": "韩斌"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -26360,7 +26470,10 @@
             "name": "江科萱"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -26815,7 +26928,10 @@
             "name": "程阳淏"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -27309,7 +27425,10 @@
             "name": "刘翔华"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -27859,7 +27978,10 @@
             "name": "周世杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -28069,7 +28191,10 @@
             "name": "郎易恒"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -28826,7 +28951,10 @@
             "name": "黄向杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -29177,7 +29305,10 @@
             "name": "庄昀"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 5,
@@ -31177,7 +31308,10 @@
             "name": "严其旺"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 4,
@@ -31492,7 +31626,10 @@
             "name": "苏灿辉"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 4,
@@ -32732,7 +32869,10 @@
             "name": "林廷钧"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 4,
@@ -33394,7 +33534,10 @@
             "name": "张耀隆"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 4,
@@ -33793,7 +33936,10 @@
             "name": "张颖"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 4,
@@ -34497,7 +34643,10 @@
             "name": "戴佩旎"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 4,
@@ -34994,7 +35143,10 @@
             "name": "张超伟"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 4,
@@ -36422,7 +36574,10 @@
             "name": "雷明杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -36737,7 +36892,10 @@
             "name": "何源泉"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -36846,7 +37004,10 @@
             "name": "戴康怡"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -37262,7 +37423,10 @@
             "name": "沈炜程"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -37800,7 +37964,10 @@
             "name": "徐露"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -38272,7 +38439,10 @@
             "name": "林晨"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -38558,7 +38728,10 @@
             "name": "吴永杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -39009,7 +39182,10 @@
             "name": "杨光"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -39159,7 +39335,10 @@
             "name": "陈屹城"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -39414,7 +39593,10 @@
             "name": "赵阳"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -40316,7 +40498,10 @@
             "name": "鲍宇轩"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -41367,7 +41552,10 @@
             "name": "陈峰玮"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -41591,7 +41779,10 @@
             "name": "周傲宇"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 3,
@@ -41815,7 +42006,10 @@
             "name": "黄鸿彬"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -42471,7 +42665,10 @@
             "name": "黄伟彬"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -42732,7 +42929,10 @@
             "name": "郑俊豪"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -42980,7 +43180,10 @@
             "name": "苏凯铭"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -43525,7 +43728,10 @@
             "name": "郑佳玲"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -43679,7 +43885,10 @@
             "name": "苏佳胜"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -44011,7 +44220,10 @@
             "name": "余延鳐"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -44165,7 +44377,10 @@
             "name": "朱耀邦"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -44652,7 +44867,10 @@
             "name": "叶礼豪"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -45070,7 +45288,10 @@
             "name": "许恩坤"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -45224,7 +45445,10 @@
             "name": "曾煌斌"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -45715,7 +45939,10 @@
             "name": "张锦宝"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -45960,7 +46187,10 @@
             "name": "李良波"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -46189,7 +46419,10 @@
             "name": "徐玮庭"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -46458,7 +46691,10 @@
             "name": "冯敏杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -46580,7 +46816,10 @@
             "name": "何家鸿"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -46751,7 +46990,10 @@
             "name": "陈志勋"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -46926,7 +47168,10 @@
             "name": "汪永祥"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -47450,7 +47695,10 @@
             "name": "黄锦浩"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -47792,7 +48040,10 @@
             "name": "翁进航"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -48315,7 +48566,10 @@
             "name": "倪程勇"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -48472,7 +48726,10 @@
             "name": "杨康祥"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -48660,7 +48917,10 @@
             "name": "陈俊文"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -48793,7 +49053,10 @@
             "name": "陈长志"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -48954,7 +49217,10 @@
             "name": "杨炅浩"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -49488,7 +49754,10 @@
             "name": "庄伟康"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 2,
@@ -49830,7 +50099,10 @@
             "name": "王睿嘉"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -50608,7 +50880,10 @@
             "name": "林子茗"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -51014,7 +51289,10 @@
             "name": "陈云呈"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -51095,7 +51373,10 @@
             "name": "翁力凡"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -51207,7 +51488,10 @@
             "name": "庄子涵"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -51388,7 +51672,10 @@
             "name": "陈伟"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -51709,7 +51996,10 @@
             "name": "陈垦"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -51880,7 +52170,10 @@
             "name": "郑俊杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -52009,7 +52302,10 @@
             "name": "黄政涛"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -52690,7 +52986,10 @@
             "name": "崔焱鑫"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53022,7 +53321,10 @@
             "name": "戴鑫炜"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53120,7 +53422,10 @@
             "name": "李炜城"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53201,7 +53506,10 @@
             "name": "李骏"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53292,7 +53600,10 @@
             "name": "廖原可"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53428,7 +53739,10 @@
             "name": "高李想"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53509,7 +53823,10 @@
             "name": "黄乙林"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53651,7 +53968,10 @@
             "name": "杨惠宾"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -53971,7 +54291,10 @@
             "name": "吴娟娟"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -54226,7 +54549,10 @@
             "name": "谢有为"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -54390,7 +54716,10 @@
             "name": "杨哲成"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -54579,7 +54908,10 @@
             "name": "张起荣"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -54698,7 +55030,10 @@
             "name": "宋家睿"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -54779,7 +55114,10 @@
             "name": "赵晨羽"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
@@ -54929,7 +55267,10 @@
             "name": "黄浩"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "provincial"
+        ]
       },
       "score": {
         "value": 1,
