@@ -49,13 +49,12 @@
       "rule": {
         "preset": "ICPC",
         "options": {
-          "ratio": {
+          "count": {
             "value": [
-              0,
-              0,
-              0
-            ],
-            "denominator": "scored"
+              10,
+              10,
+              10
+            ]
           }
         }
       }
