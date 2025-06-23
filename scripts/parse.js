@@ -1,11 +1,12 @@
 const path = require('path');
 const fs = require('fs');
+const yaml = require('js-yaml');
 
 function parseConfig(dir) {
-  console.log(`Starting conversion of config.json in ${dir}`);
+  console.log(`Starting conversion of config.yaml in ${dir}`);
   const fileMap = {};
-  const configPath = path.resolve(dir, 'config.json');
-  const config = JSON.parse(fs.readFileSync(configPath).toString());
+  const configPath = path.resolve(dir, 'config.yaml');
+  const config = yaml.load(fs.readFileSync(configPath).toString());
 
   const convert = (item, base) => {
     item.path = item.path.replace(/\\/g, '/');

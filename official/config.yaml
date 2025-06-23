@@ -1,0 +1,896 @@
+root:
+  children:
+    - path: icpc
+      name: ICPC
+      children:
+        - path: icpc2025
+          name: ICPC 2025
+          children:
+            - path: icpc2025invitational-wuhan
+              format: srk.json
+              name: 2025-04-27 武汉邀请赛
+            - path: icpc2025invitational-xi_an
+              format: srk.json
+              name: 2025-05-04 西安邀请赛
+            - path: icpc2025invitational-nanchang
+              format: srk.json
+              name: 2025-05-18 南昌邀请赛
+            - path: icpc2025srni
+              format: srk.json
+              name: 2025-06-08 丝绸之路邀请赛
+        - path: icpc2024
+          name: ICPC 2024
+          children:
+            - path: icpc46th2024worldfinals
+              format: srk.json
+              name: 2024-04-18 World Finals (46th)
+            - path: icpc47th2024worldfinals
+              format: srk.json
+              name: 2024-04-18 World Finals (47th)
+            - path: icpc2024invitational-wuhan
+              format: srk.json
+              name: 2024-05-02 武汉邀请赛
+            - path: icpc2024invitational-xi_an
+              format: srk.json
+              name: 2024-05-19 西安邀请赛
+            - path: icpc2024invitational-kunming
+              format: srk.json
+              name: 2024-05-26 昆明邀请赛
+            - path: icpc2024srni
+              format: srk.json
+              name: 2024-06-09 丝绸之路邀请赛
+            - path: icpc2024chengdu
+              format: srk.json
+              name: 2024-10-27 成都站
+            - path: icpc2024nanjing
+              format: srk.json
+              name: 2024-11-03 南京站
+            - path: icpc2024hangzhou
+              format: srk.json
+              name: 2024-11-10 杭州站
+            - path: icpc2024shanghai
+              format: srk.json
+              name: 2024-11-17 上海站
+            - path: icpc2024shenyang
+              format: srk.json
+              name: 2024-11-24 沈阳站
+            - path: icpc2024kunming
+              format: srk.json
+              name: 2024-12-01 昆明站
+            - path: icpc2024hongkong
+              format: srk.json
+              name: 2024-12-22 香港站
+            - path: icpc2024ecfinal
+              format: srk.json
+              name: 2024-12-28 EC Final
+        - path: icpc2023
+          name: ICPC 2023
+          children:
+            - path: icpc2023invitational-xi_an
+              format: srk.json
+              name: 2023-05-14 西安邀请赛
+            - path: icpc2023srni
+              format: srk.json
+              name: 2023-06-04 丝绸之路邀请赛
+            - path: icpc2023xi_an
+              format: srk.json
+              name: 2023-10-22 西安站
+            - path: icpc2023nanjing
+              format: srk.json
+              name: 2023-11-05 南京站
+            - path: icpc2023shenyang
+              format: srk.json
+              name: 2023-11-12 沈阳站
+            - path: icpc2023macau
+              format: srk.json
+              name: 2023-11-19 澳门站
+            - path: icpc2023hefei
+              format: srk.json
+              name: 2023-11-26 合肥站
+            - path: icpc2023jinan
+              format: srk.json
+              name: 2023-12-03 济南站
+            - path: icpc2023hangzhou
+              format: srk.json
+              name: 2023-12-10 杭州站
+            - path: icpc2023ecfinal
+              format: srk.json
+              name: 2024-01-12 EC Final
+        - path: icpc2022
+          name: ICPC 2022
+          children:
+            - path: icpc2022shenyang
+              format: srk.json
+              name: 2022-11-06 沈阳站
+            - path: icpc2022xi_an
+              format: srk.json
+              name: 2022-11-13 西安站
+            - path: icpc2022hefei
+              format: srk.json
+              name: 2022-11-20 合肥站
+            - path: icpc2022jinan
+              format: srk.json
+              name: 2022-11-27 济南站
+            - path: icpc2022hangzhou
+              format: srk.json
+              name: 2022-12-04 杭州站
+            - path: icpc2022nanjing
+              format: srk.json
+              name: 2022-12-18 南京站
+            - path: icpc2022hongkong
+              format: srk.json
+              name: 2023-01-14 香港站
+            - path: icpc2022ecfinal
+              format: srk.json
+              name: 2023-03-25 EC Final
+        - path: icpc2021
+          name: ICPC 2021
+          children:
+            - path: icpc2021jinan
+              format: srk.json
+              name: 2021-11-14 济南站
+            - path: icpc2021shenyang
+              format: srk.json
+              name: 2021-11-21 沈阳站
+            - path: icpc2021shanghai
+              format: srk.json
+              name: 2021-11-28 上海站
+            - path: icpc2021nanjing
+              format: srk.json
+              name: 2021-12-04 南京站
+            - path: icpc2021macau
+              format: srk.json
+              name: 2022-04-03 澳門站
+            - path: icpc2021kunming
+              format: srk.json
+              name: 2022-04-17 昆明站
+            - path: icpc2021ecfinal
+              format: srk.json
+              name: 2022-07-20 EC Final
+        - path: icpc2020
+          name: ICPC 2020
+          children:
+            - path: icpc2020shanghai
+              format: srk.json
+              name: 2020-12-13 上海站
+            - path: icpc2020nanjing
+              format: srk.json
+              name: 2020-12-20 南京站
+            - path: icpc2020jinan
+              format: srk.json
+              name: 2020-12-27 济南站
+            - path: icpc2020kunming
+              format: srk.json
+              name: 2021-04-03 昆明站
+            - path: icpc2020yinchuan
+              format: srk.json
+              name: 2021-05-16 银川站 IUPC 2021
+            - path: icpc2020shenyang
+              format: srk.json
+              name: 2021-07-18 沈阳站
+            - path: icpc2020ecfinal
+              format: srk.json
+              name: 2021-04-18 EC Final
+            - path: icpc2020invitational-xiaomi
+              format: srk.json
+              name: 2020-11-22 小米邀请赛
+        - path: icpc2019
+          name: ICPC 2019
+          children:
+            - path: icpc2019yinchuan
+              format: srk.json
+              name: 2019-10-20 银川站
+            - path: icpc2019nanchang
+              format: srk.json
+              name: 2019-11-11 南昌站
+        - path: icpc2018
+          name: ICPC 2018
+          children:
+            - path: icpc2018worldfinals
+              format: srk.json
+              name: 2018-04-19 World Finals
+            - path: icpc2018nanjing
+              format: srk.json
+              name: 2018-10-14 南京站
+        - path: icpc2017
+          name: ICPC 2017
+          children:
+            - path: icpc2017harbin
+              format: srk.json
+              name: 2017-??-?? 哈尔滨站
+            - path: icpc2017urumchi
+              format: srk.json
+              name: 2017-??-?? 乌鲁木齐站
+            - path: icpc2017shenyang
+              format: srk.json
+              name: 2017-10-22 沈阳站
+            - path: icpc2017xi_an
+              format: srk.json
+              name: 2017-10-29 西安站
+            - path: icpc2017beijing
+              format: srk.json
+              name: 2017-11-19 北京站
+            - path: icpc2017nanning
+              format: srk.json
+              name: 2017-11-26 南宁站
+        - path: icpc2016
+          name: ICPC 2016
+          children:
+            - path: icpc2016harbin
+              format: srk.json
+              name: 2016-??-?? 哈尔滨站
+            - path: icpc2016xi_an
+              format: srk.json
+              name: 2016-??-?? 西安站
+            - path: icpc2016shanghai
+              format: srk.json
+              name: 2016-??-?? 上海站
+            - path: icpc2016dalian
+              format: srk.json
+              name: 2016-10-16 大连站
+            - path: icpc2016shenyang
+              format: srk.json
+              name: 2016-10-23 沈阳站
+            - path: icpc2016hongkong
+              format: srk.json
+              name: 2016-11-06 香港站
+            - path: icpc2016beijing
+              format: srk.json
+              name: 2016-11-13 北京站
+        - path: icpc2015
+          name: ICPC 2015
+          children:
+            - path: icpc2015changchun
+              format: srk.json
+              name: 2015-10-18 长春站
+            - path: icpc2015shenyang
+              format: srk.json
+              name: 2015-10-25 沈阳站
+            - path: icpc2015hefei
+              format: srk.json
+              name: 2015-11-08 合肥站
+            - path: icpc2015beijing
+              format: srk.json
+              name: 2015-11-15 北京站
+            - path: icpc2015shanghai
+              format: srk.json
+              name: 2015-11-22 上海站
+            - path: icpc2015ecfinal
+              format: srk.json
+              name: 2015-12-13 EC Final
+        - path: icpc2014
+          name: ICPC 2014
+          children:
+            - path: icpc2014mudanjiang
+              format: srk.json
+              name: 2014-10-12 牡丹江站
+            - path: icpc2014anshan
+              format: srk.json
+              name: 2014-10-19 鞍山站
+            - path: icpc2014xi_an
+              format: srk.json
+              name: 2014-10-26 西安站
+            - path: icpc2014beijing
+              format: srk.json
+              name: 2014-11-16 北京站
+            - path: icpc2014guangzhou
+              format: srk.json
+              name: 2014-11-23 广州站
+            - path: icpc2014shanghai
+              format: srk.json
+              name: 2014-12-07 上海站
+        - path: icpc2013
+          name: ICPC 2013
+          children:
+            - path: icpc2013chengdu
+              format: srk.json
+              name: 2013-10-20 成都站
+            - path: icpc2013hangzhou
+              format: srk.json
+              name: 2013-10-27 杭州站
+            - path: icpc2013nanjing
+              format: srk.json
+              name: 2013-11-02 南京站
+            - path: icpc2013changsha
+              format: srk.json
+              name: 2013-11-17 长沙站
+            - path: icpc2013changchun
+              format: srk.json
+              name: 2013-12-08 长春站
+        - path: icpc2012
+          name: ICPC 2012
+          children:
+            - path: icpc2012changchun
+              format: srk.json
+              name: 2012-10-14 长春站
+            - path: icpc2012tianjin
+              format: srk.json
+              name: 2012-10-21 天津站
+            - path: icpc2012jinhua
+              format: srk.json
+              name: 2012-10-28 金华站
+            - path: icpc2012hangzhou
+              format: srk.json
+              name: 2012-11-04 杭州站
+            - path: icpc2012chengdu
+              format: srk.json
+              name: 2012-11-11 成都站
+        - path: icpc2011
+          name: ICPC 2011
+          children:
+            - path: icpc2011dalian
+              format: srk.json
+              name: 2011-09-25 大连站
+            - path: icpc2011shanghai
+              format: srk.json
+              name: 2011-10-16 上海站
+            - path: icpc2011beijing
+              format: srk.json
+              name: 2011-10-23 北京站
+            - path: icpc2011chengdu
+              format: srk.json
+              name: 2011-11-06 成都站
+            - path: icpc2011fuzhou
+              format: srk.json
+              name: 2011-11-20 福州站
+        - path: icpc2010
+          name: ICPC 2010
+          children:
+            - path: icpc2010harbin
+              format: srk.json
+              name: 2010-09-26 哈尔滨站
+            - path: icpc2010tianjin
+              format: srk.json
+              name: 2010-10-17 天津站
+            - path: icpc2010hangzhou
+              format: srk.json
+              name: 2010-10-24 杭州站
+            - path: icpc2010chengdu
+              format: srk.json
+              name: 2010-11-07 成都站
+            - path: icpc2010fuzhou
+              format: srk.json
+              name: 2010-11-21 福州站
+        - path: icpc2009
+          name: ICPC 2009
+          children:
+            - path: icpc2009wuhan
+              format: srk.json
+              name: 2009-09-11 武汉站
+    - path: ccpc
+      name: CCPC
+      children:
+        - path: ccpc2025
+          name: CCPC 2025
+          children:
+            - path: ccpc2025invitational-northeast
+              format: srk.json
+              name: 2025-05-25 东北邀请赛
+            - path: ccpc2025invitational-zhengzhou
+              format: srk.json
+              name: 2025-06-02 郑州邀请赛
+            - path: ccpc2025invitational-guangdong-preliminary
+              format: srk.json
+              name: 2025-06-02 广东邀请赛 预赛
+            - path: ccpc2025invitational-fujian
+              format: srk.json
+              name: 2025-06-21 福建邀请赛
+        - path: ccpc2024
+          name: CCPC 2024
+          children:
+            - path: ccpc2024invitational-fuzhou
+              format: srk.json
+              name: 2024-05-26 福州邀请赛
+            - path: ccpc2024invitational-jinan
+              format: srk.json
+              name: 2024-05-26 济南邀请赛
+            - path: ccpc2024harbin
+              format: srk.json
+              name: 2024-10-20 哈尔滨站
+            - path: ccpc2024jinan
+              format: srk.json
+              name: 2024-10-27 济南站
+            - path: ccpc2024chongqing
+              format: srk.json
+              name: 2024-11-10 重庆站
+            - path: ccpc2024zhengzhou
+              format: srk.json
+              name: 2024-11-17 郑州站
+            - path: ccpc2024final
+              format: srk.json
+              name: 2025-05-11 Final
+            - path: ccpc2024hv
+              format: srk.json
+              name: 2024-11-03 高职专场
+            - path: ccpc2024ladies
+              format: srk.json
+              name: 2024-11-03 女生赛
+        - path: ccpc2023
+          name: CCPC 2023
+          children:
+            - path: ccpc2023invitational-xiangtan
+              format: srk.json
+              name: 2023-05-28 湘潭邀请赛
+            - path: ccpc2023qinhuangdao
+              format: srk.json
+              name: 2023-10-15 秦皇岛站
+            - path: ccpc2023guilin
+              format: srk.json
+              name: 2023-10-29 桂林站
+            - path: ccpc2023harbin
+              format: srk.json
+              name: 2023-11-05 哈尔滨站
+            - path: ccpc2023shenzhen
+              format: srk.json
+              name: 2023-11-12 深圳站
+            - path: ccpc2023final
+              format: srk.json
+              name: 2024-03-31 Final
+            - path: ccpc2023hv
+              format: srk.json
+              name: 2023-10-21 高职专场
+            - path: ccpc2023ladies
+              format: srk.json
+              name: 2023-10-21 女生赛
+        - path: ccpc2022
+          name: CCPC 2022
+          children:
+            - path: ccpc2022guilin
+              format: srk.json
+              name: 2022-10-30 桂林站
+            - path: ccpc2022weihai
+              format: srk.json
+              name: 2022-11-06 威海站
+            - path: ccpc2022guangzhou
+              format: srk.json
+              name: 2022-11-13 广州站
+            - path: ccpc2022mianyang
+              format: srk.json
+              name: 2022-11-20 绵阳站
+            - path: ccpc2022final
+              format: srk.json
+              name: 2023-05-14 Final
+            - path: ccpc2022hv
+              format: srk.json
+              name: 2022-10-23 高职专场
+            - path: ccpc2022ladies
+              format: srk.json
+              name: 2022-11-27 女生赛
+        - path: ccpc2021
+          name: CCPC 2021
+          children:
+            - path: ccpc2021guilin
+              format: srk.json
+              name: 2021-11-07 桂林站
+            - path: ccpc2021guangzhou
+              format: srk.json
+              name: 2021-11-14 广州站
+            - path: ccpc2021weihai
+              format: srk.json
+              name: 2021-11-21 威海站
+            - path: ccpc2021harbin
+              format: srk.json
+              name: 2021-11-28 哈尔滨站
+            - path: ccpc2021final
+              format: srk.json
+              name: 2022-07-27 Final
+            - path: ccpc2021ladies
+              format: srk.json
+              name: 2021-10-31 女生赛
+        - path: ccpc2020
+          name: CCPC 2020
+          children:
+            - path: ccpc2020qinhuangdao
+              format: srk.json
+              name: 2020-10-18 秦皇岛站
+            - path: ccpc2020weihai
+              format: srk.json
+              name: 2020-10-25 威海站
+            - path: ccpc2020mianyang
+              format: srk.json
+              name: 2020-11-01 绵阳站
+            - path: ccpc2020changchun
+              format: srk.json
+              name: 2020-11-08 长春站
+            - path: ccpc2020final
+              format: srk.json
+              name: 2021-05-30 Final
+        - path: ccpc2019
+          name: CCPC 2019
+          children:
+            - path: ccpc2019qinhuangdao
+              format: srk.json
+              name: 2019-09-22 秦皇岛站
+            - path: ccpc2019harbin
+              format: srk.json
+              name: 2019-10-13 哈尔滨站
+            - path: ccpc2019xiamen
+              format: srk.json
+              name: 2019-10-20 厦门站
+            - path: ccpc2019final
+              format: srk.json
+              name: 2019-11-17 Final
+        - path: ccpc2018
+          name: CCPC 2018
+          children:
+            - path: ccpc2018jilin
+              format: srk.json
+              name: 2018-09-22 吉林站
+            - path: ccpc2018qinhuangdao
+              format: srk.json
+              name: 2018-09-28 秦皇岛站
+            - path: ccpc2018guilin
+              format: srk.json
+              name: 2018-10-28 桂林站
+            - path: ccpc2018final
+              format: srk.json
+              name: 2018-11-25 Final
+        - path: ccpc2017
+          name: CCPC 2017
+          children:
+            - path: ccpc2017hangzhou-hdu
+              format: srk.json
+              name: 2017-??-?? 杭州 (HDU)
+            - path: ccpc2017shenyang
+              format: srk.json
+              name: 2017-??-?? 沈阳
+            - path: ccpc2017xi_an
+              format: srk.json
+              name: 2017-??-?? 西安
+            - path: ccpc2017qingdao
+              format: srk.json
+              name: 2017-??-?? 青岛
+            - path: ccpc2017harbin
+              format: srk.json
+              name: 2017-10-22 哈尔滨站
+            - path: ccpc2017hangzhou
+              format: srk.json
+              name: 2017-11-05 杭州站
+            - path: ccpc2017final
+              format: srk.json
+              name: 2017-12-03 Final
+        - path: ccpc2016
+          name: CCPC 2016
+          children:
+            - path: ccpc2016hongkong
+              format: srk.json
+              name: 2016-??-?? 香港
+            - path: ccpc2016shenyang
+              format: srk.json
+              name: 2016-??-?? 沈阳
+            - path: ccpc2016changchun
+              format: srk.json
+              name: 2016-09-27 长春站
+            - path: ccpc2016hefei
+              format: srk.json
+              name: 2016-10-16 合肥站
+            - path: ccpc2016hangzhou
+              format: srk.json
+              name: 2016-10-16 杭州站
+        - path: ccpc2015
+          name: CCPC 2015
+          children:
+            - path: ccpc2015nanyang
+              format: srk.json
+              name: 2015-10-18 CCPC 2015 (南阳)
+    - path: provincial
+      name: 省赛
+      children:
+        - path: bj
+          name: 北京市赛
+          children:
+            - path: bjcpc2024
+              format: srk.json
+              name: 2024-05-19 2024
+        - path: he
+          name: 河北省赛
+          children:
+            - path: hecpc9th
+              format: srk.json
+              name: 2025-05-18 第九届
+            - path: hecpc8th
+              format: srk.json
+              name: 2024-05-26 第八届
+            - path: hecpc7th
+              format: srk.json
+              name: 2023-05-21 第七届
+        - path: nm
+          name: 内蒙古区赛
+          children:
+            - path: nmcpc18th
+              format: srk.json
+              name: 2025-06-22 第十八届
+        - path: ln
+          name: 辽宁省赛
+          children:
+            - path: lncpc5th
+              format: srk.json
+              name: 2024-11-03 第五届
+            - path: lncpc3rd
+              format: srk.json
+              name: 2022-10-23 第三届
+        - path: jl
+          name: 吉林省赛
+          children:
+            - path: jlcpc18th
+              format: srk.json
+              name: 2025-05-24 第十八届
+            - path: jlcpc15th
+              format: srk.json
+              name: 2021-11-30 第十五届
+        - path: hl
+          name: 黑龙江省赛
+          children:
+            - path: hlcpc20th
+              format: srk.json
+              name: 2025-05-11 第二十届
+        - path: sh
+          name: 上海市赛
+          children:
+            - path: shcpc2024
+              format: srk.json
+              name: 2024-06-16 2024
+            - path: shcpc2021
+              format: srk.json
+              name: 2021-07-11 2021
+        - path: js
+          name: 江苏省赛
+          children:
+            - path: jscpc10th
+              format: srk.json
+              name: 2025-06-02 第十届
+            - path: jscpc9th
+              format: srk.json
+              name: 2024-05-12 第九届
+            - path: jscpc8th
+              format: srk.json
+              name: 2023-05-28 第八届
+            - path: jscpc7th
+              format: srk.json
+              name: 2022-05-28 第七届
+            - path: jscpc6th
+              format: srk.json
+              name: 2021-12-25 第六届
+            - path: jscpc4th
+              format: srk.json
+              name: 2019-05-14 第四届
+        - path: zj
+          name: 浙江省赛
+          children:
+            - path: zjcpc22nd
+              format: srk.json
+              name: 2025-04-26 第二十二届
+            - path: zjcpc21st
+              format: srk.json
+              name: 2024-04-13 第二十一届
+            - path: zjcpc20th
+              format: srk.json
+              name: 2023-04-15 第二十届
+            - path: zjcpc19th
+              format: srk.json
+              name: 2022-04-16 第十九届
+            - path: zjcpc18th
+              format: srk.json
+              name: 2021-04-17 第十八届
+            - path: zjcpc17th
+              format: srk.json
+              name: 2020-10-17 第十七届
+        - path: fj
+          name: 福建省赛
+          children:
+            - path: fjcpc12th
+              format: srk.json
+              name: 2025-06-21 第十二届
+            - path: fjcpc11th
+              format: srk.json
+              name: 2024-05-26 第十一届
+        - path: jx
+          name: 江西省赛
+          children:
+            - path: jxcpc2025
+              format: srk.json
+              name: 2025-05-18 2025
+            - path: jxcpc2024
+              format: srk.json
+              name: 2023-05-21 2024
+            - path: jxcpc2023
+              format: srk.json
+              name: 2023-05-21 2023
+            - path: jxcpc2022
+              format: srk.json
+              name: 2022-10-23 2022
+            - path: jxcpc2020
+              format: srk.json
+              name: 2020-11-15 2020
+        - path: sd
+          name: 山东省赛
+          children:
+            - path: sdcpc15th
+              format: srk.json
+              name: 2025-05-25 第十五届
+            - path: sdcpc14th
+              format: srk.json
+              name: 2024-05-26 第十四届
+            - path: sdcpc13th
+              format: srk.json
+              name: 2023-06-04 第十三届
+            - path: sdcpc12th
+              format: srk.json
+              name: 2022-05-22 第十二届
+            - path: sdcpc11th
+              format: srk.json
+              name: 2021-05-09 第十一届
+            - path: sdcpc10th
+              format: srk.json
+              name: 2019-05-12 第十届
+            - path: sdcpc9th-rejudged
+              format: srk.json
+              name: 2018-06-06 第九届（重判）
+            - path: sdcpc9th
+              format: srk.json
+              name: 2018-06-06 第九届
+            - path: sdcpc8th
+              format: srk.json
+              name: 2017-05-07 第八届
+            - path: sdcpc7th
+              format: srk.json
+              name: 2016-06-05 第七届
+            - path: sdcpc6th
+              format: srk.json
+              name: 2015-05-10 第六届
+            - path: sdcpc5th
+              format: srk.json
+              name: 2014-05-11 第五届
+            - path: sdcpc4th
+              format: srk.json
+              name: 2013-06-09 第四届
+            - path: sdcpc3rd
+              format: srk.json
+              name: 2012-05-13 第三届
+        - path: ha
+          name: 河南省赛
+          children:
+            - path: haccpc7th
+              format: srk.json
+              name: 2025-06-02 第七届 CCPC
+            - path: haicpc16th
+              format: srk.json
+              name: 2025-05-11 第十六届 ICPC
+            - path: haicpc15th
+              format: srk.json
+              name: 2024-06-03 第十五届 ICPC
+            - path: haccpc6th
+              format: srk.json
+              name: 2024-05-12 第六届 CCPC
+            - path: haccpc5th
+              format: srk.json
+              name: 2023-05-07 第五届 CCPC
+            - path: haccpc4th
+              format: srk.json
+              name: 2022-10-02 第四届 CCPC
+            - path: haccpc3rd
+              format: srk.json
+              name: 2021-10-30 第三届 CCPC
+            - path: haccpc2nd
+              format: srk.json
+              name: 2020-11-21 第二届 CCPC
+        - path: hb
+          name: 湖北省赛
+          children:
+            - path: hbcpc6th
+              format: srk.json
+              name: 2024-04-27 第六届
+            - path: hbcpc5th
+              format: srk.json
+              name: 2023-04-30 第五届
+            - path: hbcpc4th
+              format: srk.json
+              name: 2022-05-22 第四届
+        - path: hn
+          name: 湖南省赛
+          children:
+            - path: hncpc20th
+              format: srk.json
+              name: 2024-10-13 第二十届
+            - path: hncpc19th
+              format: srk.json
+              name: 2023-09-17 第十九届
+        - path: gd
+          name: 广东省赛
+          children:
+            - path: gdcpc22nd
+              format: srk.json
+              name: 2025-06-02 第二十二届
+            - path: gdcpc21st
+              format: srk.json
+              name: 2024-05-26 第二十一届
+            - path: gdcpc20th
+              format: srk.json
+              name: 2023-05-14 第二十届
+            - path: gdcpc19th
+              format: srk.json
+              name: 2022-06-05 第十九届
+        - path: gx
+          name: 广西区赛
+          children:
+            - path: gxcpc7th
+              format: srk.json
+              name: 2024-05-19 第七届
+            - path: gxcpc6th
+              format: srk.json
+              name: 2023-06-04 第六届
+            - path: gxcpc5th
+              format: srk.json
+              name: 2022-06-26 第五届
+        - path: cq
+          name: 重庆市赛
+          children:
+            - path: cqcpc13th
+              format: srk.json
+              name: 2025-05-10 第十三届
+        - path: sc
+          name: 四川省赛
+          children:
+            - path: sccpc17th
+              format: srk.json
+              name: 2025-06-08 第十七届
+            - path: sccpc16th
+              format: srk.json
+              name: 2024-06-16 第十六届
+            - path: sccpc15th
+              format: srk.json
+              name: 2023-06-04 第十五届
+        - path: sn
+          name: 陕西省赛
+          children:
+            - path: sncpc13th
+              format: srk.json
+              name: 2025-05-10 第十三届
+            - path: sncpc12th
+              format: srk.json
+              name: 2024-06-02 第十二届
+            - path: sncpc10th
+              format: srk.json
+              name: 2022-10-22 第十届
+            - path: sncpc7th
+              format: srk.json
+              name: 2019-06-02 第七届
+        - path: xj
+          name: 新疆区赛
+          children:
+            - path: xjcpc2023
+              format: srk.json
+              name: 2023-05-20 2023
+        - path: northeast
+          name: 东北地区赛
+          children:
+            - path: northeastcpc19th
+              format: srk.json
+              name: 2025-05-25 第十九届
+            - path: northeastcpc15th
+              format: srk.json
+              name: 2021-06-13 第十五届
+            - path: northeastcpc14th
+              format: srk.json
+              name: 2020-10-11 第十四届
+    - path: university-level
+      name: 校赛
+      children:
+        - path: thu
+          name: 清华大学
+          children:
+            - path: thupc2023
+              format: srk.json
+              name: 2023-05-28 2023
+        - path: sdut
+          name: 山东理工大学
+          children:
+            - path: sdutpc17
+              format: srk.json
+              name: 2025-05-18 第十七届
+            - path: sdutpc16
+              format: srk.json
+              name: 2024-05-12 第十六届
+            - path: sdutpc15
+              format: srk.json
+              name: 2023-05-28 第十五届

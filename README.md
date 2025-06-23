@@ -12,7 +12,7 @@ fork 本仓库修改，然后提交 PR。
 
 ```plain
 official/
-  config.json # 榜单目录树配置（若涉及目录改动，需要修改）
+  config.yaml # 榜单目录树配置（若涉及目录改动，需要修改）
   ccpc/ # 榜单数据目录，和配置及前端呈现的目录结构对应
     ccpc2020/
       ccpc2020final.srk.json
