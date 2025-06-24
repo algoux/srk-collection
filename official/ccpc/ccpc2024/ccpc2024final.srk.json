@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "contest": {
     "title": {
       "zh-CN": "第十届中国大学生程序设计竞赛总决赛",
@@ -25,25 +25,21 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "series": [
     {
-      "title": "#",
+      "title": "本科#",
       "segments": [
         {
           "style": "gold",
-          "title": "Gold Award"
+          "title": "金奖"
         },
         {
           "style": "silver",
-          "title": "Silver Award"
+          "title": "银奖"
         },
         {
           "style": "bronze",
-          "title": "Bronze Award"
+          "title": "铜奖"
         }
       ],
       "rule": {
@@ -51,10 +47,45 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              12,
+              21,
+              34
             ]
+          },
+          "filter": {
+            "byMarker": "4"
+          }
+        }
+      }
+    },
+    {
+      "title": "专科#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "金奖"
+        },
+        {
+          "style": "silver",
+          "title": "银奖"
+        },
+        {
+          "style": "bronze",
+          "title": "铜奖"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              1,
+              2,
+              2
+            ]
+          },
+          "filter": {
+            "byMarker": "5"
           }
         }
       }
@@ -258,7 +289,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -532,7 +562,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -753,7 +782,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -1033,7 +1061,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -1285,7 +1312,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -1531,7 +1557,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -1849,7 +1874,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -2056,7 +2080,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -2347,7 +2370,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -2603,7 +2625,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -2824,7 +2845,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -3021,7 +3041,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -3252,7 +3271,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -3421,7 +3439,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -3621,7 +3638,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -3817,7 +3833,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -3986,7 +4001,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -4242,7 +4256,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -4456,7 +4469,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -4670,7 +4682,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -4891,7 +4902,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -5109,7 +5119,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -5281,7 +5290,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -5550,7 +5558,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -5722,7 +5729,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -5856,7 +5862,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -5997,7 +6002,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -6210,7 +6214,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -6389,7 +6392,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -6561,7 +6563,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -6712,7 +6713,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -6863,7 +6863,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -7007,7 +7006,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -7151,7 +7149,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -7337,7 +7334,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -7509,7 +7505,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -7664,7 +7659,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -7815,7 +7809,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -7980,7 +7973,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -8249,9 +8241,6 @@
             "name": "孙洪嘉"
           }
         ],
-        "markers": [
-          "3"
-        ],
         "official": false
       },
       "score": {
@@ -8421,7 +8410,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -8597,7 +8585,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -8804,7 +8791,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -9081,7 +9067,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -9249,7 +9234,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -9438,7 +9422,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -9596,7 +9579,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -9858,7 +9840,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -10016,7 +9997,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -10215,7 +10195,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -10397,7 +10376,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -10541,7 +10519,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -10831,7 +10808,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -10954,7 +10930,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -11112,7 +11087,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -11277,7 +11251,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -11438,7 +11411,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -11683,7 +11655,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -11796,7 +11767,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -11950,7 +11920,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -12132,7 +12101,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -12373,7 +12341,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -12531,7 +12498,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -12682,7 +12648,6 @@
           }
         ],
         "markers": [
-          "1",
           "female",
           "4"
         ],
@@ -12803,7 +12768,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -13156,7 +13120,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -13286,7 +13249,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -13437,7 +13399,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -13602,7 +13563,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -13777,7 +13737,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -13921,7 +13880,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -14082,7 +14040,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -14240,7 +14197,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -14405,7 +14361,6 @@
           }
         ],
         "markers": [
-          "1",
           "female",
           "4"
         ],
@@ -14668,7 +14623,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -14826,7 +14780,6 @@
           }
         ],
         "markers": [
-          "1",
           "female",
           "4"
         ],
@@ -14999,7 +14952,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -15126,7 +15078,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -15403,7 +15354,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -15596,7 +15546,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -15754,7 +15703,6 @@
           }
         ],
         "markers": [
-          "1",
           "5"
         ],
         "official": true
@@ -15902,7 +15850,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -16091,7 +16038,6 @@
           }
         ],
         "markers": [
-          "1",
           "female",
           "4"
         ],
@@ -16243,7 +16189,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -16464,7 +16409,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -16678,7 +16622,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -16878,7 +16821,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -17081,7 +17023,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -17214,7 +17155,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -17337,7 +17277,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -17505,7 +17444,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -17621,7 +17559,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -17744,7 +17681,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -17993,7 +17929,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18099,7 +18034,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18205,7 +18139,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18328,7 +18261,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18434,7 +18366,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18554,7 +18485,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18687,7 +18617,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18834,7 +18763,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -18977,7 +18905,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -19097,7 +19024,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -19356,7 +19282,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -19480,7 +19405,6 @@
           }
         ],
         "markers": [
-          "1",
           "female",
           "4"
         ],
@@ -19660,7 +19584,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -19790,7 +19713,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -19910,7 +19832,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -20110,7 +20031,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -20296,7 +20216,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -20437,7 +20356,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -20602,7 +20520,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -20771,7 +20688,6 @@
           }
         ],
         "markers": [
-          "1",
           "5"
         ],
         "official": true
@@ -20961,7 +20877,6 @@
           }
         ],
         "markers": [
-          "1",
           "5"
         ],
         "official": true
@@ -21165,7 +21080,6 @@
           }
         ],
         "markers": [
-          "1",
           "5"
         ],
         "official": true
@@ -21383,7 +21297,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -21729,7 +21642,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -21862,7 +21774,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -21992,7 +21903,6 @@
           }
         ],
         "markers": [
-          "1",
           "5"
         ],
         "official": true
@@ -22130,9 +22040,6 @@
           {
             "name": "刘志成"
           }
-        ],
-        "markers": [
-          "3"
         ],
         "official": false
       },
@@ -22941,7 +22848,6 @@
           }
         ],
         "markers": [
-          "1",
           "5"
         ],
         "official": true
@@ -23036,7 +22942,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -23180,7 +23085,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
@@ -23365,7 +23269,6 @@
           }
         ],
         "markers": [
-          "1",
           "4"
         ],
         "official": true
