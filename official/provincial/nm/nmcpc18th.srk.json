@@ -27,7 +27,7 @@
   ],
   "series": [
     {
-      "title": "#",
+      "title": "本科#",
       "segments": [
         {
           "style": "gold",
@@ -47,10 +47,45 @@
         "options": {
           "count": {
             "value": [
-              10,
-              10,
-              10
+              7,
+              14,
+              21
             ]
+          },
+          "filter": {
+            "byMarker": "undergraduate"
+          }
+        }
+      }
+    },
+    {
+      "title": "高职#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              3,
+              3,
+              4
+            ]
+          },
+          "filter": {
+            "byMarker": "hv"
           }
         }
       }
@@ -91,6 +126,16 @@
     }
   },
   "markers": [
+    {
+      "id": "undergraduate",
+      "label": "本科",
+      "style": "blue"
+    },
+    {
+      "id": "hv",
+      "label": "高职",
+      "style": "green"
+    },
     {
       "id": "female",
       "label": "女队",
@@ -226,10 +271,10 @@
             "name": "茌心宇"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 7,
@@ -568,10 +613,10 @@
             "name": "胡浩"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 7,
@@ -827,10 +872,10 @@
             "name": "邓宇沛"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -1086,10 +1131,10 @@
             "name": "代琪"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -1328,10 +1373,10 @@
             "name": "李超"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -1497,10 +1542,10 @@
             "name": "高晟涵"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -1752,10 +1797,10 @@
             "name": "刘思宇"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -1914,10 +1959,10 @@
             "name": "丁薇"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -2178,10 +2223,10 @@
             "name": "李瑛"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -2469,10 +2514,10 @@
             "name": "王江红"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -2725,10 +2770,10 @@
             "name": "辛越"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -2918,10 +2963,10 @@
             "name": "郝晶晶"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -3125,10 +3170,10 @@
             "name": "杨博岩"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -3304,10 +3349,10 @@
             "name": "杨舒焜"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -3506,10 +3551,10 @@
             "name": "卜宇诺"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -3747,10 +3792,10 @@
             "name": "周钰凯"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -3870,10 +3915,10 @@
             "name": "潘鸿磊"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -4030,10 +4075,10 @@
             "name": "杨甜甜"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -4272,6 +4317,7 @@
           }
         ],
         "markers": [
+          "undergraduate",
           "female"
         ],
         "official": true
@@ -4474,10 +4520,10 @@
             "name": "周芮"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 3,
@@ -4702,10 +4748,10 @@
             "name": "赵梓豪"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -4880,10 +4926,10 @@
             "name": "郑欣然"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -5170,10 +5216,10 @@
             "name": "段宇航"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -5369,10 +5415,10 @@
             "name": "韩少博"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -5609,10 +5655,10 @@
             "name": "崔杰伦"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -5913,10 +5959,10 @@
             "name": "王敬楠"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -6043,10 +6089,10 @@
             "name": "吴泊儒"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -6274,10 +6320,10 @@
             "name": "于凤海"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -6456,10 +6502,10 @@
             "name": "黄金源"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -6707,10 +6753,10 @@
             "name": "陆统"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -6949,6 +6995,7 @@
           }
         ],
         "markers": [
+          "undergraduate",
           "female"
         ],
         "official": true
@@ -7130,10 +7177,10 @@
             "name": "牛笑和"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -7312,10 +7359,10 @@
             "name": "张跃骞"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -7517,10 +7564,10 @@
             "name": "赵明暄"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -7783,10 +7830,10 @@
             "name": "张洪逵"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -8042,10 +8089,10 @@
             "name": "安炳睿"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 3,
@@ -8193,10 +8240,10 @@
             "name": "丁晓敏"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -8476,10 +8523,10 @@
             "name": "高磊"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -8731,10 +8778,10 @@
             "name": "哈哈日"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -8937,10 +8984,10 @@
             "name": "邵佳琳"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -9175,10 +9222,10 @@
             "name": "李永琦"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -9374,10 +9421,10 @@
             "name": "牛笑茁"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -9612,10 +9659,10 @@
             "name": "孔维一"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -9878,10 +9925,10 @@
             "name": "杨佳"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -10137,10 +10184,10 @@
             "name": "范北鑫"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -10342,10 +10389,10 @@
             "name": "高赵吉星"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -10593,10 +10640,10 @@
             "name": "刘桂烜"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 2,
@@ -10789,6 +10836,7 @@
           }
         ],
         "markers": [
+          "undergraduate",
           "female"
         ],
         "official": true
@@ -10994,10 +11042,10 @@
             "name": "严大鹏"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 2,
@@ -11169,10 +11217,10 @@
             "name": "赵雪"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -11365,10 +11413,10 @@
             "name": "宋宇奇"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -11620,10 +11668,10 @@
             "name": "王自然"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -11798,10 +11846,10 @@
             "name": "卢泓全"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -12025,10 +12073,10 @@
             "name": "潘星宇"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -12200,10 +12248,10 @@
             "name": "王涛"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -12463,6 +12511,7 @@
           }
         ],
         "markers": [
+          "undergraduate",
           "female"
         ],
         "official": true
@@ -12609,10 +12658,10 @@
             "name": "杲文浩"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -12916,10 +12965,10 @@
             "name": "张健豪"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -13098,10 +13147,10 @@
             "name": "杨佳奇"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -13256,10 +13305,10 @@
             "name": "薄启厚"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 2,
@@ -13774,10 +13823,10 @@
             "name": "李元泰"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 1,
@@ -14039,10 +14088,10 @@
             "name": "战猛"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 1,
@@ -14238,10 +14287,10 @@
             "name": "王家安"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 1,
@@ -14465,10 +14514,10 @@
             "name": "张越"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 1,
@@ -14622,10 +14671,10 @@
             "name": "田茹霞"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 1,
@@ -14912,10 +14961,10 @@
             "name": "王英琪"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 1,
@@ -15101,10 +15150,10 @@
             "name": "祝国强"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 1,
@@ -15356,10 +15405,10 @@
             "name": "艾井涛"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 1,
@@ -15608,10 +15657,10 @@
             "name": "刘佳"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 1,
@@ -16129,10 +16178,10 @@
             "name": "张媛媛"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 1,
@@ -16571,6 +16620,7 @@
           }
         ],
         "markers": [
+          "undergraduate",
           "female"
         ],
         "official": true
@@ -16651,10 +16701,10 @@
             "name": "王尘"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -16725,10 +16775,10 @@
             "name": "陈雅茹"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -16885,10 +16935,10 @@
             "name": "崔铠"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -16949,10 +16999,10 @@
             "name": "杨明"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 0,
@@ -17033,10 +17083,10 @@
             "name": "朱佳琦"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -17097,10 +17147,10 @@
             "name": "王嘉鑫"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -17244,10 +17294,10 @@
             "name": "秦小朋"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -17318,10 +17368,10 @@
             "name": "关庆旭"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -17451,10 +17501,10 @@
             "name": "金岩"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -17532,10 +17582,10 @@
             "name": "张磊"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 0,
@@ -17662,6 +17712,7 @@
           }
         ],
         "markers": [
+          "undergraduate",
           "female"
         ],
         "official": true
@@ -17836,10 +17887,10 @@
             "name": "李佳雨"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -17979,10 +18030,10 @@
             "name": "刘冬祺"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -18067,10 +18118,10 @@
             "name": "高晨曦"
           }
         ],
+        "official": true,
         "markers": [
-          "1"
-        ],
-        "official": true
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 0,
@@ -18211,6 +18262,7 @@
           }
         ],
         "markers": [
+          "undergraduate",
           "female"
         ],
         "official": true
