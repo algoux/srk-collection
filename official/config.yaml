@@ -195,12 +195,6 @@ root:
         - path: icpc2017
           name: ICPC 2017
           children:
-            - path: icpc2017harbin
-              format: srk.json
-              name: 2017-??-?? 哈尔滨站
-            - path: icpc2017urumchi
-              format: srk.json
-              name: 2017-??-?? 乌鲁木齐站
             - path: icpc2017shenyang
               format: srk.json
               name: 2017-10-22 沈阳站
@@ -213,6 +207,9 @@ root:
             - path: icpc2017nanning
               format: srk.json
               name: 2017-11-26 南宁站
+            - path: icpc2017urumchi
+              format: srk.json
+              name: 2017-12-03 乌鲁木齐站
         - path: icpc2016
           name: ICPC 2016
           children:
