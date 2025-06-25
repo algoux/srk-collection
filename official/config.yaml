@@ -591,6 +591,9 @@ root:
             - path: hecpc7th
               format: srk.json
               name: 2023-05-21 第七届
+            - path: hecpc6th
+              format: srk.json
+              name: 2022-10-22 第六届
         - path: nm
           name: 内蒙古区赛
           children:
