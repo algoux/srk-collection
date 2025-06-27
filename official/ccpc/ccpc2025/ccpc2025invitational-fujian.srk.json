@@ -25,10 +25,6 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
-  "remarks": {
-    "zh-CN": "此邀请赛获奖数据为官方预测值，等待主办方确定最终获奖名单。",
-    "fallback": "This award data is a prediction. Please wait for the official announcement of the final results."
-  },
   "series": [
     {
       "title": "#",
@@ -51,9 +47,9 @@
         "options": {
           "count": {
             "value": [
-              28,
-              56,
-              84
+              29,
+              57,
+              85
             ]
           }
         }
