@@ -600,6 +600,9 @@ root:
             - path: nmcpc18th
               format: srk.json
               name: 2025-06-22 第十八届
+            - path: nmcpc17th
+              format: srk.json
+              name: 2024-05-12 第十七届
         - path: ln
           name: 辽宁省赛
           children:
