@@ -25,6 +25,10 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
+  "remarks": {
+    "zh-CN": "此榜单仅展示邀请赛排名，要查询省赛排名，请通过省赛分类或标识符「fjcpc12th」查找关联榜单。",
+    "fallback": "This ranklist shows the invitational rankings only, to view the provincial rankings, look for the associated listings by provincial classification or identifier \"fjcpc12th\"."
+  },
   "series": [
     {
       "title": "#",
