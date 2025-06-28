@@ -203,6 +203,15 @@
       }
     }
   ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        20,
+        "min"
+      ]
+    }
+  },
   "rows": [
     {
       "user": {
