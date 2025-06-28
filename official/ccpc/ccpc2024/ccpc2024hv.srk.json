@@ -25,10 +25,6 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "series": [
     {
       "title": "#",
@@ -51,9 +47,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              8,
+              14,
+              22
             ]
           }
         }
