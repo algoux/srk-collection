@@ -192,6 +192,9 @@ root:
             - path: icpc2018nanjing
               format: srk.json
               name: 2018-10-14 南京站
+            - path: icpc2018ecfinal
+              format: srk.json
+              name: 2018-12-16 EC Final
         - path: icpc2017
           name: ICPC 2017
           children:
