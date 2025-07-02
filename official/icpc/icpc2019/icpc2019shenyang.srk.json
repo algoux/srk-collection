@@ -96,7 +96,7 @@
       "style": "red"
     },
     {
-      "id": "redstar",
+      "id": "northkorea",
       "label": "North Korea",
       "style": "blue"
     }
@@ -454,7 +454,9 @@
         "name": "Redstar",
         "organization": "朝鲜理科大学",
         "official": true,
-        "markers": ["redstar"]
+        "markers": [
+          "northkorea"
+        ]
       },
       "score": {
         "value": 9,
@@ -662,7 +664,7 @@
         "organization": "金日成综合大学",
         "official": true,
         "markers": [
-          "redstar"
+          "northkorea"
         ]
       },
       "score": {
@@ -1273,7 +1275,7 @@
         "organization": "朝鲜理科大学",
         "official": true,
         "markers": [
-          "redstar"
+          "northkorea"
         ]
       },
       "score": {
