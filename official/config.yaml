@@ -585,6 +585,9 @@ root:
         - path: bj
           name: 北京市赛
           children:
+            - path: bjcpc2025
+              format: srk.json
+              name: 2025-04-20 2025
             - path: bjcpc2024
               format: srk.json
               name: 2024-05-19 2024
