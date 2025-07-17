@@ -126,6 +126,9 @@ root:
         - path: icpc2021
           name: ICPC 2021
           children:
+            - path: icpc2021invitational-xi_an
+              format: srk.json
+              name: 2021-06-06 西安邀请赛
             - path: icpc2021jinan
               format: srk.json
               name: 2021-11-14 济南站
