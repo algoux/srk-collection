@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.7",
+  "version": "0.3.9",
   "contest": {
     "title": {
       "zh-CN": "2025 四川省大学生程序设计竞赛 - 正式赛",
@@ -80,10 +80,7 @@
         { "title": "银奖", "style": "silver" },
         { "title": "铜奖", "style": "bronze" }
       ],
-      "rule": {
-        "preset": "ICPC",
-        "options": { "count": { "value": [0, 0, 0] } }
-      }
+      "rule": { "preset": "ICPC", "options": { "count": { "value": [0, 0, 0] } } }
     },
     { "title": "R#", "rule": { "preset": "Normal" } },
     {
@@ -100,11 +97,7 @@
         "name": "1000年级小盆友",
         "id": "F04",
         "organization": "成都外国语学校",
-        "teamMembers": [
-          { "name": "蒋明睿" },
-          { "name": "钱承泽" },
-          { "name": "祝熙宸" }
-        ],
+        "teamMembers": [{ "name": "蒋明睿" }, { "name": "钱承泽" }, { "name": "祝熙宸" }],
         "official": false
       },
       "score": { "value": 9, "time": [61140, "s"] },
@@ -199,11 +192,7 @@
         "name": "UESTC_篝月明火",
         "id": "D15",
         "organization": "电子科技大学",
-        "teamMembers": [
-          { "name": "汪澄" },
-          { "name": "陈奕可" },
-          { "name": "梁育诚" }
-        ],
+        "teamMembers": [{ "name": "汪澄" }, { "name": "陈奕可" }, { "name": "梁育诚" }],
         "official": true
       },
       "score": { "value": 9, "time": [79260, "s"] },
@@ -293,11 +282,7 @@
         "name": "7fa4合并",
         "id": "A09",
         "organization": "成都市锦江区嘉祥外国语高级中学",
-        "teamMembers": [
-          { "name": "刘子墨" },
-          { "name": "陈霖瑄" },
-          { "name": "王译萱" }
-        ],
+        "teamMembers": [{ "name": "刘子墨" }, { "name": "陈霖瑄" }, { "name": "王译萱" }],
         "official": false
       },
       "score": { "value": 8, "time": [46680, "s"] },
@@ -412,11 +397,7 @@
         "name": "转杆",
         "id": "D16",
         "organization": "四川省成都市第七中学（高新）",
-        "teamMembers": [
-          { "name": "王一杭" },
-          { "name": "刘燃" },
-          { "name": "黄楷讯" }
-        ],
+        "teamMembers": [{ "name": "王一杭" }, { "name": "刘燃" }, { "name": "黄楷讯" }],
         "official": false
       },
       "score": { "value": 8, "time": [51660, "s"] },
@@ -506,11 +487,7 @@
         "name": "焰色编译少女",
         "id": "F21",
         "organization": "四川省绵阳中学",
-        "teamMembers": [
-          { "name": "李芋江" },
-          { "name": "徐浩添" },
-          { "name": "顾宸溪" }
-        ],
+        "teamMembers": [{ "name": "李芋江" }, { "name": "徐浩添" }, { "name": "顾宸溪" }],
         "official": false
       },
       "score": { "value": 8, "time": [54180, "s"] },
@@ -609,11 +586,7 @@
         "name": "我要和你打一辈子ICPC",
         "id": "G15",
         "organization": "成都市新津区成实外高级中学",
-        "teamMembers": [
-          { "name": "鲁昊" },
-          { "name": "马周" },
-          { "name": "阳槟潞" }
-        ],
+        "teamMembers": [{ "name": "鲁昊" }, { "name": "马周" }, { "name": "阳槟潞" }],
         "official": false
       },
       "score": { "value": 8, "time": [59160, "s"] },
@@ -710,11 +683,7 @@
         "name": "拼好队",
         "id": "E16",
         "organization": "重庆大学",
-        "teamMembers": [
-          { "name": "兰鑫" },
-          { "name": "葛轩铭" },
-          { "name": "杨展途" }
-        ],
+        "teamMembers": [{ "name": "兰鑫" }, { "name": "葛轩铭" }, { "name": "杨展途" }],
         "official": false
       },
       "score": { "value": 8, "time": [61380, "s"] },
@@ -801,11 +770,7 @@
         "name": "╮（╯＿╰）╭",
         "id": "B21",
         "organization": "四川省绵阳中学",
-        "teamMembers": [
-          { "name": "吴皓天" },
-          { "name": "王彧涔" },
-          { "name": "熊睿奇" }
-        ],
+        "teamMembers": [{ "name": "吴皓天" }, { "name": "王彧涔" }, { "name": "熊睿奇" }],
         "official": false
       },
       "score": { "value": 8, "time": [66480, "s"] },
@@ -891,11 +856,7 @@
         "name": "雍正王朝老太医",
         "id": "L09",
         "organization": "四川大学",
-        "teamMembers": [
-          { "name": "王鹏超" },
-          { "name": "熊一鸣" },
-          { "name": "邓雍" }
-        ],
+        "teamMembers": [{ "name": "王鹏超" }, { "name": "熊一鸣" }, { "name": "邓雍" }],
         "official": true
       },
       "score": { "value": 8, "time": [72420, "s"] },
@@ -983,11 +944,7 @@
         "name": "不会低于16个",
         "id": "J04",
         "organization": "成都外国语学校",
-        "teamMembers": [
-          { "name": "陈辰容" },
-          { "name": "高翊宸" },
-          { "name": "谢荣泽" }
-        ],
+        "teamMembers": [{ "name": "陈辰容" }, { "name": "高翊宸" }, { "name": "谢荣泽" }],
         "official": false
       },
       "score": { "value": 8, "time": [80940, "s"] },
@@ -1084,11 +1041,7 @@
         "name": "蓝色阿8和粉色阿8的疯狂星期四",
         "id": "D21",
         "organization": "四川省绵阳中学",
-        "teamMembers": [
-          { "name": "温中原" },
-          { "name": "吕子轩" },
-          { "name": "陈吴天勤" }
-        ],
+        "teamMembers": [{ "name": "温中原" }, { "name": "吕子轩" }, { "name": "陈吴天勤" }],
         "official": false
       },
       "score": { "value": 7, "time": [34200, "s"] },
@@ -1182,11 +1135,7 @@
         "name": "站着挣钱",
         "id": "L05",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "赵一冰" },
-          { "name": "郑欢庆" },
-          { "name": "郑星宇" }
-        ],
+        "teamMembers": [{ "name": "赵一冰" }, { "name": "郑欢庆" }, { "name": "郑星宇" }],
         "official": false
       },
       "score": { "value": 7, "time": [35640, "s"] },
@@ -1267,11 +1216,7 @@
         "name": "球状闪电",
         "id": "F09",
         "organization": "四川大学",
-        "teamMembers": [
-          { "name": "林宸" },
-          { "name": "韩子睿" },
-          { "name": "李祉橙" }
-        ],
+        "teamMembers": [{ "name": "林宸" }, { "name": "韩子睿" }, { "name": "李祉橙" }],
         "official": true
       },
       "score": { "value": 7, "time": [40380, "s"] },
@@ -1354,11 +1299,7 @@
         "name": "黑胡椒",
         "id": "B04",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "何会杰" },
-          { "name": "陈哲" },
-          { "name": "杨尚杰" }
-        ],
+        "teamMembers": [{ "name": "何会杰" }, { "name": "陈哲" }, { "name": "杨尚杰" }],
         "official": false
       },
       "score": { "value": 7, "time": [41580, "s"] },
@@ -1431,11 +1372,7 @@
         "name": "今晚来我床上打arc",
         "id": "K17",
         "organization": "重庆移通学院",
-        "teamMembers": [
-          { "name": "李德立" },
-          { "name": "韩世杰" },
-          { "name": "李旺" }
-        ],
+        "teamMembers": [{ "name": "李德立" }, { "name": "韩世杰" }, { "name": "李旺" }],
         "official": true
       },
       "score": { "value": 7, "time": [51180, "s"] },
@@ -1620,11 +1557,7 @@
         "name": "UESTC_十斤鸭梨",
         "id": "H15",
         "organization": "电子科技大学",
-        "teamMembers": [
-          { "name": "黄霖" },
-          { "name": "徐辰烨" },
-          { "name": "祁泓金" }
-        ],
+        "teamMembers": [{ "name": "黄霖" }, { "name": "徐辰烨" }, { "name": "祁泓金" }],
         "official": true
       },
       "score": { "value": 7, "time": [54180, "s"] },
@@ -1695,11 +1628,7 @@
         "name": "永远都像初次见你那样使我心荡漾",
         "id": "E03",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "王海潮" },
-          { "name": "张伟模" },
-          { "name": "石珈豪" }
-        ],
+        "teamMembers": [{ "name": "王海潮" }, { "name": "张伟模" }, { "name": "石珈豪" }],
         "official": true
       },
       "score": { "value": 7, "time": [59700, "s"] },
@@ -1772,11 +1701,7 @@
         "name": "熊猫茶盐鸭",
         "id": "J09",
         "organization": "四川大学",
-        "teamMembers": [
-          { "name": "张逸涵" },
-          { "name": "邹昔贝" },
-          { "name": "夏知齐" }
-        ],
+        "teamMembers": [{ "name": "张逸涵" }, { "name": "邹昔贝" }, { "name": "夏知齐" }],
         "official": true
       },
       "score": { "value": 7, "time": [61740, "s"] },
@@ -1862,11 +1787,7 @@
         "name": "新易元",
         "id": "D20",
         "organization": "新易元未来工坊",
-        "teamMembers": [
-          { "name": "翁勇辉" },
-          { "name": "薛熠" },
-          { "name": "梁姝琪" }
-        ],
+        "teamMembers": [{ "name": "翁勇辉" }, { "name": "薛熠" }, { "name": "梁姝琪" }],
         "official": false
       },
       "score": { "value": 6, "time": [23160, "s"] },
@@ -1928,11 +1849,7 @@
         "name": "UESTC_老东西",
         "id": "F15",
         "organization": "电子科技大学",
-        "teamMembers": [
-          { "name": "王振波" },
-          { "name": "常铭" },
-          { "name": "郑力文" }
-        ],
+        "teamMembers": [{ "name": "王振波" }, { "name": "常铭" }, { "name": "郑力文" }],
         "official": true
       },
       "score": { "value": 6, "time": [27720, "s"] },
@@ -1989,11 +1906,7 @@
         "name": "UESTC_EndlessEmbrace",
         "id": "B15",
         "organization": "电子科技大学",
-        "teamMembers": [
-          { "name": "余天羽" },
-          { "name": "林子豪" },
-          { "name": "王鹏" }
-        ],
+        "teamMembers": [{ "name": "余天羽" }, { "name": "林子豪" }, { "name": "王鹏" }],
         "official": true
       },
       "score": { "value": 6, "time": [27780, "s"] },
@@ -2063,11 +1976,7 @@
         "name": "火攻",
         "id": "D14",
         "organization": "阿坝师范学院",
-        "teamMembers": [
-          { "name": "李先笙" },
-          { "name": "胡航" },
-          { "name": "刘付焮" }
-        ],
+        "teamMembers": [{ "name": "李先笙" }, { "name": "胡航" }, { "name": "刘付焮" }],
         "official": true
       },
       "score": { "value": 6, "time": [28920, "s"] },
@@ -2121,11 +2030,7 @@
         "name": "今晚来我床上打abc",
         "id": "F19",
         "organization": "重庆工程学院",
-        "teamMembers": [
-          { "name": "张翔" },
-          { "name": "胡鑫昊" },
-          { "name": "李洪宇" }
-        ],
+        "teamMembers": [{ "name": "张翔" }, { "name": "胡鑫昊" }, { "name": "李洪宇" }],
         "official": true
       },
       "score": { "value": 6, "time": [32640, "s"] },
@@ -2192,11 +2097,7 @@
         "name": "午后的茶时间",
         "id": "I19",
         "organization": "重庆科技大学",
-        "teamMembers": [
-          { "name": "廖章昊" },
-          { "name": "程琪淋" },
-          { "name": "刘冬勇" }
-        ],
+        "teamMembers": [{ "name": "廖章昊" }, { "name": "程琪淋" }, { "name": "刘冬勇" }],
         "official": true
       },
       "score": { "value": 6, "time": [36360, "s"] },
@@ -2259,11 +2160,7 @@
         "name": "Two to Two",
         "id": "A01",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "韦慧欣" },
-          { "name": "俞铭泽" },
-          { "name": "俞欣" }
-        ],
+        "teamMembers": [{ "name": "韦慧欣" }, { "name": "俞铭泽" }, { "name": "俞欣" }],
         "official": true
       },
       "score": { "value": 6, "time": [39660, "s"] },
@@ -2335,11 +2232,7 @@
         "name": "星海",
         "id": "C17",
         "organization": "西南大学",
-        "teamMembers": [
-          { "name": "蒋天逸" },
-          { "name": "李尹棋" },
-          { "name": "张哲萌" }
-        ],
+        "teamMembers": [{ "name": "蒋天逸" }, { "name": "李尹棋" }, { "name": "张哲萌" }],
         "official": true
       },
       "score": { "value": 6, "time": [40620, "s"] },
@@ -2421,13 +2314,9 @@
         "name": "幸福女同",
         "id": "H09",
         "organization": "四川大学",
-        "teamMembers": [
-          { "name": "杨欣渝" },
-          { "name": "王文京" },
-          { "name": "陈欣玥" }
-        ],
+        "teamMembers": [{ "name": "杨欣渝" }, { "name": "王文京" }, { "name": "陈欣玥" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 6, "time": [43560, "s"] },
       "statuses": [
@@ -2500,11 +2389,7 @@
         "name": "幻想结束斗争开始",
         "id": "C05",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "甘正涛" },
-          { "name": "方云卓" },
-          { "name": "张子漠" }
-        ],
+        "teamMembers": [{ "name": "甘正涛" }, { "name": "方云卓" }, { "name": "张子漠" }],
         "official": false
       },
       "score": { "value": 6, "time": [46200, "s"] },
@@ -2584,11 +2469,7 @@
         "name": "三只生豹",
         "id": "E06",
         "organization": "成都外国语学校",
-        "teamMembers": [
-          { "name": "黄驭涵" },
-          { "name": "林夕" },
-          { "name": "汪柏翰" }
-        ],
+        "teamMembers": [{ "name": "黄驭涵" }, { "name": "林夕" }, { "name": "汪柏翰" }],
         "official": false
       },
       "score": { "value": 6, "time": [46320, "s"] },
@@ -2693,11 +2574,7 @@
         "name": "牢玩家",
         "id": "G07",
         "organization": "西南财经大学",
-        "teamMembers": [
-          { "name": "杨文昊" },
-          { "name": "王俊超" },
-          { "name": "来冠男" }
-        ],
+        "teamMembers": [{ "name": "杨文昊" }, { "name": "王俊超" }, { "name": "来冠男" }],
         "official": false
       },
       "score": { "value": 6, "time": [47820, "s"] },
@@ -2774,11 +2651,7 @@
         "name": "狼狼狼",
         "id": "E07",
         "organization": "西南财经大学",
-        "teamMembers": [
-          { "name": "吴晗" },
-          { "name": "杨龙皓" },
-          { "name": "匡政宇" }
-        ],
+        "teamMembers": [{ "name": "吴晗" }, { "name": "杨龙皓" }, { "name": "匡政宇" }],
         "official": true
       },
       "score": { "value": 6, "time": [48420, "s"] },
@@ -2854,11 +2727,7 @@
         "name": "新易元小学队2",
         "id": "B20",
         "organization": "新易元未来工坊",
-        "teamMembers": [
-          { "name": "刘泽宇" },
-          { "name": "聂梓航" },
-          { "name": "唐偲宸" }
-        ],
+        "teamMembers": [{ "name": "刘泽宇" }, { "name": "聂梓航" }, { "name": "唐偲宸" }],
         "official": false
       },
       "score": { "value": 6, "time": [49740, "s"] },
@@ -2927,11 +2796,7 @@
         "name": "学会打表辣",
         "id": "I11",
         "organization": "西华大学",
-        "teamMembers": [
-          { "name": "石浩楠" },
-          { "name": "吴岚轩" },
-          { "name": "刘馨阳" }
-        ],
+        "teamMembers": [{ "name": "石浩楠" }, { "name": "吴岚轩" }, { "name": "刘馨阳" }],
         "official": true
       },
       "score": { "value": 6, "time": [51180, "s"] },
@@ -3007,11 +2872,7 @@
         "name": "SWU-Mygo",
         "id": "I15",
         "organization": "西南大学",
-        "teamMembers": [
-          { "name": "游斯惟" },
-          { "name": "韩清泉" },
-          { "name": "盛明睿" }
-        ],
+        "teamMembers": [{ "name": "游斯惟" }, { "name": "韩清泉" }, { "name": "盛明睿" }],
         "official": true
       },
       "score": { "value": 6, "time": [51600, "s"] },
@@ -3079,11 +2940,7 @@
         "name": "张万森，下雪了",
         "id": "E08",
         "organization": "成都大学",
-        "teamMembers": [
-          { "name": "万名森" },
-          { "name": "冉天祺" },
-          { "name": "江焱秋" }
-        ],
+        "teamMembers": [{ "name": "万名森" }, { "name": "冉天祺" }, { "name": "江焱秋" }],
         "official": true
       },
       "score": { "value": 6, "time": [52080, "s"] },
@@ -3159,11 +3016,7 @@
         "name": "德阳成外3队",
         "id": "H22",
         "organization": "德阳成都外国语学校",
-        "teamMembers": [
-          { "name": "刘芸浩" },
-          { "name": "钟孟柯" },
-          { "name": "江雨航" }
-        ],
+        "teamMembers": [{ "name": "刘芸浩" }, { "name": "钟孟柯" }, { "name": "江雨航" }],
         "official": false
       },
       "score": { "value": 6, "time": [52320, "s"] },
@@ -3268,11 +3121,7 @@
         "name": "冷焰",
         "id": "G05",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "陈帅" },
-          { "name": "袁铭远" },
-          { "name": "王浩然" }
-        ],
+        "teamMembers": [{ "name": "陈帅" }, { "name": "袁铭远" }, { "name": "王浩然" }],
         "official": true
       },
       "score": { "value": 6, "time": [52440, "s"] },
@@ -3432,11 +3281,7 @@
         "name": "风中，自有低声吟唱",
         "id": "E22",
         "organization": "云南大学",
-        "teamMembers": [
-          { "name": "高凌豪" },
-          { "name": "毕洲铭" },
-          { "name": "王震" }
-        ],
+        "teamMembers": [{ "name": "高凌豪" }, { "name": "毕洲铭" }, { "name": "王震" }],
         "official": true
       },
       "score": { "value": 6, "time": [54660, "s"] },
@@ -3517,11 +3362,7 @@
         "name": "打 ACM 从没开心过",
         "id": "B09",
         "organization": "四川大学",
-        "teamMembers": [
-          { "name": "钟诚" },
-          { "name": "刘泽勋" },
-          { "name": "许圳达" }
-        ],
+        "teamMembers": [{ "name": "钟诚" }, { "name": "刘泽勋" }, { "name": "许圳达" }],
         "official": true
       },
       "score": { "value": 6, "time": [55080, "s"] },
@@ -3679,11 +3520,7 @@
         "name": "超级三人行",
         "id": "C09",
         "organization": "成都市锦江区嘉祥外国语高级中学",
-        "teamMembers": [
-          { "name": "王炫理" },
-          { "name": "陈骏贤" },
-          { "name": "李炎泽" }
-        ],
+        "teamMembers": [{ "name": "王炫理" }, { "name": "陈骏贤" }, { "name": "李炎泽" }],
         "official": false
       },
       "score": { "value": 6, "time": [58620, "s"] },
@@ -3758,11 +3595,7 @@
         "name": "樱花泪",
         "id": "A10",
         "organization": "成都锦城学院",
-        "teamMembers": [
-          { "name": "程义威" },
-          { "name": "邓力豪" },
-          { "name": "张宇" }
-        ],
+        "teamMembers": [{ "name": "程义威" }, { "name": "邓力豪" }, { "name": "张宇" }],
         "official": true
       },
       "score": { "value": 6, "time": [59280, "s"] },
@@ -3854,11 +3687,7 @@
         "name": "春风又绿僵男岸",
         "id": "C02",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "杜嘉瑜" },
-          { "name": "石申圆" },
-          { "name": "陈阳" }
-        ],
+        "teamMembers": [{ "name": "杜嘉瑜" }, { "name": "石申圆" }, { "name": "陈阳" }],
         "official": false
       },
       "score": { "value": 6, "time": [59400, "s"] },
@@ -3941,11 +3770,7 @@
         "name": "大源技术学院02队",
         "id": "J14",
         "organization": "四川省成都市第七中学（高新）",
-        "teamMembers": [
-          { "name": "颜通" },
-          { "name": "陈子歆" },
-          { "name": "须靖远" }
-        ],
+        "teamMembers": [{ "name": "颜通" }, { "name": "陈子歆" }, { "name": "须靖远" }],
         "official": false
       },
       "score": { "value": 6, "time": [61140, "s"] },
@@ -4024,11 +3849,7 @@
         "name": "猫鼬砼",
         "id": "D09",
         "organization": "四川大学",
-        "teamMembers": [
-          { "name": "吴卓琦" },
-          { "name": "黄奕浩" },
-          { "name": "江来" }
-        ],
+        "teamMembers": [{ "name": "吴卓琦" }, { "name": "黄奕浩" }, { "name": "江来" }],
         "official": true
       },
       "score": { "value": 6, "time": [62580, "s"] },
@@ -4118,11 +3939,7 @@
         "name": "剑南1纵",
         "id": "C06",
         "organization": "成都外国语学校",
-        "teamMembers": [
-          { "name": "祝晨耀" },
-          { "name": "贺行言" },
-          { "name": "祝思辰" }
-        ],
+        "teamMembers": [{ "name": "祝晨耀" }, { "name": "贺行言" }, { "name": "祝思辰" }],
         "official": false
       },
       "score": { "value": 6, "time": [63000, "s"] },
@@ -4206,11 +4023,7 @@
         "name": "天地一家大爱盟",
         "id": "H05",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "苏永康" },
-          { "name": "宋向坤" },
-          { "name": "林朝钊" }
-        ],
+        "teamMembers": [{ "name": "苏永康" }, { "name": "宋向坤" }, { "name": "林朝钊" }],
         "official": true
       },
       "score": { "value": 6, "time": [67380, "s"] },
@@ -4282,11 +4095,7 @@
         "name": "重返赛场",
         "id": "K19",
         "organization": "重庆科技大学",
-        "teamMembers": [
-          { "name": "李家乐" },
-          { "name": "李增星" },
-          { "name": "杨越" }
-        ],
+        "teamMembers": [{ "name": "李家乐" }, { "name": "李增星" }, { "name": "杨越" }],
         "official": true
       },
       "score": { "value": 5, "time": [21060, "s"] },
@@ -4342,11 +4151,7 @@
         "name": "我嘞个豆豆啊",
         "id": "F10",
         "organization": "成都理工大学",
-        "teamMembers": [
-          { "name": "向坪君" },
-          { "name": "张晨瑀" },
-          { "name": "陈家宝" }
-        ],
+        "teamMembers": [{ "name": "向坪君" }, { "name": "张晨瑀" }, { "name": "陈家宝" }],
         "official": true
       },
       "score": { "value": 5, "time": [25080, "s"] },
@@ -4424,11 +4229,7 @@
         "name": "猪猪、奶龙和青蛙队",
         "id": "C04",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "游克峰" },
-          { "name": "朱杰" },
-          { "name": "刘雨凡" }
-        ],
+        "teamMembers": [{ "name": "游克峰" }, { "name": "朱杰" }, { "name": "刘雨凡" }],
         "official": true
       },
       "score": { "value": 5, "time": [26280, "s"] },
@@ -4500,11 +4301,7 @@
         "name": "冰冷帝企鹅",
         "id": "L03",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "林莫豪" },
-          { "name": "刘雨葳" },
-          { "name": "韦彦祖" }
-        ],
+        "teamMembers": [{ "name": "林莫豪" }, { "name": "刘雨葳" }, { "name": "韦彦祖" }],
         "official": true
       },
       "score": { "value": 5, "time": [27840, "s"] },
@@ -4590,11 +4387,7 @@
         "name": "我没意见",
         "id": "G16",
         "organization": "重庆大学",
-        "teamMembers": [
-          { "name": "陈孙一硕" },
-          { "name": "刘家齐" },
-          { "name": "鲁永卓" }
-        ],
+        "teamMembers": [{ "name": "陈孙一硕" }, { "name": "刘家齐" }, { "name": "鲁永卓" }],
         "official": true
       },
       "score": { "value": 5, "time": [28320, "s"] },
@@ -4667,11 +4460,7 @@
         "name": "大源技术学院04队",
         "id": "B16",
         "organization": "四川省成都市第七中学（高新）",
-        "teamMembers": [
-          { "name": "邓皓轩" },
-          { "name": "佘睿扬" },
-          { "name": "刘厚朴" }
-        ],
+        "teamMembers": [{ "name": "邓皓轩" }, { "name": "佘睿扬" }, { "name": "刘厚朴" }],
         "official": false
       },
       "score": { "value": 5, "time": [28620, "s"] },
@@ -4784,11 +4573,7 @@
         "name": "夏日限定的告白",
         "id": "G11",
         "organization": "西华大学",
-        "teamMembers": [
-          { "name": "赵熙" },
-          { "name": "谢维文" },
-          { "name": "肖代阳" }
-        ],
+        "teamMembers": [{ "name": "赵熙" }, { "name": "谢维文" }, { "name": "肖代阳" }],
         "official": true
       },
       "score": { "value": 5, "time": [30780, "s"] },
@@ -4860,11 +4645,7 @@
         "name": "BanG Dream! It's MyALGO!!!!!",
         "id": "H03",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "陈礼烨" },
-          { "name": "常旭海" },
-          { "name": "吴沂谦" }
-        ],
+        "teamMembers": [{ "name": "陈礼烨" }, { "name": "常旭海" }, { "name": "吴沂谦" }],
         "official": true
       },
       "score": { "value": 5, "time": [32340, "s"] },
@@ -4930,11 +4711,7 @@
         "name": "咸咸的",
         "id": "I09",
         "organization": "成都市锦江区嘉祥外国语高级中学",
-        "teamMembers": [
-          { "name": "汪泽浩" },
-          { "name": "吴雨翔" },
-          { "name": "彭奕力" }
-        ],
+        "teamMembers": [{ "name": "汪泽浩" }, { "name": "吴雨翔" }, { "name": "彭奕力" }],
         "official": false
       },
       "score": { "value": 5, "time": [35340, "s"] },
@@ -5005,11 +4782,7 @@
         "name": "未响应",
         "id": "A04",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "谢世杰" },
-          { "name": "刘卓志" },
-          { "name": "官畅宇" }
-        ],
+        "teamMembers": [{ "name": "谢世杰" }, { "name": "刘卓志" }, { "name": "官畅宇" }],
         "official": true
       },
       "score": { "value": 5, "time": [39420, "s"] },
@@ -5069,11 +4842,7 @@
         "name": "全都是泡沫",
         "id": "L17",
         "organization": "成都市实验外国语学校",
-        "teamMembers": [
-          { "name": "刘昕麟" },
-          { "name": "纪权峻" },
-          { "name": "罗文豪" }
-        ],
+        "teamMembers": [{ "name": "刘昕麟" }, { "name": "纪权峻" }, { "name": "罗文豪" }],
         "official": false
       },
       "score": { "value": 5, "time": [41700, "s"] },
@@ -5145,11 +4914,7 @@
         "name": "我们有金牌",
         "id": "E20",
         "organization": "四川农业大学",
-        "teamMembers": [
-          { "name": "江雅奥" },
-          { "name": "刁戈" },
-          { "name": "李鑫" }
-        ],
+        "teamMembers": [{ "name": "江雅奥" }, { "name": "刁戈" }, { "name": "李鑫" }],
         "official": true
       },
       "score": { "value": 5, "time": [42300, "s"] },
@@ -5225,11 +4990,7 @@
         "name": "超级无敌暴龙战士",
         "id": "E09",
         "organization": "成都市锦江区嘉祥外国语高级中学",
-        "teamMembers": [
-          { "name": "李泽轩" },
-          { "name": "刘佩林" },
-          { "name": "钟沐霖" }
-        ],
+        "teamMembers": [{ "name": "李泽轩" }, { "name": "刘佩林" }, { "name": "钟沐霖" }],
         "official": false
       },
       "score": { "value": 5, "time": [43320, "s"] },
@@ -5309,11 +5070,7 @@
         "name": "钢铁侠",
         "id": "E02",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "陈亮旭" },
-          { "name": "童博文" },
-          { "name": "吴子杨" }
-        ],
+        "teamMembers": [{ "name": "陈亮旭" }, { "name": "童博文" }, { "name": "吴子杨" }],
         "official": true
       },
       "score": { "value": 5, "time": [44220, "s"] },
@@ -5401,11 +5158,7 @@
         "name": "春花儿飘飘又一年",
         "id": "E01",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "刘家乐" },
-          { "name": "李锐" },
-          { "name": "韦懂生" }
-        ],
+        "teamMembers": [{ "name": "刘家乐" }, { "name": "李锐" }, { "name": "韦懂生" }],
         "official": false
       },
       "score": { "value": 5, "time": [47940, "s"] },
@@ -5487,11 +5240,7 @@
         "name": "鲁巴初二1队",
         "id": "L16",
         "organization": "重庆鲁能巴蜀中学",
-        "teamMembers": [
-          { "name": "房星宇" },
-          { "name": "赵家烨" },
-          { "name": "陈沛霖" }
-        ],
+        "teamMembers": [{ "name": "房星宇" }, { "name": "赵家烨" }, { "name": "陈沛霖" }],
         "official": false
       },
       "score": { "value": 5, "time": [51180, "s"] },
@@ -5563,11 +5312,7 @@
         "name": "工作了回来打一天ICPC旅游版",
         "id": "C08",
         "organization": "成都大学",
-        "teamMembers": [
-          { "name": "黄兵" },
-          { "name": "李豪" },
-          { "name": "严云天" }
-        ],
+        "teamMembers": [{ "name": "黄兵" }, { "name": "李豪" }, { "name": "严云天" }],
         "official": true
       },
       "score": { "value": 5, "time": [51900, "s"] },
@@ -5639,11 +5384,7 @@
         "name": "111",
         "id": "I03",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "郭欣森" },
-          { "name": "宋明富" },
-          { "name": "陈加林" }
-        ],
+        "teamMembers": [{ "name": "郭欣森" }, { "name": "宋明富" }, { "name": "陈加林" }],
         "official": true
       },
       "score": { "value": 5, "time": [52740, "s"] },
@@ -5723,11 +5464,7 @@
         "name": "一定是我动了↑的蛋糕",
         "id": "J05",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "洪宇成" },
-          { "name": "杨浩然" },
-          { "name": "黄旭嘉" }
-        ],
+        "teamMembers": [{ "name": "洪宇成" }, { "name": "杨浩然" }, { "name": "黄旭嘉" }],
         "official": true
       },
       "score": { "value": 5, "time": [59520, "s"] },
@@ -5798,11 +5535,7 @@
         "name": "Cia魔法披风llo～(∠・ω< )⌒☆",
         "id": "J03",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "蔡忠纬" },
-          { "name": "霍城宇" },
-          { "name": "陈琪" }
-        ],
+        "teamMembers": [{ "name": "蔡忠纬" }, { "name": "霍城宇" }, { "name": "陈琪" }],
         "official": true
       },
       "score": { "value": 5, "time": [68520, "s"] },
@@ -5876,11 +5609,7 @@
         "name": "大源技术学院01队",
         "id": "H14",
         "organization": "四川省成都市第七中学（高新）",
-        "teamMembers": [
-          { "name": "夏伟博" },
-          { "name": "蒋抒函" },
-          { "name": "张鑫柯" }
-        ],
+        "teamMembers": [{ "name": "夏伟博" }, { "name": "蒋抒函" }, { "name": "张鑫柯" }],
         "official": false
       },
       "score": { "value": 5, "time": [68520, "s"] },
@@ -5961,11 +5690,7 @@
         "name": "菜狗",
         "id": "L04",
         "organization": "成都外国语学校",
-        "teamMembers": [
-          { "name": "钟弘毅" },
-          { "name": "吴玥桐州" },
-          { "name": "王子鑫" }
-        ],
+        "teamMembers": [{ "name": "钟弘毅" }, { "name": "吴玥桐州" }, { "name": "王子鑫" }],
         "official": false
       },
       "score": { "value": 5, "time": [73320, "s"] },
@@ -6052,11 +5777,7 @@
         "name": "新易元小学队1",
         "id": "L18",
         "organization": "新易元未来工坊",
-        "teamMembers": [
-          { "name": "刘泓成" },
-          { "name": "郭籽辰" },
-          { "name": "朱侯睿" }
-        ],
+        "teamMembers": [{ "name": "刘泓成" }, { "name": "郭籽辰" }, { "name": "朱侯睿" }],
         "official": false
       },
       "score": { "value": 5, "time": [93900, "s"] },
@@ -6156,11 +5877,7 @@
         "name": "诡秘诡秘想不想和我打CCPC喵喵喵",
         "id": "H16",
         "organization": "重庆鲁能巴蜀中学",
-        "teamMembers": [
-          { "name": "余承晓" },
-          { "name": "彭禹天" },
-          { "name": "叶涛滔" }
-        ],
+        "teamMembers": [{ "name": "余承晓" }, { "name": "彭禹天" }, { "name": "叶涛滔" }],
         "official": false
       },
       "score": { "value": 4, "time": [11940, "s"] },
@@ -6220,11 +5937,7 @@
         "name": "都退役了还能蒸",
         "id": "A06",
         "organization": "成都外国语学校",
-        "teamMembers": [
-          { "name": "朱家成" },
-          { "name": "张力元" },
-          { "name": "陈俊豪" }
-        ],
+        "teamMembers": [{ "name": "朱家成" }, { "name": "张力元" }, { "name": "陈俊豪" }],
         "official": false
       },
       "score": { "value": 4, "time": [13800, "s"] },
@@ -6300,11 +6013,7 @@
         "name": "大源技术学院03队",
         "id": "L14",
         "organization": "四川省成都市第七中学（高新）",
-        "teamMembers": [
-          { "name": "王浩宇" },
-          { "name": "王薏程" },
-          { "name": "李子涵" }
-        ],
+        "teamMembers": [{ "name": "王浩宇" }, { "name": "王薏程" }, { "name": "李子涵" }],
         "official": false
       },
       "score": { "value": 4, "time": [14400, "s"] },
@@ -6365,11 +6074,7 @@
         "name": "不管啦主播先交一发",
         "id": "C01",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "江星星" },
-          { "name": "王一鸣" },
-          { "name": "买鑫鑫" }
-        ],
+        "teamMembers": [{ "name": "江星星" }, { "name": "王一鸣" }, { "name": "买鑫鑫" }],
         "official": true
       },
       "score": { "value": 4, "time": [14820, "s"] },
@@ -6437,11 +6142,7 @@
         "name": "比赛嘛，最重要的是开心",
         "id": "G23",
         "organization": "延安大学西安创新学院",
-        "teamMembers": [
-          { "name": "杨拓丹" },
-          { "name": "林俊逸" },
-          { "name": "刘长磊" }
-        ],
+        "teamMembers": [{ "name": "杨拓丹" }, { "name": "林俊逸" }, { "name": "刘长磊" }],
         "official": false
       },
       "score": { "value": 4, "time": [15000, "s"] },
@@ -6514,11 +6215,7 @@
         "name": "西大猫猫队",
         "id": "A17",
         "organization": "西南大学",
-        "teamMembers": [
-          { "name": "孙舒源" },
-          { "name": "刘益鸣" },
-          { "name": "蒋麟洲" }
-        ],
+        "teamMembers": [{ "name": "孙舒源" }, { "name": "刘益鸣" }, { "name": "蒋麟洲" }],
         "official": true
       },
       "score": { "value": 4, "time": [17040, "s"] },
@@ -6581,11 +6278,7 @@
         "name": "请点击查看队名",
         "id": "E15",
         "organization": "成都市新津区成实外高级中学",
-        "teamMembers": [
-          { "name": "吴冠承" },
-          { "name": "任恩宇" },
-          { "name": "方则涵" }
-        ],
+        "teamMembers": [{ "name": "吴冠承" }, { "name": "任恩宇" }, { "name": "方则涵" }],
         "official": false
       },
       "score": { "value": 4, "time": [20580, "s"] },
@@ -6692,11 +6385,7 @@
         "name": "吉利是摘石太美",
         "id": "K14",
         "organization": "吉利学院",
-        "teamMembers": [
-          { "name": "罗志豪" },
-          { "name": "何正" },
-          { "name": "周杨" }
-        ],
+        "teamMembers": [{ "name": "罗志豪" }, { "name": "何正" }, { "name": "周杨" }],
         "official": true
       },
       "score": { "value": 4, "time": [20700, "s"] },
@@ -6767,11 +6456,7 @@
         "name": "前轱辘不转轱显辘转",
         "id": "J17",
         "organization": "成都市实验外国语学校",
-        "teamMembers": [
-          { "name": "李远瞻" },
-          { "name": "杨涵杰" },
-          { "name": "蒋辰逸" }
-        ],
+        "teamMembers": [{ "name": "李远瞻" }, { "name": "杨涵杰" }, { "name": "蒋辰逸" }],
         "official": false
       },
       "score": { "value": 4, "time": [23220, "s"] },
@@ -6837,11 +6522,7 @@
         "name": "竹栈",
         "id": "G03",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "詹宁康" },
-          { "name": "苗家纯" },
-          { "name": "张楚豪" }
-        ],
+        "teamMembers": [{ "name": "詹宁康" }, { "name": "苗家纯" }, { "name": "张楚豪" }],
         "official": true
       },
       "score": { "value": 4, "time": [26400, "s"] },
@@ -6893,11 +6574,7 @@
         "name": "国际漫游",
         "id": "L08",
         "organization": "成都理工大学",
-        "teamMembers": [
-          { "name": "杨轩宇" },
-          { "name": "刘俊" },
-          { "name": "陈宇枫" }
-        ],
+        "teamMembers": [{ "name": "杨轩宇" }, { "name": "刘俊" }, { "name": "陈宇枫" }],
         "official": true
       },
       "score": { "value": 4, "time": [28860, "s"] },
@@ -6971,11 +6648,7 @@
         "name": "还在为她患得患失吗",
         "id": "A05",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "张顺军" },
-          { "name": "杨鹏" },
-          { "name": "权雨帆" }
-        ],
+        "teamMembers": [{ "name": "张顺军" }, { "name": "杨鹏" }, { "name": "权雨帆" }],
         "official": true
       },
       "score": { "value": 4, "time": [29760, "s"] },
@@ -7043,11 +6716,7 @@
         "name": "奇点计算Ultra",
         "id": "H07",
         "organization": "成都工业学院",
-        "teamMembers": [
-          { "name": "何平" },
-          { "name": "孙梦磊" },
-          { "name": "曹瀚文" }
-        ],
+        "teamMembers": [{ "name": "何平" }, { "name": "孙梦磊" }, { "name": "曹瀚文" }],
         "official": true
       },
       "score": { "value": 4, "time": [29940, "s"] },
@@ -7118,11 +6787,7 @@
         "name": "rk -1 蒟蒻",
         "id": "H04",
         "organization": "成都外国语学校",
-        "teamMembers": [
-          { "name": "何奕璁" },
-          { "name": "廖昶懿" },
-          { "name": "吴文曦" }
-        ],
+        "teamMembers": [{ "name": "何奕璁" }, { "name": "廖昶懿" }, { "name": "吴文曦" }],
         "official": false
       },
       "score": { "value": 4, "time": [31560, "s"] },
@@ -7207,11 +6872,7 @@
         "name": "麻婆豆腐与十四头四十四岁的湿狮子吃柿子",
         "id": "F01",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "王业鑫" },
-          { "name": "杜金晶" },
-          { "name": "屈嘉" }
-        ],
+        "teamMembers": [{ "name": "王业鑫" }, { "name": "杜金晶" }, { "name": "屈嘉" }],
         "official": true
       },
       "score": { "value": 4, "time": [32040, "s"] },
@@ -7281,11 +6942,7 @@
         "name": "重生之金价贬值1000倍·铁牌才是赢家队",
         "id": "K16",
         "organization": "重庆大学",
-        "teamMembers": [
-          { "name": "谢灵通" },
-          { "name": "华晓蔚" },
-          { "name": "梁叶非" }
-        ],
+        "teamMembers": [{ "name": "谢灵通" }, { "name": "华晓蔚" }, { "name": "梁叶非" }],
         "official": true
       },
       "score": { "value": 4, "time": [32340, "s"] },
@@ -7345,11 +7002,7 @@
         "name": "不要喂我吃罚时了",
         "id": "A02",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "黄洪杰" },
-          { "name": "彭曜耀" },
-          { "name": "颜靖焘" }
-        ],
+        "teamMembers": [{ "name": "黄洪杰" }, { "name": "彭曜耀" }, { "name": "颜靖焘" }],
         "official": true
       },
       "score": { "value": 4, "time": [33960, "s"] },
@@ -7408,11 +7061,7 @@
         "name": "cos奶龙领奖",
         "id": "G12",
         "organization": "西南石油大学",
-        "teamMembers": [
-          { "name": "索枭涵" },
-          { "name": "赵泽熙" },
-          { "name": "刁俊熙" }
-        ],
+        "teamMembers": [{ "name": "索枭涵" }, { "name": "赵泽熙" }, { "name": "刁俊熙" }],
         "official": true
       },
       "score": { "value": 4, "time": [34200, "s"] },
@@ -7488,11 +7137,7 @@
         "name": "最后一小时我会出手",
         "id": "E04",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "柯涵" },
-          { "name": "钟妍" },
-          { "name": "刘诗璐" }
-        ],
+        "teamMembers": [{ "name": "柯涵" }, { "name": "钟妍" }, { "name": "刘诗璐" }],
         "official": true
       },
       "score": { "value": 4, "time": [34320, "s"] },
@@ -7553,11 +7198,7 @@
         "name": "把永远爱你写进诗的结尾",
         "id": "K06",
         "organization": "成都大学",
-        "teamMembers": [
-          { "name": "辜子幸" },
-          { "name": "向家瑞" },
-          { "name": "饶玉帅" }
-        ],
+        "teamMembers": [{ "name": "辜子幸" }, { "name": "向家瑞" }, { "name": "饶玉帅" }],
         "official": true
       },
       "score": { "value": 4, "time": [34920, "s"] },
@@ -7617,11 +7258,7 @@
         "name": "写都写了，交一发吧",
         "id": "H12",
         "organization": "四川师范大学",
-        "teamMembers": [
-          { "name": "唐宇" },
-          { "name": "武恒" },
-          { "name": "李嘉乐" }
-        ],
+        "teamMembers": [{ "name": "唐宇" }, { "name": "武恒" }, { "name": "李嘉乐" }],
         "official": true
       },
       "score": { "value": 4, "time": [35340, "s"] },
@@ -7693,11 +7330,7 @@
         "name": "超级寄码",
         "id": "C07",
         "organization": "西南财经大学",
-        "teamMembers": [
-          { "name": "肖旭仁" },
-          { "name": "刘勇杰" },
-          { "name": "刘俊宏" }
-        ],
+        "teamMembers": [{ "name": "肖旭仁" }, { "name": "刘勇杰" }, { "name": "刘俊宏" }],
         "official": true
       },
       "score": { "value": 4, "time": [35580, "s"] },
@@ -7765,11 +7398,7 @@
         "name": "自己选择，自己承担",
         "id": "A18",
         "organization": "重庆大学",
-        "teamMembers": [
-          { "name": "郝礼强" },
-          { "name": "吴香凝" },
-          { "name": "秦飞扬" }
-        ],
+        "teamMembers": [{ "name": "郝礼强" }, { "name": "吴香凝" }, { "name": "秦飞扬" }],
         "official": true
       },
       "score": { "value": 4, "time": [35580, "s"] },
@@ -7857,11 +7486,7 @@
         "name": "UESTC_Brain_limit_exceeded",
         "id": "L13",
         "organization": "电子科技大学",
-        "teamMembers": [
-          { "name": "幸旭鑫" },
-          { "name": "周蛰粼" },
-          { "name": "黄雪锋" }
-        ],
+        "teamMembers": [{ "name": "幸旭鑫" }, { "name": "周蛰粼" }, { "name": "黄雪锋" }],
         "official": true
       },
       "score": { "value": 4, "time": [36420, "s"] },
@@ -7936,11 +7561,7 @@
         "name": "讲个笑话我样例过了",
         "id": "J16",
         "organization": "重庆鲁能巴蜀中学",
-        "teamMembers": [
-          { "name": "曾令名" },
-          { "name": "邓铂为" },
-          { "name": "谢明澔" }
-        ],
+        "teamMembers": [{ "name": "曾令名" }, { "name": "邓铂为" }, { "name": "谢明澔" }],
         "official": false
       },
       "score": { "value": 4, "time": [36660, "s"] },
@@ -8006,11 +7627,7 @@
         "name": "暴力终场",
         "id": "D01",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "魏杰" },
-          { "name": "何志扬" },
-          { "name": "杜佳蔚" }
-        ],
+        "teamMembers": [{ "name": "魏杰" }, { "name": "何志扬" }, { "name": "杜佳蔚" }],
         "official": true
       },
       "score": { "value": 4, "time": [37680, "s"] },
@@ -8086,11 +7703,7 @@
         "name": "就算是中二病也要谈恋爱",
         "id": "B12",
         "organization": "四川师范大学",
-        "teamMembers": [
-          { "name": "邓厚锐" },
-          { "name": "董军军" },
-          { "name": "陈雨泉" }
-        ],
+        "teamMembers": [{ "name": "邓厚锐" }, { "name": "董军军" }, { "name": "陈雨泉" }],
         "official": true
       },
       "score": { "value": 4, "time": [37740, "s"] },
@@ -8165,11 +7778,7 @@
         "name": "雷电霹雳",
         "id": "G09",
         "organization": "成都市锦江区嘉祥外国语高级中学",
-        "teamMembers": [
-          { "name": "唐若轩" },
-          { "name": "漆小凡" },
-          { "name": "章正瀚" }
-        ],
+        "teamMembers": [{ "name": "唐若轩" }, { "name": "漆小凡" }, { "name": "章正瀚" }],
         "official": false
       },
       "score": { "value": 4, "time": [38400, "s"] },
@@ -8251,11 +7860,7 @@
         "name": "WaWa过家家",
         "id": "K03",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "谭逸朗" },
-          { "name": "侯睿元" },
-          { "name": "庾强" }
-        ],
+        "teamMembers": [{ "name": "谭逸朗" }, { "name": "侯睿元" }, { "name": "庾强" }],
         "official": false
       },
       "score": { "value": 4, "time": [40920, "s"] },
@@ -8312,11 +7917,7 @@
         "name": "勇攀Ⅱ",
         "id": "B03",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "谭宇佳" },
-          { "name": "曾绍武" },
-          { "name": "谭仪" }
-        ],
+        "teamMembers": [{ "name": "谭宇佳" }, { "name": "曾绍武" }, { "name": "谭仪" }],
         "official": true
       },
       "score": { "value": 4, "time": [42180, "s"] },
@@ -8387,11 +7988,7 @@
         "name": "罚坐三人组",
         "id": "F16",
         "organization": "重庆鲁能巴蜀中学",
-        "teamMembers": [
-          { "name": "金宬汉" },
-          { "name": "严子乘" },
-          { "name": "李佑嘉" }
-        ],
+        "teamMembers": [{ "name": "金宬汉" }, { "name": "严子乘" }, { "name": "李佑嘉" }],
         "official": false
       },
       "score": { "value": 4, "time": [43020, "s"] },
@@ -8462,11 +8059,7 @@
         "name": "二外三队",
         "id": "F02",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "周正奇" },
-          { "name": "高梓梵" },
-          { "name": "魏宇航" }
-        ],
+        "teamMembers": [{ "name": "周正奇" }, { "name": "高梓梵" }, { "name": "魏宇航" }],
         "official": false
       },
       "score": { "value": 4, "time": [43980, "s"] },
@@ -8533,11 +8126,7 @@
         "name": "拾过时光，浅淡收场",
         "id": "H11",
         "organization": "西华师范大学",
-        "teamMembers": [
-          { "name": "杨铧" },
-          { "name": "刘海" },
-          { "name": "熊细鸿" }
-        ],
+        "teamMembers": [{ "name": "杨铧" }, { "name": "刘海" }, { "name": "熊细鸿" }],
         "official": true
       },
       "score": { "value": 4, "time": [46200, "s"] },
@@ -8609,11 +8198,7 @@
         "name": "代码矩阵",
         "id": "B14",
         "organization": "阿坝师范学院",
-        "teamMembers": [
-          { "name": "伍晓浪" },
-          { "name": "冯浩" },
-          { "name": "何梦颖" }
-        ],
+        "teamMembers": [{ "name": "伍晓浪" }, { "name": "冯浩" }, { "name": "何梦颖" }],
         "official": true
       },
       "score": { "value": 4, "time": [46560, "s"] },
@@ -8686,11 +8271,7 @@
         "name": "新王朝",
         "id": "C03",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "王杰" },
-          { "name": "项若楚" },
-          { "name": "李涛" }
-        ],
+        "teamMembers": [{ "name": "王杰" }, { "name": "项若楚" }, { "name": "李涛" }],
         "official": true
       },
       "score": { "value": 4, "time": [46920, "s"] },
@@ -8747,11 +8328,7 @@
         "name": "铁牌毁了我们的xcpc生涯",
         "id": "J07",
         "organization": "成都工业学院",
-        "teamMembers": [
-          { "name": "廖常安" },
-          { "name": "杨鑫佟" },
-          { "name": "裴彬" }
-        ],
+        "teamMembers": [{ "name": "廖常安" }, { "name": "杨鑫佟" }, { "name": "裴彬" }],
         "official": true
       },
       "score": { "value": 4, "time": [47580, "s"] },
@@ -8830,11 +8407,7 @@
         "name": "苏peridol Fan Club",
         "id": "F05",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "徐明山" },
-          { "name": "阚闯" },
-          { "name": "丁昱" }
-        ],
+        "teamMembers": [{ "name": "徐明山" }, { "name": "阚闯" }, { "name": "丁昱" }],
         "official": true
       },
       "score": { "value": 4, "time": [48000, "s"] },
@@ -8927,11 +8500,7 @@
         "name": "公理圆弧",
         "id": "I02",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "廖宇飞" },
-          { "name": "邓俊熙" },
-          { "name": "李翔宇" }
-        ],
+        "teamMembers": [{ "name": "廖宇飞" }, { "name": "邓俊熙" }, { "name": "李翔宇" }],
         "official": true
       },
       "score": { "value": 4, "time": [49380, "s"] },
@@ -9000,11 +8569,7 @@
         "name": "重生之我在四川",
         "id": "G22",
         "organization": "云南大学",
-        "teamMembers": [
-          { "name": "唐嘉骏" },
-          { "name": "马永琦" },
-          { "name": "张鑫宇" }
-        ],
+        "teamMembers": [{ "name": "唐嘉骏" }, { "name": "马永琦" }, { "name": "张鑫宇" }],
         "official": true
       },
       "score": { "value": 4, "time": [50160, "s"] },
@@ -9106,11 +8671,7 @@
         "name": "到底是谁过了英语四级啊",
         "id": "L06",
         "organization": "成都东软学院",
-        "teamMembers": [
-          { "name": "吴庭信" },
-          { "name": "金玉琳" },
-          { "name": "王俊喆" }
-        ],
+        "teamMembers": [{ "name": "吴庭信" }, { "name": "金玉琳" }, { "name": "王俊喆" }],
         "official": true
       },
       "score": { "value": 4, "time": [50640, "s"] },
@@ -9188,11 +8749,7 @@
         "name": "实外信竞队",
         "id": "B19",
         "organization": "成都市实验外国语学校",
-        "teamMembers": [
-          { "name": "康凌睿" },
-          { "name": "尹子昂" },
-          { "name": "李汉生" }
-        ],
+        "teamMembers": [{ "name": "康凌睿" }, { "name": "尹子昂" }, { "name": "李汉生" }],
         "official": false
       },
       "score": { "value": 4, "time": [52620, "s"] },
@@ -9286,11 +8843,7 @@
         "name": "妄想ac摄金联盟",
         "id": "K02",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "黄浩翔" },
-          { "name": "程立坤" },
-          { "name": "唐娅东" }
-        ],
+        "teamMembers": [{ "name": "黄浩翔" }, { "name": "程立坤" }, { "name": "唐娅东" }],
         "official": false
       },
       "score": { "value": 4, "time": [53100, "s"] },
@@ -9374,13 +8927,9 @@
         "name": "毋庸置疑",
         "id": "A03",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "傅子益" },
-          { "name": "侯彤瑶" },
-          { "name": "朱明慧" }
-        ],
+        "teamMembers": [{ "name": "傅子益" }, { "name": "侯彤瑶" }, { "name": "朱明慧" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 4, "time": [55020, "s"] },
       "statuses": [
@@ -9443,11 +8992,7 @@
         "name": "真正想AC的人脸上是没有笑容的",
         "id": "L07",
         "organization": "成都工业学院",
-        "teamMembers": [
-          { "name": "李宗奇" },
-          { "name": "吴奇龙" },
-          { "name": "曹旭阳" }
-        ],
+        "teamMembers": [{ "name": "李宗奇" }, { "name": "吴奇龙" }, { "name": "曹旭阳" }],
         "official": true
       },
       "score": { "value": 4, "time": [55980, "s"] },
@@ -9524,11 +9069,7 @@
         "name": "赛前假装加练去玩一宿GalGame",
         "id": "D10",
         "organization": "成都理工大学",
-        "teamMembers": [
-          { "name": "刘川德" },
-          { "name": "辛天华" },
-          { "name": "刘书圻" }
-        ],
+        "teamMembers": [{ "name": "刘川德" }, { "name": "辛天华" }, { "name": "刘书圻" }],
         "official": true
       },
       "score": { "value": 4, "time": [56880, "s"] },
@@ -9622,11 +9163,7 @@
         "name": "阿玛忒拉斯",
         "id": "J10",
         "organization": "四川师范大学",
-        "teamMembers": [
-          { "name": "王 梓" },
-          { "name": "林诗淇" },
-          { "name": "李海正" }
-        ],
+        "teamMembers": [{ "name": "王 梓" }, { "name": "林诗淇" }, { "name": "李海正" }],
         "official": true
       },
       "score": { "value": 4, "time": [58200, "s"] },
@@ -9727,11 +9264,7 @@
         "name": "荒芜梦",
         "id": "G19",
         "organization": "重庆科技大学",
-        "teamMembers": [
-          { "name": "代一" },
-          { "name": "余臻" },
-          { "name": "刘希疆" }
-        ],
+        "teamMembers": [{ "name": "代一" }, { "name": "余臻" }, { "name": "刘希疆" }],
         "official": true
       },
       "score": { "value": 4, "time": [59160, "s"] },
@@ -9890,11 +9423,7 @@
         "name": "和我签订契约，成为魔法少女吧",
         "id": "B05",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "刘俊豪" },
-          { "name": "李欣珂" },
-          { "name": "陈义达" }
-        ],
+        "teamMembers": [{ "name": "刘俊豪" }, { "name": "李欣珂" }, { "name": "陈义达" }],
         "official": true
       },
       "score": { "value": 4, "time": [65040, "s"] },
@@ -9975,11 +9504,7 @@
         "name": "二外五队",
         "id": "J02",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "陈嵩" },
-          { "name": "黄邦迅" },
-          { "name": "李沅骏" }
-        ],
+        "teamMembers": [{ "name": "陈嵩" }, { "name": "黄邦迅" }, { "name": "李沅骏" }],
         "official": false
       },
       "score": { "value": 4, "time": [68760, "s"] },
@@ -10059,11 +9584,7 @@
         "name": "卧思可哀笑南梁",
         "id": "G13",
         "organization": "成都理工大学工程技术学院",
-        "teamMembers": [
-          { "name": "方鹏淅" },
-          { "name": "李学迅" },
-          { "name": "曾宇鹏" }
-        ],
+        "teamMembers": [{ "name": "方鹏淅" }, { "name": "李学迅" }, { "name": "曾宇鹏" }],
         "official": true
       },
       "score": { "value": 3, "time": [15840, "s"] },
@@ -10156,11 +9677,7 @@
         "name": "开门",
         "id": "D12",
         "organization": "四川师范大学",
-        "teamMembers": [
-          { "name": "季明轩" },
-          { "name": "黄扬" },
-          { "name": "马浩" }
-        ],
+        "teamMembers": [{ "name": "季明轩" }, { "name": "黄扬" }, { "name": "马浩" }],
         "official": true
       },
       "score": { "value": 3, "time": [17640, "s"] },
@@ -10221,11 +9738,7 @@
         "name": "我为什么做不队",
         "id": "E11",
         "organization": "西华大学",
-        "teamMembers": [
-          { "name": "周世阳" },
-          { "name": "马健城" },
-          { "name": "熊伟" }
-        ],
+        "teamMembers": [{ "name": "周世阳" }, { "name": "马健城" }, { "name": "熊伟" }],
         "official": true
       },
       "score": { "value": 3, "time": [19320, "s"] },
@@ -10276,13 +9789,9 @@
         "name": "这队名怎么这么难起",
         "id": "I05",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "郭子瑾" },
-          { "name": "文清惠" },
-          { "name": "张苏停" }
-        ],
+        "teamMembers": [{ "name": "郭子瑾" }, { "name": "文清惠" }, { "name": "张苏停" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 3, "time": [19980, "s"] },
       "statuses": [
@@ -10346,11 +9855,7 @@
         "name": "逐火之蛾",
         "id": "K07",
         "organization": "西南财经大学",
-        "teamMembers": [
-          { "name": "张玲玲" },
-          { "name": "杨富贵" },
-          { "name": "胡泽滨" }
-        ],
+        "teamMembers": [{ "name": "张玲玲" }, { "name": "杨富贵" }, { "name": "胡泽滨" }],
         "official": true
       },
       "score": { "value": 3, "time": [20280, "s"] },
@@ -10435,11 +9940,7 @@
         "name": "TheLingLakers",
         "id": "E19",
         "organization": "重庆科技大学",
-        "teamMembers": [
-          { "name": "苏黔渝" },
-          { "name": "郑祥至" },
-          { "name": "周业顺" }
-        ],
+        "teamMembers": [{ "name": "苏黔渝" }, { "name": "郑祥至" }, { "name": "周业顺" }],
         "official": true
       },
       "score": { "value": 3, "time": [21480, "s"] },
@@ -10499,11 +10000,7 @@
         "name": "如果守银成功队长就变小南娘",
         "id": "K15",
         "organization": "西南大学",
-        "teamMembers": [
-          { "name": "刘子毅" },
-          { "name": "杨竣胜" },
-          { "name": "周佰涛" }
-        ],
+        "teamMembers": [{ "name": "刘子毅" }, { "name": "杨竣胜" }, { "name": "周佰涛" }],
         "official": true
       },
       "score": { "value": 3, "time": [22020, "s"] },
@@ -10568,11 +10065,7 @@
         "name": "博丰信息",
         "id": "F22",
         "organization": "博丰信息",
-        "teamMembers": [
-          { "name": "童歌" },
-          { "name": "杨雨鑫" },
-          { "name": "张彦涛" }
-        ],
+        "teamMembers": [{ "name": "童歌" }, { "name": "杨雨鑫" }, { "name": "张彦涛" }],
         "official": false
       },
       "score": { "value": 3, "time": [22260, "s"] },
@@ -10627,11 +10120,7 @@
         "name": "蛋黄瑞士卷",
         "id": "J06",
         "organization": "成都东软学院",
-        "teamMembers": [
-          { "name": "郭滨淞" },
-          { "name": "罗朋" },
-          { "name": "姚子聪" }
-        ],
+        "teamMembers": [{ "name": "郭滨淞" }, { "name": "罗朋" }, { "name": "姚子聪" }],
         "official": true
       },
       "score": { "value": 3, "time": [22500, "s"] },
@@ -10698,11 +10187,7 @@
         "name": "#定义 整数 长长",
         "id": "K18",
         "organization": "四川农业大学",
-        "teamMembers": [
-          { "name": "秦宇涛" },
-          { "name": "淡鹏宇" },
-          { "name": "郑嘉铭" }
-        ],
+        "teamMembers": [{ "name": "秦宇涛" }, { "name": "淡鹏宇" }, { "name": "郑嘉铭" }],
         "official": true
       },
       "score": { "value": 3, "time": [22740, "s"] },
@@ -10767,11 +10252,7 @@
         "name": "你只是在模仿真正的奶龙",
         "id": "B08",
         "organization": "成都东软学院",
-        "teamMembers": [
-          { "name": "罗元聪" },
-          { "name": "张慈玖" },
-          { "name": "贾立旺" }
-        ],
+        "teamMembers": [{ "name": "罗元聪" }, { "name": "张慈玖" }, { "name": "贾立旺" }],
         "official": true
       },
       "score": { "value": 3, "time": [23460, "s"] },
@@ -10830,11 +10311,7 @@
         "name": "许愿都队",
         "id": "E17",
         "organization": "西南大学",
-        "teamMembers": [
-          { "name": "江嘉杰" },
-          { "name": "邓一" },
-          { "name": "雷昕语" }
-        ],
+        "teamMembers": [{ "name": "江嘉杰" }, { "name": "邓一" }, { "name": "雷昕语" }],
         "official": true
       },
       "score": { "value": 3, "time": [23700, "s"] },
@@ -10900,11 +10377,7 @@
         "name": "巴巴博一",
         "id": "C11",
         "organization": "西华大学",
-        "teamMembers": [
-          { "name": "陈言浩" },
-          { "name": "刘佳宏" },
-          { "name": "杜坤洋" }
-        ],
+        "teamMembers": [{ "name": "陈言浩" }, { "name": "刘佳宏" }, { "name": "杜坤洋" }],
         "official": true
       },
       "score": { "value": 3, "time": [24240, "s"] },
@@ -10967,11 +10440,7 @@
         "name": "技术宅拯救不了世界",
         "id": "A15",
         "organization": "成都市新津区成实外高级中学",
-        "teamMembers": [
-          { "name": "黄瑞麟" },
-          { "name": "姚秉哲" },
-          { "name": "袁梓裴" }
-        ],
+        "teamMembers": [{ "name": "黄瑞麟" }, { "name": "姚秉哲" }, { "name": "袁梓裴" }],
         "official": false
       },
       "score": { "value": 3, "time": [25800, "s"] },
@@ -11038,11 +10507,7 @@
         "name": "平安喜乐丶",
         "id": "D06",
         "organization": "电子科技大学成都学院",
-        "teamMembers": [
-          { "name": "吕文凯" },
-          { "name": "艾孟康" },
-          { "name": "罗熠" }
-        ],
+        "teamMembers": [{ "name": "吕文凯" }, { "name": "艾孟康" }, { "name": "罗熠" }],
         "official": true
       },
       "score": { "value": 3, "time": [25980, "s"] },
@@ -11094,11 +10559,7 @@
         "name": "跟我的杜拉罕说去吧",
         "id": "G02",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "郄启" },
-          { "name": "武艺嘉" },
-          { "name": "冯鑫" }
-        ],
+        "teamMembers": [{ "name": "郄启" }, { "name": "武艺嘉" }, { "name": "冯鑫" }],
         "official": false
       },
       "score": { "value": 3, "time": [26040, "s"] },
@@ -11181,11 +10642,7 @@
         "name": "南村群木又",
         "id": "C15",
         "organization": "成都市新津区成实外高级中学",
-        "teamMembers": [
-          { "name": "郭奕凡" },
-          { "name": "唐子晓" },
-          { "name": "杨圣权" }
-        ],
+        "teamMembers": [{ "name": "郭奕凡" }, { "name": "唐子晓" }, { "name": "杨圣权" }],
         "official": false
       },
       "score": { "value": 3, "time": [28560, "s"] },
@@ -11261,11 +10718,7 @@
         "name": "他们朝我扔牌子",
         "id": "J11",
         "organization": "西华师范大学",
-        "teamMembers": [
-          { "name": "曹大典" },
-          { "name": "周锦" },
-          { "name": "韩宏飞" }
-        ],
+        "teamMembers": [{ "name": "曹大典" }, { "name": "周锦" }, { "name": "韩宏飞" }],
         "official": true
       },
       "score": { "value": 3, "time": [28560, "s"] },
@@ -11322,11 +10775,7 @@
         "name": "满穗说ACMYGO是睦头长期素食导致",
         "id": "B10",
         "organization": "成都理工大学",
-        "teamMembers": [
-          { "name": "张鹏" },
-          { "name": "郑川建" },
-          { "name": "蔡沛君" }
-        ],
+        "teamMembers": [{ "name": "张鹏" }, { "name": "郑川建" }, { "name": "蔡沛君" }],
         "official": true
       },
       "score": { "value": 3, "time": [28620, "s"] },
@@ -11385,11 +10834,7 @@
         "name": "跷着脚吃甜皮牛肉钵钵鸡鸭",
         "id": "D08",
         "organization": "成都东软学院",
-        "teamMembers": [
-          { "name": "丁泳钞" },
-          { "name": "李珈臣" },
-          { "name": "谢秩强" }
-        ],
+        "teamMembers": [{ "name": "丁泳钞" }, { "name": "李珈臣" }, { "name": "谢秩强" }],
         "official": true
       },
       "score": { "value": 3, "time": [30300, "s"] },
@@ -11458,11 +10903,7 @@
         "name": "Cu队友女装Ag队长女装Au队长cos云璃",
         "id": "A07",
         "organization": "西南财经大学",
-        "teamMembers": [
-          { "name": "陈瑾" },
-          { "name": "刘彻" },
-          { "name": "朱哲含" }
-        ],
+        "teamMembers": [{ "name": "陈瑾" }, { "name": "刘彻" }, { "name": "朱哲含" }],
         "official": true
       },
       "score": { "value": 3, "time": [31440, "s"] },
@@ -11527,11 +10968,7 @@
         "name": "X-射线",
         "id": "A11",
         "organization": "西华大学",
-        "teamMembers": [
-          { "name": "吴祖厅" },
-          { "name": "先江涛" },
-          { "name": "朱俊豪" }
-        ],
+        "teamMembers": [{ "name": "吴祖厅" }, { "name": "先江涛" }, { "name": "朱俊豪" }],
         "official": true
       },
       "score": { "value": 3, "time": [32700, "s"] },
@@ -11590,11 +11027,7 @@
         "name": "打铁对不队",
         "id": "F07",
         "organization": "成都工业学院",
-        "teamMembers": [
-          { "name": "贾洪杰" },
-          { "name": "陈义帆" },
-          { "name": "周羽盛" }
-        ],
+        "teamMembers": [{ "name": "贾洪杰" }, { "name": "陈义帆" }, { "name": "周羽盛" }],
         "official": true
       },
       "score": { "value": 3, "time": [32880, "s"] },
@@ -11741,11 +11174,7 @@
         "name": "GoGoGo",
         "id": "K13",
         "organization": "成都市新津区成实外高级中学",
-        "teamMembers": [
-          { "name": "徐智超" },
-          { "name": "向昱鑫" },
-          { "name": "陈星然" }
-        ],
+        "teamMembers": [{ "name": "徐智超" }, { "name": "向昱鑫" }, { "name": "陈星然" }],
         "official": false
       },
       "score": { "value": 3, "time": [33120, "s"] },
@@ -11820,11 +11249,7 @@
         "name": "身不在心在SUSE的老登跪求小登带飞",
         "id": "A12",
         "organization": "四川轻化工大学",
-        "teamMembers": [
-          { "name": "张俊聪" },
-          { "name": "陈红" },
-          { "name": "魏巍" }
-        ],
+        "teamMembers": [{ "name": "张俊聪" }, { "name": "陈红" }, { "name": "魏巍" }],
         "official": true
       },
       "score": { "value": 3, "time": [34200, "s"] },
@@ -11888,11 +11313,7 @@
         "name": "穿越之我是菜狗",
         "id": "A20",
         "organization": "四川农业大学",
-        "teamMembers": [
-          { "name": "唐源泉" },
-          { "name": "聂宇豪" },
-          { "name": "陈俊炜" }
-        ],
+        "teamMembers": [{ "name": "唐源泉" }, { "name": "聂宇豪" }, { "name": "陈俊炜" }],
         "official": true
       },
       "score": { "value": 3, "time": [34500, "s"] },
@@ -11974,11 +11395,7 @@
         "name": "Echo",
         "id": "J12",
         "organization": "阿坝师范学院",
-        "teamMembers": [
-          { "name": "蒋东军" },
-          { "name": "唐鹏" },
-          { "name": "侯小莉" }
-        ],
+        "teamMembers": [{ "name": "蒋东军" }, { "name": "唐鹏" }, { "name": "侯小莉" }],
         "official": true
       },
       "score": { "value": 3, "time": [34680, "s"] },
@@ -12039,11 +11456,7 @@
         "name": "邪恶贝利亚",
         "id": "L01",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "孙鹏" },
-          { "name": "李诚鑫" },
-          { "name": "陈洪钢" }
-        ],
+        "teamMembers": [{ "name": "孙鹏" }, { "name": "李诚鑫" }, { "name": "陈洪钢" }],
         "official": true
       },
       "score": { "value": 3, "time": [36360, "s"] },
@@ -12118,11 +11531,7 @@
         "name": "关于我们队拿牌子学长就去英国表白这件事",
         "id": "I20",
         "organization": "成都中医药大学",
-        "teamMembers": [
-          { "name": "宿桐瑞" },
-          { "name": "且翔宇" },
-          { "name": "李佳树" }
-        ],
+        "teamMembers": [{ "name": "宿桐瑞" }, { "name": "且翔宇" }, { "name": "李佳树" }],
         "official": true
       },
       "score": { "value": 3, "time": [36900, "s"] },
@@ -12182,11 +11591,7 @@
         "name": "怎么一个都不对",
         "id": "D03",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "夏源泽" },
-          { "name": "曾媛" },
-          { "name": "李勇琪" }
-        ],
+        "teamMembers": [{ "name": "夏源泽" }, { "name": "曾媛" }, { "name": "李勇琪" }],
         "official": true
       },
       "score": { "value": 3, "time": [37200, "s"] },
@@ -12291,11 +11696,7 @@
         "name": "京东美团饿了么",
         "id": "B06",
         "organization": "电子科技大学成都学院",
-        "teamMembers": [
-          { "name": "王硕" },
-          { "name": "尹建鸿" },
-          { "name": "胡新隆" }
-        ],
+        "teamMembers": [{ "name": "王硕" }, { "name": "尹建鸿" }, { "name": "胡新隆" }],
         "official": true
       },
       "score": { "value": 3, "time": [38880, "s"] },
@@ -12359,11 +11760,7 @@
         "name": "一题没A，是不是又动了蛋糕奶酪披萨汉堡",
         "id": "H13",
         "organization": "成都师范学院",
-        "teamMembers": [
-          { "name": "谢天佑" },
-          { "name": "马松" },
-          { "name": "曾川林" }
-        ],
+        "teamMembers": [{ "name": "谢天佑" }, { "name": "马松" }, { "name": "曾川林" }],
         "official": true
       },
       "score": { "value": 3, "time": [40560, "s"] },
@@ -12424,11 +11821,7 @@
         "name": "我永远喜欢灵梦",
         "id": "I21",
         "organization": "四川信息职业技术学院",
-        "teamMembers": [
-          { "name": "曾华艺" },
-          { "name": "孙海宇" },
-          { "name": "王文俊" }
-        ],
+        "teamMembers": [{ "name": "曾华艺" }, { "name": "孙海宇" }, { "name": "王文俊" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -12510,11 +11903,7 @@
         "name": "古河渚♡也想要ak呢~",
         "id": "C20",
         "organization": "四川农业大学",
-        "teamMembers": [
-          { "name": "任景逸" },
-          { "name": "温政炜" },
-          { "name": "陆奕舟" }
-        ],
+        "teamMembers": [{ "name": "任景逸" }, { "name": "温政炜" }, { "name": "陆奕舟" }],
         "official": true
       },
       "score": { "value": 3, "time": [43020, "s"] },
@@ -12578,11 +11967,7 @@
         "name": "不要WA我喵",
         "id": "B13",
         "organization": "成都师范学院",
-        "teamMembers": [
-          { "name": "王镜霖" },
-          { "name": "吴伟彬" },
-          { "name": "唐怡平" }
-        ],
+        "teamMembers": [{ "name": "王镜霖" }, { "name": "吴伟彬" }, { "name": "唐怡平" }],
         "official": true
       },
       "score": { "value": 3, "time": [43620, "s"] },
@@ -12650,11 +12035,7 @@
         "name": "爱像风筝断了线",
         "id": "H17",
         "organization": "成都市实验外国语学校",
-        "teamMembers": [
-          { "name": "宋度德" },
-          { "name": "廖浩然" },
-          { "name": "夏雨晗" }
-        ],
+        "teamMembers": [{ "name": "宋度德" }, { "name": "廖浩然" }, { "name": "夏雨晗" }],
         "official": false
       },
       "score": { "value": 3, "time": [43920, "s"] },
@@ -12732,11 +12113,7 @@
         "name": "丰川祥子队",
         "id": "K04",
         "organization": "电子科技大学成都学院",
-        "teamMembers": [
-          { "name": "蒋一" },
-          { "name": "杨喻鹏" },
-          { "name": "刘畅" }
-        ],
+        "teamMembers": [{ "name": "蒋一" }, { "name": "杨喻鹏" }, { "name": "刘畅" }],
         "official": true
       },
       "score": { "value": 3, "time": [44520, "s"] },
@@ -12818,11 +12195,7 @@
         "name": "东东东萨胡尔",
         "id": "L10",
         "organization": "四川师范大学",
-        "teamMembers": [
-          { "name": "吕鸣睿" },
-          { "name": "周怡佳" },
-          { "name": "李庚润" }
-        ],
+        "teamMembers": [{ "name": "吕鸣睿" }, { "name": "周怡佳" }, { "name": "李庚润" }],
         "official": true
       },
       "score": { "value": 3, "time": [44700, "s"] },
@@ -12878,11 +12251,7 @@
         "name": "一张纸",
         "id": "K09",
         "organization": "成都市锦江区嘉祥外国语高级中学",
-        "teamMembers": [
-          { "name": "杨谨源" },
-          { "name": "曾帅鸣" },
-          { "name": "赵淀磊" }
-        ],
+        "teamMembers": [{ "name": "杨谨源" }, { "name": "曾帅鸣" }, { "name": "赵淀磊" }],
         "official": false
       },
       "score": { "value": 3, "time": [47100, "s"] },
@@ -12973,11 +12342,7 @@
         "name": "新建文件",
         "id": "I13",
         "organization": "成都理工大学工程技术学院",
-        "teamMembers": [
-          { "name": "吴钟业" },
-          { "name": "王淼" },
-          { "name": "张恢勇" }
-        ],
+        "teamMembers": [{ "name": "吴钟业" }, { "name": "王淼" }, { "name": "张恢勇" }],
         "official": true
       },
       "score": { "value": 3, "time": [47580, "s"] },
@@ -13033,11 +12398,7 @@
         "name": "猫爱吃猫食，狗爱吃狗食，你为什么爱吃零食",
         "id": "A16",
         "organization": "吉利学院",
-        "teamMembers": [
-          { "name": "郑洪章" },
-          { "name": "王声洋" },
-          { "name": "杨靖丰" }
-        ],
+        "teamMembers": [{ "name": "郑洪章" }, { "name": "王声洋" }, { "name": "杨靖丰" }],
         "official": true
       },
       "score": { "value": 3, "time": [47820, "s"] },
@@ -13100,11 +12461,7 @@
         "name": "saki酱orz saki酱orz saki酱orz ",
         "id": "I10",
         "organization": "四川轻化工大学",
-        "teamMembers": [
-          { "name": "焦辰泽" },
-          { "name": "罗彬洋" },
-          { "name": "邓焱" }
-        ],
+        "teamMembers": [{ "name": "焦辰泽" }, { "name": "罗彬洋" }, { "name": "邓焱" }],
         "official": true
       },
       "score": { "value": 3, "time": [47820, "s"] },
@@ -13177,13 +12534,9 @@
         "name": "老师我们家子涵也要打比赛",
         "id": "D05",
         "organization": "西南交通大学",
-        "teamMembers": [
-          { "name": "蔡新洁" },
-          { "name": "胡靖偲" },
-          { "name": "毛露涵" }
-        ],
+        "teamMembers": [{ "name": "蔡新洁" }, { "name": "胡靖偲" }, { "name": "毛露涵" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 3, "time": [59340, "s"] },
       "statuses": [
@@ -13264,11 +12617,7 @@
         "name": "爆栈前请投喂木木枭",
         "id": "L19",
         "organization": "成都市新津区成外学校",
-        "teamMembers": [
-          { "name": "王奕修" },
-          { "name": "李承泽" },
-          { "name": "钟庆虹" }
-        ],
+        "teamMembers": [{ "name": "王奕修" }, { "name": "李承泽" }, { "name": "钟庆虹" }],
         "official": false
       },
       "score": { "value": 3, "time": [59700, "s"] },
@@ -13330,11 +12679,7 @@
         "name": "真正想赢的人，脸上是没有笑容的",
         "id": "E10",
         "organization": "成都锦城学院",
-        "teamMembers": [
-          { "name": "赵燚" },
-          { "name": "孙江涛" },
-          { "name": "李泓宇" }
-        ],
+        "teamMembers": [{ "name": "赵燚" }, { "name": "孙江涛" }, { "name": "李泓宇" }],
         "official": true
       },
       "score": { "value": 3, "time": [59760, "s"] },
@@ -13402,11 +12747,7 @@
         "name": "老司机",
         "id": "H19",
         "organization": "重庆工程学院",
-        "teamMembers": [
-          { "name": "陈博恒" },
-          { "name": "何慧君" },
-          { "name": "代文豪" }
-        ],
+        "teamMembers": [{ "name": "陈博恒" }, { "name": "何慧君" }, { "name": "代文豪" }],
         "official": true
       },
       "score": { "value": 3, "time": [65700, "s"] },
@@ -13482,11 +12823,7 @@
         "name": "小AC找妈妈",
         "id": "I16",
         "organization": "重庆大学",
-        "teamMembers": [
-          { "name": "刘佳庆" },
-          { "name": "沈祺昊" },
-          { "name": "焦耀天" }
-        ],
+        "teamMembers": [{ "name": "刘佳庆" }, { "name": "沈祺昊" }, { "name": "焦耀天" }],
         "official": true
       },
       "score": { "value": 3, "time": [79200, "s"] },
@@ -13556,11 +12893,7 @@
         "name": "二外六队",
         "id": "D02",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "江伶俐" },
-          { "name": "向俊辉" },
-          { "name": "汪梓涵" }
-        ],
+        "teamMembers": [{ "name": "江伶俐" }, { "name": "向俊辉" }, { "name": "汪梓涵" }],
         "official": false
       },
       "score": { "value": 2, "time": [9540, "s"] },
@@ -13637,11 +12970,7 @@
         "name": "TLE仙人渡劫实录",
         "id": "D07",
         "organization": "成都工业学院",
-        "teamMembers": [
-          { "name": "李清贤" },
-          { "name": "连晋睿" },
-          { "name": "何博" }
-        ],
+        "teamMembers": [{ "name": "李清贤" }, { "name": "连晋睿" }, { "name": "何博" }],
         "official": true
       },
       "score": { "value": 2, "time": [11040, "s"] },
@@ -13706,11 +13035,7 @@
         "name": "while(rand()%2)AC",
         "id": "G04",
         "organization": "电子科技大学成都学院",
-        "teamMembers": [
-          { "name": "蔡伦" },
-          { "name": "张茂森" },
-          { "name": "吴泽东" }
-        ],
+        "teamMembers": [{ "name": "蔡伦" }, { "name": "张茂森" }, { "name": "吴泽东" }],
         "official": true
       },
       "score": { "value": 2, "time": [12180, "s"] },
@@ -13762,11 +13087,7 @@
         "name": "60万对80万优势在我",
         "id": "G06",
         "organization": "成都大学",
-        "teamMembers": [
-          { "name": "陈纪元" },
-          { "name": "张凡盛" },
-          { "name": "郭名伟" }
-        ],
+        "teamMembers": [{ "name": "陈纪元" }, { "name": "张凡盛" }, { "name": "郭名伟" }],
         "official": true
       },
       "score": { "value": 2, "time": [12720, "s"] },
@@ -13829,11 +13150,7 @@
         "name": "放手一搏",
         "id": "H23",
         "organization": "中南民族大学",
-        "teamMembers": [
-          { "name": "林俊宇" },
-          { "name": "雷雨禾" },
-          { "name": "刘冠权" }
-        ],
+        "teamMembers": [{ "name": "林俊宇" }, { "name": "雷雨禾" }, { "name": "刘冠权" }],
         "official": true
       },
       "score": { "value": 2, "time": [13320, "s"] },
@@ -13900,11 +13217,7 @@
         "name": "重不重生之我都是菜狗",
         "id": "J13",
         "organization": "成都师范学院",
-        "teamMembers": [
-          { "name": "王银锋" },
-          { "name": "应月强" },
-          { "name": "谢标" }
-        ],
+        "teamMembers": [{ "name": "王银锋" }, { "name": "应月强" }, { "name": "谢标" }],
         "official": true
       },
       "score": { "value": 2, "time": [15600, "s"] },
@@ -13982,11 +13295,7 @@
         "name": "还玩呢？快去加练啊",
         "id": "A13",
         "organization": "成都理工大学工程技术学院",
-        "teamMembers": [
-          { "name": "孔维杰" },
-          { "name": "王泽君" },
-          { "name": "税渝恩" }
-        ],
+        "teamMembers": [{ "name": "孔维杰" }, { "name": "王泽君" }, { "name": "税渝恩" }],
         "official": true
       },
       "score": { "value": 2, "time": [15840, "s"] },
@@ -14040,11 +13349,7 @@
         "name": "教练Ciallo～(∠・ω< )⌒☆",
         "id": "G21",
         "organization": "四川信息职业技术学院",
-        "teamMembers": [
-          { "name": "王国强" },
-          { "name": "叶瑞鑫" },
-          { "name": "青灿" }
-        ],
+        "teamMembers": [{ "name": "王国强" }, { "name": "叶瑞鑫" }, { "name": "青灿" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -14095,11 +13400,7 @@
         "name": "倒着ac",
         "id": "F11",
         "organization": "西华师范大学",
-        "teamMembers": [
-          { "name": "何杨" },
-          { "name": "卢银强" },
-          { "name": "王亦飞" }
-        ],
+        "teamMembers": [{ "name": "何杨" }, { "name": "卢银强" }, { "name": "王亦飞" }],
         "official": true
       },
       "score": { "value": 2, "time": [17940, "s"] },
@@ -14159,11 +13460,7 @@
         "name": "练习时长两年半",
         "id": "J21",
         "organization": "西南交通大学希望学院",
-        "teamMembers": [
-          { "name": "杨君星" },
-          { "name": "吴晨锋" },
-          { "name": "刘庭位" }
-        ],
+        "teamMembers": [{ "name": "杨君星" }, { "name": "吴晨锋" }, { "name": "刘庭位" }],
         "official": true
       },
       "score": { "value": 2, "time": [18060, "s"] },
@@ -14217,11 +13514,7 @@
         "name": "成都大学计科二班王文刚",
         "id": "A08",
         "organization": "成都大学",
-        "teamMembers": [
-          { "name": "吴哲希" },
-          { "name": "巢国俊" },
-          { "name": "王文刚" }
-        ],
+        "teamMembers": [{ "name": "吴哲希" }, { "name": "巢国俊" }, { "name": "王文刚" }],
         "official": true
       },
       "score": { "value": 2, "time": [19980, "s"] },
@@ -14290,11 +13583,7 @@
         "name": "乐山旅游队",
         "id": "E05",
         "organization": "成都信息工程大学",
-        "teamMembers": [
-          { "name": "黄中鼎" },
-          { "name": "邹锐" },
-          { "name": "胡浩宇" }
-        ],
+        "teamMembers": [{ "name": "黄中鼎" }, { "name": "邹锐" }, { "name": "胡浩宇" }],
         "official": false
       },
       "score": { "value": 2, "time": [20100, "s"] },
@@ -14361,11 +13650,7 @@
         "name": "学长说队名要正式",
         "id": "E14",
         "organization": "西南石油大学",
-        "teamMembers": [
-          { "name": "罗瑞" },
-          { "name": "徐静怡" },
-          { "name": "范志宏" }
-        ],
+        "teamMembers": [{ "name": "罗瑞" }, { "name": "徐静怡" }, { "name": "范志宏" }],
         "official": true
       },
       "score": { "value": 2, "time": [20100, "s"] },
@@ -14428,11 +13713,7 @@
         "name": "乐山市开发指南",
         "id": "I07",
         "organization": "西南财经大学",
-        "teamMembers": [
-          { "name": "钟富城" },
-          { "name": "潘洪涛" },
-          { "name": "张熙伟" }
-        ],
+        "teamMembers": [{ "name": "钟富城" }, { "name": "潘洪涛" }, { "name": "张熙伟" }],
         "official": true
       },
       "score": { "value": 2, "time": [20400, "s"] },
@@ -14483,11 +13764,7 @@
         "name": "我才是奶龙",
         "id": "L11",
         "organization": "西华师范大学",
-        "teamMembers": [
-          { "name": "雍智伟" },
-          { "name": "赵贵" },
-          { "name": "黄俊尧" }
-        ],
+        "teamMembers": [{ "name": "雍智伟" }, { "name": "赵贵" }, { "name": "黄俊尧" }],
         "official": true
       },
       "score": { "value": 2, "time": [20580, "s"] },
@@ -14551,13 +13828,9 @@
         "name": "斐波那契预备役",
         "id": "I04",
         "organization": "电子科技大学成都学院",
-        "teamMembers": [
-          { "name": "鲍佳音" },
-          { "name": "秦玉涵" },
-          { "name": "朱容嫣" }
-        ],
+        "teamMembers": [{ "name": "鲍佳音" }, { "name": "秦玉涵" }, { "name": "朱容嫣" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 2, "time": [20940, "s"] },
       "statuses": [
@@ -14606,11 +13879,7 @@
         "name": "二外四队",
         "id": "H02",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "黄一轩" },
-          { "name": "陈柯翰" },
-          { "name": "柯智宇" }
-        ],
+        "teamMembers": [{ "name": "黄一轩" }, { "name": "陈柯翰" }, { "name": "柯智宇" }],
         "official": false
       },
       "score": { "value": 2, "time": [22440, "s"] },
@@ -14668,11 +13937,7 @@
         "name": "三小只",
         "id": "C21",
         "organization": "成都市新津区成外学校",
-        "teamMembers": [
-          { "name": "赵珂玉" },
-          { "name": "韦弈杭" },
-          { "name": "林昭旭" }
-        ],
+        "teamMembers": [{ "name": "赵珂玉" }, { "name": "韦弈杭" }, { "name": "林昭旭" }],
         "official": false
       },
       "score": { "value": 2, "time": [22440, "s"] },
@@ -14754,13 +14019,9 @@
         "name": "R U UP",
         "id": "I06",
         "organization": "成都大学",
-        "teamMembers": [
-          { "name": "李骐伶" },
-          { "name": "王若萱" },
-          { "name": "蓝小雅" }
-        ],
+        "teamMembers": [{ "name": "李骐伶" }, { "name": "王若萱" }, { "name": "蓝小雅" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 2, "time": [22560, "s"] },
       "statuses": [
@@ -14826,13 +14087,9 @@
         "name": "我们到底动了谁的蛋糕钵钵鸡甜皮鸭跷脚牛肉",
         "id": "H10",
         "organization": "成都理工大学",
-        "teamMembers": [
-          { "name": "张佳怡" },
-          { "name": "田镓煊" },
-          { "name": "周阳妍鳳" }
-        ],
+        "teamMembers": [{ "name": "张佳怡" }, { "name": "田镓煊" }, { "name": "周阳妍鳳" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 2, "time": [25320, "s"] },
       "statuses": [
@@ -14899,11 +14156,7 @@
         "name": "做的都对",
         "id": "E12",
         "organization": "四川轻化工大学",
-        "teamMembers": [
-          { "name": "罗贤峰" },
-          { "name": "何汶龙" },
-          { "name": "李柏进" }
-        ],
+        "teamMembers": [{ "name": "罗贤峰" }, { "name": "何汶龙" }, { "name": "李柏进" }],
         "official": true
       },
       "score": { "value": 2, "time": [25440, "s"] },
@@ -14967,11 +14220,7 @@
         "name": "锦江2队",
         "id": "C22",
         "organization": "四川大学锦江学院",
-        "teamMembers": [
-          { "name": "李沛林" },
-          { "name": "秦毅松" },
-          { "name": "余伟" }
-        ],
+        "teamMembers": [{ "name": "李沛林" }, { "name": "秦毅松" }, { "name": "余伟" }],
         "official": true
       },
       "score": { "value": 2, "time": [26640, "s"] },
@@ -15022,11 +14271,7 @@
         "name": "哈基米德",
         "id": "D17",
         "organization": "中国民用航空飞行学院",
-        "teamMembers": [
-          { "name": "包连辉" },
-          { "name": "陈靖" },
-          { "name": "彭文旭" }
-        ],
+        "teamMembers": [{ "name": "包连辉" }, { "name": "陈靖" }, { "name": "彭文旭" }],
         "official": true
       },
       "score": { "value": 2, "time": [26640, "s"] },
@@ -15081,11 +14326,7 @@
         "name": "好歌剧Teio Opera O",
         "id": "I17",
         "organization": "重庆移通学院",
-        "teamMembers": [
-          { "name": "张译藤" },
-          { "name": "梁艺" },
-          { "name": "张秦炜" }
-        ],
+        "teamMembers": [{ "name": "张译藤" }, { "name": "梁艺" }, { "name": "张秦炜" }],
         "official": true
       },
       "score": { "value": 2, "time": [27420, "s"] },
@@ -15147,11 +14388,7 @@
         "name": "小栗帽大王不是天然呆",
         "id": "C19",
         "organization": "重庆移通学院",
-        "teamMembers": [
-          { "name": "魏镇东" },
-          { "name": "李中冉" },
-          { "name": "彭嘉宇" }
-        ],
+        "teamMembers": [{ "name": "魏镇东" }, { "name": "李中冉" }, { "name": "彭嘉宇" }],
         "official": true
       },
       "score": { "value": 2, "time": [27480, "s"] },
@@ -15224,11 +14461,7 @@
         "name": "从爆零开始的算竞生活",
         "id": "B11",
         "organization": "西华师范大学",
-        "teamMembers": [
-          { "name": "陈龙骏" },
-          { "name": "曹荣智" },
-          { "name": "李佳乐" }
-        ],
+        "teamMembers": [{ "name": "陈龙骏" }, { "name": "曹荣智" }, { "name": "李佳乐" }],
         "official": true
       },
       "score": { "value": 2, "time": [29040, "s"] },
@@ -15296,11 +14529,7 @@
         "name": "锦江1队",
         "id": "A22",
         "organization": "四川大学锦江学院",
-        "teamMembers": [
-          { "name": "周应强" },
-          { "name": "何政" },
-          { "name": "张志诚" }
-        ],
+        "teamMembers": [{ "name": "周应强" }, { "name": "何政" }, { "name": "张志诚" }],
         "official": true
       },
       "score": { "value": 2, "time": [30120, "s"] },
@@ -15352,11 +14581,7 @@
         "name": "微笑面队",
         "id": "K01",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "李源沁" },
-          { "name": "孙泓莉" },
-          { "name": "普玥菲" }
-        ],
+        "teamMembers": [{ "name": "李源沁" }, { "name": "孙泓莉" }, { "name": "普玥菲" }],
         "official": false
       },
       "score": { "value": 2, "time": [31200, "s"] },
@@ -15407,11 +14632,7 @@
         "name": "毕业礼物",
         "id": "L15",
         "organization": "中国民用航空飞行学院",
-        "teamMembers": [
-          { "name": "程相博" },
-          { "name": "姜豪" },
-          { "name": "余文健" }
-        ],
+        "teamMembers": [{ "name": "程相博" }, { "name": "姜豪" }, { "name": "余文健" }],
         "official": true
       },
       "score": { "value": 2, "time": [32460, "s"] },
@@ -15471,11 +14692,7 @@
         "name": "不要铁牌",
         "id": "H20",
         "organization": "四川民族学院",
-        "teamMembers": [
-          { "name": "姚历欣" },
-          { "name": "陈文杰" },
-          { "name": "杜浩邦" }
-        ],
+        "teamMembers": [{ "name": "姚历欣" }, { "name": "陈文杰" }, { "name": "杜浩邦" }],
         "official": true
       },
       "score": { "value": 2, "time": [33120, "s"] },
@@ -15542,11 +14759,7 @@
         "name": "奶龙说的队",
         "id": "I01",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "姚瑞希" },
-          { "name": "董汶奇" },
-          { "name": "付秀杰" }
-        ],
+        "teamMembers": [{ "name": "姚瑞希" }, { "name": "董汶奇" }, { "name": "付秀杰" }],
         "official": false
       },
       "score": { "value": 2, "time": [33240, "s"] },
@@ -15606,11 +14819,7 @@
         "name": "「普通」和「理所当然」是什么呢?",
         "id": "B01",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "李沐翰" },
-          { "name": "陈曦" },
-          { "name": "范俊滔" }
-        ],
+        "teamMembers": [{ "name": "李沐翰" }, { "name": "陈曦" }, { "name": "范俊滔" }],
         "official": true
       },
       "score": { "value": 2, "time": [36480, "s"] },
@@ -15670,13 +14879,9 @@
         "name": "早醒了就该打瓦",
         "id": "K11",
         "organization": "西华大学",
-        "teamMembers": [
-          { "name": "郑颖" },
-          { "name": "刘一丹" },
-          { "name": "谢心淳" }
-        ],
+        "teamMembers": [{ "name": "郑颖" }, { "name": "刘一丹" }, { "name": "谢心淳" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 2, "time": [36720, "s"] },
       "statuses": [
@@ -15733,11 +14938,7 @@
         "name": "红鲤李屡屡与绿鲤吕里里比驴红绿o.〇",
         "id": "E21",
         "organization": "四川信息职业技术学院",
-        "teamMembers": [
-          { "name": "张天浩" },
-          { "name": "杨夕平" },
-          { "name": "王垚" }
-        ],
+        "teamMembers": [{ "name": "张天浩" }, { "name": "杨夕平" }, { "name": "王垚" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -15794,11 +14995,7 @@
         "name": "微我五十",
         "id": "E13",
         "organization": "成都理工大学工程技术学院",
-        "teamMembers": [
-          { "name": "李博鑫" },
-          { "name": "魏之翔" },
-          { "name": "王泽裕" }
-        ],
+        "teamMembers": [{ "name": "李博鑫" }, { "name": "魏之翔" }, { "name": "王泽裕" }],
         "official": true
       },
       "score": { "value": 2, "time": [42000, "s"] },
@@ -15859,11 +15056,7 @@
         "name": "消失的星星",
         "id": "J01",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "刘皓扬" },
-          { "name": "王美芳" },
-          { "name": "蒋家勇" }
-        ],
+        "teamMembers": [{ "name": "刘皓扬" }, { "name": "王美芳" }, { "name": "蒋家勇" }],
         "official": true
       },
       "score": { "value": 2, "time": [43140, "s"] },
@@ -15931,11 +15124,7 @@
         "name": "叫啥啥都队",
         "id": "G01",
         "organization": "西南民族大学",
-        "teamMembers": [
-          { "name": "汪子豪" },
-          { "name": "陈可欣" },
-          { "name": "刘家豪" }
-        ],
+        "teamMembers": [{ "name": "汪子豪" }, { "name": "陈可欣" }, { "name": "刘家豪" }],
         "official": false
       },
       "score": { "value": 1, "time": [3600, "s"] },
@@ -15987,11 +15176,7 @@
         "name": "爱会消失对不队",
         "id": "I12",
         "organization": "西南石油大学",
-        "teamMembers": [
-          { "name": "夏雨" },
-          { "name": "周子焱" },
-          { "name": "王一丁" }
-        ],
+        "teamMembers": [{ "name": "夏雨" }, { "name": "周子焱" }, { "name": "王一丁" }],
         "official": true
       },
       "score": { "value": 1, "time": [3900, "s"] },
@@ -16037,11 +15222,7 @@
         "name": "迪迦肘击黑曼巴",
         "id": "A21",
         "organization": "成都市新津区成外学校",
-        "teamMembers": [
-          { "name": "梁昱可" },
-          { "name": "杨云涵" },
-          { "name": "周子睿" }
-        ],
+        "teamMembers": [{ "name": "梁昱可" }, { "name": "杨云涵" }, { "name": "周子睿" }],
         "official": false
       },
       "score": { "value": 1, "time": [4980, "s"] },
@@ -16097,11 +15278,7 @@
         "name": "三只蒟蒻",
         "id": "L22",
         "organization": "内江师范学院",
-        "teamMembers": [
-          { "name": "陈阳" },
-          { "name": "叶先毅" },
-          { "name": "赖张禾" }
-        ],
+        "teamMembers": [{ "name": "陈阳" }, { "name": "叶先毅" }, { "name": "赖张禾" }],
         "official": true
       },
       "score": { "value": 1, "time": [5640, "s"] },
@@ -16162,13 +15339,9 @@
         "name": "蒙的全对",
         "id": "A14",
         "organization": "西南石油大学",
-        "teamMembers": [
-          { "name": "刘清霞" },
-          { "name": "赵舒跚" },
-          { "name": "荆蕊" }
-        ],
+        "teamMembers": [{ "name": "刘清霞" }, { "name": "赵舒跚" }, { "name": "荆蕊" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [5640, "s"] },
       "statuses": [
@@ -16225,11 +15398,7 @@
         "name": "必胜",
         "id": "G08",
         "organization": "成都锦城学院",
-        "teamMembers": [
-          { "name": "李文俊" },
-          { "name": "谢春燕" },
-          { "name": "朱家顺" }
-        ],
+        "teamMembers": [{ "name": "李文俊" }, { "name": "谢春燕" }, { "name": "朱家顺" }],
         "official": true
       },
       "score": { "value": 1, "time": [6180, "s"] },
@@ -16294,11 +15463,7 @@
         "name": "躺赢才是精髓",
         "id": "K08",
         "organization": "成都锦城学院",
-        "teamMembers": [
-          { "name": "庄严" },
-          { "name": "刘仪炜" },
-          { "name": "邹书浩" }
-        ],
+        "teamMembers": [{ "name": "庄严" }, { "name": "刘仪炜" }, { "name": "邹书浩" }],
         "official": true
       },
       "score": { "value": 1, "time": [6720, "s"] },
@@ -16358,13 +15523,9 @@
         "name": "Ctrl+C+V 失灵? 不存在的！",
         "id": "K05",
         "organization": "西南财经大学",
-        "teamMembers": [
-          { "name": "罗钦" },
-          { "name": "汤紫怡" },
-          { "name": "郭子欣" }
-        ],
+        "teamMembers": [{ "name": "罗钦" }, { "name": "汤紫怡" }, { "name": "郭子欣" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [6720, "s"] },
       "statuses": [
@@ -16409,11 +15570,7 @@
         "name": "真的只会做四道",
         "id": "F03",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "郑洪鑫" },
-          { "name": "汤青峰" },
-          { "name": "任力恒" }
-        ],
+        "teamMembers": [{ "name": "郑洪鑫" }, { "name": "汤青峰" }, { "name": "任力恒" }],
         "official": true
       },
       "score": { "value": 1, "time": [6780, "s"] },
@@ -16481,13 +15638,9 @@
         "name": "我的无力成为了我的败笔",
         "id": "H01",
         "organization": "乐山师范学院",
-        "teamMembers": [
-          { "name": "韩雨恬" },
-          { "name": "谭奕灵" },
-          { "name": "文婧" }
-        ],
+        "teamMembers": [{ "name": "韩雨恬" }, { "name": "谭奕灵" }, { "name": "文婧" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [7020, "s"] },
       "statuses": [
@@ -16545,11 +15698,7 @@
         "name": "我想去战锤世界",
         "id": "F17",
         "organization": "中国民用航空飞行学院",
-        "teamMembers": [
-          { "name": "吕宇昕" },
-          { "name": "王诚懿" },
-          { "name": "刘佐霖" }
-        ],
+        "teamMembers": [{ "name": "吕宇昕" }, { "name": "王诚懿" }, { "name": "刘佐霖" }],
         "official": true
       },
       "score": { "value": 1, "time": [8580, "s"] },
@@ -16591,11 +15740,7 @@
         "name": "省赛打铁，败给资本",
         "id": "C13",
         "organization": "成都理工大学工程技术学院",
-        "teamMembers": [
-          { "name": "张宇杰" },
-          { "name": "何世博" },
-          { "name": "罗江霞" }
-        ],
+        "teamMembers": [{ "name": "张宇杰" }, { "name": "何世博" }, { "name": "罗江霞" }],
         "official": true
       },
       "score": { "value": 1, "time": [9240, "s"] },
@@ -16672,11 +15817,7 @@
         "name": "C祈豪的遗憾",
         "id": "G10",
         "organization": "四川轻化工大学",
-        "teamMembers": [
-          { "name": "李泳臻" },
-          { "name": "甘润" },
-          { "name": "陈梦肖" }
-        ],
+        "teamMembers": [{ "name": "李泳臻" }, { "name": "甘润" }, { "name": "陈梦肖" }],
         "official": true
       },
       "score": { "value": 1, "time": [9780, "s"] },
@@ -16735,11 +15876,7 @@
         "name": "宜宾学院1队",
         "id": "K21",
         "organization": "宜宾学院",
-        "teamMembers": [
-          { "name": "文国钢" },
-          { "name": "卢时源" },
-          { "name": "陈捷" }
-        ],
+        "teamMembers": [{ "name": "文国钢" }, { "name": "卢时源" }, { "name": "陈捷" }],
         "official": true
       },
       "score": { "value": 1, "time": [10320, "s"] },
@@ -16790,11 +15927,7 @@
         "name": "挂件队",
         "id": "K10",
         "organization": "四川轻化工大学",
-        "teamMembers": [
-          { "name": "樊明智" },
-          { "name": "鄢楠" },
-          { "name": "梁维俊" }
-        ],
+        "teamMembers": [{ "name": "樊明智" }, { "name": "鄢楠" }, { "name": "梁维俊" }],
         "official": false
       },
       "score": { "value": 1, "time": [10500, "s"] },
@@ -16854,11 +15987,7 @@
         "name": "深藏blue",
         "id": "G18",
         "organization": "成都职业技术学院",
-        "teamMembers": [
-          { "name": "曾承恩" },
-          { "name": "赵伍林" },
-          { "name": "龚渭庭" }
-        ],
+        "teamMembers": [{ "name": "曾承恩" }, { "name": "赵伍林" }, { "name": "龚渭庭" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -16904,11 +16033,7 @@
         "name": "我打的不是ACM吗？怎么全是WA",
         "id": "H06",
         "organization": "电子科技大学成都学院",
-        "teamMembers": [
-          { "name": "周永发" },
-          { "name": "高冷越" },
-          { "name": "吴洋洋" }
-        ],
+        "teamMembers": [{ "name": "周永发" }, { "name": "高冷越" }, { "name": "吴洋洋" }],
         "official": true
       },
       "score": { "value": 1, "time": [10680, "s"] },
@@ -16977,11 +16102,7 @@
         "name": "西南算法皇帝sxh",
         "id": "C14",
         "organization": "西南石油大学",
-        "teamMembers": [
-          { "name": "杨马钰波" },
-          { "name": "侯子杰" },
-          { "name": "李卓航" }
-        ],
+        "teamMembers": [{ "name": "杨马钰波" }, { "name": "侯子杰" }, { "name": "李卓航" }],
         "official": true
       },
       "score": { "value": 1, "time": [11760, "s"] },
@@ -17062,11 +16183,7 @@
         "name": "跟你爆了",
         "id": "I14",
         "organization": "吉利学院",
-        "teamMembers": [
-          { "name": "龚榆淇" },
-          { "name": "冯建康" },
-          { "name": "甘晓喻" }
-        ],
+        "teamMembers": [{ "name": "龚榆淇" }, { "name": "冯建康" }, { "name": "甘晓喻" }],
         "official": true
       },
       "score": { "value": 1, "time": [12960, "s"] },
@@ -17132,11 +16249,7 @@
         "name": "卷土重来",
         "id": "I08",
         "organization": "成都锦城学院",
-        "teamMembers": [
-          { "name": "梁家豪" },
-          { "name": "陈宇轩" },
-          { "name": "蔡军" }
-        ],
+        "teamMembers": [{ "name": "梁家豪" }, { "name": "陈宇轩" }, { "name": "蔡军" }],
         "official": true
       },
       "score": { "value": 1, "time": [13140, "s"] },
@@ -17190,13 +16303,9 @@
         "name": "永远在debug的路上",
         "id": "C10",
         "organization": "成都锦城学院",
-        "teamMembers": [
-          { "name": "冯思语" },
-          { "name": "蒋本妙" },
-          { "name": "郑媛" }
-        ],
+        "teamMembers": [{ "name": "冯思语" }, { "name": "蒋本妙" }, { "name": "郑媛" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [13140, "s"] },
       "statuses": [
@@ -17257,11 +16366,7 @@
         "name": "打铁变黄金",
         "id": "B17",
         "organization": "中国民用航空飞行学院",
-        "teamMembers": [
-          { "name": "唐晨熙" },
-          { "name": "杨立飞" },
-          { "name": "孙宇" }
-        ],
+        "teamMembers": [{ "name": "唐晨熙" }, { "name": "杨立飞" }, { "name": "孙宇" }],
         "official": true
       },
       "score": { "value": 1, "time": [15780, "s"] },
@@ -17309,11 +16414,7 @@
         "name": "我们也不知道什么队",
         "id": "H08",
         "organization": "成都东软学院",
-        "teamMembers": [
-          { "name": "刘云飞" },
-          { "name": "张择优" },
-          { "name": "崔艺" }
-        ],
+        "teamMembers": [{ "name": "刘云飞" }, { "name": "张择优" }, { "name": "崔艺" }],
         "official": true
       },
       "score": { "value": 1, "time": [15960, "s"] },
@@ -17374,13 +16475,9 @@
         "name": "我是谁我在哪我要AC",
         "id": "K20",
         "organization": "成都中医药大学",
-        "teamMembers": [
-          { "name": "晏慧敏" },
-          { "name": "黄梅" },
-          { "name": "王哓燕" }
-        ],
+        "teamMembers": [{ "name": "晏慧敏" }, { "name": "黄梅" }, { "name": "王哓燕" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [16680, "s"] },
       "statuses": [
@@ -17424,13 +16521,9 @@
         "name": "伤害男人的事我们不做",
         "id": "F08",
         "organization": "成都东软学院",
-        "teamMembers": [
-          { "name": "费诗婕" },
-          { "name": "黄静怡" },
-          { "name": "杨美雪" }
-        ],
+        "teamMembers": [{ "name": "费诗婕" }, { "name": "黄静怡" }, { "name": "杨美雪" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [16860, "s"] },
       "statuses": [
@@ -17492,13 +16585,9 @@
         "name": "打acm给我一种是m的感觉",
         "id": "D11",
         "organization": "西华师范大学",
-        "teamMembers": [
-          { "name": "蒋瑞" },
-          { "name": "饶沁" },
-          { "name": "邱瑞娴" }
-        ],
+        "teamMembers": [{ "name": "蒋瑞" }, { "name": "饶沁" }, { "name": "邱瑞娴" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [16920, "s"] },
       "statuses": [
@@ -17547,11 +16636,7 @@
         "name": "一中好儿郎",
         "id": "I22",
         "organization": "四川省犍为第一中学",
-        "teamMembers": [
-          { "name": "税子钰" },
-          { "name": "胡睿洲" },
-          { "name": "岑允赫" }
-        ],
+        "teamMembers": [{ "name": "税子钰" }, { "name": "胡睿洲" }, { "name": "岑允赫" }],
         "official": false
       },
       "score": { "value": 1, "time": [17460, "s"] },
@@ -17636,13 +16721,9 @@
         "name": "O（0o0）O",
         "id": "B07",
         "organization": "成都工业学院",
-        "teamMembers": [
-          { "name": "彭靖雯" },
-          { "name": "王聪妍" },
-          { "name": "周言" }
-        ],
+        "teamMembers": [{ "name": "彭靖雯" }, { "name": "王聪妍" }, { "name": "周言" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 1, "time": [18060, "s"] },
       "statuses": [
@@ -17692,11 +16773,7 @@
         "name": "不爱娇娘爱俊郎",
         "id": "J08",
         "organization": "成都理工大学",
-        "teamMembers": [
-          { "name": "曾彤飞" },
-          { "name": "曾飞翔" },
-          { "name": "蒲恒" }
-        ],
+        "teamMembers": [{ "name": "曾彤飞" }, { "name": "曾飞翔" }, { "name": "蒲恒" }],
         "official": true
       },
       "score": { "value": 1, "time": [18180, "s"] },
@@ -17765,11 +16842,7 @@
         "name": "我是新手别炸我",
         "id": "J19",
         "organization": "重庆工程学院",
-        "teamMembers": [
-          { "name": "杨银" },
-          { "name": "杨灿" },
-          { "name": "晏席" }
-        ],
+        "teamMembers": [{ "name": "杨银" }, { "name": "杨灿" }, { "name": "晏席" }],
         "official": true
       },
       "score": { "value": 1, "time": [18300, "s"] },
@@ -17844,11 +16917,7 @@
         "name": "头脑特工队",
         "id": "I18",
         "organization": "成都职业技术学院",
-        "teamMembers": [
-          { "name": "彭帅" },
-          { "name": "詹定祥" },
-          { "name": "何宇航" }
-        ],
+        "teamMembers": [{ "name": "彭帅" }, { "name": "詹定祥" }, { "name": "何宇航" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -17900,11 +16969,7 @@
         "name": "大样例全过",
         "id": "K12",
         "organization": "西南石油大学",
-        "teamMembers": [
-          { "name": "李禹" },
-          { "name": "陈禹同" },
-          { "name": "王瑞" }
-        ],
+        "teamMembers": [{ "name": "李禹" }, { "name": "陈禹同" }, { "name": "王瑞" }],
         "official": true
       },
       "score": { "value": 1, "time": [19860, "s"] },
@@ -17960,11 +17025,7 @@
         "name": "巴卡玛卡与咪咕辟谷",
         "id": "J15",
         "organization": "中国民用航空飞行学院",
-        "teamMembers": [
-          { "name": "陈定康" },
-          { "name": "李玉萍" },
-          { "name": "张文安" }
-        ],
+        "teamMembers": [{ "name": "陈定康" }, { "name": "李玉萍" }, { "name": "张文安" }],
         "official": true
       },
       "score": { "value": 1, "time": [20220, "s"] },
@@ -18012,11 +17073,7 @@
         "name": "闪闪红星",
         "id": "J18",
         "organization": "四川航天职业技术学院",
-        "teamMembers": [
-          { "name": "刘朝" },
-          { "name": "刘杰洋" },
-          { "name": "李春林" }
-        ],
+        "teamMembers": [{ "name": "刘朝" }, { "name": "刘杰洋" }, { "name": "李春林" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -18053,11 +17110,7 @@
         "name": "民院搬砖",
         "id": "J20",
         "organization": "四川民族学院",
-        "teamMembers": [
-          { "name": "何绍鸿" },
-          { "name": "陈鑫亮" },
-          { "name": "张柯涵" }
-        ],
+        "teamMembers": [{ "name": "何绍鸿" }, { "name": "陈鑫亮" }, { "name": "张柯涵" }],
         "official": true
       },
       "score": { "value": 1, "time": [24300, "s"] },
@@ -18117,11 +17170,7 @@
         "name": "鲁巴初二2队",
         "id": "B18",
         "organization": "重庆鲁能巴蜀中学",
-        "teamMembers": [
-          { "name": "刘牧云" },
-          { "name": "李根" },
-          { "name": "吴近闻" }
-        ],
+        "teamMembers": [{ "name": "刘牧云" }, { "name": "李根" }, { "name": "吴近闻" }],
         "official": false
       },
       "score": { "value": 1, "time": [24780, "s"] },
@@ -18184,11 +17233,7 @@
         "name": "宜宾学院2队",
         "id": "A23",
         "organization": "宜宾学院",
-        "teamMembers": [
-          { "name": "唐从阳" },
-          { "name": "胡荣川" },
-          { "name": "李宇航" }
-        ],
+        "teamMembers": [{ "name": "唐从阳" }, { "name": "胡荣川" }, { "name": "李宇航" }],
         "official": true
       },
       "score": { "value": 1, "time": [25200, "s"] },
@@ -18235,11 +17280,7 @@
         "name": "春日部防卫队",
         "id": "G14",
         "organization": "吉利学院",
-        "teamMembers": [
-          { "name": "白恩齐" },
-          { "name": "张显悦" },
-          { "name": "王超" }
-        ],
+        "teamMembers": [{ "name": "白恩齐" }, { "name": "张显悦" }, { "name": "王超" }],
         "official": true
       },
       "score": { "value": 1, "time": [25560, "s"] },
@@ -18294,11 +17335,7 @@
         "name": "写的都对",
         "id": "D23",
         "organization": "四川工商学院",
-        "teamMembers": [
-          { "name": "谢继煌" },
-          { "name": "刘松鸽" },
-          { "name": "许佳慧" }
-        ],
+        "teamMembers": [{ "name": "谢继煌" }, { "name": "刘松鸽" }, { "name": "许佳慧" }],
         "official": true
       },
       "score": { "value": 1, "time": [27180, "s"] },
@@ -18371,11 +17408,7 @@
         "name": "gogogo",
         "id": "L12",
         "organization": "阿坝师范学院",
-        "teamMembers": [
-          { "name": "孙玉婷" },
-          { "name": "袁梓淦" },
-          { "name": "杨思" }
-        ],
+        "teamMembers": [{ "name": "孙玉婷" }, { "name": "袁梓淦" }, { "name": "杨思" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18422,11 +17455,7 @@
         "name": "我不要当WA学弟",
         "id": "F14",
         "organization": "阿坝师范学院",
-        "teamMembers": [
-          { "name": "唐杰" },
-          { "name": "李帆" },
-          { "name": "潘奕志" }
-        ],
+        "teamMembers": [{ "name": "唐杰" }, { "name": "李帆" }, { "name": "潘奕志" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18477,13 +17506,9 @@
         "name": "二进制",
         "id": "D13",
         "organization": "成都师范学院",
-        "teamMembers": [
-          { "name": "陶琪" },
-          { "name": "孙彬鑫" },
-          { "name": "胡又苹" }
-        ],
+        "teamMembers": [{ "name": "陶琪" }, { "name": "孙彬鑫" }, { "name": "胡又苹" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -18525,11 +17550,7 @@
         "name": "好巧不巧队",
         "id": "F13",
         "organization": "成都师范学院",
-        "teamMembers": [
-          { "name": "沈阳" },
-          { "name": "唐川东" },
-          { "name": "鄢浩" }
-        ],
+        "teamMembers": [{ "name": "沈阳" }, { "name": "唐川东" }, { "name": "鄢浩" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18578,11 +17599,7 @@
         "name": "从容应队",
         "id": "C18",
         "organization": "成都职业技术学院",
-        "teamMembers": [
-          { "name": "彭相" },
-          { "name": "李夕多" },
-          { "name": "陈瑜" }
-        ],
+        "teamMembers": [{ "name": "彭相" }, { "name": "李夕多" }, { "name": "陈瑜" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -18620,11 +17637,7 @@
         "name": "全部都做队",
         "id": "E18",
         "organization": "成都职业技术学院",
-        "teamMembers": [
-          { "name": "罗柯智" },
-          { "name": "唐伯宇" },
-          { "name": "肖童" }
-        ],
+        "teamMembers": [{ "name": "罗柯智" }, { "name": "唐伯宇" }, { "name": "肖童" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -18681,11 +17694,7 @@
         "name": "春风得意马蹄疾",
         "id": "G20",
         "organization": "成都中医药大学",
-        "teamMembers": [
-          { "name": "罗文杰" },
-          { "name": "刘鑫宇" },
-          { "name": "余炳熹" }
-        ],
+        "teamMembers": [{ "name": "罗文杰" }, { "name": "刘鑫宇" }, { "name": "余炳熹" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18745,11 +17754,7 @@
         "name": "听说名字起的太长会有奶龙跟着念",
         "id": "F06",
         "organization": "电子科技大学成都学院",
-        "teamMembers": [
-          { "name": "卢林烁" },
-          { "name": "蒋丽国" },
-          { "name": "杨乐雨" }
-        ],
+        "teamMembers": [{ "name": "卢林烁" }, { "name": "蒋丽国" }, { "name": "杨乐雨" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18805,11 +17810,7 @@
         "name": "为胜利而战",
         "id": "C16",
         "organization": "吉利学院",
-        "teamMembers": [
-          { "name": "刘国荣" },
-          { "name": "唐欣" },
-          { "name": "向昌海" }
-        ],
+        "teamMembers": [{ "name": "刘国荣" }, { "name": "唐欣" }, { "name": "向昌海" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18861,11 +17862,7 @@
         "name": "中祺哥哥粉丝团",
         "id": "J22",
         "organization": "辽宁科技大学",
-        "teamMembers": [
-          { "name": "边锦华" },
-          { "name": "何庚运" },
-          { "name": "贾中祺" }
-        ],
+        "teamMembers": [{ "name": "边锦华" }, { "name": "何庚运" }, { "name": "贾中祺" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18889,11 +17886,7 @@
         "name": "陈佳茜最可爱了",
         "id": "K22",
         "organization": "南昌航空大学科技学院",
-        "teamMembers": [
-          { "name": "陈子政" },
-          { "name": "陈佳茜" },
-          { "name": "丁佳逸" }
-        ],
+        "teamMembers": [{ "name": "陈子政" }, { "name": "陈佳茜" }, { "name": "丁佳逸" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18917,11 +17910,7 @@
         "name": "如果我是ACMer，你还爱我吗",
         "id": "B23",
         "organization": "四川传媒学院",
-        "teamMembers": [
-          { "name": "周威" },
-          { "name": "胡昕浩" },
-          { "name": "代俊杰" }
-        ],
+        "teamMembers": [{ "name": "周威" }, { "name": "胡昕浩" }, { "name": "代俊杰" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -18975,11 +17964,7 @@
         "name": "SAVC_WQL",
         "id": "D18",
         "organization": "四川航天职业技术学院",
-        "teamMembers": [
-          { "name": "吴玉梅" },
-          { "name": "邱何艳" },
-          { "name": "罗秋萍" }
-        ],
+        "teamMembers": [{ "name": "吴玉梅" }, { "name": "邱何艳" }, { "name": "罗秋萍" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -19012,11 +17997,7 @@
         "name": "草台班子",
         "id": "F18",
         "organization": "四川航天职业技术学院",
-        "teamMembers": [
-          { "name": "李文浩" },
-          { "name": "廖创" },
-          { "name": "党元晟" }
-        ],
+        "teamMembers": [{ "name": "李文浩" }, { "name": "廖创" }, { "name": "党元晟" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -19054,11 +18035,7 @@
         "name": "青菜芹菜大白菜",
         "id": "H18",
         "organization": "四川航天职业技术学院",
-        "teamMembers": [
-          { "name": "唐辰洋" },
-          { "name": "韩露阳" },
-          { "name": "刘劲草" }
-        ],
+        "teamMembers": [{ "name": "唐辰洋" }, { "name": "韩露阳" }, { "name": "刘劲草" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -19088,11 +18065,7 @@
         "name": "无敌暴龙战士队",
         "id": "L20",
         "organization": "四川民族学院",
-        "teamMembers": [
-          { "name": "冯顺金" },
-          { "name": "李学维" },
-          { "name": "刘帅" }
-        ],
+        "teamMembers": [{ "name": "冯顺金" }, { "name": "李学维" }, { "name": "刘帅" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19132,11 +18105,7 @@
         "name": "算法术士的重启人生",
         "id": "C12",
         "organization": "四川轻化工大学",
-        "teamMembers": [
-          { "name": "尹晨曦" },
-          { "name": "颜习" },
-          { "name": "张峻豪" }
-        ],
+        "teamMembers": [{ "name": "尹晨曦" }, { "name": "颜习" }, { "name": "张峻豪" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19208,13 +18177,9 @@
         "name": "我们不是好朋友吗？",
         "id": "F12",
         "organization": "四川师范大学",
-        "teamMembers": [
-          { "name": "陈艳" },
-          { "name": "王惠宁" },
-          { "name": "王璇" }
-        ],
+        "teamMembers": [{ "name": "陈艳" }, { "name": "王惠宁" }, { "name": "王璇" }],
         "official": true,
-        "markers": ["female"]
+        "markers": ["girl"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -19257,11 +18222,7 @@
         "name": "想赢的人脸上是没有笑容的",
         "id": "F23",
         "organization": "遂宁职业学院",
-        "teamMembers": [
-          { "name": "孙俊烨" },
-          { "name": "杨浩" },
-          { "name": "胡杰伦" }
-        ],
+        "teamMembers": [{ "name": "孙俊烨" }, { "name": "杨浩" }, { "name": "胡杰伦" }],
         "official": true,
         "markers": ["colleges"]
       },
@@ -19294,11 +18255,7 @@
         "name": "秦汉1",
         "id": "B22",
         "organization": "西藏民族大学",
-        "teamMembers": [
-          { "name": "袁海涛" },
-          { "name": "何鑫桂" },
-          { "name": "李术" }
-        ],
+        "teamMembers": [{ "name": "袁海涛" }, { "name": "何鑫桂" }, { "name": "李术" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19347,11 +18304,7 @@
         "name": "秦汉2",
         "id": "D22",
         "organization": "西藏民族大学",
-        "teamMembers": [
-          { "name": "杜豪强" },
-          { "name": "闫晓栋" },
-          { "name": "曹宇轩" }
-        ],
+        "teamMembers": [{ "name": "杜豪强" }, { "name": "闫晓栋" }, { "name": "曹宇轩" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19412,11 +18365,7 @@
         "name": "开什么玩笑这A不出来吗",
         "id": "H21",
         "organization": "西南交通大学希望学院",
-        "teamMembers": [
-          { "name": "韦史松" },
-          { "name": "牟明俊" },
-          { "name": "骆俊杰" }
-        ],
+        "teamMembers": [{ "name": "韦史松" }, { "name": "牟明俊" }, { "name": "骆俊杰" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19462,11 +18411,7 @@
         "name": "再给我两分钟",
         "id": "L21",
         "organization": "西南交通大学希望学院",
-        "teamMembers": [
-          { "name": "伍定烨" },
-          { "name": "刘柏君" },
-          { "name": "何国涛" }
-        ],
+        "teamMembers": [{ "name": "伍定烨" }, { "name": "刘柏君" }, { "name": "何国涛" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19521,11 +18466,7 @@
         "name": "宜宾学院3队",
         "id": "C23",
         "organization": "宜宾学院",
-        "teamMembers": [
-          { "name": "王晓燕" },
-          { "name": "张心语" },
-          { "name": "杨静萱" }
-        ],
+        "teamMembers": [{ "name": "王晓燕" }, { "name": "张心语" }, { "name": "杨静萱" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19570,11 +18511,7 @@
         "name": "粉色小甜心",
         "id": "D19",
         "organization": "重庆工程学院",
-        "teamMembers": [
-          { "name": "陈键" },
-          { "name": "马艺" },
-          { "name": "江华" }
-        ],
+        "teamMembers": [{ "name": "陈键" }, { "name": "马艺" }, { "name": "江华" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19645,11 +18582,7 @@
         "name": "队名不长",
         "id": "G17",
         "organization": "重庆移通学院",
-        "teamMembers": [
-          { "name": "蒲赢" },
-          { "name": "牟明洋" },
-          { "name": "瞿旭" }
-        ],
+        "teamMembers": [{ "name": "蒲赢" }, { "name": "牟明洋" }, { "name": "瞿旭" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19692,11 +18625,7 @@
         "name": "我们是VIP让我们夺金",
         "id": "A19",
         "organization": "重庆移通学院",
-        "teamMembers": [
-          { "name": "晏加利" },
-          { "name": "张根勇" },
-          { "name": "于毅" }
-        ],
+        "teamMembers": [{ "name": "晏加利" }, { "name": "张根勇" }, { "name": "于毅" }],
         "official": true
       },
       "score": { "value": 0, "time": [0, "s"] },
@@ -19753,13 +18682,10 @@
     }
   },
   "markers": [
-    { "id": "female", "label": "女队", "style": "pink" },
-    { "id": "colleges", "label": "高职队伍", "style": "purple" }
+    { "id": "colleges", "label": "高职队伍", "style": "blue" },
+    { "id": "girl", "label": "女队", "style": "pink" }
   ],
-  "contributors": [
-    "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
-  ],
+  "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
     "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
