@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.7",
+  "version": "0.3.9",
   "contest": {
     "title": {
       "zh-CN": "「睿琪杯」浙江省第 22 届大学生程序设计竞赛",
@@ -79,18 +79,6 @@
   ],
   "series": [
     {
-      "title": "#",
-      "segments": [
-        { "title": "金奖", "style": "gold" },
-        { "title": "银奖", "style": "silver" },
-        { "title": "铜奖", "style": "bronze" }
-      ],
-      "rule": {
-        "preset": "ICPC",
-        "options": { "count": { "value": [0, 0, 0] } }
-      }
-    },
-    {
       "title": "本科组#",
       "segments": [
         { "title": "金奖", "style": "gold" },
@@ -99,7 +87,7 @@
       ],
       "rule": {
         "preset": "ICPC",
-        "options": { "count": { "value": [27, 40, 67] } }
+        "options": { "count": { "value": [27, 40, 67] }, "filter": { "byMarker": "undergraduate" } }
       }
     },
     {
@@ -111,7 +99,7 @@
       ],
       "rule": {
         "preset": "ICPC",
-        "options": { "count": { "value": [16, 22, 38] } }
+        "options": { "count": { "value": [16, 22, 38] }, "filter": { "byMarker": "vocational" } }
       }
     },
     { "title": "R#", "rule": { "preset": "Normal" } },
@@ -250,11 +238,7 @@
         "name": "洛谷科技",
         "id": "2-C55",
         "organization": "洛谷科技",
-        "teamMembers": [
-          { "name": "吴佳翰" },
-          { "name": "邢苏瞳" },
-          { "name": "刘墨涵" }
-        ],
+        "teamMembers": [{ "name": "吴佳翰" }, { "name": "邢苏瞳" }, { "name": "刘墨涵" }],
         "official": false
       },
       "score": { "value": 11, "time": [88620, "s"] },
@@ -367,11 +351,7 @@
         "name": "榒秃儦廨⣘꿃",
         "id": "3-D31",
         "organization": "南京外国语学校",
-        "teamMembers": [
-          { "name": "李响" },
-          { "name": "汪飞鸿" },
-          { "name": "雷欣屿" }
-        ],
+        "teamMembers": [{ "name": "李响" }, { "name": "汪飞鸿" }, { "name": "雷欣屿" }],
         "official": false
       },
       "score": { "value": 10, "time": [54540, "s"] },
@@ -478,7 +458,8 @@
           { "name": "周转" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 10, "time": [58080, "s"] },
       "statuses": [
@@ -576,11 +557,7 @@
         "name": "夏日影",
         "id": "3-B01",
         "organization": "上海交通大学",
-        "teamMembers": [
-          { "name": "冯启豫" },
-          { "name": "刘家宁" },
-          { "name": "朱泽木" }
-        ],
+        "teamMembers": [{ "name": "冯启豫" }, { "name": "刘家宁" }, { "name": "朱泽木" }],
         "official": false
       },
       "score": { "value": 10, "time": [63300, "s"] },
@@ -678,7 +655,8 @@
           { "name": "吴与伦" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 10, "time": [68400, "s"] },
       "statuses": [
@@ -768,11 +746,7 @@
         "name": "Te_mAte MVP",
         "id": "2-A81",
         "organization": "海亮高级中学",
-        "teamMembers": [
-          { "name": "陈惇显" },
-          { "name": "傅振滔" },
-          { "name": "沈福麟" }
-        ],
+        "teamMembers": [{ "name": "陈惇显" }, { "name": "傅振滔" }, { "name": "沈福麟" }],
         "official": false
       },
       "score": { "value": 10, "time": [95160, "s"] },
@@ -878,7 +852,8 @@
           { "name": "黄光升" },
           { "name": "穆海伦,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 10, "time": [95520, "s"] },
       "statuses": [
@@ -989,7 +964,8 @@
           { "name": "谭思成" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 10, "time": [97980, "s"] },
       "statuses": [
@@ -1095,11 +1071,7 @@
         "name": "小漏雨训练中心",
         "id": "3-E39",
         "organization": "浙江省诸暨中学",
-        "teamMembers": [
-          { "name": "张杨梓" },
-          { "name": "方浩权" },
-          { "name": "许烨恒" }
-        ],
+        "teamMembers": [{ "name": "张杨梓" }, { "name": "方浩权" }, { "name": "许烨恒" }],
         "official": false
       },
       "score": { "value": 10, "time": [100860, "s"] },
@@ -1224,11 +1196,7 @@
         "name": "有边哥在飞翔",
         "id": "4-D13",
         "organization": "绍兴市第一中学",
-        "teamMembers": [
-          { "name": "方子轩" },
-          { "name": "李宸宇" },
-          { "name": "完成" }
-        ],
+        "teamMembers": [{ "name": "方子轩" }, { "name": "李宸宇" }, { "name": "完成" }],
         "official": false
       },
       "score": { "value": 9, "time": [64860, "s"] },
@@ -1319,11 +1287,7 @@
         "name": "mxy fan club",
         "id": "4-C47",
         "organization": "南京外国语学校",
-        "teamMembers": [
-          { "name": "杨智博" },
-          { "name": "肖泽成" },
-          { "name": "马浩博" }
-        ],
+        "teamMembers": [{ "name": "杨智博" }, { "name": "肖泽成" }, { "name": "马浩博" }],
         "official": false
       },
       "score": { "value": 9, "time": [66120, "s"] },
@@ -1434,11 +1398,7 @@
         "name": "嘟嘟嘟全军出击",
         "id": "2-D05",
         "organization": "南京外国语学校",
-        "teamMembers": [
-          { "name": "庞佳一" },
-          { "name": "施泽徐" },
-          { "name": "张桓睿" }
-        ],
+        "teamMembers": [{ "name": "庞佳一" }, { "name": "施泽徐" }, { "name": "张桓睿" }],
         "official": false
       },
       "score": { "value": 9, "time": [71940, "s"] },
@@ -1560,7 +1520,8 @@
           { "name": "高宏钧" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 9, "time": [76740, "s"] },
       "statuses": [
@@ -1663,7 +1624,8 @@
           { "name": "冯梓航" },
           { "name": "韩姗姗 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 9, "time": [84780, "s"] },
       "statuses": [
@@ -1760,7 +1722,8 @@
           { "name": "黄旭彬" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 8, "time": [56880, "s"] },
       "statuses": [
@@ -1840,11 +1803,7 @@
         "name": "2/3扣拿塔反思克拉波",
         "id": "4-C39",
         "organization": "海亮高级中学",
-        "teamMembers": [
-          { "name": "贾治辰" },
-          { "name": "边逸城" },
-          { "name": "谢汝瑜" }
-        ],
+        "teamMembers": [{ "name": "贾治辰" }, { "name": "边逸城" }, { "name": "谢汝瑜" }],
         "official": false
       },
       "score": { "value": 8, "time": [64320, "s"] },
@@ -1953,7 +1912,8 @@
           { "name": "黄钰" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 8, "time": [68640, "s"] },
       "statuses": [
@@ -2084,7 +2044,8 @@
           { "name": "王远涛" },
           { "name": "黄彬彬,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 8, "time": [68880, "s"] },
       "statuses": [
@@ -2173,11 +2134,7 @@
         "name": "何居心です",
         "id": "2-D01",
         "organization": "金华市丽泽中学",
-        "teamMembers": [
-          { "name": "陈佳润" },
-          { "name": "徐崇瑜" },
-          { "name": "潘宏轩" }
-        ],
+        "teamMembers": [{ "name": "陈佳润" }, { "name": "徐崇瑜" }, { "name": "潘宏轩" }],
         "official": false
       },
       "score": { "value": 8, "time": [68880, "s"] },
@@ -2261,7 +2218,8 @@
           { "name": "徐铭扬" },
           { "name": "徐恩友,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 8, "time": [72360, "s"] },
       "statuses": [
@@ -2362,7 +2320,8 @@
           { "name": "余承恩" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [37200, "s"] },
       "statuses": [
@@ -2459,7 +2418,8 @@
           { "name": "褚锦威" },
           { "name": "竞赛指导组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [39840, "s"] },
       "statuses": [
@@ -2542,7 +2502,8 @@
           { "name": "包林鑫" },
           { "name": "侯向辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [43980, "s"] },
       "statuses": [
@@ -2624,7 +2585,8 @@
           { "name": "王显龙" },
           { "name": "陈燕兵,叶海荣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [45000, "s"] },
       "statuses": [
@@ -2701,11 +2663,7 @@
         "name": "Three,Two,One",
         "id": "3-C35",
         "organization": "绍兴市第一中学",
-        "teamMembers": [
-          { "name": "诸天瑞" },
-          { "name": "金倬汉" },
-          { "name": "袁周律" }
-        ],
+        "teamMembers": [{ "name": "诸天瑞" }, { "name": "金倬汉" }, { "name": "袁周律" }],
         "official": false
       },
       "score": { "value": 7, "time": [46920, "s"] },
@@ -2797,7 +2755,8 @@
           { "name": "周靖凯" },
           { "name": "曾虹,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [48780, "s"] },
       "statuses": [
@@ -2978,7 +2937,8 @@
           { "name": "周扬帆" },
           { "name": "周广成 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [54600, "s"] },
       "statuses": [
@@ -3068,7 +3028,8 @@
           { "name": "帅嘉洋" },
           { "name": "张大兴,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [54780, "s"] },
       "statuses": [
@@ -3185,7 +3146,8 @@
           { "name": "罗志炜" },
           { "name": "王春平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [55620, "s"] },
       "statuses": [
@@ -3274,7 +3236,8 @@
           { "name": "闵士轩" },
           { "name": "楼柯辰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [57720, "s"] },
       "statuses": [
@@ -3353,7 +3316,8 @@
           { "name": "莫皓翔" },
           { "name": "胡明晓 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [58440, "s"] },
       "statuses": [
@@ -3431,7 +3395,8 @@
           { "name": "靳鹏举" },
           { "name": "王灿 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [58920, "s"] },
       "statuses": [
@@ -3551,7 +3516,8 @@
           { "name": "俞开" },
           { "name": "周广成 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [59100, "s"] },
       "statuses": [
@@ -3627,11 +3593,7 @@
         "name": "N P-Hua de",
         "id": "3-E41",
         "organization": "绍兴市第一中学",
-        "teamMembers": [
-          { "name": "张杨盛" },
-          { "name": "史哲涛" },
-          { "name": "黄晨熠" }
-        ],
+        "teamMembers": [{ "name": "张杨盛" }, { "name": "史哲涛" }, { "name": "黄晨熠" }],
         "official": false
       },
       "score": { "value": 7, "time": [59220, "s"] },
@@ -3724,7 +3686,8 @@
           { "name": "阮虹涛" },
           { "name": "夏一行,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [66780, "s"] },
       "statuses": [
@@ -3817,7 +3780,8 @@
           { "name": "林成峰" },
           { "name": "陈叶芳,辛宇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [67620, "s"] },
       "statuses": [
@@ -3911,7 +3875,8 @@
           { "name": "陈佳俊" },
           { "name": "杨婷,唐晓平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [68340, "s"] },
       "statuses": [
@@ -4002,7 +3967,8 @@
           { "name": "刘亿臻" },
           { "name": "韦学辉,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [69900, "s"] },
       "statuses": [
@@ -4099,7 +4065,8 @@
           { "name": "尤馨然" },
           { "name": "单振宇,虞剑波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 7, "time": [72780, "s"] },
       "statuses": [
@@ -4301,11 +4268,7 @@
         "name": "海底小纵队",
         "id": "4-B31",
         "organization": "绍兴市鲁迅中学",
-        "teamMembers": [
-          { "name": "周语辰" },
-          { "name": "严嘉栋" },
-          { "name": "钱欣宇" }
-        ],
+        "teamMembers": [{ "name": "周语辰" }, { "name": "严嘉栋" }, { "name": "钱欣宇" }],
         "official": false
       },
       "score": { "value": 6, "time": [35220, "s"] },
@@ -4399,7 +4362,8 @@
           { "name": "余江辉" },
           { "name": "黄晓平,叶海荣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [39600, "s"] },
       "statuses": [
@@ -4502,7 +4466,8 @@
           { "name": "刘毅" },
           { "name": "陈叶芳,李国庆 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [40560, "s"] },
       "statuses": [
@@ -4586,7 +4551,8 @@
           { "name": "卢一鸣" },
           { "name": "叶海荣,罗强 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [41100, "s"] },
       "statuses": [
@@ -4664,7 +4630,8 @@
           { "name": "张洋鸣" },
           { "name": "竞赛指导组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [41520, "s"] },
       "statuses": [
@@ -4808,11 +4775,7 @@
         "name": "……",
         "id": "4-D17",
         "organization": "南京外国语学校",
-        "teamMembers": [
-          { "name": "刘子轩" },
-          { "name": "蒋亦霖" },
-          { "name": "陈浩然" }
-        ],
+        "teamMembers": [{ "name": "刘子轩" }, { "name": "蒋亦霖" }, { "name": "陈浩然" }],
         "official": false
       },
       "score": { "value": 6, "time": [45960, "s"] },
@@ -4904,7 +4867,8 @@
           { "name": "陈柳" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [49500, "s"] },
       "statuses": [
@@ -4987,7 +4951,8 @@
           { "name": "张宸赫" },
           { "name": "竞赛指导组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [51060, "s"] },
       "statuses": [
@@ -5066,7 +5031,8 @@
           { "name": "干佳立" },
           { "name": "金蓉,叶海荣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [51300, "s"] },
       "statuses": [
@@ -5152,11 +5118,7 @@
         "name": "keespeed打吊",
         "id": "4-A37",
         "organization": "海亮高级中学",
-        "teamMembers": [
-          { "name": "陈邑宁" },
-          { "name": "肖一鸣" },
-          { "name": "郑锦翼" }
-        ],
+        "teamMembers": [{ "name": "陈邑宁" }, { "name": "肖一鸣" }, { "name": "郑锦翼" }],
         "official": false
       },
       "score": { "value": 6, "time": [52020, "s"] },
@@ -5238,7 +5200,8 @@
           { "name": "陈子乐" },
           { "name": "周广成 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [52140, "s"] },
       "statuses": [
@@ -5313,7 +5276,8 @@
           { "name": "王学远" },
           { "name": "韩建民,邱晟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [53700, "s"] },
       "statuses": [
@@ -5402,7 +5366,8 @@
           { "name": "金沈扬" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [58740, "s"] },
       "statuses": [
@@ -5488,11 +5453,7 @@
         "name": "冒充男大",
         "id": "3-C41",
         "organization": "下海大学",
-        "teamMembers": [
-          { "name": "邵铁夫" },
-          { "name": "吴铮" },
-          { "name": "苗皓淇" }
-        ],
+        "teamMembers": [{ "name": "邵铁夫" }, { "name": "吴铮" }, { "name": "苗皓淇" }],
         "official": false
       },
       "score": { "value": 6, "time": [68880, "s"] },
@@ -5595,7 +5556,8 @@
           { "name": "侯睿远" },
           { "name": "柴本成,杜晨杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [69180, "s"] },
       "statuses": [
@@ -5681,7 +5643,8 @@
           { "name": "薛强" },
           { "name": "胡毓励 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 6, "time": [70620, "s"] },
       "statuses": [
@@ -5765,11 +5728,7 @@
         "name": "博导第一个睡",
         "id": "3-A31",
         "organization": "金华市丽泽中学",
-        "teamMembers": [
-          { "name": "丁璐源" },
-          { "name": "马平川" },
-          { "name": "王马瑞" }
-        ],
+        "teamMembers": [{ "name": "丁璐源" }, { "name": "马平川" }, { "name": "王马瑞" }],
         "official": false
       },
       "score": { "value": 6, "time": [76200, "s"] },
@@ -5865,7 +5824,8 @@
           { "name": "陈逸轩" },
           { "name": "陈荣钦,胡永良 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [23160, "s"] },
       "statuses": [
@@ -5955,7 +5915,8 @@
           { "name": "兰博望" },
           { "name": "邱晟,韩建民 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [24660, "s"] },
       "statuses": [
@@ -6028,7 +5989,8 @@
           { "name": "朱科睿" },
           { "name": "侯向辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [25680, "s"] },
       "statuses": [
@@ -6110,7 +6072,8 @@
           { "name": "骆振东" },
           { "name": "邹会来,张宪乐 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [27120, "s"] },
       "statuses": [
@@ -6177,7 +6140,8 @@
           { "name": "沈栩冉" },
           { "name": "李二涛,刘春英 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [29100, "s"] },
       "statuses": [
@@ -6256,7 +6220,8 @@
           { "name": "翁一栋" },
           { "name": "宋炯,于娟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [29280, "s"] },
       "statuses": [
@@ -6320,11 +6285,7 @@
         "name": "没有黑龙江省赛打所以来打浙江省赛了",
         "id": "3-B55",
         "organization": "齐齐哈尔大学",
-        "teamMembers": [
-          { "name": "段圣宣" },
-          { "name": "李浩" },
-          { "name": "姚陆涵茗" }
-        ],
+        "teamMembers": [{ "name": "段圣宣" }, { "name": "李浩" }, { "name": "姚陆涵茗" }],
         "official": false
       },
       "score": { "value": 5, "time": [34800, "s"] },
@@ -6423,7 +6384,8 @@
           { "name": "吴泽坤" },
           { "name": "郭新友,文世挺 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [35460, "s"] },
       "statuses": [
@@ -6488,7 +6450,8 @@
           { "name": "陈俊安" },
           { "name": "单振宇,虞剑波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [36060, "s"] },
       "statuses": [
@@ -6579,7 +6542,8 @@
           { "name": "章心阳" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [36600, "s"] },
       "statuses": [
@@ -6654,11 +6618,7 @@
         "name": "kyh的得意门生",
         "id": "3-A69",
         "organization": "浙江省宁波市第二中学",
-        "teamMembers": [
-          { "name": "钟昀铮" },
-          { "name": "朱鑫鑫" },
-          { "name": "章晨榆" }
-        ],
+        "teamMembers": [{ "name": "钟昀铮" }, { "name": "朱鑫鑫" }, { "name": "章晨榆" }],
         "official": false
       },
       "score": { "value": 5, "time": [37200, "s"] },
@@ -6760,7 +6720,8 @@
           { "name": "杨毅博" },
           { "name": "胡毓励 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [37260, "s"] },
       "statuses": [
@@ -6842,7 +6803,8 @@
           { "name": "陈铮" },
           { "name": "郭新友,文世挺 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [37380, "s"] },
       "statuses": [
@@ -6911,7 +6873,8 @@
           { "name": "钱沁浩" },
           { "name": "柴本成,王仁芳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [37680, "s"] },
       "statuses": [
@@ -6994,7 +6957,8 @@
           { "name": "张煜" },
           { "name": "邱晟,韩建民 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [38160, "s"] },
       "statuses": [
@@ -7086,7 +7050,8 @@
           { "name": "刘冠轩" },
           { "name": "胡毓励 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [38340, "s"] },
       "statuses": [
@@ -7170,7 +7135,8 @@
           { "name": "陈孝乐" },
           { "name": "胡毓励 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [38820, "s"] },
       "statuses": [
@@ -7237,11 +7203,7 @@
         "name": "哈哈，我们有 ZJCPC 打了",
         "id": "4-D01",
         "organization": "海亮高级中学",
-        "teamMembers": [
-          { "name": "方子畅" },
-          { "name": "张呈睿" },
-          { "name": "马光贤" }
-        ],
+        "teamMembers": [{ "name": "方子畅" }, { "name": "张呈睿" }, { "name": "马光贤" }],
         "official": false
       },
       "score": { "value": 5, "time": [41460, "s"] },
@@ -7342,7 +7304,8 @@
           { "name": "温从锭" },
           { "name": "单振宇,虞剑波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [41460, "s"] },
       "statuses": [
@@ -7424,7 +7387,8 @@
           { "name": "黄博翼" },
           { "name": "陈叶芳,罗思惠 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [41520, "s"] },
       "statuses": [
@@ -7494,7 +7458,8 @@
           { "name": "岑嘉熙" },
           { "name": "林焕祥,孙奕鸣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [43860, "s"] },
       "statuses": [
@@ -7608,7 +7573,8 @@
           { "name": "陈敏" },
           { "name": "陈晓竹,闻育 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [45060, "s"] },
       "statuses": [
@@ -7680,7 +7646,8 @@
           { "name": "马天晟" },
           { "name": "韩建民,邱晟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [46860, "s"] },
       "statuses": [
@@ -7752,7 +7719,8 @@
           { "name": "江子豪" },
           { "name": "周维达,叶海荣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [47280, "s"] },
       "statuses": [
@@ -7825,7 +7793,8 @@
           { "name": "唐俊杰" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [48120, "s"] },
       "statuses": [
@@ -7898,11 +7867,7 @@
         "name": "咬脖子，吸血鬼",
         "id": "4-B17",
         "organization": "海亮高级中学",
-        "teamMembers": [
-          { "name": "陆羽扬" },
-          { "name": "黄伟梁" },
-          { "name": "原依辰" }
-        ],
+        "teamMembers": [{ "name": "陆羽扬" }, { "name": "黄伟梁" }, { "name": "原依辰" }],
         "official": false
       },
       "score": { "value": 5, "time": [48300, "s"] },
@@ -8004,7 +7969,8 @@
           { "name": "陆嘉" },
           { "name": "华晓锋,胡永良 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [48420, "s"] },
       "statuses": [
@@ -8074,7 +8040,8 @@
           { "name": "赵博渊" },
           { "name": "刘福泉,胡建华 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [61980, "s"] },
       "statuses": [
@@ -8175,7 +8142,8 @@
           { "name": "何劭弘" },
           { "name": "陈晓竹,闻育 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [62580, "s"] },
       "statuses": [
@@ -8251,11 +8219,7 @@
         "name": "三个人中一个翻译带两个猪队友左脚踩右脚螺旋上天会没钱",
         "id": "2-E41",
         "organization": "金华市丽泽中学",
-        "teamMembers": [
-          { "name": "李凯瑞" },
-          { "name": "冯逸轩" },
-          { "name": "盛炫奕" }
-        ],
+        "teamMembers": [{ "name": "李凯瑞" }, { "name": "冯逸轩" }, { "name": "盛炫奕" }],
         "official": false
       },
       "score": { "value": 5, "time": [64140, "s"] },
@@ -8370,7 +8334,8 @@
           { "name": "汤宇涛" },
           { "name": "沈炜,叶海荣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 5, "time": [70440, "s"] },
       "statuses": [
@@ -8455,7 +8420,8 @@
           { "name": "姜楠" },
           { "name": "王亿首,叶海荣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [9660, "s"] },
       "statuses": [
@@ -8519,7 +8485,8 @@
           { "name": "周雨星" },
           { "name": "邱晟,韩建民 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [14280, "s"] },
       "statuses": [
@@ -8600,7 +8567,8 @@
           { "name": "刘晓涛" },
           { "name": "胡毓励 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [15840, "s"] },
       "statuses": [
@@ -8675,7 +8643,8 @@
           { "name": "欧阳许多" },
           { "name": "张科 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [18300, "s"] },
       "statuses": [
@@ -8736,7 +8705,8 @@
           { "name": "雷昊喆" },
           { "name": "楼柯辰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [18300, "s"] },
       "statuses": [
@@ -8811,11 +8781,7 @@
         "name": "命名空间",
         "id": "3-A71",
         "organization": "浙江省余姚中学",
-        "teamMembers": [
-          { "name": "朱毅乐" },
-          { "name": "曾启阳" },
-          { "name": "陈宇阳" }
-        ],
+        "teamMembers": [{ "name": "朱毅乐" }, { "name": "曾启阳" }, { "name": "陈宇阳" }],
         "official": false
       },
       "score": { "value": 4, "time": [18300, "s"] },
@@ -8890,7 +8856,8 @@
           { "name": "林煜超" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [19740, "s"] },
       "statuses": [
@@ -8972,7 +8939,8 @@
           { "name": "郑鑫" },
           { "name": "楼宋江,孙奕鸣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [20160, "s"] },
       "statuses": [
@@ -9033,7 +9001,8 @@
           { "name": "戴子晟" },
           { "name": "单振宇,虞建波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [20220, "s"] },
       "statuses": [
@@ -9194,7 +9163,8 @@
           { "name": "潘宇健" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [21480, "s"] },
       "statuses": [
@@ -9244,7 +9214,8 @@
           { "name": "李锦荣" },
           { "name": "戴青锋,李超 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [22500, "s"] },
       "statuses": [
@@ -9310,7 +9281,8 @@
           { "name": "陈鹤天" },
           { "name": "周林华,何可佳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [23160, "s"] },
       "statuses": [
@@ -9372,7 +9344,8 @@
           { "name": "潘彬泽" },
           { "name": "汪黎杰,张驰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 4, "time": [23220, "s"] },
       "statuses": [
@@ -9448,7 +9421,8 @@
           { "name": "赵天俊" },
           { "name": "罗杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [23580, "s"] },
       "statuses": [
@@ -9510,7 +9484,8 @@
           { "name": "陈佳宜" },
           { "name": "于娟,宋炯 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [23700, "s"] },
       "statuses": [
@@ -9593,7 +9568,8 @@
           { "name": "戴柯求" },
           { "name": "郭新友,文世挺 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [23820, "s"] },
       "statuses": [
@@ -9669,7 +9645,8 @@
           { "name": "季思杰" },
           { "name": "应震,谷远虎 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [23940, "s"] },
       "statuses": [
@@ -9730,7 +9707,8 @@
           { "name": "王伟翔" },
           { "name": "苗敏敏 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [24660, "s"] },
       "statuses": [
@@ -9806,11 +9784,7 @@
         "name": "长琦素世队",
         "id": "2-E29",
         "organization": "海亮高级中学",
-        "teamMembers": [
-          { "name": "赵峻涵" },
-          { "name": "杨明晅" },
-          { "name": "姜奕炀" }
-        ],
+        "teamMembers": [{ "name": "赵峻涵" }, { "name": "杨明晅" }, { "name": "姜奕炀" }],
         "official": false
       },
       "score": { "value": 4, "time": [24840, "s"] },
@@ -9963,7 +9937,8 @@
           { "name": "胡致文" },
           { "name": "柯海丰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [26880, "s"] },
       "statuses": [
@@ -10052,7 +10027,8 @@
           { "name": "王彦彬" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [27600, "s"] },
       "statuses": [
@@ -10123,7 +10099,8 @@
           { "name": "王科然" },
           { "name": "单振宇,虞剑波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [29640, "s"] },
       "statuses": [
@@ -10191,7 +10168,8 @@
           { "name": "吴锦豪" },
           { "name": "李钧 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [29760, "s"] },
       "statuses": [
@@ -10256,7 +10234,8 @@
           { "name": "李家诚" },
           { "name": "胡明晓,陈伟斌 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [30120, "s"] },
       "statuses": [
@@ -10323,7 +10302,8 @@
           { "name": "周荣" },
           { "name": "叶寒锋,王伟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [30180, "s"] },
       "statuses": [
@@ -10395,7 +10375,8 @@
           { "name": "何益繁" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [30240, "s"] },
       "statuses": [
@@ -10489,7 +10470,8 @@
           { "name": "钱晨" },
           { "name": "郑炜,郭新友 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [30300, "s"] },
       "statuses": [
@@ -10561,11 +10543,7 @@
         "name": "翟钧麟神教教徒联合队",
         "id": "3-B15",
         "organization": "杭州二中天元蕙兰学校",
-        "teamMembers": [
-          { "name": "郭静远" },
-          { "name": "夏天" },
-          { "name": "赵钰宸" }
-        ],
+        "teamMembers": [{ "name": "郭静远" }, { "name": "夏天" }, { "name": "赵钰宸" }],
         "official": false
       },
       "score": { "value": 4, "time": [30780, "s"] },
@@ -10646,7 +10624,8 @@
           { "name": "林元钞" },
           { "name": "蔡尚真 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [31080, "s"] },
       "statuses": [
@@ -10709,7 +10688,8 @@
           { "name": "蔡欣蕊" },
           { "name": "邱郑宜人,胡芳芳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 4, "time": [31680, "s"] },
       "statuses": [
@@ -10782,7 +10762,8 @@
           { "name": "徐晨阳" },
           { "name": "刘文强,谢满德 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [32100, "s"] },
       "statuses": [
@@ -10868,7 +10849,8 @@
           { "name": "何沐" },
           { "name": "陈叶芳,王晓丽 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [32820, "s"] },
       "statuses": [
@@ -10961,7 +10943,8 @@
           { "name": "金岸" },
           { "name": "单振宇,虞剑波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [33120, "s"] },
       "statuses": [
@@ -11019,7 +11002,8 @@
           { "name": "章宇科" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [34380, "s"] },
       "statuses": [
@@ -11089,7 +11073,8 @@
           { "name": "赵晨翔" },
           { "name": "陈叶芳,钱江波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [34500, "s"] },
       "statuses": [
@@ -11168,7 +11153,8 @@
           { "name": "陈科朋" },
           { "name": "陈磊,赵宝奇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 4, "time": [34800, "s"] },
       "statuses": [
@@ -11250,7 +11236,8 @@
           { "name": "杨若童" },
           { "name": "王春平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [35880, "s"] },
       "statuses": [
@@ -11331,7 +11318,8 @@
           { "name": "陈昱轩" },
           { "name": "刘莉,叶海荣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [35940, "s"] },
       "statuses": [
@@ -11396,7 +11384,8 @@
           { "name": "王浩名" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [36180, "s"] },
       "statuses": [
@@ -11475,7 +11464,8 @@
           { "name": "盛浚哲" },
           { "name": "廖雪峰,庄楷文 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [37080, "s"] },
       "statuses": [
@@ -11538,7 +11528,8 @@
           { "name": "刘子杭" },
           { "name": "闻育,陈晓竹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [37380, "s"] },
       "statuses": [
@@ -11611,7 +11602,8 @@
           { "name": "祝嘉豪" },
           { "name": "胡  昳,琚洁慧 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [38460, "s"] },
       "statuses": [
@@ -11664,11 +11656,7 @@
         "name": "今天是个好天气",
         "id": "2-A71",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "黄祺恺" },
-          { "name": "唐嘉奇" },
-          { "name": "乔迪" }
-        ],
+        "teamMembers": [{ "name": "黄祺恺" }, { "name": "唐嘉奇" }, { "name": "乔迪" }],
         "official": false
       },
       "score": { "value": 4, "time": [39360, "s"] },
@@ -11742,7 +11730,8 @@
           { "name": "刘星辰" },
           { "name": "陈滨,张素兰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [40620, "s"] },
       "statuses": [
@@ -11800,7 +11789,8 @@
           { "name": "林君阳" },
           { "name": "郑珺,裘姝平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [42540, "s"] },
       "statuses": [
@@ -11862,7 +11852,8 @@
           { "name": "梁昊翔" },
           { "name": "刘晓芳,姜丁元 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [43140, "s"] },
       "statuses": [
@@ -11937,7 +11928,8 @@
           { "name": "李熠轩" },
           { "name": "陈晓竹,闻育 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [43440, "s"] },
       "statuses": [
@@ -12012,7 +12004,8 @@
           { "name": "陆奕丰" },
           { "name": "黄龙军 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [47100, "s"] },
       "statuses": [
@@ -12092,7 +12085,8 @@
           { "name": "周圣涵" },
           { "name": "胡明晓,陈伟斌 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [48420, "s"] },
       "statuses": [
@@ -12165,7 +12159,8 @@
           { "name": "施世泽" },
           { "name": "陈暄 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 4, "time": [50580, "s"] },
       "statuses": [
@@ -12232,7 +12227,8 @@
           { "name": "朱哲" },
           { "name": "魏  英,林志洁 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 4, "time": [57420, "s"] },
       "statuses": [
@@ -12305,7 +12301,8 @@
           { "name": "骆晓亮" },
           { "name": "徐丹,汪黎杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [5640, "s"] },
       "statuses": [
@@ -12375,7 +12372,8 @@
           { "name": "吴锦豪" },
           { "name": "竞赛指导组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [6780, "s"] },
       "statuses": [
@@ -12438,11 +12436,7 @@
         "name": "打完Game码上睡觉",
         "id": "3-C11",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "陈思翰" },
-          { "name": "周正奇" },
-          { "name": "高梓梵" }
-        ],
+        "teamMembers": [{ "name": "陈思翰" }, { "name": "周正奇" }, { "name": "高梓梵" }],
         "official": false
       },
       "score": { "value": 3, "time": [6900, "s"] },
@@ -12508,7 +12502,8 @@
           { "name": "孙嘉烨" },
           { "name": "黄龙军 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [7800, "s"] },
       "statuses": [
@@ -12565,7 +12560,8 @@
           { "name": "邓瑞琦" },
           { "name": "张晓莹,季燎原 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [8700, "s"] },
       "statuses": [
@@ -12623,7 +12619,8 @@
           { "name": "胡宸略" },
           { "name": "柴本成,石恒军 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [9300, "s"] },
       "statuses": [
@@ -12681,7 +12678,8 @@
           { "name": "葛先步" },
           { "name": "单振宇,虞剑波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [9960, "s"] },
       "statuses": [
@@ -12763,7 +12761,8 @@
           { "name": "谭振鹏" },
           { "name": "邹会来,陆敏锋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [10380, "s"] },
       "statuses": [
@@ -12816,11 +12815,7 @@
         "name": "糖果屋",
         "id": "2-E05",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "葛宇逍" },
-          { "name": "陈玥汕" },
-          { "name": "陈宇雯" }
-        ],
+        "teamMembers": [{ "name": "葛宇逍" }, { "name": "陈玥汕" }, { "name": "陈宇雯" }],
         "official": false
       },
       "score": { "value": 3, "time": [10620, "s"] },
@@ -12870,11 +12865,7 @@
         "name": "尽欣杰力还是做不到吗",
         "id": "4-D11",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "黄子力" },
-          { "name": "龚俊杰" },
-          { "name": "黄欣怡" }
-        ],
+        "teamMembers": [{ "name": "黄子力" }, { "name": "龚俊杰" }, { "name": "黄欣怡" }],
         "official": false
       },
       "score": { "value": 3, "time": [10800, "s"] },
@@ -12942,7 +12933,8 @@
           { "name": "徐俊豪" },
           { "name": "李钧 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [10860, "s"] },
       "statuses": [
@@ -12995,7 +12987,8 @@
           { "name": "郭申申" },
           { "name": "竞赛指导组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [11040, "s"] },
       "statuses": [
@@ -13071,7 +13064,8 @@
           { "name": "裘腾军" },
           { "name": "邹会来,陆敏锋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [11340, "s"] },
       "statuses": [
@@ -13129,7 +13123,8 @@
           { "name": "朱楠" },
           { "name": "戴青锋,缪娉婷 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [11400, "s"] },
       "statuses": [
@@ -13191,7 +13186,8 @@
           { "name": "章梓阳" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [11640, "s"] },
       "statuses": [
@@ -13264,7 +13260,8 @@
           { "name": "何俊豪" },
           { "name": "陈荣钦,华晓锋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [11940, "s"] },
       "statuses": [
@@ -13337,7 +13334,8 @@
           { "name": "傅炫瑜" },
           { "name": "柴本成,邓芳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [11940, "s"] },
       "statuses": [
@@ -13396,7 +13394,8 @@
           { "name": "陈道磊" },
           { "name": "陆东城,瞿有甜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [12540, "s"] },
       "statuses": [
@@ -13458,7 +13457,8 @@
           { "name": "甄晨" },
           { "name": "徐若易,王勋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [12660, "s"] },
       "statuses": [
@@ -13536,7 +13536,8 @@
           { "name": "陈泽澎" },
           { "name": "邹会来,张宪乐 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [12840, "s"] },
       "statuses": [
@@ -13589,7 +13590,8 @@
           { "name": "陈资权" },
           { "name": "陆东城,康鲜菜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [12900, "s"] },
       "statuses": [
@@ -13657,7 +13659,8 @@
           { "name": "高鑫" },
           { "name": "叶倩兰,王秋月 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [13020, "s"] },
       "statuses": [
@@ -13718,7 +13721,8 @@
           { "name": "朱翎莉" },
           { "name": "陈暄 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [13320, "s"] },
       "statuses": [
@@ -13792,7 +13796,8 @@
           { "name": "方皓锐" },
           { "name": "徐丹,张驰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [13380, "s"] },
       "statuses": [
@@ -13855,7 +13860,8 @@
           { "name": "王楚怡" },
           { "name": "胡明晓,陈伟斌 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [13680, "s"] },
       "statuses": [
@@ -13917,7 +13923,8 @@
           { "name": "曹景程" },
           { "name": "华晓锋,陈荣钦 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [13860, "s"] },
       "statuses": [
@@ -13976,7 +13983,8 @@
           { "name": "马天昊" },
           { "name": "吴远红,谭小球 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [13860, "s"] },
       "statuses": [
@@ -14044,7 +14052,8 @@
           { "name": "钱憬琦" },
           { "name": "戴青锋,刘均 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [14160, "s"] },
       "statuses": [
@@ -14097,7 +14106,8 @@
           { "name": "蒋徐杰" },
           { "name": "韩姗姗 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [14460, "s"] },
       "statuses": [
@@ -14164,7 +14174,8 @@
           { "name": "陈奕阳" },
           { "name": "胡永良,华晓锋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [14580, "s"] },
       "statuses": [
@@ -14222,7 +14233,8 @@
           { "name": "叶仲豪" },
           { "name": "孙娟,郭新友 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [14880, "s"] },
       "statuses": [
@@ -14287,7 +14299,8 @@
           { "name": "曾亚杰" },
           { "name": "周林华,宣江华 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [15600, "s"] },
       "statuses": [
@@ -14418,7 +14431,8 @@
           { "name": "莫冬娜" },
           { "name": "黄振业,曲欣欣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [15840, "s"] },
       "statuses": [
@@ -14474,7 +14488,8 @@
           { "name": "陈瑞嗣" },
           { "name": "周军强,陈磊 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [15900, "s"] },
       "statuses": [
@@ -14532,11 +14547,7 @@
         "name": "Prudence",
         "id": "3-A27",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "邱浏铭" },
-          { "name": "谢鸿馨" },
-          { "name": "王瑾瑜" }
-        ],
+        "teamMembers": [{ "name": "邱浏铭" }, { "name": "谢鸿馨" }, { "name": "王瑾瑜" }],
         "official": false
       },
       "score": { "value": 3, "time": [16140, "s"] },
@@ -14613,7 +14624,8 @@
           { "name": "于天佑" },
           { "name": "周静静,刘文强 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [16920, "s"] },
       "statuses": [
@@ -14673,7 +14685,8 @@
           { "name": "吕思思" },
           { "name": "梅旭时 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [17340, "s"] },
       "statuses": [
@@ -14731,11 +14744,7 @@
         "name": "我当场把这个电脑屏幕吃掉",
         "id": "4-C13",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "王振晓" },
-          { "name": "周徐彬" },
-          { "name": "谢晨尧" }
-        ],
+        "teamMembers": [{ "name": "王振晓" }, { "name": "周徐彬" }, { "name": "谢晨尧" }],
         "official": false
       },
       "score": { "value": 3, "time": [17460, "s"] },
@@ -14802,7 +14811,8 @@
           { "name": "赵应琦" },
           { "name": "张驰,汪黎杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [18120, "s"] },
       "statuses": [
@@ -14932,7 +14942,8 @@
           { "name": "蔡杍晨" },
           { "name": "邹会来,张彩彩 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [18180, "s"] },
       "statuses": [
@@ -14993,7 +15004,8 @@
           { "name": "林帮吉" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [18660, "s"] },
       "statuses": [
@@ -15062,7 +15074,8 @@
           { "name": "杨宁昆" },
           { "name": "高兴媛,蔡斌杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [19020, "s"] },
       "statuses": [
@@ -15124,7 +15137,7 @@
           { "name": "沈艳洪,陈暄 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 3, "time": [19320, "s"] },
       "statuses": [
@@ -15188,7 +15201,8 @@
           { "name": "徐浩阳" },
           { "name": "胡永良,陈荣钦 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [19440, "s"] },
       "statuses": [
@@ -15261,7 +15275,8 @@
           { "name": "劳奇涛" },
           { "name": "范恩 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [19500, "s"] },
       "statuses": [
@@ -15312,11 +15327,7 @@
         "name": "三只暴龙乱入杭州傲视比赛",
         "id": "4-B23",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "魏宇航" },
-          { "name": "陈嵩" },
-          { "name": "柯智宇" }
-        ],
+        "teamMembers": [{ "name": "魏宇航" }, { "name": "陈嵩" }, { "name": "柯智宇" }],
         "official": false
       },
       "score": { "value": 3, "time": [19740, "s"] },
@@ -15390,7 +15401,8 @@
           { "name": "许永桢" },
           { "name": "张锦祥 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [19860, "s"] },
       "statuses": [
@@ -15451,7 +15463,8 @@
           { "name": "詹徐言" },
           { "name": "郭新友,文世挺 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [20160, "s"] },
       "statuses": [
@@ -15516,7 +15529,8 @@
           { "name": "方志伟" },
           { "name": "闻育,陈晓竹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [20220, "s"] },
       "statuses": [
@@ -15599,7 +15613,8 @@
           { "name": "胡一鸣" },
           { "name": "周林华,何仲昆 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [20280, "s"] },
       "statuses": [
@@ -15651,7 +15666,8 @@
           { "name": "钟舒晴" },
           { "name": "龙伟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [20460, "s"] },
       "statuses": [
@@ -15720,7 +15736,8 @@
           { "name": "何青峰" },
           { "name": "胡毓励 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [20580, "s"] },
       "statuses": [
@@ -15769,7 +15786,8 @@
           { "name": "王智健" },
           { "name": "李浩腾,崔立凯 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [20700, "s"] },
       "statuses": [
@@ -15854,7 +15872,8 @@
           { "name": "刘正豪" },
           { "name": "周国兵,聂琰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [20940, "s"] },
       "statuses": [
@@ -15916,7 +15935,8 @@
           { "name": "吕晓鹏" },
           { "name": "陈暄 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [21060, "s"] },
       "statuses": [
@@ -15984,7 +16004,8 @@
           { "name": "姜银" },
           { "name": "吴德昊,陆东城 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [21240, "s"] },
       "statuses": [
@@ -16050,7 +16071,8 @@
           { "name": "叶杨城" },
           { "name": "于娟,宋炯 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [21240, "s"] },
       "statuses": [
@@ -16118,7 +16140,8 @@
           { "name": "陈子轩" },
           { "name": "严志嘉,李向东 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [21780, "s"] },
       "statuses": [
@@ -16177,7 +16200,8 @@
           { "name": "吴秀颖" },
           { "name": "陈宁宇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [21960, "s"] },
       "statuses": [
@@ -16248,7 +16272,8 @@
           { "name": "何家安" },
           { "name": "方科亚,李超燕 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [22080, "s"] },
       "statuses": [
@@ -16326,7 +16351,8 @@
           { "name": "余振东" },
           { "name": "黄龙军 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [22260, "s"] },
       "statuses": [
@@ -16396,7 +16422,8 @@
           { "name": "赖敏韬" },
           { "name": "叶倩兰,王秋月 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [22860, "s"] },
       "statuses": [
@@ -16462,7 +16489,8 @@
           { "name": "林宇俊" },
           { "name": "陈辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [23040, "s"] },
       "statuses": [
@@ -16520,7 +16548,8 @@
           { "name": "叶德坚" },
           { "name": "周林华,宣江华 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [23340, "s"] },
       "statuses": [
@@ -16578,7 +16607,8 @@
           { "name": "胡子晗" },
           { "name": "徐若易,丁伟杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [23640, "s"] },
       "statuses": [
@@ -16644,7 +16674,8 @@
           { "name": "戴晓毅" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [23640, "s"] },
       "statuses": [
@@ -16707,7 +16738,8 @@
           { "name": "张俊杰" },
           { "name": "谭小球,黄海锋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [23700, "s"] },
       "statuses": [
@@ -16766,7 +16798,8 @@
           { "name": "柯一墨" },
           { "name": "廖雪峰,王晨亮 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [23820, "s"] },
       "statuses": [
@@ -16835,7 +16868,8 @@
           { "name": "樊鹏程" },
           { "name": "郭新友,文世挺 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [24180, "s"] },
       "statuses": [
@@ -16917,7 +16951,8 @@
           { "name": "郭轩阳" },
           { "name": "陈叶芳,王晓丽 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [24420, "s"] },
       "statuses": [
@@ -16986,7 +17021,8 @@
           { "name": "赵依婷" },
           { "name": "李平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [24840, "s"] },
       "statuses": [
@@ -17039,11 +17075,7 @@
         "name": "刷子得了MVP",
         "id": "2-D39",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "胡嘉皓" },
-          { "name": "余司成" },
-          { "name": "应亦君" }
-        ],
+        "teamMembers": [{ "name": "胡嘉皓" }, { "name": "余司成" }, { "name": "应亦君" }],
         "official": false
       },
       "score": { "value": 3, "time": [25440, "s"] },
@@ -17105,7 +17137,8 @@
           { "name": "朱深敏" },
           { "name": "陈荣钦,胡永良 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [25560, "s"] },
       "statuses": [
@@ -17158,7 +17191,8 @@
           { "name": "周伦泽" },
           { "name": "谭小球,张建科 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [25620, "s"] },
       "statuses": [
@@ -17221,7 +17255,8 @@
           { "name": "滕冠宇" },
           { "name": "张宪乐,邹会来 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [25620, "s"] },
       "statuses": [
@@ -17295,7 +17330,8 @@
           { "name": "史滨源" },
           { "name": "闻育,陈晓竹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [26580, "s"] },
       "statuses": [
@@ -17347,11 +17383,7 @@
         "name": "八十岁扶墙打xcpc",
         "id": "3-D07",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "胡文涵" },
-          { "name": "潘铖棋" },
-          { "name": "詹伟" }
-        ],
+        "teamMembers": [{ "name": "胡文涵" }, { "name": "潘铖棋" }, { "name": "詹伟" }],
         "official": false
       },
       "score": { "value": 3, "time": [26640, "s"] },
@@ -17419,7 +17451,8 @@
           { "name": "杨佳涵" },
           { "name": "魏英,楼宋江 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [27120, "s"] },
       "statuses": [
@@ -17475,7 +17508,8 @@
           { "name": "陈金磊" },
           { "name": "张铮,徐一峰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [27420, "s"] },
       "statuses": [
@@ -17526,7 +17560,8 @@
           { "name": "姚俊宇" },
           { "name": "黄振业,曲欣欣 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [27420, "s"] },
       "statuses": [
@@ -17591,7 +17626,8 @@
           { "name": "叶玉龙" },
           { "name": "章雁宁,周军强 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [27600, "s"] },
       "statuses": [
@@ -17661,7 +17697,8 @@
           { "name": "邵彬铭" },
           { "name": "张宪乐,邹会来 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [27600, "s"] },
       "statuses": [
@@ -17722,7 +17759,8 @@
           { "name": "赵徐坚" },
           { "name": "竞赛指导组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [28140, "s"] },
       "statuses": [
@@ -17794,7 +17832,8 @@
           { "name": "叶殷浩" },
           { "name": "罗杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [28860, "s"] },
       "statuses": [
@@ -17859,7 +17898,8 @@
           { "name": "胡凯淇" },
           { "name": "杨婷,唐晓平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [28920, "s"] },
       "statuses": [
@@ -17919,7 +17959,8 @@
           { "name": "王益新" },
           { "name": "胡珂立 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [28980, "s"] },
       "statuses": [
@@ -17984,7 +18025,8 @@
           { "name": "倪良伟" },
           { "name": "赵宝奇,陈磊 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [29040, "s"] },
       "statuses": [
@@ -18051,7 +18093,8 @@
           { "name": "何宇吉" },
           { "name": "廖雪峰,郭舒扬 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [29280, "s"] },
       "statuses": [
@@ -18123,7 +18166,8 @@
           { "name": "陈俊宇" },
           { "name": "梅旭时,胡芳芳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [29700, "s"] },
       "statuses": [
@@ -18186,7 +18230,8 @@
           { "name": "潘棋瑞" },
           { "name": "王秋月 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [29880, "s"] },
       "statuses": [
@@ -18248,7 +18293,8 @@
           { "name": "张雪松" },
           { "name": "竞赛指导组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [30420, "s"] },
       "statuses": [
@@ -18316,7 +18362,8 @@
           { "name": "徐燕秋" },
           { "name": "陈暄 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [31020, "s"] },
       "statuses": [
@@ -18380,7 +18427,8 @@
           { "name": "王煦怡" },
           { "name": "汪黎杰,徐丹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [31320, "s"] },
       "statuses": [
@@ -18438,7 +18486,8 @@
           { "name": "郑志扬" },
           { "name": "应震,谷远虎 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [31380, "s"] },
       "statuses": [
@@ -18512,7 +18561,8 @@
           { "name": "夏一凡" },
           { "name": "acm教练组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [31500, "s"] },
       "statuses": [
@@ -18582,7 +18632,8 @@
           { "name": "成曙余" },
           { "name": "罗杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [32460, "s"] },
       "statuses": [
@@ -18652,7 +18703,8 @@
           { "name": "邹浩" },
           { "name": "陈佳泉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [33060, "s"] },
       "statuses": [
@@ -18704,7 +18756,8 @@
           { "name": "卢颖" },
           { "name": "张驰,徐丹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [34680, "s"] },
       "statuses": [
@@ -18782,7 +18835,8 @@
           { "name": "吴霁桐" },
           { "name": "陈滨,张素兰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [35100, "s"] },
       "statuses": [
@@ -18842,7 +18896,8 @@
           { "name": "徐郑凯" },
           { "name": "倪步喜,黄乐丹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 3, "time": [35100, "s"] },
       "statuses": [
@@ -18891,11 +18946,7 @@
         "name": "暗影庭院",
         "id": "3-C31",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "冷题名" },
-          { "name": "吴佳鹏" },
-          { "name": "邓量" }
-        ],
+        "teamMembers": [{ "name": "冷题名" }, { "name": "吴佳鹏" }, { "name": "邓量" }],
         "official": false
       },
       "score": { "value": 3, "time": [35940, "s"] },
@@ -18951,7 +19002,8 @@
           { "name": "童佳哲" },
           { "name": "胡明晓,何奇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [36420, "s"] },
       "statuses": [
@@ -19007,7 +19059,8 @@
           { "name": "许佳成" },
           { "name": "刘福泉,胡建华 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [37080, "s"] },
       "statuses": [
@@ -19082,7 +19135,8 @@
           { "name": "赖肖霖" },
           { "name": "王勋,丁伟杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 3, "time": [37740, "s"] },
       "statuses": [
@@ -19155,7 +19209,7 @@
           { "name": "柴本成,杜晨杰 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["undergraduate", "girl"]
       },
       "score": { "value": 3, "time": [38460, "s"] },
       "statuses": [
@@ -19216,7 +19270,8 @@
           { "name": "陈倚" },
           { "name": "李向东,严志嘉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [2160, "s"] },
       "statuses": [
@@ -19346,7 +19401,8 @@
           { "name": "钟顺波" },
           { "name": "郭文静,黄洋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [3120, "s"] },
       "statuses": [
@@ -19419,7 +19475,8 @@
           { "name": "王争怡" },
           { "name": "杨婷,唐晓平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [3600, "s"] },
       "statuses": [
@@ -19482,7 +19539,8 @@
           { "name": "张之豪" },
           { "name": "张锦祥 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [3660, "s"] },
       "statuses": [
@@ -19542,7 +19600,8 @@
           { "name": "陈濛濛" },
           { "name": "黄振业,张震 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [3900, "s"] },
       "statuses": [
@@ -19582,7 +19641,8 @@
           { "name": "吴家炜" },
           { "name": "杨胜英,林焕祥 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [3960, "s"] },
       "statuses": [
@@ -19630,7 +19690,8 @@
           { "name": "时宇轩" },
           { "name": "丁伟杰,王勋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [4080, "s"] },
       "statuses": [
@@ -19700,7 +19761,8 @@
           { "name": "陈锦成" },
           { "name": "刘晓芳,李叶光 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [4320, "s"] },
       "statuses": [
@@ -19750,7 +19812,8 @@
           { "name": "蔡成润" },
           { "name": "陈琰宏,黄一杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [4680, "s"] },
       "statuses": [
@@ -19816,7 +19879,8 @@
           { "name": "沈佳豪" },
           { "name": "陈宁宇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5040, "s"] },
       "statuses": [
@@ -19875,7 +19939,8 @@
           { "name": "朱雷雨" },
           { "name": "朱斌 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5040, "s"] },
       "statuses": [
@@ -19918,7 +19983,8 @@
           { "name": "吴宝琪" },
           { "name": "邵煜,蔡尚真 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5100, "s"] },
       "statuses": [
@@ -19986,7 +20052,8 @@
           { "name": "吴晋宇" },
           { "name": "香丽芸 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5220, "s"] },
       "statuses": [
@@ -20058,7 +20125,8 @@
           { "name": "江帆" },
           { "name": "张晓莹,季燎原 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5280, "s"] },
       "statuses": [
@@ -20122,7 +20190,8 @@
           { "name": "张嘉昌" },
           { "name": "石翠萍 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5340, "s"] },
       "statuses": [
@@ -20182,7 +20251,8 @@
           { "name": "关天泽" },
           { "name": "柴本成,石恒军 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5400, "s"] },
       "statuses": [
@@ -20243,7 +20313,8 @@
           { "name": "陈其康" },
           { "name": "杨婷,唐晓平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5460, "s"] },
       "statuses": [
@@ -20299,7 +20370,7 @@
           { "name": "黄龙军 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["undergraduate", "girl"]
       },
       "score": { "value": 2, "time": [5520, "s"] },
       "statuses": [
@@ -20364,7 +20435,8 @@
           { "name": "赵启琪" },
           { "name": "郑珺,曾昊 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [5520, "s"] },
       "statuses": [
@@ -20416,7 +20488,8 @@
           { "name": "陈朱凯" },
           { "name": "陈尧妃,陈焕通 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [6060, "s"] },
       "statuses": [
@@ -20467,7 +20540,8 @@
           { "name": "何雨欣" },
           { "name": "章理登,张恪莱 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [6540, "s"] },
       "statuses": [
@@ -20539,7 +20613,8 @@
           { "name": "凌坤" },
           { "name": "张莉,徐海峰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [6660, "s"] },
       "statuses": [
@@ -20587,7 +20662,8 @@
           { "name": "童晨旭" },
           { "name": "杨婷,唐晓平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [6660, "s"] },
       "statuses": [
@@ -20638,7 +20714,8 @@
           { "name": "陈晨" },
           { "name": "杨婷,唐晓平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [6660, "s"] },
       "statuses": [
@@ -20689,7 +20766,8 @@
           { "name": "林文哲" },
           { "name": "张建科,吴远红 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [6720, "s"] },
       "statuses": [
@@ -20751,7 +20829,8 @@
           { "name": "刘启航" },
           { "name": "张相坤,刘福泉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [6720, "s"] },
       "statuses": [
@@ -20794,7 +20873,8 @@
           { "name": "唐鑫杰" },
           { "name": "刘晓芳,李叶光 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [6900, "s"] },
       "statuses": [
@@ -20858,7 +20938,8 @@
           { "name": "郑依林" },
           { "name": "陈叶芳,辛宇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [7080, "s"] },
       "statuses": [
@@ -20929,7 +21010,8 @@
           { "name": "朱泓滔" },
           { "name": "应震,谷远虎 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [7200, "s"] },
       "statuses": [
@@ -20982,7 +21064,8 @@
           { "name": "陈贤沪" },
           { "name": "张宪乐,邹会来 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [7200, "s"] },
       "statuses": [
@@ -21030,7 +21113,8 @@
           { "name": "费鸿杰" },
           { "name": "李平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [7320, "s"] },
       "statuses": [
@@ -21092,7 +21176,8 @@
           { "name": "向秋柏" },
           { "name": "周国兵,胡旭昶 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [7440, "s"] },
       "statuses": [
@@ -21136,7 +21221,8 @@
           { "name": "陈蒋龙" },
           { "name": "胡明晓,何奇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [7800, "s"] },
       "statuses": [
@@ -21202,7 +21288,8 @@
           { "name": "项旻宇" },
           { "name": "戴青锋,缪娉婷 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [7860, "s"] },
       "statuses": [
@@ -21270,7 +21357,8 @@
           { "name": "赵宇杰" },
           { "name": "蔡尚真 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [8160, "s"] },
       "statuses": [
@@ -21330,11 +21418,7 @@
         "name": "原神怎么你了",
         "id": "2-B31",
         "organization": "西南科技大学",
-        "teamMembers": [
-          { "name": "童歌" },
-          { "name": "钟金运" },
-          { "name": "杨雨鑫" }
-        ],
+        "teamMembers": [{ "name": "童歌" }, { "name": "钟金运" }, { "name": "杨雨鑫" }],
         "official": false
       },
       "score": { "value": 2, "time": [8280, "s"] },
@@ -21398,7 +21482,8 @@
           { "name": "王进" },
           { "name": "杨森,周昕 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [8340, "s"] },
       "statuses": [
@@ -21469,7 +21554,8 @@
           { "name": "童羽璐" },
           { "name": "黄洋,郭文静 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [8580, "s"] },
       "statuses": [
@@ -21538,7 +21624,8 @@
           { "name": "徐新" },
           { "name": "郑庆莲,翁立 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [8580, "s"] },
       "statuses": [
@@ -21622,7 +21709,8 @@
           { "name": "卢乙迅" },
           { "name": "郭新友,文世挺 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [9000, "s"] },
       "statuses": [
@@ -21687,7 +21775,8 @@
           { "name": "陈伟" },
           { "name": "胡坚,谢红标 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [9060, "s"] },
       "statuses": [
@@ -21756,7 +21845,8 @@
           { "name": "汪健鼎" },
           { "name": "陈辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [9240, "s"] },
       "statuses": [
@@ -21830,7 +21920,8 @@
           { "name": "王译霆" },
           { "name": "陈尧妃 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [9360, "s"] },
       "statuses": [
@@ -21887,7 +21978,8 @@
           { "name": "王东洋" },
           { "name": "陈滨,张素兰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [9780, "s"] },
       "statuses": [
@@ -21944,7 +22036,8 @@
           { "name": "周静宜" },
           { "name": "张丽华,武瑛 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [9900, "s"] },
       "statuses": [
@@ -21987,7 +22080,8 @@
           { "name": "施涵杰" },
           { "name": "叶倩兰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [10140, "s"] },
       "statuses": [
@@ -22041,7 +22135,8 @@
           { "name": "邓文海" },
           { "name": "罗杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [10200, "s"] },
       "statuses": [
@@ -22105,7 +22200,8 @@
           { "name": "官楚皓" },
           { "name": "韩冰,傅继晗 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [10500, "s"] },
       "statuses": [
@@ -22153,7 +22249,8 @@
           { "name": "张安逸" },
           { "name": "张素兰,陈滨 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [10560, "s"] },
       "statuses": [
@@ -22223,7 +22320,8 @@
           { "name": "阮荣靖" },
           { "name": "赵强,薛欢欢 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [10680, "s"] },
       "statuses": [
@@ -22281,7 +22379,8 @@
           { "name": "陈武烨" },
           { "name": "梅旭时,陈尧妃 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [11280, "s"] },
       "statuses": [
@@ -22321,7 +22420,8 @@
           { "name": "陈怀俊" },
           { "name": "俞民华,章雁宁 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [11400, "s"] },
       "statuses": [
@@ -22375,7 +22475,8 @@
           { "name": "黄崇建" },
           { "name": "唐瑞,何颂颂 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [11460, "s"] },
       "statuses": [
@@ -22431,7 +22532,8 @@
           { "name": "张永梅" },
           { "name": "刘福泉,胡建华 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [11820, "s"] },
       "statuses": [
@@ -22496,7 +22598,8 @@
           { "name": "潘佳灵" },
           { "name": "袁利永,周家庆 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [12660, "s"] },
       "statuses": [
@@ -22558,7 +22661,8 @@
           { "name": "庞思熠" },
           { "name": "张梅樱,韩华伟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [13020, "s"] },
       "statuses": [
@@ -22611,7 +22715,8 @@
           { "name": "邵恩杰" },
           { "name": "柴本成,杜晨杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [13260, "s"] },
       "statuses": [
@@ -22672,7 +22777,8 @@
           { "name": "朱泓祺" },
           { "name": "陈暄 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [13320, "s"] },
       "statuses": [
@@ -22722,11 +22828,7 @@
         "name": "O(≧∇≦)AC自动喵 (ฅ^•ω•^ฅ)",
         "id": "2-C05",
         "organization": "北京第二外国语学院成都附属中学",
-        "teamMembers": [
-          { "name": "张恒毅" },
-          { "name": "陈柯翰" },
-          { "name": "黄一轩" }
-        ],
+        "teamMembers": [{ "name": "张恒毅" }, { "name": "陈柯翰" }, { "name": "黄一轩" }],
         "official": false
       },
       "score": { "value": 2, "time": [13620, "s"] },
@@ -22791,7 +22893,8 @@
           { "name": "庄庆伟" },
           { "name": "郑珺,王雪梅 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [13680, "s"] },
       "statuses": [
@@ -22864,7 +22967,8 @@
           { "name": "陈姿蓥" },
           { "name": "陆东城,赵永晖 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [13740, "s"] },
       "statuses": [
@@ -22927,7 +23031,8 @@
           { "name": "朱晏薪" },
           { "name": "林晔智,陈鹏 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [13920, "s"] },
       "statuses": [
@@ -22981,7 +23086,8 @@
           { "name": "王选" },
           { "name": "傅晓婕,蔡斌杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [14160, "s"] },
       "statuses": [
@@ -23035,7 +23141,8 @@
           { "name": "刘奕枢" },
           { "name": "倪步喜,李联辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [14340, "s"] },
       "statuses": [
@@ -23093,7 +23200,8 @@
           { "name": "蔡依婷" },
           { "name": "周子芊,徐自力 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [14340, "s"] },
       "statuses": [
@@ -23170,7 +23278,8 @@
           { "name": "洪嘉栋" },
           { "name": "王伟,叶寒锋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [14640, "s"] },
       "statuses": [
@@ -23235,7 +23344,8 @@
           { "name": "林姜旺" },
           { "name": "林新辉,钱丽丹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [15180, "s"] },
       "statuses": [
@@ -23304,7 +23414,8 @@
           { "name": "孙鸿涛" },
           { "name": "楼满芳,傅望 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [15240, "s"] },
       "statuses": [
@@ -23361,7 +23472,8 @@
           { "name": "林书臣" },
           { "name": "严一格,邹佳利 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [15780, "s"] },
       "statuses": [
@@ -23419,7 +23531,8 @@
           { "name": "章宇佳" },
           { "name": "acm教练组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [15900, "s"] },
       "statuses": [
@@ -23486,7 +23599,8 @@
           { "name": "袁铭都" },
           { "name": "陈叶芳,杜呈透 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [16680, "s"] },
       "statuses": [
@@ -23548,7 +23662,8 @@
           { "name": "黄章博" },
           { "name": "蔡承天,周尤明 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [16740, "s"] },
       "statuses": [
@@ -23600,7 +23715,8 @@
           { "name": "符轩跃" },
           { "name": "莫淦清,吴蕴赟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [16740, "s"] },
       "statuses": [
@@ -23664,7 +23780,8 @@
           { "name": "罗明涵" },
           { "name": "张晓莹,季燎原 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [16860, "s"] },
       "statuses": [
@@ -23723,7 +23840,8 @@
           { "name": "崔元佑" },
           { "name": "陈滨,张素兰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [16920, "s"] },
       "statuses": [
@@ -23782,11 +23900,7 @@
         "name": "欧1DP",
         "id": "2-D07",
         "organization": "天元公学",
-        "teamMembers": [
-          { "name": "张浩凯" },
-          { "name": "吴野" },
-          { "name": "麻周禹辰" }
-        ],
+        "teamMembers": [{ "name": "张浩凯" }, { "name": "吴野" }, { "name": "麻周禹辰" }],
         "official": false
       },
       "score": { "value": 2, "time": [17640, "s"] },
@@ -23865,7 +23979,7 @@
           { "name": "罗杰 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["undergraduate", "girl"]
       },
       "score": { "value": 2, "time": [18360, "s"] },
       "statuses": [
@@ -23949,7 +24063,8 @@
           { "name": "舒鑫魁" },
           { "name": "彭小满,陈斌 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [18660, "s"] },
       "statuses": [
@@ -23996,7 +24111,7 @@
           { "name": "刘红海 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["undergraduate", "girl"]
       },
       "score": { "value": 2, "time": [19080, "s"] },
       "statuses": [
@@ -24054,7 +24169,8 @@
           { "name": "杨海瑄" },
           { "name": "周光琦 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [19500, "s"] },
       "statuses": [
@@ -24115,7 +24231,8 @@
           { "name": "郑双" },
           { "name": "林焕祥,胡  昳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [19980, "s"] },
       "statuses": [
@@ -24167,7 +24284,8 @@
           { "name": "谢易伦" },
           { "name": "张莉,潘攀 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [20160, "s"] },
       "statuses": [
@@ -24225,7 +24343,8 @@
           { "name": "赖政煜" },
           { "name": "廖智蓉,高兴媛 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [20340, "s"] },
       "statuses": [
@@ -24284,7 +24403,8 @@
           { "name": "余子悦" },
           { "name": "陈暄 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [20820, "s"] },
       "statuses": [
@@ -24340,7 +24460,8 @@
           { "name": "冯晨晖" },
           { "name": "张晓莹,季燎原 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [21120, "s"] },
       "statuses": [
@@ -24401,7 +24522,8 @@
           { "name": "蔡乐" },
           { "name": "宋  昕,马杨珲 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [21240, "s"] },
       "statuses": [
@@ -24455,7 +24577,8 @@
           { "name": "王军" },
           { "name": "张锦祥 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [21240, "s"] },
       "statuses": [
@@ -24526,7 +24649,8 @@
           { "name": "林钟逸" },
           { "name": "黄洋,郭文静 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [21720, "s"] },
       "statuses": [
@@ -24588,7 +24712,8 @@
           { "name": "张焕" },
           { "name": "朱涛,张铮 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [21840, "s"] },
       "statuses": [
@@ -24650,7 +24775,7 @@
           { "name": "李超燕,章雁宁 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 2, "time": [22920, "s"] },
       "statuses": [
@@ -24715,7 +24840,8 @@
           { "name": "罗涵波" },
           { "name": "邱郑宜人 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [23760, "s"] },
       "statuses": [
@@ -24767,7 +24893,8 @@
           { "name": "邱云" },
           { "name": "汪磊,徐志烽 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [24000, "s"] },
       "statuses": [
@@ -24826,7 +24953,8 @@
           { "name": "邱志颢" },
           { "name": "陈晓竹,闻育 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [24900, "s"] },
       "statuses": [
@@ -24879,7 +25007,8 @@
           { "name": "唐祖涛" },
           { "name": "周林华,宣江华 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [25440, "s"] },
       "statuses": [
@@ -24931,7 +25060,8 @@
           { "name": "陈黎黎" },
           { "name": "徐浙君,张沫 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [25440, "s"] },
       "statuses": [
@@ -24986,7 +25116,8 @@
           { "name": "黄舟女" },
           { "name": "池沐聪,金晓霞 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [25560, "s"] },
       "statuses": [
@@ -25064,7 +25195,8 @@
           { "name": "孙奕晗" },
           { "name": "王秋月 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [27000, "s"] },
       "statuses": [
@@ -25143,7 +25275,8 @@
           { "name": "房仕源" },
           { "name": "石玲玉,王淞昕 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [27300, "s"] },
       "statuses": [
@@ -25208,7 +25341,8 @@
           { "name": "王文杰" },
           { "name": "郭华峰,陈翰铖 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [27840, "s"] },
       "statuses": [
@@ -25256,7 +25390,8 @@
           { "name": "魏嘉良" },
           { "name": "李浩腾,蔡俊 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 2, "time": [27960, "s"] },
       "statuses": [
@@ -25330,7 +25465,8 @@
           { "name": "林俊豪" },
           { "name": "邱郑宜人 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [30540, "s"] },
       "statuses": [
@@ -25375,11 +25511,7 @@
         "name": "单程燃料",
         "id": "4-A09",
         "organization": "天元公学",
-        "teamMembers": [
-          { "name": "于一诚" },
-          { "name": "许烜之" },
-          { "name": "邴子昊" }
-        ],
+        "teamMembers": [{ "name": "于一诚" }, { "name": "许烜之" }, { "name": "邴子昊" }],
         "official": false
       },
       "score": { "value": 2, "time": [34200, "s"] },
@@ -25452,7 +25584,8 @@
           { "name": "俞子谦" },
           { "name": "钱丽丹,林新辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 2, "time": [65040, "s"] },
       "statuses": [
@@ -25522,7 +25655,8 @@
           { "name": "张维铉" },
           { "name": "徐自力,周子芊 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [660, "s"] },
       "statuses": [
@@ -25568,7 +25702,8 @@
           { "name": "毛晨西" },
           { "name": "香丽芸 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [780, "s"] },
       "statuses": [
@@ -25623,7 +25758,8 @@
           { "name": "夏阳瑞" },
           { "name": "寿颖杰,陶烨豪 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [840, "s"] },
       "statuses": [
@@ -25683,7 +25819,8 @@
           { "name": "励濠璇" },
           { "name": "楼俊钢 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [900, "s"] },
       "statuses": [
@@ -25728,7 +25865,8 @@
           { "name": "林海" },
           { "name": "陈晓伟,周楠 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [900, "s"] },
       "statuses": [
@@ -25777,11 +25915,7 @@
         "name": "猩猩点花灯",
         "id": "3-A19",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "李书暄" },
-          { "name": "杨兰欣" },
-          { "name": "" }
-        ],
+        "teamMembers": [{ "name": "李书暄" }, { "name": "杨兰欣" }, { "name": "" }],
         "official": false
       },
       "score": { "value": 1, "time": [960, "s"] },
@@ -25837,7 +25971,8 @@
           { "name": "张蓉蓉" },
           { "name": "徐枫 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [1020, "s"] },
       "statuses": [
@@ -25877,7 +26012,8 @@
           { "name": "潘欣如" },
           { "name": "陈鹏,林晔智 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [1080, "s"] },
       "statuses": [
@@ -25931,7 +26067,8 @@
           { "name": "洪雨亮" },
           { "name": "章理登,张恪莱 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [1080, "s"] },
       "statuses": [
@@ -25982,7 +26119,8 @@
           { "name": "张哲楷" },
           { "name": "余彦,季雯雯 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [1080, "s"] },
       "statuses": [
@@ -26032,7 +26170,8 @@
           { "name": "黄哲远" },
           { "name": "acm教练组 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [1080, "s"] },
       "statuses": [
@@ -26087,7 +26226,7 @@
           { "name": "韩冰,傅继晗 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 1, "time": [1200, "s"] },
       "statuses": [
@@ -26133,7 +26272,7 @@
           { "name": "叶倩兰 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 1, "time": [1260, "s"] },
       "statuses": [
@@ -26180,7 +26319,8 @@
           { "name": "戚伊梅" },
           { "name": "楼满芳,杨晔 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [1260, "s"] },
       "statuses": [
@@ -26228,7 +26368,8 @@
           { "name": "缪平安" },
           { "name": "黄莹达,林承浩 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [1500, "s"] },
       "statuses": [
@@ -26272,7 +26413,8 @@
           { "name": "南涵博" },
           { "name": "周林华,陈玉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [1620, "s"] },
       "statuses": [
@@ -26328,7 +26470,8 @@
           { "name": "叶扬" },
           { "name": "陶烨豪,寿颖杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [1620, "s"] },
       "statuses": [
@@ -26382,7 +26525,8 @@
           { "name": "张若莹" },
           { "name": "彭小玲,高兴媛 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [1980, "s"] },
       "statuses": [
@@ -26439,7 +26583,8 @@
           { "name": "徐航毅" },
           { "name": "罗杰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [2040, "s"] },
       "statuses": [
@@ -26501,7 +26646,8 @@
           { "name": "黄安琪" },
           { "name": "徐志烽,林雪燕 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2100, "s"] },
       "statuses": [
@@ -26546,7 +26692,8 @@
           { "name": "林家逸" },
           { "name": "李加亮,徐浙君 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2160, "s"] },
       "statuses": [
@@ -26602,7 +26749,8 @@
           { "name": "程紫烨" },
           { "name": "高奇,徐楠楠 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2220, "s"] },
       "statuses": [
@@ -26653,7 +26801,8 @@
           { "name": "程玉恒" },
           { "name": "唐伟业,单悠然 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2220, "s"] },
       "statuses": [
@@ -26696,7 +26845,8 @@
           { "name": "陈嘉帅" },
           { "name": "戴青锋,张端 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [2220, "s"] },
       "statuses": [
@@ -26751,7 +26901,8 @@
           { "name": "吴联琪" },
           { "name": "韩冰,傅继晗 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2340, "s"] },
       "statuses": [
@@ -26804,7 +26955,8 @@
           { "name": "朱家豪" },
           { "name": "闻红华,颜晶晶 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2640, "s"] },
       "statuses": [
@@ -26867,7 +27019,8 @@
           { "name": "程佳恩" },
           { "name": "彭小满,陈斌 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2640, "s"] },
       "statuses": [
@@ -26920,7 +27073,8 @@
           { "name": "姚静羽" },
           { "name": "楼满芳,蒋雪君 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [2640, "s"] },
       "statuses": [
@@ -26969,7 +27123,8 @@
           { "name": "郑天予" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [2700, "s"] },
       "statuses": [
@@ -27030,7 +27185,8 @@
           { "name": "李智勇" },
           { "name": "谢红标,胡坚 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [3360, "s"] },
       "statuses": [
@@ -27065,7 +27221,8 @@
           { "name": "吴宇承" },
           { "name": "杨婷,唐晓平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [3720, "s"] },
       "statuses": [
@@ -27122,7 +27279,8 @@
           { "name": "王苏杰" },
           { "name": "钱丽丹,林新辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [3720, "s"] },
       "statuses": [
@@ -27189,11 +27347,7 @@
         "name": "欧1打表",
         "id": "2-B81",
         "organization": "天元公学",
-        "teamMembers": [
-          { "name": "徐浩津" },
-          { "name": "任瀚博" },
-          { "name": "应哲" }
-        ],
+        "teamMembers": [{ "name": "徐浩津" }, { "name": "任瀚博" }, { "name": "应哲" }],
         "official": false
       },
       "score": { "value": 1, "time": [3780, "s"] },
@@ -27263,7 +27417,8 @@
           { "name": "庞军" },
           { "name": "童孟军,吴达胜 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [3960, "s"] },
       "statuses": [
@@ -27324,7 +27479,8 @@
           { "name": "张李维" },
           { "name": "高奇,徐楠楠 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [4320, "s"] },
       "statuses": [
@@ -27359,7 +27515,8 @@
           { "name": "杨晓" },
           { "name": "朱涛,杨森 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [4500, "s"] },
       "statuses": [
@@ -27412,7 +27569,8 @@
           { "name": "王祥浩" },
           { "name": "黄莹达,王雨戈 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [4560, "s"] },
       "statuses": [
@@ -27479,7 +27637,8 @@
           { "name": "叶树才" },
           { "name": "闻红华,颜晶晶 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [4740, "s"] },
       "statuses": [
@@ -27562,7 +27721,8 @@
           { "name": "徐锦凡" },
           { "name": "刘海霞,陈淑玉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [4860, "s"] },
       "statuses": [
@@ -27630,7 +27790,7 @@
           { "name": "韩冰,傅继晗 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 1, "time": [4920, "s"] },
       "statuses": [
@@ -27668,11 +27828,7 @@
         "name": "( ˘⊙ω⊙˘ )",
         "id": "4-A23",
         "organization": "杭州师范大学",
-        "teamMembers": [
-          { "name": "贾宜儒" },
-          { "name": "刘彦冰" },
-          { "name": "穆浩元" }
-        ],
+        "teamMembers": [{ "name": "贾宜儒" }, { "name": "刘彦冰" }, { "name": "穆浩元" }],
         "official": false
       },
       "score": { "value": 1, "time": [5100, "s"] },
@@ -27754,7 +27910,8 @@
           { "name": "李芮" },
           { "name": "郑小青,赵燕娟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [5100, "s"] },
       "statuses": [
@@ -27806,7 +27963,8 @@
           { "name": "鲁安鹏" },
           { "name": "单振宇,虞剑波 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [5160, "s"] },
       "statuses": [
@@ -27863,7 +28021,8 @@
           { "name": "俞子轩" },
           { "name": "胡明晓 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [5220, "s"] },
       "statuses": [
@@ -27923,7 +28082,8 @@
           { "name": "余仁杰" },
           { "name": "廖雪峰,范蔡业 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [5340, "s"] },
       "statuses": [
@@ -27988,7 +28148,8 @@
           { "name": "祝晨瑄" },
           { "name": "楼满芳,方慧 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [5760, "s"] },
       "statuses": [
@@ -28037,7 +28198,8 @@
           { "name": "陈佳凌" },
           { "name": "袁利永,周家庆 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [5820, "s"] },
       "statuses": [
@@ -28116,7 +28278,7 @@
           { "name": "张毅,沈谦 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 1, "time": [6000, "s"] },
       "statuses": [
@@ -28163,7 +28325,8 @@
           { "name": "叶温博" },
           { "name": "彭小满,叶福胤 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [6060, "s"] },
       "statuses": [
@@ -28230,7 +28393,8 @@
           { "name": "郑舞" },
           { "name": "刘晓芳,李叶光 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [6120, "s"] },
       "statuses": [
@@ -28304,7 +28468,8 @@
           { "name": "张佳豪" },
           { "name": "郑珺,裘姝平 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [6120, "s"] },
       "statuses": [
@@ -28368,7 +28533,8 @@
           { "name": "李倩" },
           { "name": "郑小青,赵燕娟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [7800, "s"] },
       "statuses": [
@@ -28417,7 +28583,8 @@
           { "name": "刘纪含" },
           { "name": "郑珺,林生佑 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [7860, "s"] },
       "statuses": [
@@ -28508,7 +28675,8 @@
           { "name": "林志凡" },
           { "name": "王奕,徐楠楠 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [8160, "s"] },
       "statuses": [
@@ -28555,7 +28723,8 @@
           { "name": "于江杉" },
           { "name": "石玲玉,王淞昕 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [8220, "s"] },
       "statuses": [
@@ -28635,7 +28804,8 @@
           { "name": "徐浩然" },
           { "name": "陆贝妮,曹雪亚 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [8280, "s"] },
       "statuses": [
@@ -28692,7 +28862,8 @@
           { "name": "何静" },
           { "name": "朱涛,张铮 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [8700, "s"] },
       "statuses": [
@@ -28744,7 +28915,8 @@
           { "name": "程梦雨" },
           { "name": "徐志烽,汪磊 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [8760, "s"] },
       "statuses": [
@@ -28800,7 +28972,8 @@
           { "name": "张乐淇" },
           { "name": "赵强,薛欢欢 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [9120, "s"] },
       "statuses": [
@@ -28840,7 +29013,8 @@
           { "name": "任凌狄" },
           { "name": "王波,高腾 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [9420, "s"] },
       "statuses": [
@@ -28898,7 +29072,8 @@
           { "name": "曹顺" },
           { "name": "王祥荣,姚晋丽 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [9720, "s"] },
       "statuses": [
@@ -28961,7 +29136,8 @@
           { "name": "俞熠聪" },
           { "name": "胡永良,华晓锋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [9780, "s"] },
       "statuses": [
@@ -29031,7 +29207,8 @@
           { "name": "陈广灿" },
           { "name": "徐枫 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [9840, "s"] },
       "statuses": [
@@ -29084,7 +29261,7 @@
           { "name": "蔡承天,周尤明 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 1, "time": [10200, "s"] },
       "statuses": [
@@ -29133,7 +29310,8 @@
           { "name": "曾祺琦" },
           { "name": "张晓莹,季燎原 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [11460, "s"] },
       "statuses": [
@@ -29209,7 +29387,8 @@
           { "name": "佘相东" },
           { "name": "戴青锋,陈少辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [11820, "s"] },
       "statuses": [
@@ -29263,7 +29442,7 @@
           { "name": "陈锋,汪哲丞 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 1, "time": [12240, "s"] },
       "statuses": [
@@ -29356,7 +29535,8 @@
           { "name": "罗成炜" },
           { "name": "高奇,刘雷霆 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [13020, "s"] },
       "statuses": [
@@ -29412,7 +29592,8 @@
           { "name": "陈俊玺" },
           { "name": "张洋,王俊辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [13200, "s"] },
       "statuses": [
@@ -29459,7 +29640,8 @@
           { "name": "周飞洋" },
           { "name": "宣江华,周林华 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [14160, "s"] },
       "statuses": [
@@ -29507,7 +29689,8 @@
           { "name": "唐怡凯" },
           { "name": "汪磊,徐志烽 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [14580, "s"] },
       "statuses": [
@@ -29565,7 +29748,8 @@
           { "name": "张加鹏" },
           { "name": "汪磊,徐志烽 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [15000, "s"] },
       "statuses": [
@@ -29636,7 +29820,8 @@
           { "name": "陈幸星" },
           { "name": "李钧 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [15060, "s"] },
       "statuses": [
@@ -29691,7 +29876,8 @@
           { "name": "高宇航" },
           { "name": "曾平平,王威 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [15060, "s"] },
       "statuses": [
@@ -29751,7 +29937,8 @@
           { "name": "任 泽增" },
           { "name": "周尤明,蔡承天 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [15840, "s"] },
       "statuses": [
@@ -29817,7 +30004,8 @@
           { "name": "周秀平" },
           { "name": "廖雪峰,翁昉昉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [16560, "s"] },
       "statuses": [
@@ -29880,7 +30068,7 @@
           { "name": "徐浙君,张沫 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 1, "time": [17160, "s"] },
       "statuses": [
@@ -29924,7 +30112,8 @@
           { "name": "潘雨栖" },
           { "name": "徐志烽,汪磊 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [17220, "s"] },
       "statuses": [
@@ -29986,7 +30175,8 @@
           { "name": "陈先涛" },
           { "name": "张锦祥 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 1, "time": [20760, "s"] },
       "statuses": [
@@ -30067,7 +30257,8 @@
           { "name": "程兴国" },
           { "name": "陈暄 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 1, "time": [25200, "s"] },
       "statuses": [
@@ -30156,7 +30347,8 @@
           { "name": "" },
           { "name": "李钧 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30187,7 +30379,7 @@
           { "name": "李钧 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["undergraduate", "girl"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30230,7 +30422,8 @@
           { "name": "刘亦珅" },
           { "name": "李钧 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30268,7 +30461,8 @@
           { "name": "蒋凌昊" },
           { "name": "高奇,刘雷霆 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30325,7 +30519,8 @@
           { "name": "李伊婷" },
           { "name": "叶寒锋,王伟 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30383,7 +30578,8 @@
           { "name": "陈乃真" },
           { "name": "周昕,朱涛 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30433,7 +30629,8 @@
           { "name": "杨晶" },
           { "name": "陈宁宇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30473,7 +30670,8 @@
           { "name": "徐欢" },
           { "name": "陈宁宇 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30527,7 +30725,8 @@
           { "name": "应晴" },
           { "name": "赵强,薛欢欢 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30580,7 +30779,7 @@
           { "name": "赵强,薛欢欢 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30635,7 +30834,8 @@
           { "name": "朱嘉瑞" },
           { "name": "应震,谷远虎 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30667,7 +30867,8 @@
           { "name": "曹诗涵" },
           { "name": "张莉,徐海峰 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30725,7 +30926,8 @@
           { "name": "潘宇轩" },
           { "name": "石玲玉,王淞昕 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30794,7 +30996,8 @@
           { "name": "董埈铭" },
           { "name": "伍家成,张洋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30824,7 +31027,8 @@
           { "name": "兰成照" },
           { "name": "王俊辉,张洋 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30873,7 +31077,8 @@
           { "name": "李字墨" },
           { "name": "李娟,王俊辉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30928,7 +31133,8 @@
           { "name": "陈婕" },
           { "name": "颜晶晶,李军 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -30977,7 +31183,8 @@
           { "name": "产语" },
           { "name": "叶福胤,宋少帅 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31022,7 +31229,8 @@
           { "name": "厉倩妤" },
           { "name": "李浩腾,韩祎 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31082,7 +31290,8 @@
           { "name": "顺杨" },
           { "name": "李浩腾,赵静怡 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31136,7 +31345,8 @@
           { "name": "陈辞" },
           { "name": "张毅,孙晨阳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31181,7 +31391,8 @@
           { "name": "张小静" },
           { "name": "张毅,沈谦 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31228,7 +31439,8 @@
           { "name": "陈奕帆" },
           { "name": "张毅,孙晨阳 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31268,7 +31480,8 @@
           { "name": "赖子恩" },
           { "name": "倪美玉,曹为刚 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31318,7 +31531,8 @@
           { "name": "谢陈龙" },
           { "name": "曹为刚,倪美玉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31364,7 +31578,8 @@
           { "name": "王立文" },
           { "name": "林新辉,钱丽丹 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31413,7 +31628,8 @@
           { "name": "周冰心" },
           { "name": "刘海霞,陈淑玉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31474,7 +31690,8 @@
           { "name": "杨佳怡" },
           { "name": "刘海霞,陈淑玉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31544,7 +31761,8 @@
           { "name": "马亚宁" },
           { "name": "刘海霞,陈淑玉 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["undergraduate"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31596,7 +31814,8 @@
           { "name": "杜杭橡" },
           { "name": "沈启光,王鹏 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31644,7 +31863,8 @@
           { "name": "张天瑞" },
           { "name": "李加亮,张沫 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31687,7 +31907,8 @@
           { "name": "李亚楠" },
           { "name": "李加亮,徐浙君 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31730,7 +31951,7 @@
           { "name": "张沫,李加亮 (教练)" }
         ],
         "official": true,
-        "markers": ["female"]
+        "markers": ["vocational", "girl"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31774,7 +31995,8 @@
           { "name": "邱如玲" },
           { "name": "廖智蓉,高兴媛 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31816,7 +32038,8 @@
           { "name": "林俊杰" },
           { "name": "彭小玲,高兴媛 (教练)" }
         ],
-        "official": true
+        "official": true,
+        "markers": ["vocational"]
       },
       "score": { "value": 0, "time": [0, "s"] },
       "statuses": [
@@ -31865,14 +32088,11 @@
     }
   },
   "markers": [
-    { "id": "female", "label": "女队", "style": "pink" },
-    { "id": "undergraduate", "label": "本科组", "style": "purple" },
-    { "id": "vocational", "label": "专科组", "style": "blue" }
+    { "id": "undergraduate", "label": "本科组", "style": "blue" },
+    { "id": "vocational", "label": "专科组", "style": "green" },
+    { "id": "girl", "label": "女队", "style": "pink" }
   ],
-  "contributors": [
-    "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
-  ],
+  "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
     "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
