@@ -18,6 +18,9 @@ root:
             - path: icpc2025srni
               format: srk.json
               name: 2025-06-08 丝绸之路邀请赛
+            - path: icpc49th2025worldfinals
+              format: srk.json
+              name: 2025-09-04 World Finals (49th)
         - path: icpc2024
           name: ICPC 2024
           children:
@@ -372,9 +375,6 @@ root:
         - path: ccpc2025
           name: CCPC 2025
           children:
-            - path: ccpc2025invitational-northeast
-              format: srk.json
-              name: 2025-05-25 东北邀请赛
             - path: ccpc2025invitational-zhengzhou
               format: srk.json
               name: 2025-06-02 郑州邀请赛
@@ -384,6 +384,12 @@ root:
             - path: ccpc2025invitational-fujian
               format: srk.json
               name: 2025-06-21 福建邀请赛
+            - path: ccpc2025invitational-northeast
+              format: srk.json
+              name: 2025-05-25 东北邀请赛
+            - path: ccpc2025invitational-nanchang
+              format: srk.json
+              name: 2025-09-13 南昌邀请赛
         - path: ccpc2024
           name: CCPC 2024
           children:
