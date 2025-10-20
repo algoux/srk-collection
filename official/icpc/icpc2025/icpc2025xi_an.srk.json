@@ -21,8 +21,8 @@
     "algoUX (https://algoux.org)"
   ],
   "remarks": {
-    "zh-CN": "这个榜单的奖牌数据来自滚榜回放和民间信息汇总，奖区配置为 40/80/119。如与实际获奖情况有出入，请等待官方发布最终获奖名单后更新。",
-    "fallback": "TThe medal data for this list comes from replay and folk information with medals rule 40/80/119. If there is any discrepancy with the actual awards, please wait for the official release of the final list to update."
+    "zh-CN": "这个榜单的奖牌数据来自回放和民间信息，使用推测奖区配置：永不并列、以 40/80/119 按数量而非比例进行计算。如与实际获奖情况有出入，请等待官方发布最终获奖名单后更新。",
+    "fallback": "TThe medal data for this list comes from replay and folk information with medals rule 40/80/119 no tied. If there is any discrepancy with the actual awards, please wait for the official release of the final list to update."
   },
   "series": [
     {
