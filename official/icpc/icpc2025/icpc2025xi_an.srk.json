@@ -20,6 +20,10 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
+  "remarks": {
+    "zh-CN": "这个榜单的奖牌数据来自赛事官网。如与实际获奖情况有出入，请等待官方发布最终获奖名单后更新。",
+    "fallback": "The medal data for this ranklist comes from the official website. If there is any discrepancy with the actual awards, please wait for the official release of the final list to update."
+  },
   "series": [
     {
       "title": "#",
@@ -13864,9 +13868,6 @@
           },
           {
             "name": "罗鑫"
-          },
-          {
-            "name": ""
           }
         ],
         "official": false,
@@ -39590,17 +39591,7 @@
           "fallback": "xixin-team1"
         },
         "organization": "西安信息职业大学",
-        "teamMembers": [
-          {
-            "name": ""
-          },
-          {
-            "name": ""
-          },
-          {
-            "name": ""
-          }
-        ],
+        "teamMembers": [],
         "official": false,
         "markers": [],
         "x_photo": "team417.jpg"
