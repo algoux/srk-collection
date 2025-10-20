@@ -21,6 +21,9 @@ root:
             - path: icpc49th2025worldfinals
               format: srk.json
               name: 2025-09-04 World Finals (49th)
+            - path: icpc2025xi_an
+              format: srk.json
+              name: 2025-10-19 西安站
         - path: icpc2024
           name: ICPC 2024
           children:
