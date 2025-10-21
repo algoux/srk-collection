@@ -44,12 +44,8 @@
       "rule": {
         "preset": "ICPC",
         "options": {
-          "count": {
-            "value": [
-              40,
-              80,
-              119
-            ],
+          "ratio": {
+            "value": [0.1, 0.2, 0.3],
             "noTied": true
           }
         }
@@ -10633,10 +10629,10 @@
             "name": "胡远卓"
           },
           {
-            "name": "周骁坤"
+            "name": "杨展途"
           },
           {
-            "name": "杨展途"
+            "name": "葛轩铭"
           }
         ],
         "official": true,
