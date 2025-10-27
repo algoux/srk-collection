@@ -393,6 +393,9 @@ root:
             - path: ccpc2025invitational-nanchang
               format: srk.json
               name: 2025-09-13 南昌邀请赛
+            - path: ccpc2025ladies
+              format: srk.json
+              name: 2025-10-26 女生赛
         - path: ccpc2024
           name: CCPC 2024
           children:
