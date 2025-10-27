@@ -49,11 +49,11 @@
       "rule": {
         "preset": "ICPC",
         "options": {
-          "count": {
+          "ratio": {
             "value": [
-              0,
-              0,
-              0
+              0.1,
+              0.2,
+              0.3
             ]
           }
         }
