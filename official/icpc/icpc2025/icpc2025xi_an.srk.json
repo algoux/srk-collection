@@ -2466,6 +2466,17 @@
           "fallback": "wanna be free"
         },
         "organization": "西北工业大学",
+        "teamMembers": [
+          {
+            "name": "尹新祥"
+          },
+          {
+            "name": "程文楷"
+          },
+          {
+            "name": "龚熙尧"
+          }
+        ],
         "official": false,
         "markers": []
       },
@@ -3216,9 +3227,9 @@
       "user": {
         "id": "28",
         "name": {
-          "zh-CN": "此队伍名由AI生成(",
-          "en": "AI generated)",
-          "fallback": "AI generated)"
+          "zh-CN": "此队伍名由AI生成",
+          "en": "(AI generated)",
+          "fallback": "(AI generated)"
         },
         "organization": "北京邮电大学",
         "teamMembers": [
@@ -14140,9 +14151,9 @@
       "user": {
         "id": "248",
         "name": {
-          "zh-CN": "()不是回文(",
-          "en": ") is not a palindrome",
-          "fallback": ") is not a palindrome"
+          "zh-CN": "()不是回文",
+          "en": "() is not a palindrome",
+          "fallback": "() is not a palindrome"
         },
         "organization": "上海纽约大学",
         "teamMembers": [
@@ -14822,9 +14833,9 @@
       "user": {
         "id": "111",
         "name": {
-          "zh-CN": "呆头呆脑(brain.push",
-          "en": ")",
-          "fallback": ")"
+          "zh-CN": "呆头呆脑",
+          "en": "brain.push()",
+          "fallback": "brain.push()"
         },
         "organization": "河南理工大学",
         "teamMembers": [
@@ -20056,9 +20067,9 @@
       "user": {
         "id": "347",
         "name": {
-          "zh-CN": "不吃香菜(acm版)(Never eat cilantro",
-          "en": "acm version)",
-          "fallback": "acm version)"
+          "zh-CN": "不吃香菜(acm版)",
+          "en": "cilantro(acmversion)",
+          "fallback": "cilantro(acmversion)"
         },
         "organization": "浙江财经大学",
         "teamMembers": [
@@ -25763,9 +25774,9 @@
       "user": {
         "id": "317",
         "name": {
-          "zh-CN": "（O）998244353(",
-          "en": "O)998244353",
-          "fallback": "O)998244353"
+          "zh-CN": "（O）998244353",
+          "en": "(O)998244353",
+          "fallback": "(O)998244353"
         },
         "organization": "西南民族大学",
         "teamMembers": [
@@ -26300,9 +26311,9 @@
       "user": {
         "id": "140",
         "name": {
-          "zh-CN": "开O4应该能过吧(#pragma GCC optimize",
-          "en": "\"O4\")",
-          "fallback": "\"O4\")"
+          "zh-CN": "开O4应该能过吧",
+          "en": "#pragma GCC optimize(\"O4\")",
+          "fallback": "#pragma GCC optimize(\"O4\")"
         },
         "organization": "华南农业大学",
         "teamMembers": [
@@ -29420,9 +29431,9 @@
       "user": {
         "id": "381",
         "name": {
-          "zh-CN": "码到成功(O",
-          "en": "nly)1%",
-          "fallback": "nly)1%"
+          "zh-CN": "码到成功",
+          "en": "O(nly)1%",
+          "fallback": "O(nly)1%"
         },
         "organization": "中国矿业大学",
         "teamMembers": [
@@ -30223,9 +30234,9 @@
       "user": {
         "id": "179",
         "name": {
-          "zh-CN": "打铁之后打螺丝(world.search",
-          "en": "job)=NULL",
-          "fallback": "job)=NULL"
+          "zh-CN": "打铁之后打螺丝",
+          "en": "world.search(job)=NULL",
+          "fallback": "world.search(job)=NULL"
         },
         "organization": "南华大学",
         "teamMembers": [
@@ -36604,9 +36615,9 @@
       "user": {
         "id": "371",
         "name": {
-          "zh-CN": "return inv(wa);(return inv",
-          "en": "wa);",
-          "fallback": "wa);"
+          "zh-CN": "return inv(wa);",
+          "en": "return inv(wa);",
+          "fallback": "return inv(wa);"
         },
         "organization": "中国传媒大学",
         "teamMembers": [
