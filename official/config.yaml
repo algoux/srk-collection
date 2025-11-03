@@ -27,6 +27,9 @@ root:
             - path: icpc2025chengdu
               format: srk.json
               name: 2025-10-26 成都站
+            - path: icpc2025wuhan
+              format: srk.json
+              name: 2025-11-02 武汉站
         - path: icpc2024
           name: ICPC 2024
           children:
