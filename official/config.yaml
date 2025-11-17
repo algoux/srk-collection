@@ -33,6 +33,9 @@ root:
             - path: icpc2025nanjing
               format: srk.json
               name: 2025-11-09 南京站
+            - path: icpc2025shenyang
+              format: srk.json
+              name: 2025-11-16 沈阳站
         - path: icpc2024
           name: ICPC 2024
           children:
@@ -408,6 +411,9 @@ root:
             - path: ccpc2025harbin
               format: srk.json
               name: 2025-11-09 哈尔滨站
+            - path: ccpc2025jinan
+              format: srk.json
+              name: 2025-11-16 济南站
         - path: ccpc2024
           name: CCPC 2024
           children:
