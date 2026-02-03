@@ -579,9 +579,6 @@ root:
         - path: ccpc2017
           name: CCPC 2017
           children:
-            - path: ccpc2017hangzhou-hdu
-              format: srk.json
-              name: 2017-??-?? 杭州 (HDU)
             - path: ccpc2017shenyang
               format: srk.json
               name: 2017-??-?? 沈阳
