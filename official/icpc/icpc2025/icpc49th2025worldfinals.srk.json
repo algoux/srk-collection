@@ -5,7 +5,8 @@
     "title": { "zh-CN": "The 49th ICPC World Finals", "fallback": "The 49th ICPC World Finals" },
     "startAt": "2025-09-04T14:48:46+08:00",
     "duration": [5, "h"],
-    "frozenDuration": [1, "h"]
+    "frozenDuration": [1, "h"],
+    "banner": "assets/banner.svg"
   },
   "problems": [
     {
