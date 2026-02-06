@@ -42,6 +42,9 @@ root:
             - path: icpc2025hongkong
               format: srk.json
               name: 2025-11-30 香港站
+            - path: icpc2025ecfinal
+              format: srk.json
+              name: 2026-02-02 EC Final
         - path: icpc2024
           name: ICPC 2024
           children:
@@ -63,6 +66,9 @@ root:
             - path: icpc2024srni
               format: srk.json
               name: 2024-06-09 丝绸之路邀请赛
+            - path: icpc48th2024worldfinals
+              format: srk.json
+              name: 2024-09-19 World Finals (48th)
             - path: icpc2024chengdu
               format: srk.json
               name: 2024-10-27 成都站
