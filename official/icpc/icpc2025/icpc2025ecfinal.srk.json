@@ -3,12 +3,14 @@
   "version": "0.3.9",
   "contest": {
     "title": {
-      "zh-CN": "The \"Huawei Cup\" 50th ICPC Asia East Continent Final Contest",
+      "zh-CN": "“华为杯”第50届ICPC国际大学生程序设计竞赛东亚区总决赛",
+      "en": "The \"Huawei Cup\" 50th ICPC Asia East Continent Final Contest",
       "fallback": "The \"Huawei Cup\" 50th ICPC Asia East Continent Final Contest"
     },
     "startAt": "2026-02-02T09:05:00+08:00",
     "duration": [5, "h"],
-    "frozenDuration": [0, "h"]
+    "frozenDuration": [1, "h"],
+    "banner": "assets/banner.png"
   },
   "problems": [
     {
