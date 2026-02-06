@@ -6,9 +6,9 @@ root:
         - path: icpc2026
           name: ICPC 2026
           children:
-            - path: icpc50th2026ecfinal
+            - path: icpc2026ecfinal
               format: srk.json
-              name: 2026-02-02 EC Final (50th)
+              name: 2026-02-02 EC Final
         - path: icpc2025
           name: ICPC 2025
           children:
