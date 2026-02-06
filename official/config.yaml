@@ -3,15 +3,12 @@ root:
     - path: icpc
       name: ICPC
       children:
-        - path: icpc2026
-          name: ICPC 2026
-          children:
-            - path: icpc2026ecfinal
-              format: srk.json
-              name: 2026-02-02 EC Final
         - path: icpc2025
           name: ICPC 2025
           children:
+            - path: icpc2025ecfinal
+              format: srk.json
+              name: 2026-02-02 EC Final
             - path: icpc2025invitational-wuhan
               format: srk.json
               name: 2025-04-27 武汉邀请赛
@@ -51,6 +48,9 @@ root:
         - path: icpc2024
           name: ICPC 2024
           children:
+            - path: icpc48th2024worldfinals
+              format: srk.json
+              name: 2024-09-19 World Finals (48th)
             - path: icpc46th2024worldfinals
               format: srk.json
               name: 2024-04-18 World Finals (46th)
