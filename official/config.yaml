@@ -570,6 +570,9 @@ root:
         - path: ccpc2018
           name: CCPC 2018
           children:
+            - path: ccpc2018invitational-xiangtan
+              format: srk.json
+              name: 2018-05-13 湘潭邀请赛
             - path: ccpc2018jilin
               format: srk.json
               name: 2018-09-22 吉林站
