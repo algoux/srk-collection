@@ -864,6 +864,9 @@ root:
             - path: hncpc19th
               format: srk.json
               name: 2023-09-17 第十九届
+            - path: hncpc15th
+              format: srk.json
+              name: 2019-08-30 第十五届
         - path: gd
           name: 广东省赛
           children:
