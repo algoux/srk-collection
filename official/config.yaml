@@ -210,6 +210,9 @@ root:
         - path: icpc2019
           name: ICPC 2019
           children:
+            - path: icpc2019invitational-xi_an
+              format: srk.json
+              name: 2019-05-19 西安邀请赛
             - path: icpc2019yinchuan
               format: srk.json
               name: 2019-10-20 银川站
