@@ -16,7 +16,16 @@
       1,
       "h"
     ],
-    "banner": "assets/banner.png"
+    "banner": "assets/banner.png",
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2019nanjing"
+      }
+    ]
   },
   "contributors": [
     "algoUX (https://algoux.org)"
