@@ -216,6 +216,9 @@ root:
             - path: icpc2019yinchuan
               format: srk.json
               name: 2019-10-20 银川站
+            - path: icpc2019nanjing
+              format: srk.json
+              name: 2019-10-27 南京站
             - path: icpc2019nanchang
               format: srk.json
               name: 2019-11-11 南昌站
