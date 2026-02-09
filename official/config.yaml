@@ -225,6 +225,9 @@ root:
             - path: icpc2019shenyang
               format: srk.json
               name: 2019-11-17 沈阳站
+            - path: icpc2019shanghai
+              format: srk.json
+              name: 2019-11-24 上海站
             - path: icpc2019ecfinal
               format: srk.json
               name: 2019-12-15 EC Final
