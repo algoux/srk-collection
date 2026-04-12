@@ -3,6 +3,12 @@ root:
     - path: icpc
       name: ICPC
       children:
+        - path: icpc2026
+          name: ICPC 2026
+          children:
+            - path: icpc2026invitational-shenzhen
+              format: srk.json
+              name: 2026-04-11 深圳邀请赛
         - path: icpc2025
           name: ICPC 2025
           children:
