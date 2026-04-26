@@ -753,7 +753,7 @@ root:
         - path: zj
           name: 浙江省赛
           children:
-            - path: zjcpc23th
+            - path: zjcpc23rd
               format: srk.json
               name: 2026-04-25 第二十三届
             - path: zjcpc22nd
