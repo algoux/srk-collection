@@ -25,10 +25,6 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "series": [
     {
       "title": "#",
@@ -51,9 +47,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              14,
+              23,
+              39
             ]
           }
         }
@@ -2669,7 +2665,7 @@
     {
       "user": {
         "id": "134",
-        "name": "*呆呆鸟",
+        "name": "呆呆鸟",
         "organization": "北京大学",
         "teamMembers": [
           {
@@ -11994,7 +11990,7 @@
     {
       "user": {
         "id": "138",
-        "name": "*关于我搬进腾讯广州总部大楼办公这件事",
+        "name": "关于我搬进腾讯广州总部大楼办公这件事",
         "organization": "腾讯",
         "teamMembers": [
           {
@@ -14306,7 +14302,7 @@
     {
       "user": {
         "id": "136",
-        "name": "*Avenir Group-#N/A",
+        "name": "Avenir Group-#N/A",
         "organization": "西北工业大学",
         "teamMembers": [
           {
@@ -23477,7 +23473,7 @@
     {
       "user": {
         "id": "137",
-        "name": "*建行-先锋",
+        "name": "建行-先锋",
         "organization": "南阳理工学院",
         "teamMembers": [
           {
@@ -23983,7 +23979,7 @@
     {
       "user": {
         "id": "135",
-        "name": "*移动-惊天三条区",
+        "name": "移动-惊天三条区",
         "organization": "北京航空航天大学",
         "teamMembers": [
           {
@@ -25488,7 +25484,7 @@
     {
       "user": {
         "id": "101",
-        "name": "*CCPC so free",
+        "name": "CCPC so free",
         "organization": "浙江机电职业技术大学",
         "teamMembers": [
           {
