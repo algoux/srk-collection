@@ -9,6 +9,9 @@ root:
             - path: icpc2026invitational-shenzhen
               format: srk.json
               name: 2026-04-11 深圳邀请赛
+            - path: icpc2026invitational-xi_an
+              format: srk.json
+              name: 2026-05-02 西安邀请赛
         - path: icpc2025
           name: ICPC 2025
           children:
@@ -753,6 +756,9 @@ root:
         - path: zj
           name: 浙江省赛
           children:
+            - path: zjcpc23rd
+              format: srk.json
+              name: 2026-04-25 第二十三届
             - path: zjcpc22nd
               format: srk.json
               name: 2025-04-26 第二十二届
