@@ -1005,3 +1005,9 @@ root:
             - path: sdutpc14
               format: srk.json
               name: 2022-05-29 第十四届
+        - path: cityudg
+          name: 香港城市大学（东莞）
+          children:
+            - path: cityudg2025
+              format: srk.json
+              name: 2023-09-27 港城莞校赛2025
