@@ -23,7 +23,8 @@
     ]
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "白欣欣"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
@@ -51,9 +52,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              15,
+              7,
+              14
             ]
           }
         }
@@ -3861,7 +3862,7 @@
     {
       "user": {
         "id": "13",
-        "name": "*反NOI条款",
+        "name": "反NOI条款",
         "organization": "清华大学",
         "teamMembers": [
           {
@@ -18611,7 +18612,7 @@
     {
       "user": {
         "id": "48",
-        "name": "*517编程1队",
+        "name": "517编程1队",
         "organization": "浙江理工大学",
         "teamMembers": [
           {
@@ -20940,7 +20941,7 @@
     {
       "user": {
         "id": "47",
-        "name": "*517编程2队",
+        "name": "517编程2队",
         "organization": "浙江理工大学",
         "teamMembers": [
           {
