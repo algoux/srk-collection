@@ -1,0 +1,2198 @@
+{
+  "type": "general",
+  "version": "0.3.12",
+  "contest": {
+    "title": {
+      "fallback": "The 2nd Universal Cup Finals"
+    },
+    "startAt": "2025-02-22T10:30:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ],
+    "frozenDuration": [
+      1,
+      "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单",
+          "fallback": "Original Ranklist"
+        },
+        "link": "https://scoreboard.ucup.ac/2025/"
+      },
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://contest.ucup.ac/contest/1919"
+      }
+    ]
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              3,
+              4,
+              5
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "noPenaltyResults": [
+        "FB",
+        "AC",
+        "?",
+        "NOUT",
+        "CE",
+        "UKE",
+        null
+      ],
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "min"
+    }
+  },
+  "markers": [],
+  "problems": [
+    {
+      "alias": "A",
+      "title": "Traveling in Cells 2",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10099",
+      "style": {
+        "backgroundColor": "#FFC0CB",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 0
+      }
+    },
+    {
+      "alias": "B",
+      "title": "Exchanging Kubic 3",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10100",
+      "style": {
+        "backgroundColor": "#000000",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 5
+      }
+    },
+    {
+      "alias": "C",
+      "title": "Longest Increasing Subsequence",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10101",
+      "style": {
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 18,
+        "submitted": 43
+      }
+    },
+    {
+      "alias": "D",
+      "title": "Puzzle: Nurikabe",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10102",
+      "style": {
+        "backgroundColor": "#00008B",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 4,
+        "submitted": 21
+      }
+    },
+    {
+      "alias": "E",
+      "title": "Quad Kingdoms Chess 2",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10103",
+      "style": {
+        "backgroundColor": "#800080",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 3
+      }
+    },
+    {
+      "alias": "F",
+      "title": "World of Rains",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10104",
+      "style": {
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 17,
+        "submitted": 35
+      }
+    },
+    {
+      "alias": "G",
+      "title": "Circular Parterre",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10105",
+      "style": {
+        "backgroundColor": "#ADD8E6",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 0
+      }
+    },
+    {
+      "alias": "H",
+      "title": "Homeward Glance",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10106",
+      "style": {
+        "backgroundColor": "#00ffff",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 3,
+        "submitted": 5
+      }
+    },
+    {
+      "alias": "I",
+      "title": "Deciding Game",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10107",
+      "style": {
+        "backgroundColor": "#A52A2A",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 20,
+        "submitted": 33
+      }
+    },
+    {
+      "alias": "J",
+      "title": "Divide the String",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10108",
+      "style": {
+        "backgroundColor": "#C0C0C0",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 20,
+        "submitted": 42
+      }
+    },
+    {
+      "alias": "K",
+      "title": "Master of Modular Arithmetic",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10109",
+      "style": {
+        "backgroundColor": "#002200",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 5,
+        "submitted": 28
+      }
+    },
+    {
+      "alias": "L",
+      "title": "Not Another Constructive Problem",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10110",
+      "style": {
+        "backgroundColor": "#FFA500",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 20,
+        "submitted": 32
+      }
+    },
+    {
+      "alias": "M",
+      "title": "Dividing Chains",
+      "link": "https://contest.ucup.ac/contest/1919/problem/10111",
+      "style": {
+        "backgroundColor": "#FFFFFF",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 4,
+        "submitted": 13
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "2",
+        "name": "USA1",
+        "official": true,
+        "location": "A1",
+        "photo": "assets/A1.jpg",
+        "teamMembers": [
+          {
+            "name": "Gennady Korotkevich (tourist)"
+          },
+          {
+            "name": "Kevin Sun (ksun48)"
+          },
+          {
+            "name": "Andrew Lawrence He (ecnerwala)"
+          }
+        ]
+      },
+      "score": {
+        "value": 10,
+        "time": [
+          1388,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            96,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            274,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "FB",
+          "time": [
+            222,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            72,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            44,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            10,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "FB",
+          "time": [
+            35,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            247,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            87,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "FB",
+          "time": [
+            121,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "16",
+        "name": "03 Slimes",
+        "official": true,
+        "location": "C1",
+        "photo": "assets/C1.jpg",
+        "teamMembers": [
+          {
+            "name": "Kangyang Zhou (orzdevinwang)"
+          },
+          {
+            "name": "Mingyang Deng (heuristica)"
+          },
+          {
+            "name": "Ziqian Zhong (TLE)"
+          }
+        ]
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1928,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            254,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            182,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "FB",
+          "time": [
+            210,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            193,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            291,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            119,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            148,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            113,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "9",
+        "name": "HoMaMaOvO",
+        "official": true,
+        "location": "B1",
+        "photo": "assets/B1.jpg",
+        "teamMembers": [
+          {
+            "name": "Riku Kawasaki (maroonrk)"
+          },
+          {
+            "name": "Yui Hosaka (hos.lyric)"
+          },
+          {
+            "name": "Masaki Nishimoto (maspy)"
+          }
+        ]
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1273,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            114,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            297,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            210,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            12,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            70,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            230,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "FB",
+          "time": [
+            37,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            143,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "3",
+        "name": "Polish Mafia",
+        "official": true,
+        "location": "A2",
+        "photo": "assets/A2.jpg",
+        "teamMembers": [
+          {
+            "name": "Marcin Smulewicz (Marcin_smu)"
+          },
+          {
+            "name": "Mateusz Radecki (Radewoosh)"
+          },
+          {
+            "name": "Wojciech Krzysztof Nadara (Swistakk)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          790,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            118,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            270,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            54,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            11,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            102,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            155,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "12",
+        "name": "Zhiyuan Star",
+        "official": true,
+        "location": "B4",
+        "photo": "assets/B4.jpg",
+        "teamMembers": [
+          {
+            "name": "Penghao Zhai (PersistentLife)"
+          },
+          {
+            "name": "Xubei Zhong (AlternatingCurrent)"
+          },
+          {
+            "name": "Qiwen Xu (Kevin114514)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          937,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            184,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            25,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            97,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            119,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            293,
+            "min"
+          ],
+          "tries": 5
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "14",
+        "name": "Dvoe protiv vetra",
+        "official": true,
+        "location": "B6",
+        "photo": "assets/B6.jpg",
+        "teamMembers": [
+          {
+            "name": "Pavel Mavrin (pashka)"
+          },
+          {
+            "name": "Egor Kulikov (Egor)"
+          },
+          {
+            "name": "Borys Minaiev (qwerty787788)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          938,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            181,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            68,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            10,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            145,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            106,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            228,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "19",
+        "name": "Yolki-palki",
+        "official": true,
+        "location": "C4",
+        "photo": "assets/C4.jpg",
+        "teamMembers": [
+          {
+            "name": "Denis Mustafin (Kapt)"
+          },
+          {
+            "name": "Vsevolod Nagibin (Pechalka)"
+          },
+          {
+            "name": "Tikhon Evteev (Tikhon228)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1104,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            290,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            266,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            173,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            180,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            97,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "21",
+        "name": "TEMP team name",
+        "official": true,
+        "location": "C6",
+        "photo": "assets/C6.jpg",
+        "teamMembers": [
+          {
+            "name": "Hengxi Liu (liuhengxi)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          608,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            163,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            188,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            132,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            68,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "5",
+        "name": "Naive Birds",
+        "official": true,
+        "location": "A4",
+        "photo": "assets/A4.jpg",
+        "teamMembers": [
+          {
+            "name": "Xiangwen Wang (LJC00118)"
+          },
+          {
+            "name": "Weicheng Wang (wasa855)"
+          },
+          {
+            "name": "Anyi Xu (xay5421)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          625,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            49,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            119,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            26,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            149,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            162,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "18",
+        "name": "lunch break at 4:30",
+        "official": true,
+        "location": "C3",
+        "photo": "assets/C3.jpg",
+        "teamMembers": [
+          {
+            "name": "Ivan Safonov (isaf27)"
+          },
+          {
+            "name": "Maksim Gorokhovskii (Maksim1744)"
+          },
+          {
+            "name": "Ramazan Rakhmatullin (never_giveup)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          672,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            181,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            167,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            113,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            193,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "6",
+        "name": "UT a.k.a Is",
+        "official": true,
+        "location": "A5",
+        "photo": "assets/A5.jpg",
+        "teamMembers": [
+          {
+            "name": "Hirotaka Isa (HIR180)"
+          },
+          {
+            "name": "Yuta Takaya (yutaka1999)"
+          },
+          {
+            "name": "Takuya Inoue (yokozuna57)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          727,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            189,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            118,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            128,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            210,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "8",
+        "name": "open your brain",
+        "official": true,
+        "location": "A7",
+        "photo": "assets/A7.jpg",
+        "teamMembers": [
+          {
+            "name": "Yanru Guan (wygzgyw)"
+          },
+          {
+            "name": "Jianfeng Zhu (aaaaawa)"
+          },
+          {
+            "name": "Zhi Zhang (Wu_Ren)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          779,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            112,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            159,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            39,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            260,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            129,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "11",
+        "name": "Let it Rot",
+        "official": true,
+        "location": "B3",
+        "photo": "assets/B3.jpg",
+        "teamMembers": [
+          {
+            "name": "Yi Qian (skip2004)"
+          },
+          {
+            "name": "Bo Peng (p_b_p_b)"
+          },
+          {
+            "name": "Shiyuan Feng (Warriors_fsy)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          785,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            87,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            205,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            55,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            142,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            196,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "4",
+        "name": "Almost Retired Dandelion",
+        "official": true,
+        "location": "A3",
+        "photo": "assets/A3.jpg",
+        "teamMembers": [
+          {
+            "name": "Oleg Merkurev (Merkurev)"
+          },
+          {
+            "name": "Aleksei Daniliuk (Um_nik)"
+          },
+          {
+            "name": "Nikolay Kalinin (KAN)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          804,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            199,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            258,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            157,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "15",
+        "name": "Nemesis",
+        "official": true,
+        "location": "B7",
+        "photo": "assets/B7.jpg",
+        "teamMembers": [
+          {
+            "name": "Jianjun Zhang (zhangjianjuncd)"
+          },
+          {
+            "name": "Zonghan Yang (-14)"
+          },
+          {
+            "name": "MingChi Zhang (Imakf)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          809,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            145,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            273,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            15,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            104,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            212,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "10",
+        "name": "Mei Dui Yao",
+        "official": true,
+        "location": "B2",
+        "photo": "assets/B2.jpg",
+        "teamMembers": [
+          {
+            "name": "JinCheng Zhai (Chinese_zjc_)"
+          },
+          {
+            "name": "Jiyu Shen (PubabaOnO)"
+          },
+          {
+            "name": "Qiuyang Zhang (froggyzhang)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          846,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            134,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            260,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            15,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            100,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            277,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "7",
+        "name": "japan406364961",
+        "official": true,
+        "location": "A6",
+        "photo": "assets/A6.jpg",
+        "teamMembers": [
+          {
+            "name": "Ryo Takahashi (kotatsugame)"
+          },
+          {
+            "name": "Takuto Koriyama (risujiroh)"
+          },
+          {
+            "name": "Masanori Ogiwara (Nyaan)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          877,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            167,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            299,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            77,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            232,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "17",
+        "name": "P+P+P",
+        "official": true,
+        "location": "C2",
+        "photo": "assets/C2.jpg",
+        "teamMembers": [
+          {
+            "name": "Yahor Dubovik (244mhq)"
+          },
+          {
+            "name": "Sergei Zolotarev (353cerega)"
+          },
+          {
+            "name": "Batyr Sardarbekov (998batrr)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          935,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            216,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            225,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            9,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            85,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            200,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "13",
+        "name": "Amstelpark",
+        "official": true,
+        "location": "B5",
+        "photo": "assets/B5.jpg",
+        "teamMembers": [
+          {
+            "name": "Pavel Kunyavskiy (PavelKunyavskiy)"
+          },
+          {
+            "name": "Mikhail Ipatov (LHiC)"
+          },
+          {
+            "name": "Alice Sayutina (cdkrot)"
+          }
+        ]
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          523,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            185,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            199,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            101,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "20",
+        "name": "tritr",
+        "official": true,
+        "location": "C5",
+        "photo": "assets/C5.jpg",
+        "teamMembers": [
+          {
+            "name": "Ryuto Kojima (SPD_9X2)"
+          },
+          {
+            "name": "Keita Murase (tute7627)"
+          },
+          {
+            "name": "Rin Saiki (rin204)"
+          }
+        ]
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          447,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            14,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            269,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            84,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        }
+      ]
+    }
+  ]
+}

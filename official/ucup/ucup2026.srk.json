@@ -1,0 +1,5406 @@
+{
+  "type": "general",
+  "version": "0.3.12",
+  "contest": {
+    "title": {
+      "fallback": "The 3rd Universal Cup Finals"
+    },
+    "startAt": "2026-05-10T10:00:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ],
+    "frozenDuration": [
+      1,
+      "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单",
+          "fallback": "Original Ranklist"
+        },
+        "link": "https://scoreboard.ucup.ac/2026/"
+      },
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://contest.ucup.ac/contest/3736"
+      }
+    ],
+    "banner": "assets/ucup2026.png"
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              3,
+              4,
+              5
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "noPenaltyResults": [
+        "FB",
+        "AC",
+        "?",
+        "NOUT",
+        "CE",
+        "UKE",
+        null
+      ],
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "min"
+    }
+  },
+  "markers": [],
+  "problems": [
+    {
+      "alias": "A",
+      "title": "White Night 2",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18199",
+      "style": {
+        "backgroundColor": "rgb(135, 0, 9)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 5,
+        "submitted": 39
+      }
+    },
+    {
+      "alias": "B",
+      "title": "Alternative Accounts 2",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18200",
+      "style": {
+        "backgroundColor": "rgb(255, 192, 203)",
+        "textColor": "rgb(0, 0, 0)"
+      },
+      "statistics": {
+        "accepted": 3,
+        "submitted": 7
+      }
+    },
+    {
+      "alias": "C",
+      "title": "Ring of Beads",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18201",
+      "style": {
+        "backgroundColor": "rgb(243, 156, 42)",
+        "textColor": "rgb(0, 0, 0)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 6
+      }
+    },
+    {
+      "alias": "D",
+      "title": "DFS Order 6",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18202",
+      "style": {
+        "backgroundColor": "rgb(0, 131, 189)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 10
+      }
+    },
+    {
+      "alias": "E",
+      "title": "Back Edges",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18203",
+      "style": {
+        "backgroundColor": "rgb(115, 78, 155)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 23,
+        "submitted": 40
+      }
+    },
+    {
+      "alias": "F",
+      "title": "Sticks 2",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18204",
+      "style": {
+        "backgroundColor": "rgb(0, 163, 80)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 9
+      }
+    },
+    {
+      "alias": "G",
+      "title": "Art of Data Structures",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18205",
+      "style": {
+        "backgroundColor": "rgb(227, 0, 68)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 15
+      }
+    },
+    {
+      "alias": "H",
+      "title": "Guess the Permutation",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18206",
+      "style": {
+        "backgroundColor": "rgb(136, 12, 131)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 20,
+        "submitted": 49
+      }
+    },
+    {
+      "alias": "I",
+      "title": "Defense Line",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18207",
+      "style": {
+        "backgroundColor": "rgb(241, 151, 113)",
+        "textColor": "rgb(0, 0, 0)"
+      },
+      "statistics": {
+        "accepted": 23,
+        "submitted": 65
+      }
+    },
+    {
+      "alias": "J",
+      "title": "Emergency Pipeline Repair",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18208",
+      "style": {
+        "backgroundColor": "rgb(0, 0, 0)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 0
+      }
+    },
+    {
+      "alias": "K",
+      "title": "Call You With Your Name 3",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18209",
+      "style": {
+        "backgroundColor": "rgb(166, 166, 166)",
+        "textColor": "rgb(0, 0, 0)"
+      },
+      "statistics": {
+        "accepted": 19,
+        "submitted": 61
+      }
+    },
+    {
+      "alias": "L",
+      "title": "Hanoi Tower Puzzle",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18210",
+      "style": {
+        "backgroundColor": "rgb(42, 77, 159)",
+        "textColor": "rgb(255, 255, 255)"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 1
+      }
+    },
+    {
+      "alias": "M",
+      "title": "Minesweeper",
+      "link": "https://contest.ucup.ac/contest/3736/problem/18211",
+      "style": {
+        "backgroundColor": "rgb(255, 216, 0)",
+        "textColor": "rgb(0, 0, 0)"
+      },
+      "statistics": {
+        "accepted": 18,
+        "submitted": 84
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "team01",
+        "name": "USA1",
+        "official": true,
+        "location": "A1",
+        "photo": "assets/team01.jpg",
+        "teamMembers": [
+          {
+            "name": "Andrew He (ecnerwala)"
+          },
+          {
+            "name": "Kevin Sun (ksun48)"
+          },
+          {
+            "name": "Gennady Korotkevich (tourist)"
+          }
+        ]
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1573,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            209,
+            "min"
+          ],
+          "tries": 5,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                79,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                191,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                193,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                194,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                209,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "FB",
+          "time": [
+            200,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                106,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                115,
+                "min"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                200,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                20,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "FB",
+          "time": [
+            265,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                235,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                241,
+                "min"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                265,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            138,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                138,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            45,
+            "min"
+          ],
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                11,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                12,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                18,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                25,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                32,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                45,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            189,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                111,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                158,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                189,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                292,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            167,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                153,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                159,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                167,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team21",
+        "name": "Amstelpark",
+        "official": true,
+        "location": "F2",
+        "photo": "assets/team21.jpg",
+        "teamMembers": [
+          {
+            "name": "Pavel Kunyavskiy (PavelKunyavskiy)"
+          },
+          {
+            "name": "Artem Vasilyev (VArtem)"
+          },
+          {
+            "name": "Mikhail Ipatov (LHiC)"
+          }
+        ]
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1252,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            265,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                226,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                230,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                265,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            254,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                218,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                254,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            43,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                43,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            146,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                92,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                95,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                146,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            55,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                37,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                55,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            160,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                160,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            169,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                144,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                166,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                169,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team07",
+        "name": "Flammable Dumpster",
+        "official": true,
+        "location": "B3",
+        "photo": "assets/team07.jpg",
+        "teamMembers": [
+          {
+            "name": "Lin Wu (le0n)"
+          },
+          {
+            "name": "Pengrui Zhu (Flamire)"
+          },
+          {
+            "name": "Qingyang Li (liqingyang)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          939,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            236,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                236,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            36,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                36,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            116,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                105,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                116,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            75,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                66,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                75,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            153,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                150,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                153,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            263,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                263,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team14",
+        "name": "FreakPlus",
+        "official": true,
+        "location": "D2",
+        "photo": "assets/team14.jpg",
+        "teamMembers": [
+          {
+            "name": "Hengxi Liu (BreakPlay)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1016,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            287,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                276,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                285,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                287,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                59,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            178,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                178,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            87,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                33,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                87,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            113,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                113,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            212,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                208,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                208,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                212,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team10",
+        "name": "arvin and errogame",
+        "official": true,
+        "location": "C2",
+        "photo": "assets/team10.jpg",
+        "teamMembers": [
+          {
+            "name": "Yuto Watanabe (yuto1115)"
+          },
+          {
+            "name": "Yui Hin Arvin Leung (arvindf232)"
+          },
+          {
+            "name": "Ashley Aragorn Khoo (errorgorn)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1062,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            275,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                275,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            41,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                41,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "RJ",
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                213,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                284,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            112,
+            "min"
+          ],
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                65,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                77,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                80,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                98,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                109,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                112,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            114,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                57,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                68,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                96,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                114,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            171,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                171,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            189,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                189,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team04",
+        "name": "Transcend Lights",
+        "official": true,
+        "location": "A4",
+        "photo": "assets/team04.jpg",
+        "teamMembers": [
+          {
+            "name": "Qiwen Xu (Kevin114514)"
+          },
+          {
+            "name": "Nuo Chen (dXqwq)"
+          },
+          {
+            "name": "Fanyou He (grass8sheep)"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1120,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "FB",
+          "time": [
+            179,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                165,
+                "min"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                179,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 8,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                280,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                289,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                293,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                294,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                294,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                296,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                297,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                298,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            68,
+            "min"
+          ],
+          "tries": 8,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                33,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                35,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                37,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                42,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                58,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                60,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                65,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                68,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                208,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                136,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            25,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                8,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                12,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                25,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            262,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                188,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                221,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                226,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                262,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            170,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                162,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                170,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team03",
+        "name": "Polish Mafia",
+        "official": true,
+        "location": "A3",
+        "photo": "assets/team03.jpg",
+        "teamMembers": [
+          {
+            "name": "Wojciech Nadara (Swistakk)"
+          },
+          {
+            "name": "Mateusz Radecki (Radewoosh)"
+          },
+          {
+            "name": "Marcin Smulewicz (Marcin_smu)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          557,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                247,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                299,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            39,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                39,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                192,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                209,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                229,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                260,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                274,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                277,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                278,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            134,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                134,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            63,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                43,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                63,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            181,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                112,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                181,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            80,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                61,
+                "min"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                80,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team02",
+        "name": "HoMaMaOvO",
+        "official": true,
+        "location": "A2",
+        "photo": "assets/team02.jpg",
+        "teamMembers": [
+          {
+            "name": "Riku Kawasaki (maroonrk)"
+          },
+          {
+            "name": "Masaki Nishimoto (maspy)"
+          },
+          {
+            "name": "Yui Hosaka (hos.lyric)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          597,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                285,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                299,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                138,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                149,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                200,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                202,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                241,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                267,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            12,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                12,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            119,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                119,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                32,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                34,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            232,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                189,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                232,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            160,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                160,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team12",
+        "name": "Almost Retired Dandelion",
+        "official": true,
+        "location": "C4",
+        "photo": "assets/team12.jpg",
+        "teamMembers": [
+          {
+            "name": "Aleksei Daniliuk (Um_nik)"
+          },
+          {
+            "name": "Oleg Merkurev (Merkurev)"
+          },
+          {
+            "name": "Yahor Dubovik (244mhq)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          671,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            26,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                22,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                26,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            151,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                151,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            42,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                36,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                42,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            171,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                138,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                171,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            221,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                221,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team20",
+        "name": "eungeum gang",
+        "official": true,
+        "location": "E4",
+        "photo": "assets/team20.jpg",
+        "teamMembers": [
+          {
+            "name": "Sunghyeon Jo (ainta)"
+          },
+          {
+            "name": "Jaehyun Koo (ko_osaga)"
+          },
+          {
+            "name": "Minchan Jung (mickeyjung)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          791,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 8,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                281,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                283,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                286,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                291,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                292,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                293,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                296,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                297,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                17,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 7,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                105,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                110,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                142,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                145,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                161,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                288,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                295,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            209,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                209,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            95,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                69,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                95,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            84,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                79,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                83,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                84,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            226,
+            "min"
+          ],
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                130,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                188,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                194,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                214,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                215,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                226,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team11",
+        "name": "tonosama",
+        "official": true,
+        "location": "C3",
+        "photo": "assets/team11.jpg",
+        "teamMembers": [
+          {
+            "name": "Tatsuhito Yamagata (tatyam)"
+          },
+          {
+            "name": "Yasunori Kinoshita (noshi91)"
+          },
+          {
+            "name": "Kosuke Kaneshita (potato167)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          798,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                275,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                277,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                293,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                295,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                34,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "RJ",
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                158,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                170,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                176,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                287,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            182,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                156,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                182,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            78,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                41,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                78,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            249,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                226,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                249,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            195,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                195,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team15",
+        "name": "Dvoe protiv vetra",
+        "official": true,
+        "location": "D3",
+        "photo": "assets/team15.jpg",
+        "teamMembers": [
+          {
+            "name": "Egor Kulikov (Egor)"
+          },
+          {
+            "name": "Pavel Mavrin (pashka)"
+          },
+          {
+            "name": "Borys Minaiev (qwerty787788)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          993,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                299,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                25,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                29,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            183,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                152,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                170,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                175,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                183,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            66,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                39,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                42,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                66,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            214,
+            "min"
+          ],
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                11,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                113,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                130,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                186,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                189,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                214,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            221,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                169,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                199,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                206,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                221,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team23",
+        "name": "Bad at DS",
+        "official": true,
+        "location": "F3",
+        "photo": "assets/team23.jpg",
+        "teamMembers": [
+          {
+            "name": "Sizhe Fan (umbrella-leaf)"
+          },
+          {
+            "name": "Haojia Shi"
+          },
+          {
+            "name": "Xianbang Wang (Peppa_king_8)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          1049,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            74,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                74,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                36,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                48,
+                "min"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                59,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            60,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                52,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                59,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                60,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            181,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                174,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                181,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            295,
+            "min"
+          ],
+          "tries": 15,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                231,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                237,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                251,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                257,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                258,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                260,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                269,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                279,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                287,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                289,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                290,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                292,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                294,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                295,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                295,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team06",
+        "name": "yosupo",
+        "official": true,
+        "location": "B2",
+        "photo": "assets/team06.jpg",
+        "teamMembers": [
+          {
+            "name": "Kohei Morita (yosupo)"
+          },
+          {
+            "name": "Takuto Shigemura (sigma425)"
+          },
+          {
+            "name": "Shogo Murai (semiexp)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          1073,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                299,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            85,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                51,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                58,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                78,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                85,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            163,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                163,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            141,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                75,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                79,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                141,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            239,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                219,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                238,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                239,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            165,
+            "min"
+          ],
+          "tries": 8,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                100,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                104,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                115,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                118,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                120,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                121,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                122,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                165,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                166,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team17",
+        "name": "Polar Bear Transform",
+        "official": true,
+        "location": "E1",
+        "photo": "assets/team17.jpg",
+        "teamMembers": [
+          {
+            "name": "Maksim Turevskii (turmax)"
+          },
+          {
+            "name": "Fedor Ushakov (fastmath)"
+          },
+          {
+            "name": "Leonid Danilevich (LeoPro)"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          1213,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            222,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                195,
+                "min"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                222,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            55,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                50,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                55,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            92,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                88,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                92,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            45,
+            "min"
+          ],
+          "tries": 5,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                21,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                21,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                38,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                39,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                45,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                292,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                293,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            299,
+            "min"
+          ],
+          "tries": 19,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                152,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                165,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                194,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                212,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                226,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                239,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                263,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                264,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                266,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                268,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                280,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                280,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                282,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                284,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                292,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                297,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                297,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                297,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                299,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                299,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team22",
+        "name": "Captain take me not",
+        "official": true,
+        "location": "F1",
+        "photo": "assets/team22.jpg",
+        "teamMembers": [
+          {
+            "name": "Xintong Fang (275307894a)"
+          },
+          {
+            "name": "Jun Zheng (A_zjzj)"
+          },
+          {
+            "name": "Chengyou Jiang (JCY_)"
+          }
+        ]
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          263,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 7,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                287,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                287,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                289,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                292,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                294,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                297,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                299,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            39,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                39,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            104,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                104,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "FB",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                14,
+                "min"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                17,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            83,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                83,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                213,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team16",
+        "name": "Afterlife",
+        "official": true,
+        "location": "D4",
+        "photo": "assets/team16.jpg",
+        "teamMembers": [
+          {
+            "name": "Bo Peng (pb0207)"
+          },
+          {
+            "name": "Zixuan Yan (RDDCCD)"
+          },
+          {
+            "name": "Qiuyang Zhang (froggyzhang)"
+          }
+        ]
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          481,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            51,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                51,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            130,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                130,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                31,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            229,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                178,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                215,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                229,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                289,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                291,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                295,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                297,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team09",
+        "name": "japan406364961",
+        "official": true,
+        "location": "C1",
+        "photo": "assets/team09.jpg",
+        "teamMembers": [
+          {
+            "name": "Ryo Takahashi (kotatsugame)"
+          },
+          {
+            "name": "Masanori Ogiwara (Nyaan)"
+          },
+          {
+            "name": "Takuto Koriyama (risujiroh)"
+          }
+        ]
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          586,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            40,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                40,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            71,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                52,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                55,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                67,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                71,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            173,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                152,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                173,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            182,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                131,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                142,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                182,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team05",
+        "name": "Lumina",
+        "official": true,
+        "location": "B1",
+        "photo": "assets/team05.jpg",
+        "teamMembers": [
+          {
+            "name": "Yikai Zhu (shimarin)"
+          },
+          {
+            "name": "Xinyang Chen (JoesSR)"
+          },
+          {
+            "name": "Jiyu Shen (Crysfly)"
+          }
+        ]
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          656,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            57,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                47,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                57,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            193,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                186,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                193,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            145,
+            "min"
+          ],
+          "tries": 5,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                29,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                33,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                60,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                72,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                145,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                219,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                240,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                242,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                258,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                298,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            121,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                111,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                121,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team08",
+        "name": "thinking",
+        "official": true,
+        "location": "B4",
+        "photo": "assets/team08.jpg",
+        "teamMembers": [
+          {
+            "name": "Fedor Romashov (Ormlis)"
+          },
+          {
+            "name": "Alexey Mikhnenko (Mangooste)"
+          },
+          {
+            "name": "Gimran Abdullin (bashkort)"
+          }
+        ]
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          734,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                105,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                22,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            263,
+            "min"
+          ],
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                216,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                257,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                257,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                260,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                261,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                263,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            75,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                51,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                75,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            234,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                229,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                234,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                154,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team18",
+        "name": "When anton saw this team he reacted with 😩",
+        "official": true,
+        "location": "E2",
+        "photo": "assets/team18.jpg",
+        "teamMembers": [
+          {
+            "name": "Anton Trygub (antontrygubO_o)"
+          },
+          {
+            "name": "Tähvend Uustalu (-is-this-fft-)"
+          },
+          {
+            "name": "Oleksandr Kulkov (adamant)"
+          }
+        ]
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          817,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            51,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                51,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            163,
+            "min"
+          ],
+          "tries": 9,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                115,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                119,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                121,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                131,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                133,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                137,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                138,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                155,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                163,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": "AC",
+          "time": [
+            32,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                10,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                17,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                32,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            271,
+            "min"
+          ],
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                232,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                233,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                242,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                254,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                258,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                271,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team13",
+        "name": "We Play with Mud in the Northeast",
+        "official": true,
+        "location": "D1",
+        "photo": "assets/team13.jpg",
+        "teamMembers": [
+          {
+            "name": "Stanley Wei (stan23456)"
+          },
+          {
+            "name": "Zerui Cheng (Marco_L_T)"
+          },
+          {
+            "name": "Zhongtian He (hzt1)"
+          }
+        ]
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          562,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            81,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                53,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                55,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                79,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                81,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            98,
+            "min"
+          ],
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                83,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                98,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                162,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                286,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                290,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                296,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                298,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                299,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            243,
+            "min"
+          ],
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                216,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                232,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                234,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                243,
+                "min"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team19",
+        "name": "Absolute Advantage",
+        "official": true,
+        "location": "E3",
+        "photo": "assets/team19.jpg",
+        "teamMembers": [
+          {
+            "name": "Poyu Chou (moe.tsuki)"
+          },
+          {
+            "name": "Sian-Yang Tseng (rgnerdplayer)"
+          },
+          {
+            "name": "Brian Tsai (baluteshih)"
+          }
+        ]
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          197,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                59,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            98,
+            "min"
+          ],
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RJ",
+              "time": [
+                65,
+                "min"
+              ]
+            },
+            {
+              "result": "RJ",
+              "time": [
+                73,
+                "min"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                98,
+                "min"
+              ]
+            }
+          ]
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    }
+  ]
+}

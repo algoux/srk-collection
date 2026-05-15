@@ -1,0 +1,1384 @@
+{
+  "type": "general",
+  "version": "0.3.12",
+  "contest": {
+    "title": {
+      "fallback": "The 2nd Universal Cup Semifinals"
+    },
+    "startAt": "2024-06-22T11:00:00-05:00",
+    "duration": [
+      5,
+      "h"
+    ],
+    "frozenDuration": [
+      1,
+      "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单",
+          "fallback": "Original Ranklist"
+        },
+        "link": "https://scoreboard.ucup.ac/2024-semi/"
+      },
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://contest.ucup.ac/contest/1708"
+      }
+    ],
+    "banner": "assets/semifinals.png"
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              1,
+              1,
+              1
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "noPenaltyResults": [
+        "FB",
+        "AC",
+        "?",
+        "NOUT",
+        "CE",
+        "UKE",
+        null
+      ],
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "min"
+    }
+  },
+  "markers": [],
+  "problems": [
+    {
+      "alias": "A",
+      "title": "Records in Chichen Itza",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8813",
+      "style": {
+        "backgroundColor": "#1f93db",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 11,
+        "submitted": 26
+      }
+    },
+    {
+      "alias": "B",
+      "title": "Almost Convex 2",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8814",
+      "style": {
+        "backgroundColor": "#ffffff",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 4
+      }
+    },
+    {
+      "alias": "C",
+      "title": "Space Station",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8815",
+      "style": {
+        "backgroundColor": "#0b5e29",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 11,
+        "submitted": 12
+      }
+    },
+    {
+      "alias": "D",
+      "title": "Solar Panel Grid Optimization",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8816",
+      "style": {
+        "backgroundColor": "#dea300",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 4,
+        "submitted": 9
+      }
+    },
+    {
+      "alias": "E",
+      "title": "Fast Median Transform",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8817",
+      "style": {
+        "backgroundColor": "#000000",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 2,
+        "submitted": 7
+      }
+    },
+    {
+      "alias": "F",
+      "title": "Colorful Graph 3",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8818",
+      "style": {
+        "backgroundColor": "#000dff",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 0,
+        "submitted": 13
+      }
+    },
+    {
+      "alias": "G",
+      "title": "CNOI Knowledge",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8819",
+      "style": {
+        "backgroundColor": "#e86500",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 11,
+        "submitted": 16
+      }
+    },
+    {
+      "alias": "H",
+      "title": "Exchanging Kubic 2",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8820",
+      "style": {
+        "backgroundColor": "#ffe563",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 3
+      }
+    },
+    {
+      "alias": "I",
+      "title": "Nightmare",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8821",
+      "style": {
+        "backgroundColor": "#ff33cc",
+        "textColor": "#000000"
+      },
+      "statistics": {
+        "accepted": 1,
+        "submitted": 14
+      }
+    },
+    {
+      "alias": "J",
+      "title": "Guess The Sequence 2",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8822",
+      "style": {
+        "backgroundColor": "#786e6e",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 4,
+        "submitted": 9
+      }
+    },
+    {
+      "alias": "K",
+      "title": "Game: Battle of Menjis",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8823",
+      "style": {
+        "backgroundColor": "#9900ff",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 11,
+        "submitted": 15
+      }
+    },
+    {
+      "alias": "L",
+      "title": "Slay the Spire",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8824",
+      "style": {
+        "backgroundColor": "#705207",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 7,
+        "submitted": 29
+      }
+    },
+    {
+      "alias": "M",
+      "title": "Puzzle: Summon",
+      "link": "https://contest.ucup.ac/contest/1708/problem/8825",
+      "style": {
+        "backgroundColor": "#0ddb6d",
+        "textColor": "#ffffff"
+      },
+      "statistics": {
+        "accepted": 11,
+        "submitted": 22
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "3",
+        "name": "USA1",
+        "official": true,
+        "photo": "assets/00.jpg",
+        "teamMembers": [
+          {
+            "name": "Andrew He"
+          },
+          {
+            "name": "Kevin Sun"
+          },
+          {
+            "name": "Gennady Korotkevich"
+          }
+        ]
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1034,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "FB",
+          "time": [
+            5,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "FB",
+          "time": [
+            168,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            15,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "FB",
+          "time": [
+            72,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            223,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            121,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            47,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            182,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "FB",
+          "time": [
+            81,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "6",
+        "name": "Polish Mafia",
+        "official": true,
+        "photo": "assets/03.jpg",
+        "teamMembers": [
+          {
+            "name": "Wojtek Nadara"
+          },
+          {
+            "name": "Mateusz Radecki"
+          },
+          {
+            "name": "Marcin Smulewicz"
+          }
+        ]
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1049,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            16,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            28,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            199,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            128,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            258,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            55,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            171,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            114,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "4",
+        "name": "HoMaMaOvO",
+        "official": true,
+        "photo": "assets/01.jpg",
+        "teamMembers": [
+          {
+            "name": "Yui Hosaka"
+          },
+          {
+            "name": "Riku Kawasaki"
+          },
+          {
+            "name": "Masaki Nishimoto"
+          }
+        ]
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1058,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            12,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            120,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            189,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            94,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            41,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            265,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            197,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "5",
+        "name": "03 Slimes",
+        "official": true,
+        "photo": "assets/02.jpg",
+        "teamMembers": [
+          {
+            "name": "Kangyang Zhou"
+          },
+          {
+            "name": "Mingyang Deng"
+          },
+          {
+            "name": "Ziqian Zhong"
+          }
+        ]
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1385,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            11,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            260,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            130,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            270,
+            "min"
+          ],
+          "tries": 12
+        },
+        {
+          "result": "AC",
+          "time": [
+            248,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            32,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            116,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "13",
+        "name": "Amstelpark",
+        "official": true,
+        "photo": "assets/10.jpg",
+        "teamMembers": [
+          {
+            "name": "Mikhail Ipatov"
+          },
+          {
+            "name": "Pavel Kunyavskiy"
+          },
+          {
+            "name": "Alisa Sayutina"
+          }
+        ]
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          693,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            26,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            92,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            240,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            47,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            58,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            148,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "9",
+        "name": "Let it Rot",
+        "official": true,
+        "photo": "assets/06.jpg",
+        "teamMembers": [
+          {
+            "name": "Bo Peng"
+          },
+          {
+            "name": "Yi Qian"
+          },
+          {
+            "name": "Shiyuan Feng"
+          }
+        ]
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          914,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            39,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            10,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "FB",
+          "time": [
+            101,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            124,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            58,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            206,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            256,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "7",
+        "name": "Almost Retired Dandelion",
+        "official": true,
+        "photo": "assets/04.jpg",
+        "teamMembers": [
+          {
+            "name": "Nikolay Kalinin"
+          },
+          {
+            "name": "Aleksei Daniliuk"
+          },
+          {
+            "name": "Oleg Merkurev"
+          }
+        ]
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          950,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            25,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            228,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            108,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            55,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            243,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            194,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "11",
+        "name": "yosupo",
+        "official": true,
+        "photo": "assets/08.jpg",
+        "teamMembers": [
+          {
+            "name": "Takuto Shigemura"
+          },
+          {
+            "name": "Kohei Morita"
+          },
+          {
+            "name": "Ken Sugimori"
+          }
+        ]
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          935,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            40,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            40,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            79,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            98,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            274,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            224,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "8",
+        "name": "Speed Star",
+        "official": true,
+        "photo": "assets/05.jpg",
+        "teamMembers": [
+          {
+            "name": "Yoneyama Akihito"
+          },
+          {
+            "name": "Kentaro Matsushita"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          591,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            30,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            139,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            49,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            293,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "10",
+        "name": "Yolki-palki",
+        "official": true,
+        "photo": "assets/07.jpg",
+        "teamMembers": [
+          {
+            "name": "Denis Mustafin"
+          },
+          {
+            "name": "Tikhon Evteev"
+          },
+          {
+            "name": "Vsevolod Nagibin"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          647,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            38,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            27,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            160,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            84,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            258,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "12",
+        "name": "Mei Dui Yao",
+        "official": true,
+        "photo": "assets/09.jpg",
+        "teamMembers": [
+          {
+            "name": "Jiyu Shen"
+          },
+          {
+            "name": "Qiuyang Zhang"
+          }
+        ]
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          655,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            35,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            123,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "time": [
+            60,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            263,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    }
+  ]
+}

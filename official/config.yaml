@@ -1014,3 +1014,15 @@ root:
             - path: cityudg2025
               format: srk.json
               name: 2025-09-27 港城莞校赛2025
+    - path: ucup
+      name: Universal Cup
+      children:
+        - path: ucup2026
+          format: srk.json
+          name: 2026-05-10 3rd Finals
+        - path: ucup2025
+          format: srk.json
+          name: 2025-02-22 2nd Finals
+        - path: ucup2024-semi
+          format: srk.json
+          name: 2024-06-22 2nd Semifinals
