@@ -4,7 +4,7 @@ root:
       name: ICPC
       children:
         - path: icpc2026
-          name: ICPC 2026
+          name: ICPC 2026 (51st)
           children:
             - path: icpc2026invitational-shenzhen
               format: srk.json
@@ -13,7 +13,7 @@ root:
               format: srk.json
               name: 2026-05-02 西安邀请赛
         - path: icpc2025
-          name: ICPC 2025
+          name: ICPC 2025 (50th)
           children:
             - path: icpc2025invitational-wuhan
               format: srk.json
@@ -55,7 +55,7 @@ root:
               format: srk.json
               name: 2026-02-02 EC Final
         - path: icpc2024
-          name: ICPC 2024
+          name: ICPC 2024 (49th)
           children:
             - path: icpc46th2024worldfinals
               format: srk.json
@@ -103,7 +103,7 @@ root:
               format: srk.json
               name: 2024-12-28 EC Final
         - path: icpc2023
-          name: ICPC 2023
+          name: ICPC 2023 (48th)
           children:
             - path: icpc2023invitational-xi_an
               format: srk.json
@@ -136,7 +136,7 @@ root:
               format: srk.json
               name: 2024-01-12 EC Final
         - path: icpc2022
-          name: ICPC 2022
+          name: ICPC 2022 (47th)
           children:
             - path: icpc2022shenyang
               format: srk.json
@@ -163,7 +163,7 @@ root:
               format: srk.json
               name: 2023-03-25 EC Final
         - path: icpc2021
-          name: ICPC 2021
+          name: ICPC 2021 (46th)
           children:
             - path: icpc2021invitational-xi_an
               format: srk.json
@@ -190,7 +190,7 @@ root:
               format: srk.json
               name: 2022-07-20 EC Final
         - path: icpc2020
-          name: ICPC 2020
+          name: ICPC 2020 (45th)
           children:
             - path: icpc2020shanghai
               format: srk.json
@@ -217,7 +217,7 @@ root:
               format: srk.json
               name: 2020-11-22 小米邀请赛
         - path: icpc2019
-          name: ICPC 2019
+          name: ICPC 2019 (44th)
           children:
             - path: icpc2019invitational-xi_an
               format: srk.json
@@ -241,7 +241,7 @@ root:
               format: srk.json
               name: 2019-12-15 EC Final
         - path: icpc2018
-          name: ICPC 2018
+          name: ICPC 2018 (43rd)
           children:
             - path: icpc2018worldfinals
               format: srk.json
@@ -262,7 +262,7 @@ root:
               format: srk.json
               name: 2018-12-16 EC Final
         - path: icpc2017
-          name: ICPC 2017
+          name: ICPC 2017 (42nd)
           children:
             - path: icpc2017shenyang
               format: srk.json
@@ -280,7 +280,7 @@ root:
               format: srk.json
               name: 2017-12-03 乌鲁木齐站
         - path: icpc2016
-          name: ICPC 2016
+          name: ICPC 2016 (41st)
           children:
             - path: icpc2016harbin
               format: srk.json
@@ -304,7 +304,7 @@ root:
               format: srk.json
               name: 2016-11-13 北京站
         - path: icpc2015
-          name: ICPC 2015
+          name: ICPC 2015 (40th)
           children:
             - path: icpc2015changchun
               format: srk.json
@@ -325,7 +325,7 @@ root:
               format: srk.json
               name: 2015-12-13 EC Final
         - path: icpc2014
-          name: ICPC 2014
+          name: ICPC 2014 (39th)
           children:
             - path: icpc2014mudanjiang
               format: srk.json
@@ -346,7 +346,7 @@ root:
               format: srk.json
               name: 2014-12-07 上海站
         - path: icpc2013
-          name: ICPC 2013
+          name: ICPC 2013 (38th)
           children:
             - path: icpc2013chengdu
               format: srk.json
@@ -364,7 +364,7 @@ root:
               format: srk.json
               name: 2013-12-08 长春站
         - path: icpc2012
-          name: ICPC 2012
+          name: ICPC 2012 (37th)
           children:
             - path: icpc2012changchun
               format: srk.json
@@ -382,7 +382,7 @@ root:
               format: srk.json
               name: 2012-11-11 成都站
         - path: icpc2011
-          name: ICPC 2011
+          name: ICPC 2011 (36th)
           children:
             - path: icpc2011dalian
               format: srk.json
@@ -400,7 +400,7 @@ root:
               format: srk.json
               name: 2011-11-20 福州站
         - path: icpc2010
-          name: ICPC 2010
+          name: ICPC 2010 (35th)
           children:
             - path: icpc2010harbin
               format: srk.json
@@ -418,7 +418,7 @@ root:
               format: srk.json
               name: 2010-11-21 福州站
         - path: icpc2009
-          name: ICPC 2009
+          name: ICPC 2009 (34th)
           children:
             - path: icpc2009wuhan
               format: srk.json
@@ -427,7 +427,7 @@ root:
       name: CCPC
       children:
         - path: ccpc2025
-          name: CCPC 2025
+          name: CCPC 2025 (11th)
           children:
             - path: ccpc2025invitational-northeast
               format: srk.json
@@ -463,7 +463,7 @@ root:
               format: srk.json
               name: 2025-10-26 女生赛
         - path: ccpc2024
-          name: CCPC 2024
+          name: CCPC 2024 (10th)
           children:
             - path: ccpc2024invitational-fuzhou
               format: srk.json
@@ -493,7 +493,7 @@ root:
               format: srk.json
               name: 2024-11-03 女生赛
         - path: ccpc2023
-          name: CCPC 2023
+          name: CCPC 2023 (9th)
           children:
             - path: ccpc2023invitational-xiangtan
               format: srk.json
@@ -520,7 +520,7 @@ root:
               format: srk.json
               name: 2023-10-21 女生赛
         - path: ccpc2022
-          name: CCPC 2022
+          name: CCPC 2022 (8th)
           children:
             - path: ccpc2022guilin
               format: srk.json
@@ -544,7 +544,7 @@ root:
               format: srk.json
               name: 2022-11-27 女生赛
         - path: ccpc2021
-          name: CCPC 2021
+          name: CCPC 2021 (7th)
           children:
             - path: ccpc2021guilin
               format: srk.json
@@ -565,7 +565,7 @@ root:
               format: srk.json
               name: 2021-10-31 女生赛
         - path: ccpc2020
-          name: CCPC 2020
+          name: CCPC 2020 (6th)
           children:
             - path: ccpc2020qinhuangdao
               format: srk.json
@@ -583,7 +583,7 @@ root:
               format: srk.json
               name: 2021-05-30 Final
         - path: ccpc2019
-          name: CCPC 2019
+          name: CCPC 2019 (5th)
           children:
             - path: ccpc2019qinhuangdao
               format: srk.json
@@ -598,7 +598,7 @@ root:
               format: srk.json
               name: 2019-11-17 Final
         - path: ccpc2018
-          name: CCPC 2018
+          name: CCPC 2018 (4th)
           children:
             - path: ccpc2018invitational-xiangtan
               format: srk.json
@@ -616,7 +616,7 @@ root:
               format: srk.json
               name: 2018-11-25 Final
         - path: ccpc2017
-          name: CCPC 2017
+          name: CCPC 2017 (3rd)
           children:
             - path: ccpc2017shenyang
               format: srk.json
@@ -637,7 +637,7 @@ root:
               format: srk.json
               name: 2017-12-03 Final
         - path: ccpc2016
-          name: CCPC 2016
+          name: CCPC 2016 (2nd)
           children:
             - path: ccpc2016hongkong
               format: srk.json
@@ -655,7 +655,7 @@ root:
               format: srk.json
               name: 2016-10-16 杭州站
         - path: ccpc2015
-          name: CCPC 2015
+          name: CCPC 2015 (1st)
           children:
             - path: ccpc2015nanyang
               format: srk.json
