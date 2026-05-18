@@ -906,6 +906,9 @@ root:
         - path: gd
           name: 广东省赛
           children:
+            - path: gdcpc23rd
+              format: srk.json
+              name: 2026-05-17 第二十三届
             - path: gdcpc22nd
               format: srk.json
               name: 2025-06-02 第二十二届
