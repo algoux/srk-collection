@@ -85,7 +85,7 @@
         { "title": "银奖", "style": "silver" },
         { "title": "铜奖", "style": "bronze" }
       ],
-      "rule": { "preset": "ICPC", "options": { "count": { "value": [17, 33, 49] } } }
+      "rule": { "preset": "ICPC", "options": { "count": { "value": [0, 0, 0] } } }
     },
     { "title": "R#", "rule": { "preset": "Normal" } },
     {
@@ -11960,5 +11960,9 @@
     { "id": "编程之星", "label": "编程之星", "style": "green" },
     { "id": "计算之巅", "label": "计算之巅", "style": "yellow" }
   ],
-  "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"]
+  "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"],
+  "remarks": {
+    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  }
 }
