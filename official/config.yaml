@@ -801,6 +801,9 @@ root:
         - path: jx
           name: 江西省赛
           children:
+            - path: jxcpc2026
+              format: srk.json
+              name: 2026-05-17 2026
             - path: jxcpc2025
               format: srk.json
               name: 2025-05-18 2025
@@ -894,6 +897,9 @@ root:
         - path: hb
           name: 湖北省赛
           children:
+            - path: hbcpc7th
+              format: srk.json
+              name: 2026-05-17 第七届
             - path: hbcpc6th
               format: srk.json
               name: 2024-04-27 第六届
