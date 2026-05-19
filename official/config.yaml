@@ -744,6 +744,9 @@ root:
         - path: js
           name: 江苏省赛
           children:
+            - path: jscpc11th
+              format: srk.json
+              name: 2026-05-17 第十一届
             - path: jscpc10th
               format: srk.json
               name: 2025-06-02 第十届
@@ -861,6 +864,9 @@ root:
         - path: ha
           name: 河南省赛
           children:
+            - path: haccpc8th
+              format: srk.json
+              name: 2026-05-10 第八届 CCPC
             - path: haccpc7th
               format: srk.json
               name: 2025-06-02 第七届 CCPC
@@ -963,6 +969,9 @@ root:
         - path: sn
           name: 陕西省赛
           children:
+            - path: sncpc14th
+              format: srk.json
+              name: 2026-05-16 第十四届
             - path: sncpc13th
               format: srk.json
               name: 2025-05-10 第十三届
