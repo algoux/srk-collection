@@ -1041,12 +1041,15 @@ root:
     - path: ucup
       name: Universal Cup
       children:
-        - path: ucup2026
+        - path: ucup3rdfinals
           format: srk.json
           name: 2026-05-10 The 3rd Finals
-        - path: ucup2025
+        - path: ucup3rdsemifinals
+          format: srk.json
+          name: 2025-08-24 The 3rd Semifinals
+        - path: ucup2ndfinals
           format: srk.json
           name: 2025-02-22 The 2nd Finals
-        - path: ucup2024-semi
+        - path: ucup2ndsemifinals
           format: srk.json
           name: 2024-06-22 The 2nd Semifinals
