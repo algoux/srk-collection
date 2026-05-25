@@ -438,6 +438,9 @@ root:
             - path: ccpc2026invitational-qinhuangdao
               format: srk.json
               name: 2026-05-24 秦皇岛邀请赛
+            - path: ccpc2026invitational-nanchang
+              format: srk.json
+              name: 2026-05-24 南昌邀请赛
         - path: ccpc2025
           name: CCPC 2025 (11th)
           children:
@@ -726,6 +729,9 @@ root:
         - path: jl
           name: 吉林省赛
           children:
+            - path: jlcpc19th
+              format: srk.json
+              name: 2026-05-24 第十九届
             - path: jlcpc18th
               format: srk.json
               name: 2025-05-24 第十八届
@@ -882,6 +888,9 @@ root:
         - path: ha
           name: 河南省赛
           children:
+            - path: haicpc17th
+              format: srk.json
+              name: 2026-05-24 第十七届 ICPC
             - path: haccpc8th
               format: srk.json
               name: 2026-05-10 第八届 CCPC
@@ -1014,6 +1023,9 @@ root:
         - path: northeast
           name: 东北地区赛
           children:
+            - path: northeastcpc20th
+              format: srk.json
+              name: 2026-05-24 第二十届
             - path: northeastcpc19th
               format: srk.json
               name: 2025-05-25 第十九届
