@@ -804,6 +804,9 @@ root:
             - path: jxcpc2026
               format: srk.json
               name: 2026-05-17 2026
+            - path: jxccpc2nd
+              format: srk.json
+              name: 2025-09-13 第二届 CCPC
             - path: jxcpc2025
               format: srk.json
               name: 2025-05-18 2025
