@@ -432,6 +432,12 @@ root:
     - path: ccpc
       name: CCPC
       children:
+        - path: ccpc2026
+          name: CCPC 2026 (12th)
+          children:
+            - path: ccpc2026invitational-qinhuangdao
+              format: srk.json
+              name: 2026-05-24 秦皇岛邀请赛
         - path: ccpc2025
           name: CCPC 2025 (11th)
           children:
@@ -684,6 +690,9 @@ root:
         - path: he
           name: 河北省赛
           children:
+            - path: hecpc10th
+              format: srk.json
+              name: 2026-05-24 第十届
             - path: hecpc9th
               format: srk.json
               name: 2025-05-18 第九届
