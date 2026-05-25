@@ -16,17 +16,13 @@
       "min"
     ]
   },
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "contributors": [
     "CCPCOJ (https://cpc.csgrandeur.cn/outrank)",
     "algoUX (https://algoux.org)"
   ],
   "series": [
     {
-      "title": "#",
+      "title": "邀请赛#",
       "segments": [
         {
           "style": "gold",
@@ -46,10 +42,45 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              37,
+              73,
+              110
             ]
+          },
+          "filter": {
+            "byMarker": "ccpc"
+          }
+        }
+      }
+    },
+    {
+      "title": "省赛#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              18,
+              36,
+              54
+            ]
+          },
+          "filter": {
+            "byMarker": "hbcpc"
           }
         }
       }
@@ -92,6 +123,16 @@
     }
   },
   "markers": [
+    {
+      "id": "ccpc",
+      "label": "邀请赛",
+      "style": "blue"
+    },
+    {
+      "id": "hbcpc",
+      "label": "河北省赛",
+      "style": "green"
+    },
     {
       "id": "female",
       "label": "女队",
@@ -265,6 +306,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武汉大学.webp"
       },
       "score": {
@@ -606,6 +650,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武汉大学.webp"
       },
       "score": {
@@ -916,7 +963,10 @@
             "name": "王金轲 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 11,
@@ -1254,6 +1304,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-湖南师范大学.webp"
       },
       "score": {
@@ -1545,6 +1598,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国人民大学.webp"
       },
       "score": {
@@ -1872,6 +1928,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-厦门大学.webp"
       },
       "score": {
@@ -2174,6 +2233,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都信息工程大学.webp"
       },
       "score": {
@@ -2458,6 +2520,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -2734,6 +2800,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-南开大学.webp"
       },
       "score": {
@@ -3064,6 +3133,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-天津工业大学.webp"
       },
       "score": {
@@ -3315,6 +3387,9 @@
           }
         ],
         "official": false,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华北理工大学.webp"
       },
       "score": {
@@ -3633,6 +3708,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-东北大学.webp"
       },
       "score": {
@@ -3976,6 +4054,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
@@ -4225,6 +4307,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江工商大学.webp"
       },
       "score": {
@@ -4579,6 +4664,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-上海大学.webp"
       },
       "score": {
@@ -4813,6 +4901,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -5101,6 +5193,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -5385,6 +5481,9 @@
           }
         ],
         "official": false,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -5681,6 +5780,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-大连理工大学.webp"
       },
       "score": {
@@ -5912,6 +6014,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山东大学.webp"
       },
       "score": {
@@ -6350,6 +6455,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-西安邮电大学.webp"
       },
       "score": {
@@ -6579,6 +6687,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -6840,6 +6952,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-兰州大学.webp"
       },
       "score": {
@@ -7105,7 +7220,10 @@
             "name": "冯俊杰 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 8,
@@ -7410,6 +7528,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华东理工大学.webp"
       },
       "score": {
@@ -7696,6 +7817,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-东华理工大学.webp"
       },
       "score": {
@@ -7941,6 +8065,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武汉纺织大学.webp"
       },
       "score": {
@@ -8210,6 +8337,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程大学.webp"
       },
       "score": {
@@ -8593,6 +8724,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
@@ -8816,6 +8950,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -9069,6 +9207,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-衡水学院.webp"
       },
       "score": {
@@ -9278,6 +9420,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工业大学.webp"
       },
       "score": {
@@ -9494,6 +9640,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -9824,6 +9974,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -10030,6 +10184,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-上海大学.webp"
       },
       "score": {
@@ -10322,6 +10479,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-沈阳化工大学.webp"
       },
       "score": {
@@ -10633,6 +10793,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-莆田学院.webp"
       },
       "score": {
@@ -10895,6 +11058,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-西北工业大学.webp"
       },
       "score": {
@@ -11181,6 +11347,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -11413,6 +11583,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -11726,6 +11900,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山西工程科技职业大学.webp"
       },
       "score": {
@@ -12025,6 +12202,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
@@ -12287,6 +12467,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山东理工大学.webp"
       },
       "score": {
@@ -12535,6 +12718,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙大城市学院.webp"
       },
       "score": {
@@ -12767,6 +12953,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江苏海洋大学.webp"
       },
       "score": {
@@ -12973,6 +13162,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-天津理工大学.webp"
       },
       "score": {
@@ -13262,6 +13454,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北经贸大学.webp"
       },
       "score": {
@@ -13510,6 +13706,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江工商大学.webp"
       },
       "score": {
@@ -13751,6 +13950,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-长安大学.webp"
       },
       "score": {
@@ -14008,6 +14210,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山东师范大学.webp"
       },
       "score": {
@@ -14205,6 +14410,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-上海师范大学.webp"
       },
       "score": {
@@ -14425,6 +14633,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-燕山大学.webp"
       },
       "score": {
@@ -14645,6 +14857,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -14865,6 +15080,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武汉工程大学.webp"
       },
       "score": {
@@ -15127,6 +15345,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都锦城学院.webp"
       },
       "score": {
@@ -15320,6 +15541,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-大连理工大学.webp"
       },
       "score": {
@@ -15598,6 +15822,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-烟台大学.webp"
       },
       "score": {
@@ -15926,6 +16153,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -16201,7 +16432,11 @@
             "name": "黄敏 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 7,
@@ -16449,6 +16684,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-长春理工大学.webp"
       },
       "score": {
@@ -16704,6 +16942,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-长安大学.webp"
       },
       "score": {
@@ -16915,6 +17156,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江汉大学.webp"
       },
       "score": {
@@ -17126,6 +17370,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-大连海事大学.webp"
       },
       "score": {
@@ -17409,6 +17656,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-南京农业大学.webp"
       },
       "score": {
@@ -17673,6 +17923,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-燕山大学.webp"
       },
       "score": {
@@ -17930,6 +18184,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-重庆邮电大学.webp"
       },
       "score": {
@@ -18227,6 +18484,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西财经大学.webp"
       },
       "score": {
@@ -18445,6 +18705,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
@@ -18738,6 +19001,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华中农业大学.webp"
       },
       "score": {
@@ -19035,6 +19301,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-安阳师范学院.webp"
       },
       "score": {
@@ -19346,6 +19615,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -19585,6 +19857,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都理工大学.webp"
       },
       "score": {
@@ -19944,6 +20219,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -20148,6 +20427,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西财经大学.webp"
       },
       "score": {
@@ -20337,6 +20619,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中北大学.webp"
       },
       "score": {
@@ -20560,6 +20845,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-大连理工大学.webp"
       },
       "score": {
@@ -20769,6 +21057,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -20939,6 +21230,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中北大学.webp"
       },
       "score": {
@@ -21125,6 +21419,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华中师范大学.webp"
       },
       "score": {
@@ -21334,6 +21631,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-兰州大学.webp"
       },
       "score": {
@@ -21583,6 +21883,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-湖北经济学院.webp"
       },
       "score": {
@@ -21762,6 +22065,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -21989,7 +22296,10 @@
             "name": "王涛 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 6,
@@ -22205,6 +22515,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -22433,6 +22746,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄铁道大学.webp"
       },
       "score": {
@@ -22687,6 +23004,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-南昌大学.webp"
       },
       "score": {
@@ -22904,6 +23224,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -23086,6 +23410,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北理工大学.webp"
       },
       "score": {
@@ -23375,6 +23703,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-湖南农业大学.webp"
       },
       "score": {
@@ -23602,7 +23933,10 @@
             "name": "蔡耀明 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 6,
@@ -23775,6 +24109,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华中农业大学.webp"
       },
       "score": {
@@ -24482,6 +24819,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南大学.webp"
       },
       "score": {
@@ -24694,6 +25034,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
@@ -25006,6 +25350,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南师范大学.webp"
       },
       "score": {
@@ -25188,6 +25535,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -25397,6 +25748,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -25611,6 +25966,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西财经大学.webp"
       },
       "score": {
@@ -25804,6 +26162,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-新疆大学.webp"
       },
       "score": {
@@ -25981,6 +26342,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西财经大学.webp"
       },
       "score": {
@@ -26300,6 +26664,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工业大学.webp"
       },
       "score": {
@@ -26539,7 +26907,10 @@
             "name": "王涛 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 6,
@@ -26804,6 +27175,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-湖南工业大学.webp"
       },
       "score": {
@@ -27065,6 +27439,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国民航大学.webp"
       },
       "score": {
@@ -27309,6 +27686,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江农林大学.webp"
       },
       "score": {
@@ -27486,6 +27866,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华中师范大学.webp"
       },
       "score": {
@@ -27751,6 +28134,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-温州大学.webp"
       },
       "score": {
@@ -27999,6 +28385,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-大连交通大学.webp"
       },
       "score": {
@@ -28199,6 +28588,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -28402,6 +28794,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北建筑工程学院.webp"
       },
       "score": {
@@ -28590,6 +28986,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山东大学.webp"
       },
       "score": {
@@ -28813,6 +29212,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武汉纺织大学.webp"
       },
       "score": {
@@ -29086,6 +29488,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工业大学.webp"
       },
       "score": {
@@ -29281,6 +29687,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
@@ -29481,6 +29891,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-天津仁爱学院.webp"
       },
       "score": {
@@ -29702,6 +30115,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
@@ -29925,6 +30342,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-湖南人文科技学院.webp"
       },
       "score": {
@@ -30148,6 +30568,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-天津仁爱学院.webp"
       },
       "score": {
@@ -30334,6 +30757,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江农林大学.webp"
       },
       "score": {
@@ -30513,6 +30939,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-同济大学.webp"
       },
       "score": {
@@ -30818,6 +31247,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北经贸大学.webp"
       },
       "score": {
@@ -30988,6 +31421,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山东大学.webp"
       },
       "score": {
@@ -31161,6 +31597,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -31341,6 +31781,7 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
           "female"
         ],
         "avatar": "assets/logo-东北大学.webp"
@@ -31543,6 +31984,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江农林大学暨阳学院.webp"
       },
       "score": {
@@ -31753,6 +32197,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -32004,6 +32452,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南工程学院.webp"
       },
       "score": {
@@ -32207,6 +32658,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -32487,6 +32942,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -32667,6 +33126,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-苏州工学院.webp"
       },
       "score": {
@@ -32837,6 +33299,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华东理工大学.webp"
       },
       "score": {
@@ -33051,6 +33516,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中北大学.webp"
       },
       "score": {
@@ -33291,6 +33759,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-太原理工大学.webp"
       },
       "score": {
@@ -33519,6 +33990,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-南京邮电大学.webp"
       },
       "score": {
@@ -33917,6 +34391,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南工程学院.webp"
       },
       "score": {
@@ -34113,6 +34590,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-北京信息科技大学.webp"
       },
       "score": {
@@ -34335,6 +34815,7 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
           "female"
         ],
         "avatar": "assets/logo-河南师范大学.webp"
@@ -34530,6 +35011,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-齐鲁工业大学.webp"
       },
       "score": {
@@ -34723,6 +35207,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江工商大学.webp"
       },
       "score": {
@@ -34970,6 +35457,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -35180,6 +35671,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国民航大学.webp"
       },
       "score": {
@@ -35390,6 +35884,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
@@ -35604,6 +36102,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都理工大学.webp"
       },
       "score": {
@@ -35832,6 +36333,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-天津商业大学.webp"
       },
       "score": {
@@ -36069,6 +36573,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -36270,6 +36778,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄铁道大学.webp"
       },
       "score": {
@@ -36592,6 +37104,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-湖南农业大学.webp"
       },
       "score": {
@@ -36771,6 +37286,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -37006,6 +37525,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南大学.webp"
       },
       "score": {
@@ -37230,6 +37752,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-上海杉达学院.webp"
       },
       "score": {
@@ -37419,6 +37944,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工业大学.webp"
       },
       "score": {
@@ -37624,6 +38153,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-天津仁爱学院.webp"
       },
       "score": {
@@ -37822,6 +38354,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都信息工程大学.webp"
       },
       "score": {
@@ -38060,6 +38595,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程大学.webp"
       },
       "score": {
@@ -38290,7 +38829,11 @@
             "name": "程刚 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 6,
@@ -38539,6 +39082,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-西南石油大学.webp"
       },
       "score": {
@@ -38905,6 +39451,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-保定学院.webp"
       },
       "score": {
@@ -39112,6 +39662,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-苏州工学院.webp"
       },
       "score": {
@@ -39333,6 +39886,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江农林大学.webp"
       },
       "score": {
@@ -39569,7 +40125,10 @@
             "name": "李靖 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 6,
@@ -39843,6 +40402,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-长春理工大学.webp"
       },
       "score": {
@@ -40158,6 +40720,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北环境工程学院.webp"
       },
       "score": {
@@ -40334,7 +40900,10 @@
             "name": "陈世超 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 6,
@@ -40527,6 +41096,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-燕山大学.webp"
       },
       "score": {
@@ -40749,6 +41322,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北经贸大学.webp"
       },
       "score": {
@@ -40971,6 +41548,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北理工大学.webp"
       },
       "score": {
@@ -41217,7 +41798,10 @@
             "name": "韩爱庆 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 6,
@@ -41578,6 +42162,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -41814,6 +42402,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中北大学.webp"
       },
       "score": {
@@ -42027,6 +42618,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武昌理工学院.webp"
       },
       "score": {
@@ -42267,7 +42861,10 @@
             "name": "魏倩文 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -42484,6 +43081,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-大连理工大学.webp"
       },
       "score": {
@@ -42689,6 +43289,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-西北大学.webp"
       },
       "score": {
@@ -42885,6 +43488,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-台州学院.webp"
       },
       "score": {
@@ -43054,6 +43660,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都锦城学院.webp"
       },
       "score": {
@@ -43257,6 +43866,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江农林大学.webp"
       },
       "score": {
@@ -43463,6 +44075,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程技术学院.webp"
       },
       "score": {
@@ -43771,6 +44387,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-海南大学.webp"
       },
       "score": {
@@ -44000,6 +44619,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -44159,6 +44782,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江农林大学.webp"
       },
       "score": {
@@ -44379,6 +45005,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北建筑工程学院.webp"
       },
       "score": {
@@ -44569,6 +45199,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -44790,7 +45424,10 @@
             "name": "孙小龙 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -44998,6 +45635,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -45187,6 +45828,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山西大学.webp"
       },
       "score": {
@@ -45372,6 +46016,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-国防科技大学.webp"
       },
       "score": {
@@ -45577,6 +46224,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都理工大学.webp"
       },
       "score": {
@@ -45734,6 +46384,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北农业大学.webp"
       },
       "score": {
@@ -45927,6 +46581,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-华北电力大学（保定）.webp"
@@ -46127,6 +46783,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -46325,6 +46985,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -46517,6 +47181,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -46788,6 +47456,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程大学.webp"
       },
       "score": {
@@ -46968,6 +47640,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-海南大学.webp"
       },
       "score": {
@@ -47141,6 +47816,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南大学.webp"
       },
       "score": {
@@ -47321,6 +47999,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-长春理工大学.webp"
       },
       "score": {
@@ -47582,6 +48263,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-天津工业大学.webp"
       },
       "score": {
@@ -47839,6 +48523,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-海南大学.webp"
       },
       "score": {
@@ -48019,6 +48706,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-南京邮电大学.webp"
       },
       "score": {
@@ -48292,6 +48982,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -48523,6 +49217,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国地质大学（北京）.webp"
       },
       "score": {
@@ -48754,6 +49451,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-太原理工大学.webp"
       },
       "score": {
@@ -48941,6 +49641,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武汉工程大学.webp"
       },
       "score": {
@@ -49158,6 +49861,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-福建师范大学.webp"
       },
       "score": {
@@ -49368,6 +50074,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武汉工程大学.webp"
       },
       "score": {
@@ -49655,6 +50364,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江农林大学.webp"
       },
       "score": {
@@ -49856,6 +50568,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南师范大学.webp"
       },
       "score": {
@@ -50049,7 +50764,11 @@
             "name": "李红梅 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -50274,6 +50993,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-保定学院.webp"
       },
       "score": {
@@ -50461,6 +51184,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-湖南城市学院.webp"
       },
       "score": {
@@ -50664,6 +51390,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-西北工业大学.webp"
       },
       "score": {
@@ -50889,6 +51618,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北经贸大学.webp"
       },
       "score": {
@@ -51093,6 +51826,7 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
           "female"
         ]
       },
@@ -51274,6 +52008,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北农业大学.webp"
       },
       "score": {
@@ -51517,6 +52255,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -51730,6 +52471,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -51924,6 +52669,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -52165,6 +52914,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-唐山师范学院.webp"
       },
       "score": {
@@ -52397,6 +53150,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-邯郸学院.webp"
       },
       "score": {
@@ -52584,6 +53341,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-唐山学院.webp"
       },
       "score": {
@@ -52748,6 +53509,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-齐鲁工业大学.webp"
       },
       "score": {
@@ -52901,6 +53665,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -53088,6 +53856,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国传媒大学.webp"
       },
       "score": {
@@ -53254,6 +54025,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -53446,6 +54221,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -53659,6 +54438,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北建筑工程学院.webp"
       },
       "score": {
@@ -53858,6 +54641,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-上海杉达学院.webp"
       },
       "score": {
@@ -54073,6 +54859,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-苏州工学院.webp"
       },
       "score": {
@@ -54267,6 +55056,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -54468,6 +55261,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北传媒学院.webp"
       },
       "score": {
@@ -54686,6 +55483,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -54894,6 +55695,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南师范大学.webp"
       },
       "score": {
@@ -55095,6 +55899,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -55266,6 +56074,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国传媒大学.webp"
       },
       "score": {
@@ -55474,6 +56285,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
@@ -55717,6 +56531,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-东华理工大学.webp"
       },
       "score": {
@@ -55991,6 +56808,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-唐山师范学院.webp"
       },
       "score": {
@@ -56194,6 +57015,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北民族师范学院.webp"
       },
       "score": {
@@ -56391,6 +57216,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -56557,7 +57386,11 @@
             "name": "胡英 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -56761,6 +57594,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西财经大学.webp"
       },
       "score": {
@@ -56962,6 +57798,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南工程学院.webp"
       },
       "score": {
@@ -57200,6 +58039,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国石油大学（北京）克拉玛依校区.webp"
       },
       "score": {
@@ -57416,7 +58258,10 @@
             "name": "蔡耀明 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -57610,6 +58455,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南师范大学.webp"
       },
       "score": {
@@ -57842,6 +58690,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-苏州工学院.webp"
       },
       "score": {
@@ -58035,7 +58886,10 @@
             "name": "崔晓松 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -58216,6 +59070,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -58412,6 +59270,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -58651,6 +59512,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
@@ -58866,6 +59731,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山西大学.webp"
       },
       "score": {
@@ -59098,6 +59966,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-成都锦城学院.webp"
       },
       "score": {
@@ -59306,6 +60177,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国传媒大学.webp"
       },
       "score": {
@@ -59545,6 +60419,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -59726,6 +60604,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程技术学院.webp"
       },
       "score": {
@@ -59938,6 +60820,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-中国人民警察大学.webp"
@@ -60124,7 +61008,10 @@
             "name": "陈世超 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -60309,6 +61196,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -60592,6 +61483,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工业大学.webp"
       },
       "score": {
@@ -60786,6 +61681,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
@@ -61046,6 +61944,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -61241,6 +62143,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-燕京理工学院.webp"
       },
       "score": {
@@ -61473,6 +62379,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北理工大学.webp"
       },
       "score": {
@@ -61668,6 +62578,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北理工大学.webp"
       },
       "score": {
@@ -61871,6 +62785,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
@@ -62048,6 +62964,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-河北工程大学.webp"
@@ -62228,6 +63146,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-辽宁科技大学.webp"
       },
       "score": {
@@ -62543,6 +63464,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -62775,6 +63700,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -62949,6 +63878,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北民族师范学院.webp"
       },
       "score": {
@@ -63144,6 +64077,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-保定学院.webp"
       },
       "score": {
@@ -63340,7 +64277,10 @@
             "name": "魏倩文 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -63576,6 +64516,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-浙江工商大学.webp"
       },
       "score": {
@@ -63830,6 +64773,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-唐山师范学院.webp"
@@ -64042,7 +64987,11 @@
             "name": "任宏德 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 5,
@@ -64276,6 +65225,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-西南石油大学.webp"
       },
       "score": {
@@ -64499,6 +65451,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -64698,6 +65654,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南师范大学.webp"
       },
       "score": {
@@ -64859,7 +65818,10 @@
             "name": "朱兰芹 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 4,
@@ -65114,6 +66076,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中国传媒大学.webp"
       },
       "score": {
@@ -65334,6 +66299,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南师范大学.webp"
       },
       "score": {
@@ -65490,6 +66458,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -65657,6 +66629,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山西工商学院.webp"
       },
       "score": {
@@ -65834,6 +66809,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北理工大学.webp"
       },
       "score": {
@@ -65994,6 +66973,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-齐鲁工业大学.webp"
       },
       "score": {
@@ -66168,6 +67150,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中北大学.webp"
       },
       "score": {
@@ -66361,6 +67346,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-苏州工学院.webp"
       },
       "score": {
@@ -66517,6 +67505,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程技术学院.webp"
       },
       "score": {
@@ -66701,6 +67693,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-华北理工大学.webp"
       },
       "score": {
@@ -66918,7 +67914,10 @@
             "name": "李晶 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 4,
@@ -67074,6 +68073,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -67272,6 +68275,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-北华航天工业学院.webp"
       },
       "score": {
@@ -67464,6 +68471,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
@@ -67665,6 +68674,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -67849,6 +68862,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北环境工程学院.webp"
       },
       "score": {
@@ -68026,6 +69043,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北金融学院.webp"
       },
       "score": {
@@ -68247,6 +69268,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-唐山师范学院.webp"
       },
       "score": {
@@ -68451,7 +69476,11 @@
             "name": "王长利 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 4,
@@ -68602,6 +69631,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-辽宁科技大学.webp"
       },
       "score": {
@@ -68877,6 +69909,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
@@ -69064,7 +70100,10 @@
             "name": "李晶 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 4,
@@ -69245,6 +70284,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -69471,6 +70514,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-北华航天工业学院.webp"
       },
       "score": {
@@ -69615,6 +70662,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-邢台学院.webp"
       },
       "score": {
@@ -69833,7 +70884,11 @@
             "name": "黄江兰 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 4,
@@ -70056,6 +71111,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -70245,6 +71304,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-唐山师范学院.webp"
       },
       "score": {
@@ -70478,6 +71541,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北科技学院.webp"
       },
       "score": {
@@ -70698,6 +71765,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ]
       },
@@ -70890,6 +71959,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学附属民族学院.webp"
       },
       "score": {
@@ -71116,6 +72189,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -71343,7 +72420,10 @@
             "name": "李晶 (教练)"
           }
         ],
-        "official": false
+        "official": false,
+        "markers": [
+          "ccpc"
+        ]
       },
       "score": {
         "value": 4,
@@ -71639,6 +72719,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-武昌理工学院.webp"
       },
       "score": {
@@ -71817,6 +72900,7 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
           "female"
         ],
         "avatar": "assets/logo-齐鲁工业大学.webp"
@@ -71953,6 +73037,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程大学.webp"
       },
       "score": {
@@ -72139,6 +73227,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-福州工商学院.webp"
       },
       "score": {
@@ -72333,6 +73424,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北金融学院.webp"
       },
       "score": {
@@ -72539,6 +73634,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
@@ -72692,6 +73791,7 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
           "female"
         ],
         "avatar": "assets/logo-齐鲁工业大学.webp"
@@ -72895,6 +73995,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -73037,7 +74141,11 @@
             "name": "王慧 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 3,
@@ -73278,6 +74386,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -73490,6 +74602,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄铁道大学四方学院.webp"
       },
       "score": {
@@ -73638,6 +74754,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华中农业大学.webp"
       },
       "score": {
@@ -74009,6 +75128,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
@@ -74364,6 +75487,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北科技学院.webp"
       },
       "score": {
@@ -74606,6 +75733,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-河南科技大学.webp"
       },
       "score": {
@@ -74795,6 +75925,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-西安欧亚学院.webp"
       },
       "score": {
@@ -74970,6 +76103,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程技术学院.webp"
       },
       "score": {
@@ -75157,6 +76294,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -75393,6 +76534,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-中北大学.webp"
       },
       "score": {
@@ -75599,6 +76743,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-衡水学院.webp"
       },
       "score": {
@@ -75853,6 +77001,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-华侨大学.webp"
       },
       "score": {
@@ -76036,6 +77187,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北建筑工程学院.webp"
       },
       "score": {
@@ -76253,6 +77408,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北农业大学.webp"
       },
       "score": {
@@ -76491,6 +77650,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北经贸大学经济管理学院.webp"
       },
       "score": {
@@ -76675,7 +77838,11 @@
             "name": "戴波 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 3,
@@ -76937,6 +78104,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-衡水学院.webp"
       },
       "score": {
@@ -77217,6 +78388,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北经贸大学经济管理学院.webp"
       },
       "score": {
@@ -77340,6 +78515,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -77507,6 +78686,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北科技师范学院.webp"
       },
       "score": {
@@ -77660,6 +78843,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-邯郸学院.webp"
       },
       "score": {
@@ -77812,6 +78999,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-衡水学院.webp"
@@ -78043,6 +79232,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-沈阳化工大学.webp"
       },
       "score": {
@@ -78240,6 +79432,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -78391,6 +79587,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-北华航天工业学院.webp"
       },
       "score": {
@@ -78598,6 +79798,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-中国人民警察大学.webp"
       },
       "score": {
@@ -78889,6 +80093,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-衡水学院.webp"
       },
       "score": {
@@ -79186,6 +80394,9 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc"
+        ],
         "avatar": "assets/logo-山东师范大学.webp"
       },
       "score": {
@@ -79434,6 +80645,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-邢台学院.webp"
       },
       "score": {
@@ -79629,6 +80844,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北科技学院.webp"
       },
       "score": {
@@ -79861,6 +81080,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北科技师范学院.webp"
       },
       "score": {
@@ -80084,6 +81307,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-张家口学院.webp"
       },
       "score": {
@@ -80243,7 +81470,11 @@
             "name": "孟祥飞 (教练)"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ]
       },
       "score": {
         "value": 2,
@@ -80389,6 +81620,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北工程大学.webp"
       },
       "score": {
@@ -80640,6 +81875,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-保定学院.webp"
       },
       "score": {
@@ -80837,6 +82076,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北传媒学院.webp"
       },
       "score": {
@@ -81011,6 +82254,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-张家口学院.webp"
       },
       "score": {
@@ -81185,6 +82432,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北金融学院.webp"
       },
       "score": {
@@ -81490,6 +82741,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北科技师范学院.webp"
       },
       "score": {
@@ -81641,6 +82896,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄学院.webp"
       },
       "score": {
@@ -81934,6 +83193,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-保定学院.webp"
       },
       "score": {
@@ -82095,6 +83358,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-河北传媒学院.webp"
@@ -82258,6 +83523,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北传媒学院.webp"
       },
       "score": {
@@ -82365,6 +83634,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-邢台学院.webp"
       },
       "score": {
@@ -82530,6 +83803,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-唐山学院.webp"
       },
       "score": {
@@ -82733,6 +84010,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ]
       },
@@ -82958,6 +84237,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北传媒学院.webp"
       },
       "score": {
@@ -83150,6 +84433,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ]
       },
@@ -83308,6 +84593,8 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
+          "hbcpc",
           "female"
         ],
         "avatar": "assets/logo-秦皇岛职业技术学院.webp"
@@ -83484,6 +84771,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-石家庄铁道大学四方学院.webp"
       },
       "score": {
@@ -83679,6 +84970,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北东方学院.webp"
       },
       "score": {
@@ -83821,6 +85116,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北东方学院.webp"
       },
       "score": {
@@ -83986,6 +85285,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北东方学院.webp"
       },
       "score": {
@@ -84127,6 +85430,7 @@
         ],
         "official": true,
         "markers": [
+          "ccpc",
           "female"
         ],
         "avatar": "assets/logo-华中农业大学.webp"
@@ -84217,6 +85521,10 @@
           }
         ],
         "official": true,
+        "markers": [
+          "ccpc",
+          "hbcpc"
+        ],
         "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
