@@ -85,7 +85,7 @@
         { "title": "银奖", "style": "silver" },
         { "title": "铜奖", "style": "bronze" }
       ],
-      "rule": { "preset": "ICPC", "options": { "count": { "value": [34, 68, 102] } } }
+      "rule": { "preset": "ICPC", "options": { "count": { "value": [31, 61, 91] } } }
     },
     { "title": "R#", "rule": { "preset": "Normal" } },
     {
