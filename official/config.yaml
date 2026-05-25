@@ -825,6 +825,9 @@ root:
         - path: sd
           name: 山东省赛
           children:
+            - path: sdcpc16th
+              format: srk.json
+              name: 2026-05-24 第十六届
             - path: sdcpc15th
               format: srk.json
               name: 2025-05-25 第十五届
