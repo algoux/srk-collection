@@ -1047,6 +1047,9 @@ root:
         - path: sdut
           name: 山东理工大学
           children:
+            - path: sdutpc18
+              format: srk.json
+              name: 2026-05-31 第十八届
             - path: sdutpc17
               format: srk.json
               name: 2025-05-18 第十七届
