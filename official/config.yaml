@@ -747,6 +747,9 @@ root:
         - path: hl
           name: 黑龙江省赛
           children:
+            - path: hlcpc21st
+              format: srk.json
+              name: 2026-05-10 第二十一届
             - path: hlcpc20th
               format: srk.json
               name: 2025-05-11 第二十届
