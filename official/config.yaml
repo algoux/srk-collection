@@ -966,6 +966,9 @@ root:
         - path: gx
           name: 广西区赛
           children:
+            - path: gxcpc9th
+              format: srk.json
+              name: 2026-05-31 第九届
             - path: gxcpc8th
               format: srk.json
               name: 2025-05-25 第八届
