@@ -990,6 +990,9 @@ root:
         - path: sc
           name: 四川省赛
           children:
+            - path: sccpc18th
+              format: srk.json
+              name: 2026-05-31 第十八届
             - path: sccpc17th
               format: srk.json
               name: 2025-06-08 第十七届
