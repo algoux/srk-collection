@@ -714,6 +714,9 @@ root:
         - path: nm
           name: 内蒙古区赛
           children:
+            - path: nmcpc19th
+              format: srk.json
+              name: 2026-05-31 第十九届
             - path: nmcpc18th
               format: srk.json
               name: 2025-06-22 第十八届
