@@ -289,7 +289,16 @@
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17989879,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -297,7 +306,16 @@
             96,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                5800193,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -305,7 +323,30 @@
             274,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                16142693,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                16264289,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                16493754,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "FB",
@@ -313,7 +354,16 @@
             222,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                13339642,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -321,7 +371,30 @@
             72,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                3899145,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                4265911,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                4366191,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -332,7 +405,16 @@
             44,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                2672942,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -340,7 +422,30 @@
             10,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                291769,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                473735,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                603721,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "FB",
@@ -348,7 +453,23 @@
             35,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                2008227,
+                "ms"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                2148937,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -356,7 +477,23 @@
             247,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                13746460,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                14869431,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -364,7 +501,23 @@
             87,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                3973071,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                5255752,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "FB",
@@ -372,7 +525,16 @@
             121,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                7316387,
+                "ms"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -412,7 +574,37 @@
             254,
             "min"
           ],
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                14708433,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                14862305,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                14932797,
+                "ms"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                15261643,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -420,7 +612,44 @@
             182,
             "min"
           ],
-          "tries": 5
+          "tries": 5,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                9764500,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                10401137,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                10511047,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                10731568,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                10935121,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "FB",
@@ -428,11 +657,64 @@
             210,
             "min"
           ],
-          "tries": 6
+          "tries": 6,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                3481502,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                3842058,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                3900712,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                4583951,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                4805547,
+                "ms"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                12615550,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17996358,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -440,7 +722,16 @@
             193,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                11616044,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -451,7 +742,16 @@
             291,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                17494938,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -459,7 +759,23 @@
             18,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                1058046,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                1124403,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -467,7 +783,16 @@
             119,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                7167845,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "FB",
@@ -475,7 +800,58 @@
             148,
             "min"
           ],
-          "tries": 7
+          "tries": 7,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                6400374,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                6870967,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                7261728,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                7489270,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                7592453,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                7894710,
+                "ms"
+              ]
+            },
+            {
+              "result": "FB",
+              "time": [
+                8901653,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -483,7 +859,23 @@
             113,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                5641992,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                6781747,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -529,14 +921,32 @@
             114,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                6880132,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17907531,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -544,7 +954,58 @@
             297,
             "min"
           ],
-          "tries": 7
+          "tries": 7,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                11745827,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                13660088,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                15905948,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17139529,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17204391,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17796328,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                17879473,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -555,7 +1016,30 @@
             210,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "CE",
+              "time": [
+                12562603,
+                "ms"
+              ]
+            },
+            {
+              "result": "CE",
+              "time": [
+                12588299,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                12612990,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -563,7 +1047,16 @@
             12,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                774581,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -571,7 +1064,16 @@
             70,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                4214356,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -579,7 +1081,30 @@
             230,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                12407138,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                13305109,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                13839419,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "FB",
@@ -587,7 +1112,16 @@
             37,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                2242359,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -595,7 +1129,16 @@
             143,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                8598363,
+                "ms"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -638,7 +1181,16 @@
             118,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                7138617,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -646,7 +1198,30 @@
             270,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                15249872,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                15835974,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                16253013,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -657,7 +1232,16 @@
             54,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                3274585,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -671,7 +1255,16 @@
             11,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                708187,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -679,7 +1272,23 @@
             102,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                5831316,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                6163275,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -690,11 +1299,36 @@
             155,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                3675957,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                9357378,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                12787256,
+                "ms"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -737,7 +1371,16 @@
             59,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                3585890,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -751,14 +1394,53 @@
             184,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                9637912,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                9996417,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                11093673,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
         },
         {
           "result": "RJ",
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17987209,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17999455,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -766,7 +1448,23 @@
             25,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                1030366,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                1530484,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -774,7 +1472,23 @@
             97,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                4900141,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                5853730,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -785,7 +1499,16 @@
             119,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                7169465,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -793,7 +1516,44 @@
             293,
             "min"
           ],
-          "tries": 5
+          "tries": 5,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                15921233,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                16623594,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                17071013,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                17205140,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                17587273,
+                "ms"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -836,7 +1596,23 @@
             181,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                9119192,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                10879787,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -850,7 +1626,30 @@
             68,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                2323692,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                3982241,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                4104795,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -864,7 +1663,16 @@
             10,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                612755,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -872,11 +1680,85 @@
             145,
             "min"
           ],
-          "tries": 7
+          "tries": 7,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                5101075,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                5661623,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                6252813,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                6375308,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                6868985,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                7657519,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                8720049,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                16703266,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                16733372,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                17870235,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -884,7 +1766,23 @@
             106,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                5830629,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                6393785,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -892,7 +1790,16 @@
             228,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                13698362,
+                "ms"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -935,7 +1842,23 @@
             290,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                16937570,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                17413274,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -949,7 +1872,16 @@
             266,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                15961042,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -963,7 +1895,23 @@
             18,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                1009959,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                1102486,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -971,7 +1919,23 @@
             173,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                8514442,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                10401247,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -979,7 +1943,23 @@
             180,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                9710430,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                10822482,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -987,7 +1967,16 @@
             97,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                5824148,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1027,7 +2016,16 @@
             163,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                9832660,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1041,7 +2039,16 @@
             188,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                11298497,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1055,7 +2062,23 @@
             17,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                973586,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                1041203,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1063,7 +2086,23 @@
             132,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                7354823,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                7965330,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1074,7 +2113,16 @@
             68,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                4093052,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1120,7 +2168,16 @@
             49,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                2977477,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1134,7 +2191,16 @@
             119,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                7161187,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1148,7 +2214,37 @@
             26,
             "min"
           ],
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                965637,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                1136408,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                1464271,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                1593198,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1156,11 +2252,50 @@
             149,
             "min"
           ],
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                6204591,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                6935059,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                7774185,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                8972103,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                17983394,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1168,11 +2303,29 @@
             162,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                9745074,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17555271,
+                "ms"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1215,11 +2368,29 @@
             181,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                10867625,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                16845662,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1230,7 +2401,16 @@
             167,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                10067822,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1244,7 +2424,16 @@
             18,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                1098014,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1252,11 +2441,36 @@
             113,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                6810717,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17634631,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17895197,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1264,7 +2478,16 @@
             193,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                11614454,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1310,7 +2533,16 @@
             189,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                11396564,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1324,7 +2556,23 @@
             118,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                6831677,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                7124416,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1338,7 +2586,16 @@
             22,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                1347422,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1346,11 +2603,36 @@
             128,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                6001851,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                7688610,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17699143,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1358,7 +2640,23 @@
             210,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                12584328,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                12631529,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1404,11 +2702,57 @@
             112,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                6031380,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                6400720,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                6769233,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                16515068,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                16668120,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17678403,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1419,7 +2763,16 @@
             159,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                9544189,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1433,7 +2786,30 @@
             39,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "NOUT",
+              "time": [
+                1601431,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                1614460,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                2350703,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1441,7 +2817,16 @@
             260,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                15611369,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1452,7 +2837,16 @@
             129,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                7745266,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1498,7 +2892,30 @@
             87,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                3246906,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                3759547,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                5250457,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1512,7 +2929,16 @@
             205,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                12319100,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1526,7 +2952,30 @@
             55,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                2007521,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                2988984,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                3358172,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1534,11 +2983,57 @@
             142,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                8077666,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                8537057,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17834094,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17872627,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17936290,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17984825,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1546,7 +3041,16 @@
             196,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                11783327,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1592,7 +3096,16 @@
             199,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                11982156,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1606,7 +3119,16 @@
             258,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                15492256,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1620,7 +3142,16 @@
             14,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                867904,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1628,11 +3159,29 @@
             136,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                8198897,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                17967637,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1640,7 +3189,30 @@
             157,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                6506512,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                6966097,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                9453393,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1686,7 +3258,30 @@
             145,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                3849165,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                6912727,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                8719893,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1700,7 +3295,16 @@
             273,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                16409921,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1714,7 +3318,16 @@
             15,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                959247,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1722,7 +3335,23 @@
             104,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                3720498,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                6262950,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1733,11 +3362,43 @@
             212,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                12762476,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "RJ",
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                17997998,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17999241,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17999896,
+                "ms"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1780,7 +3441,23 @@
             134,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                6909807,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                8095132,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1794,7 +3471,16 @@
             260,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                15640854,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1808,7 +3494,23 @@
             15,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "CE",
+              "time": [
+                853024,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                925547,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1816,7 +3518,30 @@
             100,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                4082583,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                4301964,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                6048436,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1827,7 +3552,16 @@
             277,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                16651392,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1873,7 +3607,30 @@
             167,
             "min"
           ],
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                9578234,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                9766830,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                10079166,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1887,7 +3644,23 @@
             299,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                17105418,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                17989146,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1901,7 +3674,16 @@
             22,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                1340953,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1909,7 +3691,16 @@
             77,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                4679035,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1920,7 +3711,23 @@
             232,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                10980228,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                13930596,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1966,7 +3773,37 @@
             216,
             "min"
           ],
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                11340113,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                12311390,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                12971736,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                13003756,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -1974,7 +3811,44 @@
             225,
             "min"
           ],
-          "tries": 5
+          "tries": 5,
+          "solutions": [
+            {
+              "result": "RTE",
+              "time": [
+                7850625,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                8884700,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                9678879,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                12201598,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                13503178,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -1994,7 +3868,16 @@
             9,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "FB",
+              "time": [
+                544975,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -2002,7 +3885,16 @@
             85,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                5121481,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -2013,7 +3905,37 @@
             200,
             "min"
           ],
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                10255267,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                10490776,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                11930596,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                12014700,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -2055,7 +3977,37 @@
         },
         {
           "result": "RJ",
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                13310124,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                13676129,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                13771760,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                14174720,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -2078,7 +4030,16 @@
             18,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                1135770,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -2086,7 +4047,16 @@
             185,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                11140447,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -2094,7 +4064,23 @@
             199,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                10284750,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                11986507,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -2102,7 +4088,16 @@
             101,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                6109954,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -2144,7 +4139,30 @@
         },
         {
           "result": "RJ",
-          "tries": 3
+          "tries": 3,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                5693121,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                10231714,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                11017066,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -2154,7 +4172,37 @@
         },
         {
           "result": "RJ",
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                17686811,
+                "ms"
+              ]
+            },
+            {
+              "result": "TLE",
+              "time": [
+                17806884,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17972129,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                17996834,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -2168,7 +4216,16 @@
             14,
             "min"
           ],
-          "tries": 1
+          "tries": 1,
+          "solutions": [
+            {
+              "result": "AC",
+              "time": [
+                889943,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": "AC",
@@ -2176,7 +4233,37 @@
             269,
             "min"
           ],
-          "tries": 4
+          "tries": 4,
+          "solutions": [
+            {
+              "result": "WA",
+              "time": [
+                7911974,
+                "ms"
+              ]
+            },
+            {
+              "result": "WA",
+              "time": [
+                14876440,
+                "ms"
+              ]
+            },
+            {
+              "result": "RTE",
+              "time": [
+                15859266,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                16196565,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
@@ -2187,7 +4274,23 @@
             84,
             "min"
           ],
-          "tries": 2
+          "tries": 2,
+          "solutions": [
+            {
+              "result": "TLE",
+              "time": [
+                4880008,
+                "ms"
+              ]
+            },
+            {
+              "result": "AC",
+              "time": [
+                5092952,
+                "ms"
+              ]
+            }
+          ]
         },
         {
           "result": null
