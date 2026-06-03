@@ -25,10 +25,6 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "series": [
     {
       "title": "#",
@@ -51,9 +47,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              14,
+              28,
+              41
             ]
           }
         }
@@ -97,11 +93,6 @@
     }
   },
   "markers": [
-    {
-      "id": "1",
-      "label": "普通队",
-      "style": "blue"
-    },
     {
       "id": "female",
       "label": "女队",
@@ -256,9 +247,6 @@
           {
             "name": "陈信帆"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -627,9 +615,6 @@
             "name": "雷昊喆"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -864,9 +849,6 @@
           {
             "name": "汪天浩"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -1105,9 +1087,6 @@
           {
             "name": "郭佳明"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -1372,9 +1351,6 @@
             "name": "王中宇"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -1602,9 +1578,6 @@
           {
             "name": "何沐"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -2173,9 +2146,6 @@
             "name": "林鸿永"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -2432,9 +2402,6 @@
             "name": "曾庆阳"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -2655,9 +2622,6 @@
           {
             "name": "陈子权"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -2953,9 +2917,6 @@
             "name": "秦浩森"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -3243,9 +3204,6 @@
             "name": "孙江吉"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -3523,9 +3481,6 @@
             "name": "汪林辰"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -3799,9 +3754,6 @@
             "name": "卢思吉"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -4039,9 +3991,6 @@
           {
             "name": "赵晨翔"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -4288,9 +4237,6 @@
             "name": "吴栩睿"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -4532,9 +4478,6 @@
           {
             "name": "张皓志"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -4801,9 +4744,6 @@
           {
             "name": "龙敖"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -5231,7 +5171,7 @@
           }
         ],
         "markers": [
-          "1"
+          "female"
         ],
         "official": true
       },
@@ -5447,9 +5387,6 @@
             "name": "杨宇轩"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -5649,9 +5586,6 @@
           {
             "name": "黄子扬"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -5909,9 +5843,6 @@
             "name": "王荃"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -6108,9 +6039,6 @@
             "name": "付晓天"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -6304,9 +6232,6 @@
             "name": "何炜华"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -6499,9 +6424,6 @@
           {
             "name": "容亿鑫"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -6751,9 +6673,6 @@
             "name": "李彦锐"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -6957,9 +6876,6 @@
             "name": "张煦"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -7155,9 +7071,6 @@
           {
             "name": "林梓豪"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -7382,9 +7295,6 @@
           {
             "name": "钟志烨"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -7617,9 +7527,6 @@
             "name": "闫化飞"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -7836,9 +7743,6 @@
           {
             "name": "王策翔"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -8071,9 +7975,6 @@
             "name": "林琮皓"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -8305,9 +8206,6 @@
             "name": "朱文静"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -8479,9 +8377,6 @@
           {
             "name": "郑启超"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -8700,9 +8595,6 @@
             "name": "田旭东"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -8874,9 +8766,6 @@
           {
             "name": "陆云瑞"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -9109,9 +8998,6 @@
             "name": "张艺凡"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -9332,9 +9218,6 @@
           {
             "name": "闫小凯"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -9574,9 +9457,6 @@
             "name": "宋秉轩"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -9780,9 +9660,6 @@
             "name": "赖国华"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -9975,9 +9852,6 @@
           {
             "name": "杨博铭"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -10238,9 +10112,6 @@
             "name": "陈嘉晟"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -10454,9 +10325,6 @@
           {
             "name": "劳帅钧"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -10681,9 +10549,6 @@
           {
             "name": "李畅"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -10989,9 +10854,6 @@
             "name": "廖贝贝"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -11192,9 +11054,6 @@
             "name": "王明骏"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -11394,9 +11253,6 @@
           {
             "name": "林如愿"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -11632,9 +11488,6 @@
           {
             "name": "周浩宇"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -11891,9 +11744,6 @@
             "name": "张文锐"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -12104,9 +11954,6 @@
             "name": "梁永琰"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -12306,9 +12153,6 @@
           {
             "name": "林敏彬"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -12530,9 +12374,6 @@
           {
             "name": "倪子谦"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -12772,9 +12613,6 @@
             "name": "向俊霖"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -12974,9 +12812,6 @@
           {
             "name": "周博昂"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -13199,9 +13034,6 @@
             "name": "刘艺轩"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -13422,9 +13254,6 @@
           {
             "name": "许俊杰"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -13695,9 +13524,6 @@
           {
             "name": "赵威翰"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -13975,9 +13801,6 @@
           {
             "name": "华德"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14260,9 +14083,6 @@
             "name": "张仁卓"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -14511,9 +14331,6 @@
           {
             "name": "刘欣斋"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14773,9 +14590,6 @@
           {
             "name": "马新城"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -15040,9 +14854,6 @@
             "name": "吴栎洋"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -15245,9 +15056,6 @@
           {
             "name": "李伯轩"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -15494,9 +15302,6 @@
             "name": "刘锡炜"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -15720,9 +15525,6 @@
           {
             "name": "杨一鸣"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -15993,9 +15795,6 @@
             "name": "胡益铭"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -16167,9 +15966,6 @@
           {
             "name": "陈为森"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -16352,9 +16148,6 @@
           {
             "name": "张鑫妤"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -16548,9 +16341,6 @@
           {
             "name": "沈铖飞"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -16764,9 +16554,6 @@
           {
             "name": "陈雷"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -17022,9 +16809,6 @@
           {
             "name": "邵弘毅"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -17285,9 +17069,6 @@
             "name": "隋鑫"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -17473,9 +17254,6 @@
           {
             "name": "毛海玮"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -17722,9 +17500,6 @@
             "name": "林铠琦"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -17948,9 +17723,6 @@
           {
             "name": "薛喻楊"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -18201,9 +17973,6 @@
             "name": "徐墨林"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -18425,9 +18194,6 @@
             "name": "余畅洋"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -18648,9 +18414,6 @@
             "name": "庞亚东"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -18850,9 +18613,6 @@
           {
             "name": "林烁东"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -19096,9 +18856,6 @@
             "name": "孟繁星"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -19305,9 +19062,6 @@
           {
             "name": "李嘉鑫"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -19546,9 +19300,6 @@
           {
             "name": "王傲"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -19820,9 +19571,6 @@
             "name": "杨仕凌"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -20008,9 +19756,6 @@
           {
             "name": "谭超"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -20246,9 +19991,6 @@
           {
             "name": "林宸宇"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -20494,9 +20236,6 @@
           {
             "name": "林凯博"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -20803,9 +20542,6 @@
             "name": "张聿"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -21027,9 +20763,6 @@
             "name": "李雨垚"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -21233,9 +20966,6 @@
             "name": "黎甜甜"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -21386,9 +21116,6 @@
           {
             "name": "苏星雨"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -21621,9 +21348,6 @@
             "name": "左张语"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -21850,9 +21574,6 @@
           {
             "name": "侯赵琪"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -22217,9 +21938,6 @@
             "name": "王东宇"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -22458,9 +22176,6 @@
             "name": "王怀哲"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -22642,9 +22357,6 @@
           {
             "name": "赵炜铭"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -22841,9 +22553,6 @@
           {
             "name": "陈紫骁"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -23048,9 +22757,6 @@
             "name": "高文淼"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -23239,9 +22945,6 @@
           {
             "name": "孙正武"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -23516,9 +23219,6 @@
             "name": "姚淇韦"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -23676,9 +23376,6 @@
           {
             "name": "刘雨馨"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -23844,9 +23541,6 @@
           {
             "name": "胡昊睿"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -24103,9 +23797,6 @@
             "name": "王子勋"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -24302,9 +23993,6 @@
             "name": "刁心雨"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -24500,9 +24188,6 @@
           {
             "name": "贾博文"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -24770,9 +24455,6 @@
             "name": "徐静怡"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -24944,9 +24626,6 @@
           {
             "name": "刘凯"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -25165,9 +24844,6 @@
             "name": "冯慧芹"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -25335,9 +25011,6 @@
           {
             "name": "吴承骏"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -25577,9 +25250,6 @@
             "name": "王承义"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -25782,9 +25452,6 @@
           {
             "name": "高鹏飞"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -25996,9 +25663,6 @@
             "name": "李响"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -26148,9 +25812,6 @@
           {
             "name": "袁子建"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -26371,9 +26032,6 @@
           {
             "name": "陈柏希"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -26616,9 +26274,6 @@
             "name": "徐晨博"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -26797,9 +26452,6 @@
             "name": "杨梓"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -26968,9 +26620,6 @@
             "name": "向俊杰"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -27124,9 +26773,6 @@
           {
             "name": "杨博翔"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -27295,9 +26941,6 @@
           {
             "name": "程文彬"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -27481,9 +27124,6 @@
             "name": "黄梓航"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -27665,9 +27305,6 @@
           {
             "name": "陈书铭"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -27864,9 +27501,6 @@
           {
             "name": "廖艺菲"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -28078,9 +27712,6 @@
             "name": "王志宽"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -28259,9 +27890,6 @@
             "name": "郭家宝"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -28401,9 +28029,6 @@
           {
             "name": "张蓓"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -28572,9 +28197,6 @@
           {
             "name": "陈懿韬"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -28831,9 +28453,6 @@
             "name": "董致源"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -28973,9 +28592,6 @@
           {
             "name": "周科印"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -29164,9 +28780,6 @@
           {
             "name": "曹智泊"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -29458,9 +29071,6 @@
             "name": "李昆霖"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -29635,9 +29245,6 @@
           {
             "name": "于欣驰"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -29824,9 +29431,6 @@
             "name": "蒋宇晗"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -30001,9 +29605,6 @@
           {
             "name": "李锡俊"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -30204,9 +29805,6 @@
             "name": "李宇鑫"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -30364,9 +29962,6 @@
           {
             "name": "王梓伊"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -30542,9 +30137,6 @@
           {
             "name": "吕品味"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -30728,9 +30320,6 @@
             "name": "吴雨树"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -30899,9 +30488,6 @@
             "name": "苗宇轩"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -31048,9 +30634,6 @@
           {
             "name": "陈浩"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -31219,9 +30802,6 @@
           {
             "name": "侯建宇"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -31422,9 +31002,6 @@
             "name": "陆政杭"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -31588,9 +31165,6 @@
           {
             "name": "杨博"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -31805,9 +31379,6 @@
             "name": "钟正晨"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -31961,9 +31532,6 @@
           {
             "name": "管余麒"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -32174,9 +31742,6 @@
           {
             "name": "陈子昂"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -32394,9 +31959,6 @@
           {
             "name": "冯钰轩"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -32702,9 +32264,6 @@
             "name": "程广宇"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -32880,9 +32439,6 @@
             "name": "张致君"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -33057,9 +32613,6 @@
           {
             "name": "高烁庭"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -33316,9 +32869,6 @@
             "name": "滕英含"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -33500,9 +33050,6 @@
           {
             "name": "曾泓鸣"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -33721,9 +33268,6 @@
             "name": "黄楷翔"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -33919,9 +33463,6 @@
           {
             "name": "于航"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -34199,9 +33740,6 @@
             "name": "李梦琦"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -34449,9 +33987,6 @@
           {
             "name": "王森森"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -34749,9 +34284,6 @@
             "name": "曹赵杨"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -34961,9 +34493,6 @@
             "name": "赵援翔"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -35120,9 +34649,6 @@
           {
             "name": "王博"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -35341,9 +34867,6 @@
             "name": "周清"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -35507,9 +35030,6 @@
           {
             "name": "许子沛"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -35762,9 +35282,6 @@
             "name": "李禹瑶"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -35901,9 +35418,6 @@
             "name": "李立雨"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -36036,9 +35550,6 @@
           {
             "name": "沈宸禾"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -36238,9 +35749,6 @@
             "name": "邸博武"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -36376,9 +35884,6 @@
           {
             "name": "张君昊"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -36578,9 +36083,6 @@
           {
             "name": "鲍鹏玮"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -36788,9 +36290,6 @@
             "name": "易邦平"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -36933,9 +36432,6 @@
           {
             "name": "寇荞琳"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -37206,9 +36702,6 @@
             "name": "王新瑶"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -37362,9 +36855,6 @@
           {
             "name": "迟艺晨"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -37663,9 +37153,6 @@
             "name": "王浩羽"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -37834,9 +37321,6 @@
             "name": "夏远平"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -37990,9 +37474,6 @@
           {
             "name": "刘士琦"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -38175,9 +37656,6 @@
           {
             "name": "周铂民"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -38429,9 +37907,6 @@
           {
             "name": "魏一"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -38800,9 +38275,6 @@
             "name": "丁浩"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -38966,9 +38438,6 @@
           {
             "name": "师嘉蔓"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -39232,9 +38701,6 @@
             "name": "董立同"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -39437,9 +38903,6 @@
           {
             "name": "郑伟民"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -39731,9 +39194,6 @@
             "name": "韩雪研"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -39886,9 +39346,6 @@
           {
             "name": "江雨佳"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -40043,9 +39500,6 @@
             "name": "井惺博"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -40167,9 +39621,6 @@
           {
             "name": "王晨冰"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -40348,9 +39799,6 @@
           {
             "name": "尹彦琦"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -40676,9 +40124,6 @@
             "name": "陈楚奇"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -40783,9 +40228,6 @@
           {
             "name": "秦家燊"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -41048,9 +40490,6 @@
             "name": "周子骏"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -41211,9 +40650,6 @@
             "name": "王海滨"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -41366,9 +40802,6 @@
           {
             "name": "周裕淇"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
@@ -41617,9 +41050,6 @@
           {
             "name": "杨皓程"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -42039,9 +41469,6 @@
             "name": "王文正"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -42282,9 +41709,6 @@
             "name": "姜宇轩"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -42493,9 +41917,6 @@
           {
             "name": "李金洋"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -42775,9 +42196,6 @@
             "name": "孙嘉妤"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": false
       },
       "score": {
@@ -42895,9 +42313,6 @@
           {
             "name": "王思恩"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -43059,9 +42474,6 @@
             "name": "李沛茹"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -43215,9 +42627,6 @@
             "name": "周骏"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -43335,9 +42744,6 @@
           {
             "name": "万梦琦"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -43484,9 +42890,6 @@
           {
             "name": "陈以成"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -43781,9 +43184,6 @@
             "name": "冯俊超"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -43965,9 +43365,6 @@
             "name": "徐Xv"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -44082,9 +43479,6 @@
           {
             "name": "范金韬"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -44256,9 +43650,6 @@
           {
             "name": "姜雯馨"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -44482,9 +43873,6 @@
             "name": "孙嘉奇"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -44676,9 +44064,6 @@
             "name": "李彬"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -44821,9 +44206,6 @@
           {
             "name": "陈锦坤"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": false
       },
