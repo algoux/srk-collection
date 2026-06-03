@@ -200,12 +200,12 @@
   "markers": [
     {
       "id": "invitational",
-      "label": "邀请赛",
+      "label": "邀请赛组",
       "style": "green"
     },
     {
       "id": "undergraduate",
-      "label": "区内",
+      "label": "区内本科组",
       "style": "blue"
     },
     {
@@ -215,7 +215,7 @@
     },
     {
       "id": "pss",
-      "label": "中小学生组",
+      "label": "中小学组",
       "style": "orange"
     }
   ],
