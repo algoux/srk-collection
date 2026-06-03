@@ -82,6 +82,18 @@
       ],
       "rule": { "preset": "ICPC", "options": { "count": { "value": [20, 39, 63] } } }
     },
+    {
+      "title": "高职组#",
+      "segments": [
+        { "title": "金奖", "style": "gold" },
+        { "title": "银奖", "style": "silver" },
+        { "title": "铜奖", "style": "bronze" }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": { "count": { "value": [2, 3, 3] }, "filter": { "byMarker": "vocation" } }
+      }
+    },
     { "title": "R#", "rule": { "preset": "Normal" } },
     {
       "title": "S#",
@@ -19717,7 +19729,7 @@
   },
   "markers": [
     { "id": "vocation", "label": "高职组", "style": "blue" },
-    { "id": "girl", "label": "女生组", "style": "green" }
+    { "id": "girl", "label": "女生组", "style": "pink" }
   ],
   "contributors": ["XCPCIO (https://xcpcio.com)", "algoUX (https://algoux.org)"]
 }
