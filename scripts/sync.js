@@ -13,9 +13,9 @@ const MAX_ATTEMPTS = MAX_RETRIES + 1;
 const INITIAL_TIMEOUT_MS = 30000;
 const RETRY_TIMEOUT_STEP_MS = 30000;
 const RETRY_DELAY_MS = 1000;
-const SYNC_CONCURRENCY = 1;
-const MAX_RANK_TASK_REQUESTS = 8;
-const MAX_COLLECTION_TASK_REQUESTS = 4;
+const SYNC_CONCURRENCY = 10;
+const MAX_RANK_TASK_REQUESTS = 20;
+const MAX_COLLECTION_TASK_REQUESTS = 10;
 
 class RetryExhaustedError extends Error {
   constructor(label, attempts, cause) {
