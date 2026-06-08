@@ -6,7 +6,7 @@
       "zh-CN": "2025-2026 国际大学生程序设计竞赛贵州省赛",
       "fallback": "2025-2026 国际大学生程序设计竞赛贵州省赛"
     },
-    "startAt": "2025-06-08T09:00:00+08:00",
+    "startAt": "2025-06-08T12:00:00+08:00",
     "duration": [
       300,
       "min"
@@ -19,10 +19,6 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "sorter": {
     "algorithm": "ICPC",
     "config": {
@@ -55,9 +51,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              9,
+              17,
+              26
             ]
           }
         }
@@ -191,7 +187,19 @@
       "user": {
         "id": "team19",
         "name": "打xcpc不喊我",
-        "organization": "华南理工大学"
+        "organization": "华南理工大学",
+        "teamMembers": [
+          {
+            "name": "吕浩天"
+          },
+          {
+            "name": "徐睿"
+          },
+          {
+            "name": "梁立州"
+          }
+        ],
+        "location": "A4"
       },
       "score": {
         "value": 11,
@@ -303,7 +311,19 @@
       "user": {
         "id": "team44",
         "name": "比起武汉邀请赛，我更喜欢你",
-        "organization": "浙江理工大学"
+        "organization": "浙江理工大学",
+        "teamMembers": [
+          {
+            "name": "姚仁杰"
+          },
+          {
+            "name": "贺宇昊"
+          },
+          {
+            "name": "任麒源"
+          }
+        ],
+        "location": "B8"
       },
       "score": {
         "value": 11,
@@ -416,7 +436,19 @@
         "id": "team101",
         "name": "幻灯花",
         "organization": "四川大学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "顾曦骏"
+          },
+          {
+            "name": "罗鑫"
+          },
+          {
+            "name": "田烨"
+          }
+        ],
+        "location": "B19"
       },
       "score": {
         "value": 10,
@@ -524,7 +556,19 @@
       "user": {
         "id": "team18",
         "name": "Fast Fast TLE",
-        "organization": "华南理工大学"
+        "organization": "华南理工大学",
+        "teamMembers": [
+          {
+            "name": "吴挺宇"
+          },
+          {
+            "name": "甘景贤"
+          },
+          {
+            "name": "吴尚鸿"
+          }
+        ],
+        "location": "F3"
       },
       "score": {
         "value": 10,
@@ -632,7 +676,19 @@
       "user": {
         "id": "team47",
         "name": "哪里有石油哪里就是我的家",
-        "organization": "中国石油大学(北京)"
+        "organization": "中国石油大学(北京)",
+        "teamMembers": [
+          {
+            "name": "仝泰旻"
+          },
+          {
+            "name": "李松蔚"
+          },
+          {
+            "name": "段盈君"
+          }
+        ],
+        "location": "E8"
       },
       "score": {
         "value": 9,
@@ -737,7 +793,19 @@
         "id": "team113",
         "name": "中学生英才计划一队",
         "organization": "计算机学会&贵州师范学院",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "甘梓辰"
+          },
+          {
+            "name": "谷佳鸿"
+          },
+          {
+            "name": "林钰涵"
+          }
+        ],
+        "location": "G18"
       },
       "score": {
         "value": 9,
@@ -841,7 +909,19 @@
       "user": {
         "id": "team10",
         "name": "qfl算法竞赛男神我们喜欢你",
-        "organization": "广州大学"
+        "organization": "广州大学",
+        "teamMembers": [
+          {
+            "name": "郑灵杰"
+          },
+          {
+            "name": "陈全隆"
+          },
+          {
+            "name": "谢宇峰"
+          }
+        ],
+        "location": "D2"
       },
       "score": {
         "value": 8,
@@ -942,7 +1022,16 @@
         "id": "team114",
         "name": "算力逻辑领航者",
         "organization": "北京师范大学贵阳附属中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "易主一"
+          },
+          {
+            "name": "张景奕"
+          }
+        ],
+        "location": "G17"
       },
       "score": {
         "value": 8,
@@ -1042,7 +1131,19 @@
       "user": {
         "id": "team35",
         "name": "欢迎光临方神水果店特价售卖绫波梨与明日箱",
-        "organization": "深圳大学"
+        "organization": "深圳大学",
+        "teamMembers": [
+          {
+            "name": "张博汉"
+          },
+          {
+            "name": "姜顺元"
+          },
+          {
+            "name": "温家燊"
+          }
+        ],
+        "location": "E6"
       },
       "score": {
         "value": 8,
@@ -1142,7 +1243,19 @@
       "user": {
         "id": "team50",
         "name": "蓝桥杯喵之队(副本)",
-        "organization": "重庆邮电大学"
+        "organization": "重庆邮电大学",
+        "teamMembers": [
+          {
+            "name": "向炳权"
+          },
+          {
+            "name": "朱春林"
+          },
+          {
+            "name": "朱易轩"
+          }
+        ],
+        "location": "B9"
       },
       "score": {
         "value": 8,
@@ -1242,7 +1355,19 @@
       "user": {
         "id": "team51",
         "name": "tell me why?",
-        "organization": "湖南科技大学"
+        "organization": "湖南科技大学",
+        "teamMembers": [
+          {
+            "name": "旷豪杰"
+          },
+          {
+            "name": "易刚"
+          },
+          {
+            "name": "张帅"
+          }
+        ],
+        "location": "C9"
       },
       "score": {
         "value": 8,
@@ -1342,7 +1467,19 @@
       "user": {
         "id": "team49",
         "name": "曾经破碎的地方现在是它最坚硬的地方",
-        "organization": "重庆城市科技学院"
+        "organization": "重庆城市科技学院",
+        "teamMembers": [
+          {
+            "name": "吴广平"
+          },
+          {
+            "name": "陈季尤"
+          },
+          {
+            "name": "张鲜慕"
+          }
+        ],
+        "location": "A9"
       },
       "score": {
         "value": 7,
@@ -1438,7 +1575,19 @@
       "user": {
         "id": "team23",
         "name": "你会记得自己吃过多少片面包吗",
-        "organization": "惠州学院"
+        "organization": "惠州学院",
+        "teamMembers": [
+          {
+            "name": "陈源欣"
+          },
+          {
+            "name": "钟志杰"
+          },
+          {
+            "name": "陈之焕"
+          }
+        ],
+        "location": "E4"
       },
       "score": {
         "value": 7,
@@ -1534,7 +1683,19 @@
       "user": {
         "id": "team61",
         "name": "ITZY",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "杨尚卫"
+          },
+          {
+            "name": "宋超"
+          },
+          {
+            "name": "覃思越"
+          }
+        ],
+        "location": "A11"
       },
       "score": {
         "value": 7,
@@ -1630,7 +1791,19 @@
       "user": {
         "id": "team36",
         "name": "糖题罚食大队",
-        "organization": "四川大学"
+        "organization": "四川大学",
+        "teamMembers": [
+          {
+            "name": "曹家睿"
+          },
+          {
+            "name": "邱志匀"
+          },
+          {
+            "name": "刘雨彤"
+          }
+        ],
+        "location": "F6"
       },
       "score": {
         "value": 7,
@@ -1726,7 +1899,19 @@
       "user": {
         "id": "team5",
         "name": "循序渐进",
-        "organization": "广东工业大学"
+        "organization": "广东工业大学",
+        "teamMembers": [
+          {
+            "name": "郭敏哲"
+          },
+          {
+            "name": "邱启涵"
+          },
+          {
+            "name": "许圣坤"
+          }
+        ],
+        "location": "E1"
       },
       "score": {
         "value": 7,
@@ -1822,7 +2007,19 @@
       "user": {
         "id": "team80",
         "name": "GZNU-你这个选手真是满脑子都想着自己呢",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "teamMembers": [
+          {
+            "name": "李林朔"
+          },
+          {
+            "name": "蒋雨航"
+          },
+          {
+            "name": "黄紫东"
+          }
+        ],
+        "location": "B14"
       },
       "score": {
         "value": 7,
@@ -1918,7 +2115,19 @@
       "user": {
         "id": "team11",
         "name": "机器不学习",
-        "organization": "合肥工业大学宣城校区"
+        "organization": "合肥工业大学宣城校区",
+        "teamMembers": [
+          {
+            "name": "罗天昊"
+          },
+          {
+            "name": "程龙廷"
+          },
+          {
+            "name": "冯舶钊"
+          }
+        ],
+        "location": "E2"
       },
       "score": {
         "value": 7,
@@ -2014,7 +2223,19 @@
       "user": {
         "id": "team52",
         "name": "考虑此生仅有的机会-毕业前一天还在打icpc",
-        "organization": "湖北大学"
+        "organization": "湖北大学",
+        "teamMembers": [
+          {
+            "name": "姜佳伟"
+          },
+          {
+            "name": "冯念杰"
+          },
+          {
+            "name": "朱俊好"
+          }
+        ],
+        "location": "D9"
       },
       "score": {
         "value": 6,
@@ -2107,7 +2328,19 @@
         "id": "team100",
         "name": "我的青春回头看了我一眼",
         "organization": "尚奇青少年创新基地",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "李茂清"
+          },
+          {
+            "name": "汪元顺"
+          },
+          {
+            "name": "晏书浓"
+          }
+        ],
+        "location": "G20"
       },
       "score": {
         "value": 6,
@@ -2199,7 +2432,19 @@
       "user": {
         "id": "team45",
         "name": "猜猜我们的队名是什么",
-        "organization": "浙江理工大学"
+        "organization": "浙江理工大学",
+        "teamMembers": [
+          {
+            "name": "吴伦鹏"
+          },
+          {
+            "name": "余江辉"
+          },
+          {
+            "name": "汤宇涛"
+          }
+        ],
+        "location": "C8"
       },
       "score": {
         "value": 6,
@@ -2291,7 +2536,19 @@
       "user": {
         "id": "team65",
         "name": "This question is not to be touched",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "滕睿文"
+          },
+          {
+            "name": "田芳宇"
+          },
+          {
+            "name": "颜灿伟"
+          }
+        ],
+        "location": "E11"
       },
       "score": {
         "value": 6,
@@ -2384,7 +2641,19 @@
         "id": "team115",
         "name": "四个人倒欠一个维什戴尔",
         "organization": "遵义市第四中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "刘林志远"
+          },
+          {
+            "name": "雍大有"
+          },
+          {
+            "name": "李星宸"
+          }
+        ],
+        "location": "G19"
       },
       "score": {
         "value": 6,
@@ -2476,7 +2745,19 @@
       "user": {
         "id": "team69",
         "name": "菁菁者莪，在彼芳庭",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "teamMembers": [
+          {
+            "name": "唐子蕃"
+          },
+          {
+            "name": "郭晶"
+          },
+          {
+            "name": "刘欣哲"
+          }
+        ],
+        "location": "C12"
       },
       "score": {
         "value": 6,
@@ -2568,7 +2849,19 @@
       "user": {
         "id": "team14",
         "name": "老会长爆牌子",
-        "organization": "湖北第二师范学院"
+        "organization": "湖北第二师范学院",
+        "teamMembers": [
+          {
+            "name": "刘俊康"
+          },
+          {
+            "name": "张进"
+          },
+          {
+            "name": "吕行航"
+          }
+        ],
+        "location": "B3"
       },
       "score": {
         "value": 6,
@@ -2660,7 +2953,19 @@
       "user": {
         "id": "team21",
         "name": "闪光袋鼠哥哥",
-        "organization": "华中农业大学"
+        "organization": "华中农业大学",
+        "teamMembers": [
+          {
+            "name": "雷博琦"
+          },
+          {
+            "name": "胡泽宇"
+          },
+          {
+            "name": "蒋志恩"
+          }
+        ],
+        "location": "C4"
       },
       "score": {
         "value": 6,
@@ -2752,7 +3057,19 @@
       "user": {
         "id": "team63",
         "name": "c卜c就伊贼",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "程航"
+          },
+          {
+            "name": "唐辰宸"
+          },
+          {
+            "name": "周俊翔"
+          }
+        ],
+        "location": "C11"
       },
       "score": {
         "value": 5,
@@ -2840,7 +3157,19 @@
       "user": {
         "id": "team15",
         "name": "现会长爆牌子",
-        "organization": "湖北第二师范学院"
+        "organization": "湖北第二师范学院",
+        "teamMembers": [
+          {
+            "name": "贺宇杰"
+          },
+          {
+            "name": "陈仕钰"
+          },
+          {
+            "name": "余子晗"
+          }
+        ],
+        "location": "C3"
       },
       "score": {
         "value": 5,
@@ -2928,7 +3257,19 @@
       "user": {
         "id": "team48",
         "name": "月落星沉",
-        "organization": "重庆城市科技学院"
+        "organization": "重庆城市科技学院",
+        "teamMembers": [
+          {
+            "name": "刘英凯"
+          },
+          {
+            "name": "董铮"
+          },
+          {
+            "name": "陈民君"
+          }
+        ],
+        "location": "F8"
       },
       "score": {
         "value": 5,
@@ -3016,7 +3357,19 @@
       "user": {
         "id": "team25",
         "name": "珂朵莉诺艾尔立华奏鹿目圆水银灯阎魔爱蓝原椿帕秋莉",
-        "organization": "江汉大学"
+        "organization": "江汉大学",
+        "teamMembers": [
+          {
+            "name": "熊振庭"
+          },
+          {
+            "name": "李尧斐"
+          },
+          {
+            "name": "焦子霖"
+          }
+        ],
+        "location": "A5"
       },
       "score": {
         "value": 5,
@@ -3104,7 +3457,16 @@
       "user": {
         "id": "team20",
         "name": "过题全靠猜",
-        "organization": "华南农业大学"
+        "organization": "华南农业大学",
+        "teamMembers": [
+          {
+            "name": "李相廷"
+          },
+          {
+            "name": "陈溢达"
+          }
+        ],
+        "location": "B4"
       },
       "score": {
         "value": 5,
@@ -3192,7 +3554,19 @@
       "user": {
         "id": "team42",
         "name": "残缺的彩虹",
-        "organization": "云南大学"
+        "organization": "云南大学",
+        "teamMembers": [
+          {
+            "name": "李健阳"
+          },
+          {
+            "name": "王毅豪"
+          },
+          {
+            "name": "张祖翊"
+          }
+        ],
+        "location": "F7"
       },
       "score": {
         "value": 5,
@@ -3280,7 +3654,19 @@
       "user": {
         "id": "team57",
         "name": "如果有一天爱上了算法竞赛",
-        "organization": "成都信息工程大学"
+        "organization": "成都信息工程大学",
+        "teamMembers": [
+          {
+            "name": "王茂光"
+          },
+          {
+            "name": "李欣雨"
+          },
+          {
+            "name": "谭权鑫"
+          }
+        ],
+        "location": "C10"
       },
       "score": {
         "value": 5,
@@ -3368,7 +3754,19 @@
       "user": {
         "id": "team28",
         "name": "资本做局让我痛失铜牌",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "teamMembers": [
+          {
+            "name": "朱智咸"
+          },
+          {
+            "name": "梁宝生"
+          },
+          {
+            "name": "吴楚扬"
+          }
+        ],
+        "location": "D5"
       },
       "score": {
         "value": 5,
@@ -3456,7 +3854,19 @@
       "user": {
         "id": "team55",
         "name": "ACMer转生，到了xcpc就拿出0721次罚时",
-        "organization": "中北大学"
+        "organization": "中北大学",
+        "teamMembers": [
+          {
+            "name": "杨庆伟"
+          },
+          {
+            "name": "李镇道"
+          },
+          {
+            "name": "王泽仁"
+          }
+        ],
+        "location": "A10"
       },
       "score": {
         "value": 5,
@@ -3544,7 +3954,19 @@
       "user": {
         "id": "team4",
         "name": "好好好",
-        "organization": "广东工业大学"
+        "organization": "广东工业大学",
+        "teamMembers": [
+          {
+            "name": "陶齐晖"
+          },
+          {
+            "name": "侯宇鹏"
+          },
+          {
+            "name": "林鸿永"
+          }
+        ],
+        "location": "D1"
       },
       "score": {
         "value": 5,
@@ -3632,7 +4054,19 @@
       "user": {
         "id": "team31",
         "name": "我队友会弹春日影吗",
-        "organization": "闽南师范大学"
+        "organization": "闽南师范大学",
+        "teamMembers": [
+          {
+            "name": "庄伟康"
+          },
+          {
+            "name": "卢艺鸿"
+          },
+          {
+            "name": "黄良平"
+          }
+        ],
+        "location": "A6"
       },
       "score": {
         "value": 5,
@@ -3720,7 +4154,19 @@
       "user": {
         "id": "team29",
         "name": "RuntimeError",
-        "organization": "江西师范大学"
+        "organization": "江西师范大学",
+        "teamMembers": [
+          {
+            "name": "彭明俊"
+          },
+          {
+            "name": "周世祥"
+          },
+          {
+            "name": "徐宇晴"
+          }
+        ],
+        "location": "E5"
       },
       "score": {
         "value": 5,
@@ -3808,7 +4254,19 @@
       "user": {
         "id": "team41",
         "name": "超新星",
-        "organization": "云南大学"
+        "organization": "云南大学",
+        "teamMembers": [
+          {
+            "name": "林知非"
+          },
+          {
+            "name": "史哲轩"
+          },
+          {
+            "name": "吴思奇"
+          }
+        ],
+        "location": "E7"
       },
       "score": {
         "value": 5,
@@ -3896,7 +4354,19 @@
       "user": {
         "id": "team56",
         "name": "心悦君兮.",
-        "organization": "成都信息工程大学"
+        "organization": "成都信息工程大学",
+        "teamMembers": [
+          {
+            "name": "黄博文"
+          },
+          {
+            "name": "周紫嫣"
+          },
+          {
+            "name": "樊易龙"
+          }
+        ],
+        "location": "B10"
       },
       "score": {
         "value": 5,
@@ -3984,7 +4454,19 @@
       "user": {
         "id": "team30",
         "name": "我要爱惜",
-        "organization": "江西师范大学"
+        "organization": "江西师范大学",
+        "teamMembers": [
+          {
+            "name": "汤海峰"
+          },
+          {
+            "name": "黎朔鸣"
+          },
+          {
+            "name": "赵习静"
+          }
+        ],
+        "location": "F5"
       },
       "score": {
         "value": 5,
@@ -4073,7 +4555,19 @@
         "id": "team112",
         "name": "中学生英才计划二队",
         "organization": "计算机学会&贵州师范学院",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "毛俊程"
+          },
+          {
+            "name": "吴松阳"
+          },
+          {
+            "name": "刘信果"
+          }
+        ],
+        "location": "G16"
       },
       "score": {
         "value": 5,
@@ -4161,7 +4655,19 @@
       "user": {
         "id": "team60",
         "name": "\"Team names are generated by AI\"",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "黄康"
+          },
+          {
+            "name": "杨林鑫"
+          },
+          {
+            "name": "张民"
+          }
+        ],
+        "location": "F10"
       },
       "score": {
         "value": 4,
@@ -4245,7 +4751,16 @@
       "user": {
         "id": "team6",
         "name": "Sumimi",
-        "organization": "广东工业大学揭阳校区"
+        "organization": "广东工业大学揭阳校区",
+        "teamMembers": [
+          {
+            "name": "刘子恒"
+          },
+          {
+            "name": "林杰钗"
+          }
+        ],
+        "location": "F1"
       },
       "score": {
         "value": 4,
@@ -4329,7 +4844,19 @@
       "user": {
         "id": "team39",
         "name": "蓬莱人形",
-        "organization": "宜春学院"
+        "organization": "宜春学院",
+        "teamMembers": [
+          {
+            "name": "叶子涵"
+          },
+          {
+            "name": "李骏能"
+          },
+          {
+            "name": "吴春燕"
+          }
+        ],
+        "location": "C7"
       },
       "score": {
         "value": 4,
@@ -4413,7 +4940,19 @@
       "user": {
         "id": "team24",
         "name": "嘉心彬干",
-        "organization": "惠州学院"
+        "organization": "惠州学院",
+        "teamMembers": [
+          {
+            "name": "康心悦"
+          },
+          {
+            "name": "李嘉慧"
+          },
+          {
+            "name": "王彬琦"
+          }
+        ],
+        "location": "F4"
       },
       "score": {
         "value": 4,
@@ -4497,7 +5036,19 @@
       "user": {
         "id": "team12",
         "name": "Let us accepted please",
-        "organization": "河南师范大学"
+        "organization": "河南师范大学",
+        "teamMembers": [
+          {
+            "name": "骆怡娉"
+          },
+          {
+            "name": "原嘉一"
+          },
+          {
+            "name": "陈晗"
+          }
+        ],
+        "location": "F2"
       },
       "score": {
         "value": 4,
@@ -4581,7 +5132,19 @@
       "user": {
         "id": "team38",
         "name": "很可爱会哈气的三只萝莉喵",
-        "organization": "西南科技大学"
+        "organization": "西南科技大学",
+        "teamMembers": [
+          {
+            "name": "王思咏"
+          },
+          {
+            "name": "刘星宇"
+          },
+          {
+            "name": "李亦偲"
+          }
+        ],
+        "location": "B7"
       },
       "score": {
         "value": 4,
@@ -4665,7 +5228,19 @@
       "user": {
         "id": "team13",
         "name": "这是并查集吗",
-        "organization": "河南师范大学"
+        "organization": "河南师范大学",
+        "teamMembers": [
+          {
+            "name": "翟景旺"
+          },
+          {
+            "name": "宁思禹"
+          },
+          {
+            "name": "曹继喆"
+          }
+        ],
+        "location": "A3"
       },
       "score": {
         "value": 4,
@@ -4749,7 +5324,19 @@
       "user": {
         "id": "team22",
         "name": "闪电苦力怕",
-        "organization": "惠州学院"
+        "organization": "惠州学院",
+        "teamMembers": [
+          {
+            "name": "韩乐天"
+          },
+          {
+            "name": "贾敬轩"
+          },
+          {
+            "name": "林锭炜"
+          }
+        ],
+        "location": "D4"
       },
       "score": {
         "value": 4,
@@ -4834,7 +5421,19 @@
         "id": "team111",
         "name": "5WUHu!",
         "organization": "中央民族大学附属中学贵阳学校",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "伍兴睿麟"
+          },
+          {
+            "name": "胡容博"
+          },
+          {
+            "name": "吴玅君"
+          }
+        ],
+        "location": "G15"
       },
       "score": {
         "value": 4,
@@ -5003,7 +5602,19 @@
         "id": "team103",
         "name": "Quick AC Never WA",
         "organization": "观山湖中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "李朋钊"
+          },
+          {
+            "name": "李鸿哲"
+          },
+          {
+            "name": "陈辰"
+          }
+        ],
+        "location": "G4"
       },
       "score": {
         "value": 4,
@@ -5087,7 +5698,19 @@
       "user": {
         "id": "team43",
         "name": "YZNU",
-        "organization": "长江师范学院"
+        "organization": "长江师范学院",
+        "teamMembers": [
+          {
+            "name": "杨思权"
+          },
+          {
+            "name": "刘思宇"
+          },
+          {
+            "name": "汪晨阳"
+          }
+        ],
+        "location": "A8"
       },
       "score": {
         "value": 3,
@@ -5167,7 +5790,19 @@
       "user": {
         "id": "team58",
         "name": "Zenith",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "石文燕"
+          },
+          {
+            "name": "唐思雨"
+          },
+          {
+            "name": "李景颖"
+          }
+        ],
+        "location": "D10"
       },
       "score": {
         "value": 3,
@@ -5248,7 +5883,13 @@
         "id": "team104",
         "name": "码洋灿杰",
         "organization": "观山湖中学至善校区",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "宋陶洋"
+          }
+        ],
+        "location": "G6"
       },
       "score": {
         "value": 3,
@@ -5328,7 +5969,19 @@
       "user": {
         "id": "team27",
         "name": "青春期蒟蒻不会梦到奖牌",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "teamMembers": [
+          {
+            "name": "余政远"
+          },
+          {
+            "name": "王智"
+          },
+          {
+            "name": "刘云鹏"
+          }
+        ],
+        "location": "C5"
       },
       "score": {
         "value": 3,
@@ -5408,7 +6061,19 @@
       "user": {
         "id": "team62",
         "name": "不要指望我们队",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "宋彩蝶"
+          },
+          {
+            "name": "杜博冉"
+          },
+          {
+            "name": "余婷婷"
+          }
+        ],
+        "location": "B11"
       },
       "score": {
         "value": 3,
@@ -5488,7 +6153,19 @@
       "user": {
         "id": "team33",
         "name": "EASY666",
-        "organization": "南昌职业大学"
+        "organization": "南昌职业大学",
+        "teamMembers": [
+          {
+            "name": "倪仁杰"
+          },
+          {
+            "name": "邓粤龙"
+          },
+          {
+            "name": "江志辉"
+          }
+        ],
+        "location": "C6"
       },
       "score": {
         "value": 3,
@@ -5568,7 +6245,13 @@
       "user": {
         "id": "team16",
         "name": "背负黑长直之名，这次我不能输",
-        "organization": "湖北汽车工业学院"
+        "organization": "湖北汽车工业学院",
+        "teamMembers": [
+          {
+            "name": "梁锦华"
+          }
+        ],
+        "location": "D3"
       },
       "score": {
         "value": 3,
@@ -5648,7 +6331,19 @@
       "user": {
         "id": "team53",
         "name": "来神了",
-        "organization": "湖北经济学院"
+        "organization": "湖北经济学院",
+        "teamMembers": [
+          {
+            "name": "郑奥"
+          },
+          {
+            "name": "吴子维"
+          },
+          {
+            "name": "余章广"
+          }
+        ],
+        "location": "E9"
       },
       "score": {
         "value": 3,
@@ -5728,7 +6423,19 @@
       "user": {
         "id": "team59",
         "name": "贵州大学五队",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "赵建翔"
+          },
+          {
+            "name": "袁海洋"
+          },
+          {
+            "name": "唐宇杰"
+          }
+        ],
+        "location": "E10"
       },
       "score": {
         "value": 3,
@@ -5808,7 +6515,19 @@
       "user": {
         "id": "team40",
         "name": "身体健康平平安安开心每一天",
-        "organization": "宜春学院"
+        "organization": "宜春学院",
+        "teamMembers": [
+          {
+            "name": "彭曦"
+          },
+          {
+            "name": "胡帅"
+          },
+          {
+            "name": "刘玲"
+          }
+        ],
+        "location": "D7"
       },
       "score": {
         "value": 3,
@@ -5888,7 +6607,19 @@
       "user": {
         "id": "team54",
         "name": "蓝桥杯还我六百块",
-        "organization": "湖北经济学院"
+        "organization": "湖北经济学院",
+        "teamMembers": [
+          {
+            "name": "杨佳慧"
+          },
+          {
+            "name": "秦川"
+          },
+          {
+            "name": "郭子仪"
+          }
+        ],
+        "location": "F9"
       },
       "score": {
         "value": 3,
@@ -5968,7 +6699,19 @@
       "user": {
         "id": "team66",
         "name": "无敌霸王龙",
-        "organization": "贵州工程应用技术学院"
+        "organization": "贵州工程应用技术学院",
+        "teamMembers": [
+          {
+            "name": "倪志军"
+          },
+          {
+            "name": "王乐翔"
+          },
+          {
+            "name": "陈真玉"
+          }
+        ],
+        "location": "F11"
       },
       "score": {
         "value": 3,
@@ -6048,7 +6791,19 @@
       "user": {
         "id": "team79",
         "name": "北极星",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "teamMembers": [
+          {
+            "name": "杨天乐"
+          },
+          {
+            "name": "刘年生"
+          },
+          {
+            "name": "黎永然"
+          }
+        ],
+        "location": "A14"
       },
       "score": {
         "value": 2,
@@ -6124,7 +6879,19 @@
       "user": {
         "id": "team37",
         "name": "奶龙可爱多",
-        "organization": "西南科技大学"
+        "organization": "西南科技大学",
+        "teamMembers": [
+          {
+            "name": "皇甫一冉"
+          },
+          {
+            "name": "王钦洲"
+          },
+          {
+            "name": "谭淇匀"
+          }
+        ],
+        "location": "A7"
       },
       "score": {
         "value": 2,
@@ -6200,7 +6967,19 @@
       "user": {
         "id": "team26",
         "name": "伪灵根但会打表",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "teamMembers": [
+          {
+            "name": "邓俊威"
+          },
+          {
+            "name": "吴帅斌"
+          },
+          {
+            "name": "朱宇强"
+          }
+        ],
+        "location": "B5"
       },
       "score": {
         "value": 2,
@@ -6276,7 +7055,19 @@
       "user": {
         "id": "team9",
         "name": "这一发·来自终焉",
-        "organization": "广西科技大学"
+        "organization": "广西科技大学",
+        "teamMembers": [
+          {
+            "name": "方庆声"
+          },
+          {
+            "name": "谢博轩"
+          },
+          {
+            "name": "周丽欣"
+          }
+        ],
+        "location": "C2"
       },
       "score": {
         "value": 2,
@@ -6352,7 +7143,19 @@
       "user": {
         "id": "team17",
         "name": "梦想追逐者",
-        "organization": "湖北汽车工业学院"
+        "organization": "湖北汽车工业学院",
+        "teamMembers": [
+          {
+            "name": "陈奥"
+          },
+          {
+            "name": "邱楠"
+          },
+          {
+            "name": "肖可萱"
+          }
+        ],
+        "location": "E3"
       },
       "score": {
         "value": 2,
@@ -6429,7 +7232,19 @@
         "id": "team106",
         "name": "天下第一",
         "organization": "贵阳市第三中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "张雯尧"
+          },
+          {
+            "name": "李盱盈"
+          },
+          {
+            "name": "黄思涵"
+          }
+        ],
+        "location": "G8"
       },
       "score": {
         "value": 2,
@@ -6505,7 +7320,19 @@
       "user": {
         "id": "team74",
         "name": "她不一样",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "teamMembers": [
+          {
+            "name": "王鹏辉"
+          },
+          {
+            "name": "高玮泽"
+          },
+          {
+            "name": "龙运鹏"
+          }
+        ],
+        "location": "B13"
       },
       "score": {
         "value": 2,
@@ -6582,7 +7409,19 @@
         "id": "team110",
         "name": "人机之梦",
         "organization": "贵阳市华麟中学&观山湖中学&贵阳三中",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "郭一菲"
+          },
+          {
+            "name": "刘悦层"
+          },
+          {
+            "name": "黄奕涵"
+          }
+        ],
+        "location": "G14"
       },
       "score": {
         "value": 2,
@@ -6658,7 +7497,19 @@
       "user": {
         "id": "team1",
         "name": "重在参与",
-        "organization": "成都锦城学院"
+        "organization": "成都锦城学院",
+        "teamMembers": [
+          {
+            "name": "张锟鹏"
+          },
+          {
+            "name": "王依峡"
+          },
+          {
+            "name": "雷文均"
+          }
+        ],
+        "location": "A1"
       },
       "score": {
         "value": 2,
@@ -6734,7 +7585,19 @@
       "user": {
         "id": "team8",
         "name": "取队名？简简单单",
-        "organization": "广西科技大学"
+        "organization": "广西科技大学",
+        "teamMembers": [
+          {
+            "name": "何征"
+          },
+          {
+            "name": "李甲桂"
+          },
+          {
+            "name": "靳植茗"
+          }
+        ],
+        "location": "B2"
       },
       "score": {
         "value": 2,
@@ -6810,7 +7673,19 @@
       "user": {
         "id": "team93",
         "name": "三大队",
-        "organization": "六盘水师范学院"
+        "organization": "六盘水师范学院",
+        "teamMembers": [
+          {
+            "name": "何秋蓉"
+          },
+          {
+            "name": "张鹏程"
+          },
+          {
+            "name": "方鼎霖"
+          }
+        ],
+        "location": "C16"
       },
       "score": {
         "value": 2,
@@ -6886,7 +7761,19 @@
       "user": {
         "id": "team3",
         "name": "AC自动机可以自动AC吗",
-        "organization": "东莞城市学院"
+        "organization": "东莞城市学院",
+        "teamMembers": [
+          {
+            "name": "鲁莹莹"
+          },
+          {
+            "name": "李思思"
+          },
+          {
+            "name": "魏烁欢"
+          }
+        ],
+        "location": "C1"
       },
       "score": {
         "value": 2,
@@ -6962,7 +7849,19 @@
       "user": {
         "id": "team81",
         "name": "GZNU-黔灵山捕猴队",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "teamMembers": [
+          {
+            "name": "刘明辉"
+          },
+          {
+            "name": "康天博"
+          },
+          {
+            "name": "王赛"
+          }
+        ],
+        "location": "C14"
       },
       "score": {
         "value": 2,
@@ -7038,7 +7937,19 @@
       "user": {
         "id": "team76",
         "name": "Sunshine Rainbow Little Code",
-        "organization": "贵州商学院"
+        "organization": "贵州商学院",
+        "teamMembers": [
+          {
+            "name": "刘洪宇"
+          },
+          {
+            "name": "张志伟"
+          },
+          {
+            "name": "黄灿睿"
+          }
+        ],
+        "location": "D13"
       },
       "score": {
         "value": 2,
@@ -7114,7 +8025,19 @@
       "user": {
         "id": "team64",
         "name": "DFS: Dream-Food-Sleep",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "teamMembers": [
+          {
+            "name": "张文哲"
+          },
+          {
+            "name": "黄涛"
+          },
+          {
+            "name": "付俊豪"
+          }
+        ],
+        "location": "D11"
       },
       "score": {
         "value": 1,
@@ -7259,7 +8182,19 @@
       "user": {
         "id": "team7",
         "name": "GDUTJY_1+1=0",
-        "organization": "广东工业大学揭阳校区"
+        "organization": "广东工业大学揭阳校区",
+        "teamMembers": [
+          {
+            "name": "谭昊"
+          },
+          {
+            "name": "沈子涵"
+          },
+          {
+            "name": "周煜"
+          }
+        ],
+        "location": "A2"
       },
       "score": {
         "value": 1,
@@ -7331,7 +8266,19 @@
       "user": {
         "id": "team68",
         "name": "国宝特工",
-        "organization": "贵州工程应用技术学院"
+        "organization": "贵州工程应用技术学院",
+        "teamMembers": [
+          {
+            "name": "卢鹏"
+          },
+          {
+            "name": "陈敬恩"
+          },
+          {
+            "name": "阙小坪"
+          }
+        ],
+        "location": "B12"
       },
       "score": {
         "value": 1,
@@ -7403,7 +8350,19 @@
       "user": {
         "id": "team73",
         "name": "我们要当躺赢狗",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "teamMembers": [
+          {
+            "name": "王鑫"
+          },
+          {
+            "name": "吴维超"
+          },
+          {
+            "name": "吴章浪"
+          }
+        ],
+        "location": "A13"
       },
       "score": {
         "value": 1,
@@ -7475,7 +8434,19 @@
       "user": {
         "id": "team75",
         "name": "你猜我们的队名叫什么队",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "teamMembers": [
+          {
+            "name": "田坤"
+          },
+          {
+            "name": "曹宪浙"
+          },
+          {
+            "name": "杨俊丰"
+          }
+        ],
+        "location": "C13"
       },
       "score": {
         "value": 1,
@@ -7547,7 +8518,19 @@
       "user": {
         "id": "team78",
         "name": "Code Brothers Alliance",
-        "organization": "贵州商学院"
+        "organization": "贵州商学院",
+        "teamMembers": [
+          {
+            "name": "黄雨"
+          },
+          {
+            "name": "周亚勋"
+          },
+          {
+            "name": "韩欢"
+          }
+        ],
+        "location": "F13"
       },
       "score": {
         "value": 1,
@@ -7619,7 +8602,19 @@
       "user": {
         "id": "team89",
         "name": "普通学生也有金牌梦",
-        "organization": "凯里学院"
+        "organization": "凯里学院",
+        "teamMembers": [
+          {
+            "name": "林雪炜"
+          },
+          {
+            "name": "杨俊杰"
+          },
+          {
+            "name": "倪子丰"
+          }
+        ],
+        "location": "E15"
       },
       "score": {
         "value": 1,
@@ -7691,7 +8686,19 @@
       "user": {
         "id": "team2",
         "name": "猫猫虫幼儿园",
-        "organization": "成都锦城学院"
+        "organization": "成都锦城学院",
+        "teamMembers": [
+          {
+            "name": "刘宇航"
+          },
+          {
+            "name": "杨哲"
+          },
+          {
+            "name": "肖依霖"
+          }
+        ],
+        "location": "B1"
       },
       "score": {
         "value": 1,
@@ -7763,7 +8770,19 @@
       "user": {
         "id": "team91",
         "name": "鸽子王",
-        "organization": "凯里学院"
+        "organization": "凯里学院",
+        "teamMembers": [
+          {
+            "name": "张海霞"
+          },
+          {
+            "name": "梁承乐"
+          },
+          {
+            "name": "李书锐"
+          }
+        ],
+        "location": "A16"
       },
       "score": {
         "value": 1,
@@ -7836,7 +8855,19 @@
         "id": "team109",
         "name": "浩泽队",
         "organization": "贵阳市第十七中学&观山湖中学&华麟中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "付昀泽"
+          },
+          {
+            "name": "秦睿泽"
+          },
+          {
+            "name": "杜颖浩"
+          }
+        ],
+        "location": "G9"
       },
       "score": {
         "value": 1,
@@ -7908,7 +8939,19 @@
       "user": {
         "id": "team71",
         "name": "摸鱼小队",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "teamMembers": [
+          {
+            "name": "段翔韬"
+          },
+          {
+            "name": "熊骐"
+          },
+          {
+            "name": "刘柱"
+          }
+        ],
+        "location": "E12"
       },
       "score": {
         "value": 1,
@@ -7980,7 +9023,19 @@
       "user": {
         "id": "team86",
         "name": "#include<AK>",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "teamMembers": [
+          {
+            "name": "张雨雄"
+          },
+          {
+            "name": "杨涛"
+          },
+          {
+            "name": "熊秀岚"
+          }
+        ],
+        "location": "B15"
       },
       "score": {
         "value": 1,
@@ -8052,7 +9107,19 @@
       "user": {
         "id": "team72",
         "name": "Cia厉害的llo",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "teamMembers": [
+          {
+            "name": "冉登谕"
+          },
+          {
+            "name": "蒋胜礼"
+          },
+          {
+            "name": "张沙龙"
+          }
+        ],
+        "location": "F12"
       },
       "score": {
         "value": 1,
@@ -8124,7 +9191,19 @@
       "user": {
         "id": "team85",
         "name": "一直赢",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "teamMembers": [
+          {
+            "name": "万发松"
+          },
+          {
+            "name": "胡孟"
+          },
+          {
+            "name": "杨健军"
+          }
+        ],
+        "location": "A15"
       },
       "score": {
         "value": 1,
@@ -8196,7 +9275,19 @@
       "user": {
         "id": "team70",
         "name": "好运来",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "teamMembers": [
+          {
+            "name": "周伟"
+          },
+          {
+            "name": "沈炜玥"
+          },
+          {
+            "name": "李海波"
+          }
+        ],
+        "location": "D12"
       },
       "score": {
         "value": 1,
@@ -8268,7 +9359,19 @@
       "user": {
         "id": "team83",
         "name": "CodeTwo",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "teamMembers": [
+          {
+            "name": "梁光胜"
+          },
+          {
+            "name": "朱凡富"
+          },
+          {
+            "name": "陈化兰"
+          }
+        ],
+        "location": "E14"
       },
       "score": {
         "value": 1,
@@ -8340,7 +9443,19 @@
       "user": {
         "id": "team34",
         "name": "编译时茶歇",
-        "organization": "泉州信息工程学院"
+        "organization": "泉州信息工程学院",
+        "teamMembers": [
+          {
+            "name": "胡力中"
+          },
+          {
+            "name": "高灿坤"
+          },
+          {
+            "name": "陈凌涵"
+          }
+        ],
+        "location": "D6"
       },
       "score": {
         "value": 1,
@@ -8413,7 +9528,19 @@
         "id": "team107",
         "name": "同心圆（资本做局痛失AC无缘气球）",
         "organization": "贵阳市第三中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "王上清"
+          },
+          {
+            "name": "张皓芃"
+          },
+          {
+            "name": "周忠杰"
+          }
+        ],
+        "location": "G10"
       },
       "score": {
         "value": 0,
@@ -8481,7 +9608,19 @@
       "user": {
         "id": "team92",
         "name": "掂过绿蔗",
-        "organization": "凯里学院"
+        "organization": "凯里学院",
+        "teamMembers": [
+          {
+            "name": "李润瑾"
+          },
+          {
+            "name": "吴成鹏"
+          },
+          {
+            "name": "陶家兴"
+          }
+        ],
+        "location": "B16"
       },
       "score": {
         "value": 0,
@@ -8550,7 +9689,19 @@
         "id": "team105",
         "name": "铭北贵三澜",
         "organization": "观山区铭苑中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "唐文博"
+          },
+          {
+            "name": "陈维航"
+          },
+          {
+            "name": "黄浩然"
+          }
+        ],
+        "location": "G7"
       },
       "score": {
         "value": 0,
@@ -8618,7 +9769,19 @@
       "user": {
         "id": "team67",
         "name": "巴啦啦粑粑队",
-        "organization": "贵州工程应用技术学院"
+        "organization": "贵州工程应用技术学院",
+        "teamMembers": [
+          {
+            "name": "陆云成"
+          },
+          {
+            "name": "司刘阳"
+          },
+          {
+            "name": "余雨涛"
+          }
+        ],
+        "location": "A12"
       },
       "score": {
         "value": 0,
@@ -8687,7 +9850,19 @@
         "id": "team108",
         "name": "梦想启航队",
         "organization": "贵阳市第三中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "刘淏天"
+          },
+          {
+            "name": "曹皓焜"
+          },
+          {
+            "name": "魏郁霏"
+          }
+        ],
+        "location": "G12"
       },
       "score": {
         "value": 0,
@@ -8755,7 +9930,19 @@
       "user": {
         "id": "team88",
         "name": "我写的代码就是队",
-        "organization": "凯里学院"
+        "organization": "凯里学院",
+        "teamMembers": [
+          {
+            "name": "魏语涵"
+          },
+          {
+            "name": "杨景瑜"
+          },
+          {
+            "name": "高思涵"
+          }
+        ],
+        "location": "D15"
       },
       "score": {
         "value": 0,
@@ -8823,7 +10010,19 @@
       "user": {
         "id": "team82",
         "name": "CodeOne",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "teamMembers": [
+          {
+            "name": "牛海生"
+          },
+          {
+            "name": "罗英节"
+          },
+          {
+            "name": "郭俣彤"
+          }
+        ],
+        "location": "D14"
       },
       "score": {
         "value": 0,
@@ -8891,7 +10090,19 @@
       "user": {
         "id": "team32",
         "name": "Beauti-D Right Squad",
-        "organization": "闽南师范大学"
+        "organization": "闽南师范大学",
+        "teamMembers": [
+          {
+            "name": "杨文洁"
+          },
+          {
+            "name": "刘鹭欣"
+          },
+          {
+            "name": "曾若涵"
+          }
+        ],
+        "location": "B6"
       },
       "score": {
         "value": 0,
@@ -8959,7 +10170,19 @@
       "user": {
         "id": "team97",
         "name": "Not Found",
-        "organization": "兴义民族师范学院"
+        "organization": "兴义民族师范学院",
+        "teamMembers": [
+          {
+            "name": "张洋"
+          },
+          {
+            "name": "杨贵海"
+          },
+          {
+            "name": "李春意"
+          }
+        ],
+        "location": "B17"
       },
       "score": {
         "value": 0,
@@ -9027,7 +10250,19 @@
       "user": {
         "id": "team94",
         "name": "wlp",
-        "organization": "六盘水师范学院"
+        "organization": "六盘水师范学院",
+        "teamMembers": [
+          {
+            "name": "guihai wu"
+          },
+          {
+            "name": "chao li"
+          },
+          {
+            "name": "Po Jiang"
+          }
+        ],
+        "location": "D16"
       },
       "score": {
         "value": 0,
@@ -9095,7 +10330,19 @@
       "user": {
         "id": "team84",
         "name": "CodeThree",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "teamMembers": [
+          {
+            "name": "徐健辉"
+          },
+          {
+            "name": "肖旭波"
+          },
+          {
+            "name": "万冬花"
+          }
+        ],
+        "location": "F14"
       },
       "score": {
         "value": 0,
@@ -9163,7 +10410,19 @@
       "user": {
         "id": "team90",
         "name": "no last equals win",
-        "organization": "凯里学院"
+        "organization": "凯里学院",
+        "teamMembers": [
+          {
+            "name": "金恒宇"
+          },
+          {
+            "name": "李瑞洋"
+          },
+          {
+            "name": "黎文涛"
+          }
+        ],
+        "location": "F15"
       },
       "score": {
         "value": 0,
@@ -9231,7 +10490,19 @@
       "user": {
         "id": "team77",
         "name": "Dream Team1",
-        "organization": "贵州商学院"
+        "organization": "贵州商学院",
+        "teamMembers": [
+          {
+            "name": "刘章武"
+          },
+          {
+            "name": "汪瑜"
+          },
+          {
+            "name": "王昌坊"
+          }
+        ],
+        "location": "E13"
       },
       "score": {
         "value": 0,
@@ -9299,7 +10570,19 @@
       "user": {
         "id": "team98",
         "name": "Quantum Coders",
-        "organization": "兴义民族师范学院"
+        "organization": "兴义民族师范学院",
+        "teamMembers": [
+          {
+            "name": "李华涛"
+          },
+          {
+            "name": "黄霞"
+          },
+          {
+            "name": "贺翠文"
+          }
+        ],
+        "location": "E17"
       },
       "score": {
         "value": 0,
@@ -9367,7 +10650,19 @@
       "user": {
         "id": "team87",
         "name": "#include<AC>",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "teamMembers": [
+          {
+            "name": "刘亚涛"
+          },
+          {
+            "name": "李正航"
+          },
+          {
+            "name": "左皓东"
+          }
+        ],
+        "location": "C15"
       },
       "score": {
         "value": 0,
@@ -9435,7 +10730,19 @@
       "user": {
         "id": "team99",
         "name": "黔南2",
-        "organization": "黔南民族师范学院"
+        "organization": "黔南民族师范学院",
+        "teamMembers": [
+          {
+            "name": "陈祖泽"
+          },
+          {
+            "name": "余占强"
+          },
+          {
+            "name": "李家忠"
+          }
+        ],
+        "location": "B18"
       },
       "score": {
         "value": 0,
@@ -9503,7 +10810,19 @@
       "user": {
         "id": "team96",
         "name": "Infinite Loop",
-        "organization": "兴义民族师范学院"
+        "organization": "兴义民族师范学院",
+        "teamMembers": [
+          {
+            "name": "张昌文"
+          },
+          {
+            "name": "陈浩"
+          },
+          {
+            "name": "邓智慧"
+          }
+        ],
+        "location": "F16"
       },
       "score": {
         "value": 0,
@@ -9571,7 +10890,19 @@
       "user": {
         "id": "team95",
         "name": "雷大双杨",
-        "organization": "六盘水师范学院"
+        "organization": "六盘水师范学院",
+        "teamMembers": [
+          {
+            "name": "罗雷"
+          },
+          {
+            "name": "杨奕飞"
+          },
+          {
+            "name": "杨健"
+          }
+        ],
+        "location": "E16"
       },
       "score": {
         "value": 0,
@@ -9640,7 +10971,19 @@
         "id": "team102",
         "name": "智子队",
         "organization": "观山湖第十中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "邱宣然"
+          },
+          {
+            "name": "刘彦成"
+          },
+          {
+            "name": "陈韵舟"
+          }
+        ],
+        "location": "G3"
       },
       "score": {
         "value": 0,
