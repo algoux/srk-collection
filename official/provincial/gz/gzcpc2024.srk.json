@@ -1,0 +1,4462 @@
+{
+  "type": "general",
+  "version": "0.3.12",
+  "contest": {
+    "title": {
+      "zh-CN": "第 7 届 ICPC 贵州省大学生程序设计竞赛",
+      "fallback": "第 7 届 ICPC 贵州省大学生程序设计竞赛"
+    },
+    "startAt": "2024-07-14T09:00:00+08:00",
+    "duration": [
+      300,
+      "min"
+    ],
+    "frozenDuration": [
+      60,
+      "min"
+    ]
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "remarks": {
+    "zh-CN": "这个榜单缺失队伍信息和奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks team information and medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  },
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        1200,
+        "s"
+      ],
+      "timePrecision": "s"
+    }
+  },
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    }
+  ],
+  "problems": [
+    {
+      "alias": "A",
+      "statistics": {
+        "accepted": 47,
+        "submitted": 117
+      }
+    },
+    {
+      "alias": "B",
+      "statistics": {
+        "accepted": 4,
+        "submitted": 50
+      }
+    },
+    {
+      "alias": "C",
+      "statistics": {
+        "accepted": 13,
+        "submitted": 128
+      }
+    },
+    {
+      "alias": "D",
+      "statistics": {
+        "accepted": 32,
+        "submitted": 136
+      }
+    },
+    {
+      "alias": "E",
+      "statistics": {
+        "accepted": 0,
+        "submitted": 21
+      }
+    },
+    {
+      "alias": "F",
+      "statistics": {
+        "accepted": 8,
+        "submitted": 40
+      }
+    },
+    {
+      "alias": "G",
+      "statistics": {
+        "accepted": 37,
+        "submitted": 185
+      }
+    },
+    {
+      "alias": "H",
+      "statistics": {
+        "accepted": 0,
+        "submitted": 16
+      }
+    },
+    {
+      "alias": "I",
+      "statistics": {
+        "accepted": 6,
+        "submitted": 13
+      }
+    },
+    {
+      "alias": "J",
+      "statistics": {
+        "accepted": 29,
+        "submitted": 111
+      }
+    },
+    {
+      "alias": "K",
+      "statistics": {
+        "accepted": 26,
+        "submitted": 140
+      }
+    },
+    {
+      "alias": "L",
+      "statistics": {
+        "accepted": 0,
+        "submitted": 4
+      }
+    },
+    {
+      "alias": "M",
+      "statistics": {
+        "accepted": 0,
+        "submitted": 1
+      }
+    },
+    {
+      "alias": "N",
+      "statistics": {
+        "accepted": 0,
+        "submitted": 0
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "TeamB12",
+        "name": "算力逻辑领航者"
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          29382,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            472,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            4931,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            3823,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            809,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "FB",
+          "time": [
+            6010,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1205,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 15
+        },
+        {
+          "result": "FB",
+          "time": [
+            2734,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1758,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2840,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA15",
+        "name": "我们要发财了"
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          34925,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            204,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            4613,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            7421,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            1424,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            6596,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            697,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            3547,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "FB",
+          "time": [
+            868,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2355,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA27",
+        "name": "做的都队"
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          57783,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            1096,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            13564,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            4284,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1457,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11160,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            2521,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            6166,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            2353,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            3182,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA20",
+        "name": "码码生的"
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          74935,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            492,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            17645,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "FB",
+          "time": [
+            3207,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            5346,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            15359,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1688,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            12958,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            6267,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            3573,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA05",
+        "name": "The Panda Army"
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          29048,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            306,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            3353,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            2369,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            6021,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1709,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            6640,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1924,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            3126,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA08",
+        "name": "3>1"
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          69970,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "FB",
+          "time": [
+            102,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            13310,
+            "s"
+          ],
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            3467,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            15760,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            619,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            14598,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1233,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            7681,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA03",
+        "name": "群星依旧"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          37733,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            235,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            8205,
+            "s"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "FB",
+          "time": [
+            788,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            13425,
+            "s"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "FB",
+          "time": [
+            512,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1512,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            1056,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA14",
+        "name": "鱼跃龙门"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          56880,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            387,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11859,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            867,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            15495,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            2316,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            1202,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            6754,
+            "s"
+          ],
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB19",
+        "name": "f_i_t_w(缩写）"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          27268,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            294,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            10556,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            3143,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            1474,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            4306,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            5095,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB09",
+        "name": "深度优先睡眠"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          29864,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            343,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 19
+        },
+        {
+          "result": "AC",
+          "time": [
+            4148,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1333,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            2850,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            2518,
+            "s"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            5472,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA10",
+        "name": "知道不知道很强"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          31624,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            372,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            4020,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            3901,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            6074,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            6878,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            3179,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA26",
+        "name": "打铁队"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          47012,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            542,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            16411,
+            "s"
+          ],
+          "tries": 10
+        },
+        {
+          "result": "AC",
+          "time": [
+            991,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            2422,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            3689,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            6157,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA18",
+        "name": "兄弟能C吗"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          61211,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            4749,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11984,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            1181,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            9803,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11825,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            9669,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA12",
+        "name": "不再摆烂"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          25627,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            974,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            2600,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            7206,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            3446,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            10201,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA04",
+        "name": "Alnitak"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          25694,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            397,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 16
+        },
+        {
+          "result": "AC",
+          "time": [
+            2722,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            2368,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            3245,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            8562,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA24",
+        "name": "下水道清洁队"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          27406,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            505,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            2594,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            4169,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            4666,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            9472,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB10",
+        "name": "四中扛把子Orz"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          35676,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            3088,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            7066,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            4386,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            8292,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            5644,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA23",
+        "name": "豪哥的最后一次icpc"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          35760,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            418,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            8260,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": "AC",
+          "time": [
+            1207,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            6355,
+            "s"
+          ],
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            7520,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA22",
+        "name": "锣鼓喧威"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          37233,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            549,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            1155,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            5584,
+            "s"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            8243,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            7302,
+            "s"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA11",
+        "name": "四中冲锋队"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          42305,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            810,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            12424,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            3880,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            7749,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            12642,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB17",
+        "name": "四中noi1"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          48089,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            8029,
+            "s"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            3707,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            6389,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            3010,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            8954,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA17",
+        "name": "四中noi2"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          56705,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            694,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            10812,
+            "s"
+          ],
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            4119,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            8801,
+            "s"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            13079,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA25",
+        "name": "不要指望我们队"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          57352,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            523,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        },
+        {
+          "result": "AC",
+          "time": [
+            13362,
+            "s"
+          ],
+          "tries": 13
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            1362,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            2597,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            10708,
+            "s"
+          ],
+          "tries": 12
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB13",
+        "name": "混子队"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          61432,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            1490,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            12117,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            15315,
+            "s"
+          ],
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            5307,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            12803,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA07",
+        "name": "Muggles"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          36488,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            1360,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            10124,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            7828,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            13576,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB18",
+        "name": "向星辰"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          39176,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            499,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            10292,
+            "s"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            5290,
+            "s"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            8695,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA19",
+        "name": "YYDS"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          19061,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            440,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            2972,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            10849,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA09",
+        "name": "顶峰相键"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          22405,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            1157,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            10253,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            4995,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB20",
+        "name": "梦之队"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          24895,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            1318,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            12588,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            4989,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA01",
+        "name": "T_A_A(缩写)"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          28167,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            1520,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            9375,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            14872,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA21",
+        "name": "主打一个陪伴"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          29526,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            651,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            7827,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11448,
+            "s"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB16",
+        "name": "织梦队"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          41641,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            6982,
+            "s"
+          ],
+          "tries": 18
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            6043,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            8216,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": "RJ",
+          "tries": 18
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB06",
+        "name": "三人行"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          10141,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            410,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            4931,
+            "s"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA02",
+        "name": "Trinity Force"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          12308,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            150,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            9758,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA13",
+        "name": "微笑面队"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          13053,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            1817,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            8836,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB05",
+        "name": "怎么还差两分"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          15961,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            417,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            10744,
+            "s"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB14",
+        "name": "做的全对"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          18615,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            5583,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            9432,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB15",
+        "name": "桃园小星星"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          20286,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            3124,
+            "s"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            8762,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 27
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB21",
+        "name": "GZDreamTeam"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          27596,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            2587,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            15409,
+            "s"
+          ],
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB01",
+        "name": "信息野战军"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          32884,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            3488,
+            "s"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            12596,
+            "s"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB11",
+        "name": "Y_E_t_W(缩写)"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          38128,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            12006,
+            "s"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            14122,
+            "s"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB07",
+        "name": "Lucky boys"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          344,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            344,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB08",
+        "name": "YYG"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          640,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            640,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB04",
+        "name": "超越队"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          2073,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            873,
+            "s"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB03",
+        "name": "逸一时误一世"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          3328,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            3328,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB02",
+        "name": "旺仔大馒头"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          5169,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            2769,
+            "s"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA16",
+        "name": "GC_kun"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          9584,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            5984,
+            "s"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamB22",
+        "name": "龙虎齐鸣"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          14582,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            14582,
+            "s"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "TeamA06",
+        "name": "揭宿乐队"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1023,6 +1023,12 @@ root:
             - path: gzcpc2026
               format: srk.json
               name: 2026-06-07 2026
+            - path: gzcpc2025
+              format: srk.json
+              name: 2025-06-08 2025
+            - path: gzcpc2024
+              format: srk.json
+              name: 2024-07-14 2024
         - path: sn
           name: 陕西省赛
           children:

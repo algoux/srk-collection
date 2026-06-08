@@ -1,0 +1,9708 @@
+{
+  "type": "general",
+  "version": "0.3.12",
+  "contest": {
+    "title": {
+      "zh-CN": "2025-2026 国际大学生程序设计竞赛贵州省赛",
+      "fallback": "2025-2026 国际大学生程序设计竞赛贵州省赛"
+    },
+    "startAt": "2025-06-08T09:00:00+08:00",
+    "duration": [
+      300,
+      "min"
+    ],
+    "frozenDuration": [
+      60,
+      "min"
+    ]
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "remarks": {
+    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  },
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "min"
+    }
+  },
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "problems": [
+    {
+      "alias": "A",
+      "title": "青岩密室",
+      "statistics": {
+        "accepted": 49,
+        "submitted": 246
+      }
+    },
+    {
+      "alias": "B",
+      "title": "黔灵猕猴",
+      "statistics": {
+        "accepted": 9,
+        "submitted": 15
+      }
+    },
+    {
+      "alias": "C",
+      "title": "数据存储",
+      "statistics": {
+        "accepted": 23,
+        "submitted": 147
+      }
+    },
+    {
+      "alias": "D",
+      "title": "苗岭通途",
+      "statistics": {
+        "accepted": 1,
+        "submitted": 18
+      }
+    },
+    {
+      "alias": "E",
+      "title": "梯田漫步",
+      "statistics": {
+        "accepted": 1,
+        "submitted": 18
+      }
+    },
+    {
+      "alias": "F",
+      "title": "彝族银饰",
+      "statistics": {
+        "accepted": 7,
+        "submitted": 78
+      }
+    },
+    {
+      "alias": "G",
+      "title": "青云美食",
+      "statistics": {
+        "accepted": 77,
+        "submitted": 367
+      }
+    },
+    {
+      "alias": "H",
+      "title": "FAST信号树",
+      "statistics": {
+        "accepted": 9,
+        "submitted": 18
+      }
+    },
+    {
+      "alias": "I",
+      "title": "红色旅游",
+      "statistics": {
+        "accepted": 19,
+        "submitted": 185
+      }
+    },
+    {
+      "alias": "J",
+      "title": "夜郎弈棋",
+      "statistics": {
+        "accepted": 61,
+        "submitted": 244
+      }
+    },
+    {
+      "alias": "K",
+      "title": "瀑布密码",
+      "statistics": {
+        "accepted": 49,
+        "submitted": 306
+      }
+    },
+    {
+      "alias": "L",
+      "title": "民族大联欢",
+      "statistics": {
+        "accepted": 1,
+        "submitted": 14
+      }
+    },
+    {
+      "alias": "M",
+      "title": "苗寨快递",
+      "statistics": {
+        "accepted": 97,
+        "submitted": 198
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "team19",
+        "name": "打xcpc不喊我",
+        "organization": "华南理工大学"
+      },
+      "score": {
+        "value": 11,
+        "time": [
+          943,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "FB",
+          "time": [
+            9,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            123,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            61,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "FB",
+          "time": [
+            205,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            113,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            65,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "FB",
+          "time": [
+            42,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            96,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            87,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            26,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            12,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team44",
+        "name": "比起武汉邀请赛，我更喜欢你",
+        "organization": "浙江理工大学"
+      },
+      "score": {
+        "value": 11,
+        "time": [
+          1432,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            177,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            149,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "FB",
+          "time": [
+            73,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            38,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            118,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            193,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            138,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            235,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            44,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team101",
+        "name": "幻灯花",
+        "organization": "四川大学",
+        "official": false
+      },
+      "score": {
+        "value": 10,
+        "time": [
+          1044,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            30,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            148,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            46,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            12,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            230,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            240,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            95,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            63,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team18",
+        "name": "Fast Fast TLE",
+        "organization": "华南理工大学"
+      },
+      "score": {
+        "value": 10,
+        "time": [
+          1154,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            226,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            115,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            207,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "FB",
+          "time": [
+            69,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            91,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            125,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            45,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team47",
+        "name": "哪里有石油哪里就是我的家",
+        "organization": "中国石油大学(北京)"
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          778,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            215,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            74,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            15,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            134,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            174,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            62,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            48,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team113",
+        "name": "中学生英才计划一队",
+        "organization": "计算机学会&贵州师范学院",
+        "official": false
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1275,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            48,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            245,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            187,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "FB",
+          "time": [
+            225,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            175,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": "AC",
+          "time": [
+            42,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            63,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            56,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team10",
+        "name": "qfl算法竞赛男神我们喜欢你",
+        "organization": "广州大学"
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          772,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            19,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            267,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            121,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            15,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            205,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            72,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            41,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "FB",
+          "time": [
+            9,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team114",
+        "name": "算力逻辑领航者",
+        "organization": "北京师范大学贵阳附属中学",
+        "official": false
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          892,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            104,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            256,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            9,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            226,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            71,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            56,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            19,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team35",
+        "name": "欢迎光临方神水果店特价售卖绫波梨与明日箱",
+        "organization": "深圳大学"
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1130,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            55,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            275,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            134,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            189,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            237,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            82,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            43,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team50",
+        "name": "蓝桥杯喵之队(副本)",
+        "organization": "重庆邮电大学"
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1252,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            202,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            185,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            248,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            51,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            194,
+            "min"
+          ],
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team51",
+        "name": "tell me why?",
+        "organization": "湖南科技大学"
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1333,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            56,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            276,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            37,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            252,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            293,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            103,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            125,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            49,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team49",
+        "name": "曾经破碎的地方现在是它最坚硬的地方",
+        "organization": "重庆城市科技学院"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          696,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            30,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            200,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            5,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            246,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            58,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            50,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            23,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team23",
+        "name": "你会记得自己吃过多少片面包吗",
+        "organization": "惠州学院"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          741,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            44,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            147,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            207,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            73,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            62,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            46,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team61",
+        "name": "ITZY",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          811,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            47,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            213,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "FB",
+          "time": [
+            3,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            232,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            140,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            100,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            32,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team36",
+        "name": "糖题罚食大队",
+        "organization": "四川大学"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          903,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            10,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            160,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            13,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            216,
+            "min"
+          ],
+          "tries": 14
+        },
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            111,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            16,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team5",
+        "name": "循序渐进",
+        "organization": "广东工业大学"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          923,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            40,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            171,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            5,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            256,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            62,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            227,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team80",
+        "name": "GZNU-你这个选手真是满脑子都想着自己呢",
+        "organization": "贵州师范大学"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1108,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            192,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            99,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            35,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            231,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            157,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            114,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            57,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team11",
+        "name": "机器不学习",
+        "organization": "合肥工业大学宣城校区"
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1187,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            13,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            177,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            211,
+            "min"
+          ],
+          "tries": 15
+        },
+        {
+          "result": "AC",
+          "time": [
+            44,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            176,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            72,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team52",
+        "name": "考虑此生仅有的机会-毕业前一天还在打icpc",
+        "organization": "湖北大学"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          428,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            156,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            40,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            79,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            62,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            28,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team100",
+        "name": "我的青春回头看了我一眼",
+        "organization": "尚奇青少年创新基地",
+        "official": false
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          516,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            186,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            46,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            82,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            96,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            25,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team45",
+        "name": "猜猜我们的队名是什么",
+        "organization": "浙江理工大学"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          778,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            108,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            252,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            148,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            81,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team65",
+        "name": "This question is not to be touched",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          842,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            75,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            35,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            261,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            163,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            136,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            49,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team115",
+        "name": "四个人倒欠一个维什戴尔",
+        "organization": "遵义市第四中学",
+        "official": false
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          962,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            165,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            34,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            158,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": "AC",
+          "time": [
+            291,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            66,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            45,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team69",
+        "name": "菁菁者莪，在彼芳庭",
+        "organization": "贵州民族大学"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1032,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            221,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            286,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            42,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            100,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            127,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            52,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team14",
+        "name": "老会长爆牌子",
+        "organization": "湖北第二师范学院"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1076,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            82,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            36,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            277,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            297,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            142,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team21",
+        "name": "闪光袋鼠哥哥",
+        "organization": "华中农业大学"
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1144,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            54,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            276,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            24,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            196,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            294,
+            "min"
+          ],
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            37,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team63",
+        "name": "c卜c就伊贼",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          328,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            41,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            13,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "FB",
+          "time": [
+            32,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            156,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            64,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team15",
+        "name": "现会长爆牌子",
+        "organization": "湖北第二师范学院"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          336,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            58,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            21,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        },
+        {
+          "result": "AC",
+          "time": [
+            109,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            78,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team48",
+        "name": "月落星沉",
+        "organization": "重庆城市科技学院"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          432,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            49,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            67,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            105,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            88,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team25",
+        "name": "珂朵莉诺艾尔立华奏鹿目圆水银灯阎魔爱蓝原椿帕秋莉",
+        "organization": "江汉大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          490,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            155,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            36,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            66,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            99,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team20",
+        "name": "过题全靠猜",
+        "organization": "华南农业大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          493,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            18,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            8,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            245,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            86,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            53,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team42",
+        "name": "残缺的彩虹",
+        "organization": "云南大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          567,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            145,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            131,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            27,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": "AC",
+          "time": [
+            184,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 14
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            38,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team57",
+        "name": "如果有一天爱上了算法竞赛",
+        "organization": "成都信息工程大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          573,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            79,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            35,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            125,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            170,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            63,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team28",
+        "name": "资本做局让我痛失铜牌",
+        "organization": "江西农业大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          588,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            262,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            20,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            69,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            147,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            28,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team55",
+        "name": "ACMer转生，到了xcpc就拿出0721次罚时",
+        "organization": "中北大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          594,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            111,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            162,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            171,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team4",
+        "name": "好好好",
+        "organization": "广东工业大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          649,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            139,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            226,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            82,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team31",
+        "name": "我队友会弹春日影吗",
+        "organization": "闽南师范大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          763,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            141,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            197,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            159,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            53,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team29",
+        "name": "RuntimeError",
+        "organization": "江西师范大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          767,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            159,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            195,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            238,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            22,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team41",
+        "name": "超新星",
+        "organization": "云南大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          769,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            167,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            102,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            92,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            240,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            66,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team56",
+        "name": "心悦君兮.",
+        "organization": "成都信息工程大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          828,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            236,
+            "min"
+          ],
+          "tries": 8
+        },
+        {
+          "result": "AC",
+          "time": [
+            98,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            194,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            41,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team30",
+        "name": "我要爱惜",
+        "organization": "江西师范大学"
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          914,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            190,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            48,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            267,
+            "min"
+          ],
+          "tries": 11
+        },
+        {
+          "result": "AC",
+          "time": [
+            103,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            44,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team112",
+        "name": "中学生英才计划二队",
+        "organization": "计算机学会&贵州师范学院",
+        "official": false
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          1315,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            286,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            116,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            160,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            238,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            113,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team60",
+        "name": "\"Team names are generated by AI\"",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          227,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            84,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            24,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            67,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team6",
+        "name": "Sumimi",
+        "organization": "广东工业大学揭阳校区"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          243,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            80,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            15,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            118,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            29,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team39",
+        "name": "蓬莱人形",
+        "organization": "宜春学院"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          337,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            75,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            25,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            147,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            47,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team24",
+        "name": "嘉心彬干",
+        "organization": "惠州学院"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          467,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            96,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            50,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            170,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            70,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team12",
+        "name": "Let us accepted please",
+        "organization": "河南师范大学"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          492,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            102,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            154,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            77,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            58,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team38",
+        "name": "很可爱会哈气的三只萝莉喵",
+        "organization": "西南科技大学"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          503,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            82,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            139,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            118,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            43,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team13",
+        "name": "这是并查集吗",
+        "organization": "河南师范大学"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          527,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            52,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            160,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            193,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            81,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team22",
+        "name": "闪电苦力怕",
+        "organization": "惠州学院"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          528,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            162,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            12,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            243,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            50,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team111",
+        "name": "5WUHu!",
+        "organization": "中央民族大学附属中学贵阳学校",
+        "official": false
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          576,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            17,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            124,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            175,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            58,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team46",
+        "name": "魔怔",
+        "organization": "上海建桥学院"
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          611,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            70,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            227,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            185,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            127,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team103",
+        "name": "Quick AC Never WA",
+        "organization": "观山湖中学",
+        "official": false
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          662,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            10,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "AC",
+          "time": [
+            214,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            251,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            46,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team43",
+        "name": "YZNU",
+        "organization": "长江师范学院"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          151,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            67,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            11,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            72,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team58",
+        "name": "Zenith",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          260,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            25,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            138,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            56,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team104",
+        "name": "码洋灿杰",
+        "organization": "观山湖中学至善校区",
+        "official": false
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          294,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            21,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "AC",
+          "time": [
+            105,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            66,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team27",
+        "name": "青春期蒟蒻不会梦到奖牌",
+        "organization": "江西农业大学"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          345,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            21,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            230,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            54,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team62",
+        "name": "不要指望我们队",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          471,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            23,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            289,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            38,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team33",
+        "name": "EASY666",
+        "organization": "南昌职业大学"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          479,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            68,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            211,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            98,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team16",
+        "name": "背负黑长直之名，这次我不能输",
+        "organization": "湖北汽车工业学院"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          504,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            39,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            197,
+            "min"
+          ],
+          "tries": 11
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            68,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team53",
+        "name": "来神了",
+        "organization": "湖北经济学院"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          505,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "time": [
+            250,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            80,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            54,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team59",
+        "name": "贵州大学五队",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          506,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            40,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            283,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            61,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team40",
+        "name": "身体健康平平安安开心每一天",
+        "organization": "宜春学院"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          547,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            66,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            270,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            51,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team54",
+        "name": "蓝桥杯还我六百块",
+        "organization": "湖北经济学院"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          582,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            163,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            295,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            103,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team66",
+        "name": "无敌霸王龙",
+        "organization": "贵州工程应用技术学院"
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          748,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            163,
+            "min"
+          ],
+          "tries": 10
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            254,
+            "min"
+          ],
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            91,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team79",
+        "name": "北极星",
+        "organization": "贵州师范大学"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          101,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "AC",
+          "time": [
+            71,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "FB",
+          "time": [
+            9,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team37",
+        "name": "奶龙可爱多",
+        "organization": "西南科技大学"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          109,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            39,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            50,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team26",
+        "name": "伪灵根但会打表",
+        "organization": "江西农业大学"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          115,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            25,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            69,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team9",
+        "name": "这一发·来自终焉",
+        "organization": "广西科技大学"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          128,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            31,
+            "min"
+          ],
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            57,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team17",
+        "name": "梦想追逐者",
+        "organization": "湖北汽车工业学院"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          151,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            72,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            59,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team106",
+        "name": "天下第一",
+        "organization": "贵阳市第三中学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          176,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            33,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            103,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team74",
+        "name": "她不一样",
+        "organization": "贵州民族大学"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          200,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            76,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            103,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team110",
+        "name": "人机之梦",
+        "organization": "贵阳市华麟中学&观山湖中学&贵阳三中",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          204,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            57,
+            "min"
+          ],
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            46,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team1",
+        "name": "重在参与",
+        "organization": "成都锦城学院"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          217,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            131,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            86,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team8",
+        "name": "取队名？简简单单",
+        "organization": "广西科技大学"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          286,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            27,
+            "min"
+          ],
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            159,
+            "min"
+          ],
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team93",
+        "name": "三大队",
+        "organization": "六盘水师范学院"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          338,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            130,
+            "min"
+          ],
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            187,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team3",
+        "name": "AC自动机可以自动AC吗",
+        "organization": "东莞城市学院"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          501,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            245,
+            "min"
+          ],
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            96,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team81",
+        "name": "GZNU-黔灵山捕猴队",
+        "organization": "贵州师范大学"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          560,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            281,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "AC",
+          "time": [
+            139,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team76",
+        "name": "Sunshine Rainbow Little Code",
+        "organization": "贵州商学院"
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          601,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "AC",
+          "time": [
+            204,
+            "min"
+          ],
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            276,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team64",
+        "name": "DFS: Dream-Food-Sleep",
+        "organization": "贵州大学"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          43,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            43,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team116",
+        "name": "勇士队",
+        "organization": "北京师范大学贵阳附属中学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          101,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 19
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            81,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team7",
+        "name": "GDUTJY_1+1=0",
+        "organization": "广东工业大学揭阳校区"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          118,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            118,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team68",
+        "name": "国宝特工",
+        "organization": "贵州工程应用技术学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          119,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            119,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team73",
+        "name": "我们要当躺赢狗",
+        "organization": "贵州民族大学"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          124,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 13
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            124,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team75",
+        "name": "你猜我们的队名叫什么队",
+        "organization": "贵州民族大学"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          138,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": "AC",
+          "time": [
+            138,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team78",
+        "name": "Code Brothers Alliance",
+        "organization": "贵州商学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          138,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 6
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            138,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team89",
+        "name": "普通学生也有金牌梦",
+        "organization": "凯里学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          144,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            104,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team2",
+        "name": "猫猫虫幼儿园",
+        "organization": "成都锦城学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          165,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 12
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            125,
+            "min"
+          ],
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team91",
+        "name": "鸽子王",
+        "organization": "凯里学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          170,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            170,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team109",
+        "name": "浩泽队",
+        "organization": "贵阳市第十七中学&观山湖中学&华麟中学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          178,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            178,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team71",
+        "name": "摸鱼小队",
+        "organization": "贵州民族大学"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          178,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            158,
+            "min"
+          ],
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team86",
+        "name": "#include<AK>",
+        "organization": "贵州师范学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          202,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            202,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team72",
+        "name": "Cia厉害的llo",
+        "organization": "贵州民族大学"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          214,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            154,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team85",
+        "name": "一直赢",
+        "organization": "贵州师范学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          243,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            243,
+            "min"
+          ],
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team70",
+        "name": "好运来",
+        "organization": "贵州民族大学"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          270,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            170,
+            "min"
+          ],
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team83",
+        "name": "CodeTwo",
+        "organization": "贵州师范学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          317,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 16
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 17
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            217,
+            "min"
+          ],
+          "tries": 6
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team34",
+        "name": "编译时茶歇",
+        "organization": "泉州信息工程学院"
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          341,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "AC",
+          "time": [
+            281,
+            "min"
+          ],
+          "tries": 4
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team107",
+        "name": "同心圆（资本做局痛失AC无缘气球）",
+        "organization": "贵阳市第三中学",
+        "official": false
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 10
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team92",
+        "name": "掂过绿蔗",
+        "organization": "凯里学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team105",
+        "name": "铭北贵三澜",
+        "organization": "观山区铭苑中学",
+        "official": false
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team67",
+        "name": "巴啦啦粑粑队",
+        "organization": "贵州工程应用技术学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 8
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team108",
+        "name": "梦想启航队",
+        "organization": "贵阳市第三中学",
+        "official": false
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team88",
+        "name": "我写的代码就是队",
+        "organization": "凯里学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team82",
+        "name": "CodeOne",
+        "organization": "贵州师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team32",
+        "name": "Beauti-D Right Squad",
+        "organization": "闽南师范大学"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team97",
+        "name": "Not Found",
+        "organization": "兴义民族师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team94",
+        "name": "wlp",
+        "organization": "六盘水师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team84",
+        "name": "CodeThree",
+        "organization": "贵州师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 7
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team90",
+        "name": "no last equals win",
+        "organization": "凯里学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team77",
+        "name": "Dream Team1",
+        "organization": "贵州商学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 1
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 1
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team98",
+        "name": "Quantum Coders",
+        "organization": "兴义民族师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 7
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team87",
+        "name": "#include<AC>",
+        "organization": "贵州师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 4
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 5
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team99",
+        "name": "黔南2",
+        "organization": "黔南民族师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 3
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team96",
+        "name": "Infinite Loop",
+        "organization": "兴义民族师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 11
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team95",
+        "name": "雷大双杨",
+        "organization": "六盘水师范学院"
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 9
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": "RJ",
+          "tries": 2
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "team102",
+        "name": "智子队",
+        "organization": "观山湖第十中学",
+        "official": false
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        },
+        {
+          "result": null,
+          "tries": 0
+        }
+      ]
+    }
+  ]
+}
