@@ -444,6 +444,9 @@ root:
             - path: ccpc2026invitational-fuzhou
               format: srk.json
               name: 2026-05-30 福州邀请赛
+            - path: ccpc2026invitational-guizhou
+              format: srk.json
+              name: 2026-06-07 贵州邀请赛
         - path: ccpc2025
           name: CCPC 2025 (11th)
           children:
@@ -1014,6 +1017,12 @@ root:
             - path: sccpc15th
               format: srk.json
               name: 2023-06-04 第十五届
+        - path: gz
+          name: 贵州省赛
+          children:
+            - path: gzcpc2026
+              format: srk.json
+              name: 2026-06-07 2026
         - path: sn
           name: 陕西省赛
           children:
