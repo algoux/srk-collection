@@ -68,6 +68,16 @@
       "rule": {
         "preset": "Normal"
       }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
     }
   ],
   "problems": [
@@ -174,7 +184,9 @@
     {
       "user": {
         "id": "TeamB12",
-        "name": "算力逻辑领航者"
+        "name": "算力逻辑领航者",
+        "organization": "北京师范大学贵阳附属中学",
+        "official": false
       },
       "score": {
         "value": 9,
@@ -281,7 +293,9 @@
     {
       "user": {
         "id": "TeamA15",
-        "name": "我们要发财了"
+        "name": "我们要发财了",
+        "organization": "广东工业大学",
+        "official": false
       },
       "score": {
         "value": 9,
@@ -388,7 +402,9 @@
     {
       "user": {
         "id": "TeamA27",
-        "name": "做的都队"
+        "name": "做的都队",
+        "organization": "广东工业大学",
+        "official": false
       },
       "score": {
         "value": 9,
@@ -495,7 +511,8 @@
     {
       "user": {
         "id": "TeamA20",
-        "name": "码码生的"
+        "name": "码码生的",
+        "organization": "贵州师范大学"
       },
       "score": {
         "value": 9,
@@ -602,7 +619,8 @@
     {
       "user": {
         "id": "TeamA05",
-        "name": "The Panda Army"
+        "name": "The Panda Army",
+        "organization": "贵州大学"
       },
       "score": {
         "value": 8,
@@ -705,7 +723,9 @@
     {
       "user": {
         "id": "TeamA08",
-        "name": "3>1"
+        "name": "3>1",
+        "organization": "兰州大学",
+        "official": false
       },
       "score": {
         "value": 8,
@@ -808,7 +828,8 @@
     {
       "user": {
         "id": "TeamA03",
-        "name": "群星依旧"
+        "name": "群星依旧",
+        "organization": "贵州民族大学"
       },
       "score": {
         "value": 7,
@@ -907,7 +928,8 @@
     {
       "user": {
         "id": "TeamA14",
-        "name": "鱼跃龙门"
+        "name": "鱼跃龙门",
+        "organization": "贵州大学"
       },
       "score": {
         "value": 7,
@@ -1006,7 +1028,8 @@
     {
       "user": {
         "id": "TeamB19",
-        "name": "f_i_t_w(缩写）"
+        "name": "f_i_t_w(缩写）",
+        "organization": "贵州大学"
       },
       "score": {
         "value": 6,
@@ -1101,7 +1124,9 @@
     {
       "user": {
         "id": "TeamB09",
-        "name": "深度优先睡眠"
+        "name": "深度优先睡眠",
+        "organization": "广东工业大学揭阳校区",
+        "official": false
       },
       "score": {
         "value": 6,
@@ -1196,7 +1221,8 @@
     {
       "user": {
         "id": "TeamA10",
-        "name": "知道不知道很强"
+        "name": "知道不知道很强",
+        "organization": "贵州民族大学"
       },
       "score": {
         "value": 6,
@@ -1291,7 +1317,8 @@
     {
       "user": {
         "id": "TeamA26",
-        "name": "打铁队"
+        "name": "打铁队",
+        "organization": "贵州工程应用技术学院"
       },
       "score": {
         "value": 6,
@@ -1386,7 +1413,8 @@
     {
       "user": {
         "id": "TeamA18",
-        "name": "兄弟能C吗"
+        "name": "兄弟能C吗",
+        "organization": "贵州财经大学"
       },
       "score": {
         "value": 6,
@@ -1481,7 +1509,8 @@
     {
       "user": {
         "id": "TeamA12",
-        "name": "不再摆烂"
+        "name": "不再摆烂",
+        "organization": "贵州师范大学"
       },
       "score": {
         "value": 5,
@@ -1572,7 +1601,8 @@
     {
       "user": {
         "id": "TeamA04",
-        "name": "Alnitak"
+        "name": "Alnitak",
+        "organization": "贵州师范大学"
       },
       "score": {
         "value": 5,
@@ -1663,7 +1693,8 @@
     {
       "user": {
         "id": "TeamA24",
-        "name": "下水道清洁队"
+        "name": "下水道清洁队",
+        "organization": "贵州民族大学"
       },
       "score": {
         "value": 5,
@@ -1754,7 +1785,9 @@
     {
       "user": {
         "id": "TeamB10",
-        "name": "四中扛把子Orz"
+        "name": "四中扛把子Orz",
+        "organization": "遵义市第四中学",
+        "official": false
       },
       "score": {
         "value": 5,
@@ -1845,7 +1878,8 @@
     {
       "user": {
         "id": "TeamA23",
-        "name": "豪哥的最后一次icpc"
+        "name": "豪哥的最后一次icpc",
+        "organization": "贵州工程应用技术学院"
       },
       "score": {
         "value": 5,
@@ -1936,7 +1970,9 @@
     {
       "user": {
         "id": "TeamA22",
-        "name": "锣鼓喧威"
+        "name": "锣鼓喧威",
+        "organization": "贵阳市第三中学",
+        "official": false
       },
       "score": {
         "value": 5,
@@ -2027,7 +2063,9 @@
     {
       "user": {
         "id": "TeamA11",
-        "name": "四中冲锋队"
+        "name": "四中冲锋队",
+        "organization": "遵义市第四中学",
+        "official": false
       },
       "score": {
         "value": 5,
@@ -2118,7 +2156,9 @@
     {
       "user": {
         "id": "TeamB17",
-        "name": "四中noi1"
+        "name": "四中noi1",
+        "organization": "遵义市第四中学",
+        "official": false
       },
       "score": {
         "value": 5,
@@ -2209,7 +2249,9 @@
     {
       "user": {
         "id": "TeamA17",
-        "name": "四中noi2"
+        "name": "四中noi2",
+        "organization": "遵义市第四中学",
+        "official": false
       },
       "score": {
         "value": 5,
@@ -2300,7 +2342,8 @@
     {
       "user": {
         "id": "TeamA25",
-        "name": "不要指望我们队"
+        "name": "不要指望我们队",
+        "organization": "贵州大学"
       },
       "score": {
         "value": 5,
@@ -2391,7 +2434,8 @@
     {
       "user": {
         "id": "TeamB13",
-        "name": "混子队"
+        "name": "混子队",
+        "organization": "贵州工程应用技术学院"
       },
       "score": {
         "value": 5,
@@ -2482,7 +2526,8 @@
     {
       "user": {
         "id": "TeamA07",
-        "name": "Muggles"
+        "name": "Muggles",
+        "organization": "黔南民族师范学院"
       },
       "score": {
         "value": 4,
@@ -2569,7 +2614,9 @@
     {
       "user": {
         "id": "TeamB18",
-        "name": "向星辰"
+        "name": "向星辰",
+        "organization": "贵阳市第三中学",
+        "official": false
       },
       "score": {
         "value": 4,
@@ -2656,7 +2703,9 @@
     {
       "user": {
         "id": "TeamA19",
-        "name": "YYDS"
+        "name": "YYDS",
+        "organization": "中央民族大学附属中学贵阳学校",
+        "official": false
       },
       "score": {
         "value": 3,
@@ -2739,7 +2788,9 @@
     {
       "user": {
         "id": "TeamA09",
-        "name": "顶峰相键"
+        "name": "顶峰相键",
+        "organization": "贵阳市观山湖中学",
+        "official": false
       },
       "score": {
         "value": 3,
@@ -2822,7 +2873,9 @@
     {
       "user": {
         "id": "TeamB20",
-        "name": "梦之队"
+        "name": "梦之队",
+        "organization": "观山湖中学",
+        "official": false
       },
       "score": {
         "value": 3,
@@ -2905,7 +2958,8 @@
     {
       "user": {
         "id": "TeamA01",
-        "name": "T_A_A(缩写)"
+        "name": "T_A_A(缩写)",
+        "organization": "六盘水师范学院"
       },
       "score": {
         "value": 3,
@@ -2988,7 +3042,8 @@
     {
       "user": {
         "id": "TeamA21",
-        "name": "主打一个陪伴"
+        "name": "主打一个陪伴",
+        "organization": "贵州工程应用技术学院"
       },
       "score": {
         "value": 3,
@@ -3071,7 +3126,9 @@
     {
       "user": {
         "id": "TeamB16",
-        "name": "织梦队"
+        "name": "织梦队",
+        "organization": "贵阳市第三实验中学",
+        "official": false
       },
       "score": {
         "value": 3,
@@ -3154,7 +3211,9 @@
     {
       "user": {
         "id": "TeamB06",
-        "name": "三人行"
+        "name": "三人行",
+        "organization": "贵阳市第三中学",
+        "official": false
       },
       "score": {
         "value": 2,
@@ -3233,7 +3292,8 @@
     {
       "user": {
         "id": "TeamA02",
-        "name": "Trinity Force"
+        "name": "Trinity Force",
+        "organization": "黔南民族师范学院"
       },
       "score": {
         "value": 2,
@@ -3312,7 +3372,8 @@
     {
       "user": {
         "id": "TeamA13",
-        "name": "微笑面队"
+        "name": "微笑面队",
+        "organization": "凯里学院"
       },
       "score": {
         "value": 2,
@@ -3391,7 +3452,8 @@
     {
       "user": {
         "id": "TeamB05",
-        "name": "怎么还差两分"
+        "name": "怎么还差两分",
+        "organization": "贵州工程应用技术学院"
       },
       "score": {
         "value": 2,
@@ -3470,7 +3532,8 @@
     {
       "user": {
         "id": "TeamB14",
-        "name": "做的全对"
+        "name": "做的全对",
+        "organization": "贵州师范大学"
       },
       "score": {
         "value": 2,
@@ -3549,7 +3612,9 @@
     {
       "user": {
         "id": "TeamB15",
-        "name": "桃园小星星"
+        "name": "桃园小星星",
+        "organization": "观山湖区外国语实验中学",
+        "official": false
       },
       "score": {
         "value": 2,
@@ -3628,7 +3693,8 @@
     {
       "user": {
         "id": "TeamB21",
-        "name": "GZDreamTeam"
+        "name": "GZDreamTeam",
+        "organization": "贵州商学院"
       },
       "score": {
         "value": 2,
@@ -3707,7 +3773,9 @@
     {
       "user": {
         "id": "TeamB01",
-        "name": "信息野战军"
+        "name": "信息野战军",
+        "organization": "北京市西城区黄城根小学贵阳分校",
+        "official": false
       },
       "score": {
         "value": 2,
@@ -3786,7 +3854,8 @@
     {
       "user": {
         "id": "TeamB11",
-        "name": "Y_E_t_W(缩写)"
+        "name": "Y_E_t_W(缩写)",
+        "organization": "六盘水师范学院"
       },
       "score": {
         "value": 2,
@@ -3865,7 +3934,8 @@
     {
       "user": {
         "id": "TeamB07",
-        "name": "Lucky boys"
+        "name": "Lucky boys",
+        "organization": "兴义民族师范大学"
       },
       "score": {
         "value": 1,
@@ -3940,7 +4010,8 @@
     {
       "user": {
         "id": "TeamB08",
-        "name": "YYG"
+        "name": "YYG",
+        "organization": "贵州商学院"
       },
       "score": {
         "value": 1,
@@ -4015,7 +4086,8 @@
     {
       "user": {
         "id": "TeamB04",
-        "name": "超越队"
+        "name": "超越队",
+        "organization": "六盘水师范学院"
       },
       "score": {
         "value": 1,
@@ -4090,7 +4162,8 @@
     {
       "user": {
         "id": "TeamB03",
-        "name": "逸一时误一世"
+        "name": "逸一时误一世",
+        "organization": "贵州师范大学"
       },
       "score": {
         "value": 1,
@@ -4165,7 +4238,8 @@
     {
       "user": {
         "id": "TeamB02",
-        "name": "旺仔大馒头"
+        "name": "旺仔大馒头",
+        "organization": "黔南民族师范学院"
       },
       "score": {
         "value": 1,
@@ -4240,7 +4314,8 @@
     {
       "user": {
         "id": "TeamA16",
-        "name": "GC_kun"
+        "name": "GC_kun",
+        "organization": "贵州商学院"
       },
       "score": {
         "value": 1,
@@ -4390,7 +4465,9 @@
     {
       "user": {
         "id": "TeamA06",
-        "name": "揭宿乐队"
+        "name": "揭宿乐队",
+        "organization": "广东工业大学揭阳校区",
+        "official": false
       },
       "score": {
         "value": 0,
