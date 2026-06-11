@@ -1,6 +1,6 @@
 # srk-collection
 
-这个仓库是 algoUX 官方维护的[榜单合集](https://rl.algoux.org/collection/official)。
+这个仓库是 algoUX 官方维护的[榜单合集](https://rl.algoux.cn/collection/official)。
 
 如果你持有我们缺失的榜单数据，欢迎参与贡献！
 
@@ -18,4 +18,7 @@ official/
       ccpc2020final.srk.json
 ```
 
-如果你不知道如何生成 srk 数据文件，欢迎在 [RankLand](https://rl.algoux.org) 联系我们，我们很乐意提供协助。
+不知道如何生成 srk 数据文件？你可以尝试：
+- 参阅 [srk 文档](https://srk.algoux.org) 了解 srk 数据格式与相关工具库的用法
+- 直接使用我们维护的各类榜单爬虫程序：[spidercraft](https://github.com/algoux/rank-spider/tree/master/spidercraft)
+- 在 [RankLand](https://rl.algoux.cn) 联系我们，我们将很乐意提供协助
