@@ -489,6 +489,9 @@ root:
             - path: ccpc2024invitational-changchun
               format: srk.json
               name: 2024-05-18 长春邀请赛
+            - path: ccpc2024invitational-northeast
+              format: srk.json
+              name: 2024-05-19 东北邀请赛
             - path: ccpc2024invitational-fuzhou
               format: srk.json
               name: 2024-05-26 福州邀请赛
@@ -1068,6 +1071,9 @@ root:
             - path: northeastcpc19th
               format: srk.json
               name: 2025-05-25 第十九届
+            - path: northeastcpc18th
+              format: srk.json
+              name: 2024-05-19 第十八届
             - path: northeastcpc15th
               format: srk.json
               name: 2021-06-13 第十五届
