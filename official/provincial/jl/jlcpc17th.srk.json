@@ -34,9 +34,24 @@
   },
   "markers": [
     {
+      "id": "invitational",
+      "label": "邀请赛",
+      "style": "blue"
+    },
+    {
+      "id": "provincial-university",
+      "label": "省赛普通高校",
+      "style": "green"
+    },
+    {
+      "id": "provincial-college",
+      "label": "省赛独立学院",
+      "style": "yellow"
+    },
+    {
       "id": "external",
       "label": "省外",
-      "style": "blue"
+      "style": "orange"
     },
     {
       "id": "female",
@@ -46,7 +61,7 @@
   ],
   "series": [
     {
-      "title": "#",
+      "title": "邀请赛#",
       "segments": [
         {
           "style": "gold",
@@ -66,10 +81,80 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
-            ]
+              18,
+              36,
+              55
+            ],
+            "noTied": true
+          },
+          "filter": {
+            "byMarker": "invitational"
+          }
+        }
+      }
+    },
+    {
+      "title": "省赛高校#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              14,
+              28,
+              42
+            ],
+            "noTied": true
+          },
+          "filter": {
+            "byMarker": "provincial-university"
+          }
+        }
+      }
+    },
+    {
+      "title": "省赛学院#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              4,
+              8,
+              12
+            ],
+            "noTied": true
+          },
+          "filter": {
+            "byMarker": "provincial-college"
           }
         }
       }
@@ -250,8 +335,42 @@
       "user": {
         "id": "182165720",
         "name": "烈冕号",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "于之航",
+              "fallback": "Yu Zhihang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈俊甫",
+              "fallback": "Chen Junfu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王一丁",
+              "fallback": "Wang Yiding"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘淼",
+              "fallback": "Liu Miao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 10,
@@ -471,9 +590,42 @@
       "user": {
         "id": "182165769",
         "name": "云里雾里",
-        "organization": "辽宁大学",
+        "organization": {
+          "zh-CN": "辽宁大学",
+          "fallback": "Liaoning University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "殷勇杰",
+              "fallback": "Yin Yongjie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "雷震宇",
+              "fallback": "Lei Zhenyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "于荣辉",
+              "fallback": "Yu Ronghui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曲大鹏",
+              "fallback": "Qu Dapeng"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -678,8 +830,42 @@
       "user": {
         "id": "182165717",
         "name": "划船全靠浪",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "武锦旗",
+              "fallback": "Wu Jinqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘凡平",
+              "fallback": "Liu Fanping"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孔泉智",
+              "fallback": "Kong Quanzhi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李强",
+              "fallback": "Li Qiang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 8,
@@ -881,9 +1067,42 @@
       "user": {
         "id": "182165787",
         "name": "我们仨真强",
-        "organization": "西南民族大学",
+        "organization": {
+          "zh-CN": "西南民族大学",
+          "fallback": "Tonghua Normal University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘家乐",
+              "fallback": "Liu Jiale"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韦懂生",
+              "fallback": "Wei Dongsheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓铠蓝",
+              "fallback": "Deng Kailan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周绪川",
+              "fallback": "Zhou Xuchuan"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1123,8 +1342,42 @@
       "user": {
         "id": "182165716",
         "name": "管埋员",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张智祺",
+              "fallback": "Zhang Zhiqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王恕",
+              "fallback": "Wang Shu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "乔彦博",
+              "fallback": "Qiao Yanbo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘淼",
+              "fallback": "Liu Miao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 7,
@@ -1648,8 +1901,42 @@
       "user": {
         "id": "182165718",
         "name": "结构化查询语言",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "苏睿杰",
+              "fallback": "Su Ruijie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘昱",
+              "fallback": "Liu Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邱天",
+              "fallback": "Qiu Tian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭东伟",
+              "fallback": "Guo Dongwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 7,
@@ -1897,8 +2184,42 @@
       "user": {
         "id": "182165858",
         "name": "23：从HL开始的JL省赛生活",
-        "organization": "东北师范大学附属中学",
-        "official": false
+        "organization": {
+          "zh-CN": "东北师范大学附属中学",
+          "fallback": "High School Attached to Northeast Normal University"
+        },
+        "official": false,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "马绎惟",
+              "fallback": "Ma Yiwei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高乃严",
+              "fallback": "Gao Naiyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "骆安齐",
+              "fallback": "Luo Anqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王晓光",
+              "fallback": "Wang Xiaoguang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 6,
@@ -2176,9 +2497,42 @@
       "user": {
         "id": "182165778",
         "name": "凌乱之风粉丝团",
-        "organization": "山东理工大学",
+        "organization": {
+          "zh-CN": "山东理工大学",
+          "fallback": "Shandong University Of Technology"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "马润东",
+              "fallback": "Ma Rundong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马健文",
+              "fallback": "Ma Jianwen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王昊燃",
+              "fallback": "Wang Haoran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曲志坚",
+              "fallback": "Qu Zhijian"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2359,9 +2713,42 @@
       "user": {
         "id": "182165780",
         "name": "疾旋鼬后援团",
-        "organization": "山西大学",
+        "organization": {
+          "zh-CN": "山西大学",
+          "fallback": "Shanxi University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "华晓飞",
+              "fallback": "Hua Xiaofei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢千一",
+              "fallback": "Xie Qianyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贺文杰",
+              "fallback": "He Wenjie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高嘉伟",
+              "fallback": "Gao Jiawei"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2532,8 +2919,42 @@
       "user": {
         "id": "182165723",
         "name": "天行",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "祝永祺",
+              "fallback": "Zhu Yongqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈瀚",
+              "fallback": "Chen Han"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李光赫",
+              "fallback": "Li Guanghe"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘淼",
+              "fallback": "Liu Miao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 5,
@@ -2683,8 +3104,42 @@
       "user": {
         "id": "182165851",
         "name": "我绝不和煎蛋不放糖的家伙结婚！",
-        "organization": "长春理工大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "范泽涛",
+              "fallback": "Fan Zetao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孟天",
+              "fallback": "Meng Tian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郎震",
+              "fallback": "Lang Zhen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李华",
+              "fallback": "Li Hua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 5,
@@ -2886,9 +3341,42 @@
       "user": {
         "id": "182165789",
         "name": "请你给个牌子，我什么都会做的",
-        "organization": "新疆大学",
+        "organization": {
+          "zh-CN": "新疆大学",
+          "fallback": "Xinjiang University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "蒋涛",
+              "fallback": "Jiang Tao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "庄凌浩",
+              "fallback": "Zhuang Linghao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "欧力铭",
+              "fallback": "Ou Liming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "田生伟",
+              "fallback": "Tian Shengwei"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3094,8 +3582,42 @@
       "user": {
         "id": "182165862",
         "name": "必胜客",
-        "organization": "东北师范大学附属中学",
-        "official": false
+        "organization": {
+          "zh-CN": "东北师范大学附属中学",
+          "fallback": "High School Attached to Northeast Normal University"
+        },
+        "official": false,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘瀚博",
+              "fallback": "Liu Hanbo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高启航",
+              "fallback": "Gao Qihang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "柏泽昊",
+              "fallback": "Bai Zehao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王晓光",
+              "fallback": "Wang Xiaoguang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 5,
@@ -3391,8 +3913,42 @@
       "user": {
         "id": "182165850",
         "name": "我的队友在哪里QAQ",
-        "organization": "长春理工大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "铁博文",
+              "fallback": "Tie Bowen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周璨",
+              "fallback": "Zhou Can"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "唐海原",
+              "fallback": "Tang Haiyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王睿",
+              "fallback": "Wang Rui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 5,
@@ -3559,8 +4115,42 @@
       "user": {
         "id": "182165689",
         "name": "我们终将在卡卡瓦的极光下重逢",
-        "organization": "北华大学",
-        "official": true
+        "organization": {
+          "zh-CN": "北华大学",
+          "fallback": "Beihua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杜琪",
+              "fallback": "Du Qi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "袁一骏",
+              "fallback": "Yuan Yijun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶鑫楠",
+              "fallback": "Ye Xinnan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鲁静轩",
+              "fallback": "Lu Jingxuan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 5,
@@ -3731,9 +4321,42 @@
       "user": {
         "id": "182165781",
         "name": "蓝桥杯深圳总部",
-        "organization": "深圳大学",
+        "organization": {
+          "zh-CN": "深圳大学",
+          "fallback": "Shenzhen University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "马午寅",
+              "fallback": "Ma Wuyin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "冉起",
+              "fallback": "Ran qi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈洋琛",
+              "fallback": "Chen Yangchen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "秦建斌",
+              "fallback": "Qin Jianbin"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -3868,8 +4491,42 @@
       "user": {
         "id": "182165852",
         "name": "一期一会",
-        "organization": "长春理工大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姚祥辉",
+              "fallback": "Yao Xianghui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘奕霖",
+              "fallback": "Pan Yilin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈奕帆",
+              "fallback": "Chen Yifan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李华",
+              "fallback": "Li Hua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -4179,9 +4836,42 @@
       "user": {
         "id": "182165775",
         "name": "欢迎报考齐齐哈尔大学！",
-        "organization": "齐齐哈尔大学",
+        "organization": {
+          "zh-CN": "齐齐哈尔大学",
+          "fallback": "Qiqihar University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邹建楠",
+              "fallback": "Zou Jiannan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡永顺",
+              "fallback": "Hu Yongshun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "卢宇亮",
+              "fallback": "Lu Yuliang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王硕",
+              "fallback": "Wang Shuo"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -4390,8 +5080,42 @@
       "user": {
         "id": "182165849",
         "name": "那就好好道个别吧",
-        "organization": "长春理工大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "任鑫",
+              "fallback": "Ren Xin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "魏龙飞",
+              "fallback": "Wei Longfei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘万超",
+              "fallback": "Liu Wanchao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王睿",
+              "fallback": "Wang Rui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -4617,8 +5341,42 @@
       "user": {
         "id": "182165808",
         "name": "饱食而遨游",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李金肖",
+              "fallback": "Li Jinxiao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高新桂",
+              "fallback": "Gao Xingui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "饶晟烨",
+              "fallback": "Rao Chengye"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周丽娟",
+              "fallback": "Zhou Lijuan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -4750,8 +5508,42 @@
       "user": {
         "id": "182165853",
         "name": "愿星同行",
-        "organization": "长春理工大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "庾艺馨",
+              "fallback": "Yu Yixin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭子豪",
+              "fallback": "Guo Zihao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李新康",
+              "fallback": "Li Xinkang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李华",
+              "fallback": "Li Hua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -4904,8 +5696,42 @@
       "user": {
         "id": "182165685",
         "name": "Infinity loop!",
-        "organization": "北华大学",
-        "official": true
+        "organization": {
+          "zh-CN": "北华大学",
+          "fallback": "Beihua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张珈铭",
+              "fallback": "Zhang Jiaming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王庆瀚",
+              "fallback": "Wang Qinghan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "秦翔宇",
+              "fallback": "Qin Xiangyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹洪宇",
+              "fallback": "Cao Hongyu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -5044,8 +5870,42 @@
       "user": {
         "id": "182165848",
         "name": "赶快打完我还要回去体测50米",
-        "organization": "长春理工大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李澹",
+              "fallback": "Li Dan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "苏照城",
+              "fallback": "Su Zhaocheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陶乐乐",
+              "fallback": "Tao Lele"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王睿",
+              "fallback": "Wang Rui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -5219,8 +6079,42 @@
       "user": {
         "id": "182165722",
         "name": "捏猫猫的",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邓力豪",
+              "fallback": "Deng Lihao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李肇兴",
+              "fallback": "Li Zhaoxing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "唐榆淇",
+              "fallback": "Tang Yuqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭东伟",
+              "fallback": "Guo Dongwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -5387,8 +6281,42 @@
       "user": {
         "id": "182165859",
         "name": "魔法绵羊吃掉糖菜投手",
-        "organization": "东北师范大学附属中学",
-        "official": false
+        "organization": {
+          "zh-CN": "东北师范大学附属中学",
+          "fallback": "High School Attached to Northeast Normal University"
+        },
+        "official": false,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "蔡依阳",
+              "fallback": "Cai Yiyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "唐诗晴",
+              "fallback": "Tang Shiqing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "洪宇洋",
+              "fallback": "Hong Yuyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王晓光",
+              "fallback": "Wang Xiaoguang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -5562,8 +6490,42 @@
       "user": {
         "id": "182165694",
         "name": "篮球藏语北冥坤，理塘雪豹梳中分",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈黄洋",
+              "fallback": "Chen Huangyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "全泰民",
+              "fallback": "Quan Taimin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭克铖",
+              "fallback": "Guo Kecheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王敬东",
+              "fallback": "Wang Jingdong"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -5754,9 +6716,42 @@
       "user": {
         "id": "182165779",
         "name": "我每天打ACM也没上瘾啊",
-        "organization": "山东理工大学",
+        "organization": {
+          "zh-CN": "山东理工大学",
+          "fallback": "Shandong University Of Technology"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨庭硕",
+              "fallback": "Yang Tingshuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔立栋",
+              "fallback": "Cui Lidong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王佳丽",
+              "fallback": "Wang Jiali"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘晓红",
+              "fallback": "Liu Xiaohong"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5906,8 +6901,42 @@
       "user": {
         "id": "182165719",
         "name": "紧急通知：等通知",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李一航",
+              "fallback": "Li Yihang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "唐德睿",
+              "fallback": "Tang Derui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林浩博",
+              "fallback": "Lin Haobo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘淼",
+              "fallback": "Liu Miao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 4,
@@ -6113,8 +7142,42 @@
       "user": {
         "id": "182165700",
         "name": "WA自动机",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵新睿",
+              "fallback": "Zhao Xinrui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "缪弘毅",
+              "fallback": "Miao Hongyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张稷穗",
+              "fallback": "Zhang Jisui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李辉",
+              "fallback": "Li Hui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -6291,8 +7354,42 @@
       "user": {
         "id": "182165710",
         "name": "炫我嘴里",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "朱文博",
+              "fallback": "Zhu Wenbo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕志远",
+              "fallback": "Lv Zhiyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭芊橙",
+              "fallback": "Guo Qiancheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李宏博",
+              "fallback": "Li Hongbo"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -6469,8 +7566,42 @@
       "user": {
         "id": "182165846",
         "name": "A了么?你就看榜",
-        "organization": "长春理工大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵耀财",
+              "fallback": "Zhao Yaocai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "甄元浩",
+              "fallback": "Zhen Yuanhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曾荣熹",
+              "fallback": "Zeng Rongxi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张宇昕",
+              "fallback": "Zhang Yuxin"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -6661,9 +7792,42 @@
       "user": {
         "id": "182165776",
         "name": "齐大是齐齐哈尔最好的大学，北大都不敢这么说",
-        "organization": "齐齐哈尔大学",
+        "organization": {
+          "zh-CN": "齐齐哈尔大学",
+          "fallback": "Qiqihar University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李奇运",
+              "fallback": "Li Qiyun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "蓝俊贤",
+              "fallback": "Lan Junxian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "段圣宣",
+              "fallback": "Duan Shengxuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "金涛",
+              "fallback": "Jin Tao"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -6829,8 +7993,42 @@
       "user": {
         "id": "182165701",
         "name": "巴别塔",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "项赞宇",
+              "fallback": "Xiang Zanyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贺金龙",
+              "fallback": "He Jinlong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "齐进帅",
+              "fallback": "Qi Jinshuai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗娜",
+              "fallback": "Luo Na"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -6931,9 +8129,42 @@
       "user": {
         "id": "182165788",
         "name": "大漠孤烟直，长河落日圆",
-        "organization": "新疆大学",
+        "organization": {
+          "zh-CN": "新疆大学",
+          "fallback": "Xinjiang University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郑淇耀",
+              "fallback": "Zheng Qiyao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏清伟",
+              "fallback": "Xia Qingwei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "骆承",
+              "fallback": "Luo Cheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "田生伟",
+              "fallback": "Tian Shengwei"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -7071,8 +8302,42 @@
       "user": {
         "id": "182165811",
         "name": "东北布鲁斯",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吴越哲",
+              "fallback": "Wu Yuezhe"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "季宏轩",
+              "fallback": "Ji Hongxuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "何勇杰",
+              "fallback": "He Yongjie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘超",
+              "fallback": "Pan Chao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -7190,8 +8455,42 @@
       "user": {
         "id": "182165704",
         "name": "翻斗花园幼儿园小豆班",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈琦煜",
+              "fallback": "Chen Qiyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶鹏辉",
+              "fallback": "Ye Penghui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高宇轩",
+              "fallback": "Gao Yuxuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李宏博",
+              "fallback": "Li Hongbo"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -7428,9 +8727,42 @@
       "user": {
         "id": "182165767",
         "name": "教练CCF-A换我四省赛牌子",
-        "organization": "辽宁大学",
+        "organization": {
+          "zh-CN": "辽宁大学",
+          "fallback": "Liaoning University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张迦业",
+              "fallback": "Zhang Jiaye"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏宇杰",
+              "fallback": "Xia Yujie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "庞宇呈",
+              "fallback": "Pang Yucheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曲大鹏",
+              "fallback": "Qu Dapeng"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -7541,8 +8873,42 @@
       "user": {
         "id": "182165711",
         "name": "重生成为虾头太刀侠在星露谷钓生命鲈鱼",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "潘可欣",
+              "fallback": "Pan Kexin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈静",
+              "fallback": "Chen Jing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林律融",
+              "fallback": "lin lvrong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李宏博",
+              "fallback": "Li Hongbo"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -7715,8 +9081,42 @@
       "user": {
         "id": "182165724",
         "name": "愚人号",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "庄德锴",
+              "fallback": "Zhuang Dekai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周明月",
+              "fallback": "Zhou Mingyue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陆广阳",
+              "fallback": "Lu Guangyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭东伟",
+              "fallback": "Guo Dongwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -7862,8 +9262,42 @@
       "user": {
         "id": "182165792",
         "name": "老acmer烧烤",
-        "organization": "长春大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春大学",
+          "fallback": "Changchun University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "项毅展",
+              "fallback": "Xiang Yizhan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李子恒",
+              "fallback": "Li Ziheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李郑波",
+              "fallback": "Li Zhengbo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱德新",
+              "fallback": "Zhu Dexin"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -7971,9 +9405,42 @@
       "user": {
         "id": "182165768",
         "name": "教练SCI一区换我四省赛牌子",
-        "organization": "辽宁大学",
+        "organization": {
+          "zh-CN": "辽宁大学",
+          "fallback": "Liaoning University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "任艾茜",
+              "fallback": "Ren Aixi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高斐鸿",
+              "fallback": "Gao Feihong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "洪一桐",
+              "fallback": "Hong Yitong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曲大鹏",
+              "fallback": "Qu Dapeng"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -8102,8 +9569,42 @@
       "user": {
         "id": "182165790",
         "name": "在5:20切题13:14准时WA",
-        "organization": "延边大学",
-        "official": true
+        "organization": {
+          "zh-CN": "延边大学",
+          "fallback": "Yanbian University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "于广博",
+              "fallback": "Yu Guangbo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李正扬",
+              "fallback": "Li Zhengyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘銮鑫",
+              "fallback": "Liu Luanxin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王金祥",
+              "fallback": "Wang Jinxiang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -8211,8 +9712,42 @@
       "user": {
         "id": "182165753",
         "name": "回响于心中的恋爱萤火虫",
-        "organization": "吉林师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学",
+          "fallback": "Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "洪陈益",
+              "fallback": "Hong Chenyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许家祥",
+              "fallback": "Xu Jiaxiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周鑫磊",
+              "fallback": "Zhou Xinlei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李昊",
+              "fallback": "Li Hao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -8323,9 +9858,42 @@
       "user": {
         "id": "182165773",
         "name": "铁匠",
-        "organization": "内蒙古大学",
+        "organization": {
+          "zh-CN": "内蒙古大学",
+          "fallback": "Inner Mongolia University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张琦",
+              "fallback": "Zhang Qi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李浩",
+              "fallback": "Li Hao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许书豪",
+              "fallback": "Xu Shuhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贾冰",
+              "fallback": "Jia Bing"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -8440,9 +10008,42 @@
       "user": {
         "id": "182165766",
         "name": "来长春爬个雪山",
-        "organization": "江西师范大学",
+        "organization": {
+          "zh-CN": "江西师范大学",
+          "fallback": "Jiangxi Normal University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "朱讯麟",
+              "fallback": "Zhu Xunlin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘皓东",
+              "fallback": "Liu Haodong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "雷川圣",
+              "fallback": "Lei Chuansheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李萍",
+              "fallback": "Li Ping"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -8636,8 +10237,42 @@
       "user": {
         "id": "182165706",
         "name": "骨骼惊奇队",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈祺恺",
+              "fallback": "Chen QiKai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘沛岩",
+              "fallback": "Liu PeiYan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张高升",
+              "fallback": "Zhang Gaosheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周雨鹏",
+              "fallback": "Zhou Yupeng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -8769,9 +10404,42 @@
       "user": {
         "id": "182165765",
         "name": "能不能不爆零",
-        "organization": "江西财经大学",
+        "organization": {
+          "zh-CN": "江西财经大学",
+          "fallback": "Jiangxi University Of Finance And Economics"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "彭俊杰",
+              "fallback": "Peng Junjie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐晓律",
+              "fallback": "Xu Xiaolu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荣应琪",
+              "fallback": "Rong Yingqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "骆斯文",
+              "fallback": "Luo Siwen"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -8934,9 +10602,42 @@
       "user": {
         "id": "182165771",
         "name": "甘 文 崔",
-        "organization": "内蒙古大学",
+        "organization": {
+          "zh-CN": "内蒙古大学",
+          "fallback": "Inner Mongolia University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "贾径懿",
+              "fallback": "Jia Jingyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "季昊天",
+              "fallback": "Ji Haotian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "茌心宇",
+              "fallback": "Chi Xinyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贾冰",
+              "fallback": "Jia Bing"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -9085,9 +10786,43 @@
       "user": {
         "id": "182165847",
         "name": "风雪过境",
-        "organization": "长春理工大学",
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄靖",
+              "fallback": "Huang Jing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张艺洁",
+              "fallback": "Zhang Yijie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "苏冬辉",
+              "fallback": "Su Donghui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张宇昕",
+              "fallback": "Zhang Yuxin"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -9436,9 +11171,42 @@
       "user": {
         "id": "182165691",
         "name": "没钱吃饭还要来比赛好伤心",
-        "organization": "大连理工大学城市学院",
+        "organization": {
+          "zh-CN": "大连理工大学城市学院",
+          "fallback": "City Institute,Dalian University of Technology"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "肖欣",
+              "fallback": "Xiao xin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵艺景",
+              "fallback": "Zhao Yijing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高小柯",
+              "fallback": "Gao Xiaoke"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王碧璇",
+              "fallback": "Wang Bixuan"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -9605,8 +11373,42 @@
       "user": {
         "id": "182165816",
         "name": "邱先生",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "周承贤",
+              "fallback": "Zhou Chengxian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王浩宇",
+              "fallback": "Wang Haoyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶俊捷",
+              "fallback": "Ye Junjie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "肖巍",
+              "fallback": "Xiao Wei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -9762,8 +11564,42 @@
       "user": {
         "id": "182165734",
         "name": "全ac3.0",
-        "organization": "吉林建筑大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑大学",
+          "fallback": "Jilin Jianzhu University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孙志鹏",
+              "fallback": "Sun Zhipeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张福旭",
+              "fallback": "Zhang Fuxu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹子扬",
+              "fallback": "Cao Ziyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张沛露",
+              "fallback": "Zhang Peilu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -9923,8 +11759,42 @@
       "user": {
         "id": "182165703",
         "name": "从CCPC打铁到ICPC爆零",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邓鹏",
+              "fallback": "Deng Peng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈景源",
+              "fallback": "Chen Jingyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许浚锴",
+              "fallback": "Xu Junkai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周雨鹏",
+              "fallback": "Zhou Yupeng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -10063,8 +11933,42 @@
       "user": {
         "id": "182165861",
         "name": "时光之始",
-        "organization": "东北师范大学附属中学",
-        "official": false
+        "organization": {
+          "zh-CN": "东北师范大学附属中学",
+          "fallback": "High School Attached to Northeast Normal University"
+        },
+        "official": false,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王茂闻",
+              "fallback": "Wang Maowen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "董谨榕",
+              "fallback": "Dong Jinrong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋陶然",
+              "fallback": "Song Taoran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王晓光",
+              "fallback": "Wang Xiaoguang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -10245,8 +12149,42 @@
       "user": {
         "id": "182165807",
         "name": "ccutktv",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "秦一骏",
+              "fallback": "Qin Yijun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙科技",
+              "fallback": "Sun Keji"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李文帅",
+              "fallback": "Li Wenshuai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王璐",
+              "fallback": "Wang Lu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -10385,9 +12323,43 @@
       "user": {
         "id": "182165754",
         "name": "禁止悄悄话",
-        "organization": "吉林师范大学",
+        "organization": {
+          "zh-CN": "吉林师范大学",
+          "fallback": "Jilin Normal University"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘欣言",
+              "fallback": "Liu Xinyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "童美源",
+              "fallback": "Tong Meiyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "衣雯馨",
+              "fallback": "Yi Wenxin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李昊",
+              "fallback": "Li Hao"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10502,8 +12474,42 @@
       "user": {
         "id": "182165709",
         "name": "我必须考虑这是不是我此生唯有的机会",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张绍启",
+              "fallback": "Zhang Shaoqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱佳豪",
+              "fallback": "Zhu Jiahao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李杰俊",
+              "fallback": "Li Jiejun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周治国",
+              "fallback": "Zhou Zhiguo"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -10729,8 +12735,42 @@
       "user": {
         "id": "182165757",
         "name": "无盐以队",
-        "organization": "吉林师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学",
+          "fallback": "Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王泽",
+              "fallback": "Wang Ze"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩洋",
+              "fallback": "Han Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴怡潼",
+              "fallback": "Wu Yitong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "白文秀",
+              "fallback": "Bai Wenxiu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -10897,8 +12937,42 @@
       "user": {
         "id": "182165784",
         "name": "三角上岸",
-        "organization": "通化师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "通化师范学院",
+          "fallback": "Tonghua Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "宫渤盛",
+              "fallback": "Gong Bosheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高莉媛",
+              "fallback": "Gao Liyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "向淼",
+              "fallback": "Xiang Miao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙铭蔚",
+              "fallback": "Sun Mingwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -11037,9 +13111,42 @@
       "user": {
         "id": "182165712",
         "name": "不朽之章",
-        "organization": "东北石油大学",
+        "organization": {
+          "zh-CN": "东北石油大学",
+          "fallback": "Northeast Petroleum University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘笑语",
+              "fallback": "Liu Xiaoyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓逸凡",
+              "fallback": "Deng Yifan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏宇超",
+              "fallback": "Xia Yuchao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "富宇",
+              "fallback": "Fu Yu"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11661,8 +13768,42 @@
       "user": {
         "id": "182165817",
         "name": "赛前预习C语言",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "徐承润",
+              "fallback": "Xu Chengrun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘明昊",
+              "fallback": "Liu Minghao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "龙成",
+              "fallback": "Long Cheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周丽娟",
+              "fallback": "Zhou Lijuan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -11787,9 +13928,42 @@
       "user": {
         "id": "182165772",
         "name": "基因重组",
-        "organization": "内蒙古大学",
+        "organization": {
+          "zh-CN": "内蒙古大学",
+          "fallback": "Inner Mongolia University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "胡浩",
+              "fallback": "Hu Hao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈硕",
+              "fallback": "Chen Shuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "苟琮会",
+              "fallback": "Gou Conghui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔波",
+              "fallback": "Cui Bo"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11938,8 +14112,42 @@
       "user": {
         "id": "182165697",
         "name": "再WA让你飞起来",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李欣宇",
+              "fallback": "Li Xinyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王奕博",
+              "fallback": "Wang Yibo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹磊",
+              "fallback": "Cao Lei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姜万昌",
+              "fallback": "Jiang Wanchang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -12082,8 +14290,42 @@
       "user": {
         "id": "182165721",
         "name": "你就说吉专没有空调对不队",
-        "organization": "吉林大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "康德润",
+              "fallback": "Kang Derun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "程宇星",
+              "fallback": "Cheng Yuxing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘雅奇",
+              "fallback": "Liu Yaqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭东伟",
+              "fallback": "Guo Dongwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -12271,8 +14513,42 @@
       "user": {
         "id": "182165687",
         "name": "队长爱玩冬日狂想曲",
-        "organization": "北华大学",
-        "official": true
+        "organization": {
+          "zh-CN": "北华大学",
+          "fallback": "Beihua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵文浩",
+              "fallback": "Zhao Wenhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张舒竣",
+              "fallback": "Zhang Shujun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "成鲜微",
+              "fallback": "Cheng Xianwei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郑慧",
+              "fallback": "Zheng Hui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -12446,8 +14722,42 @@
       "user": {
         "id": "182165684",
         "name": "这题对不队",
-        "organization": "白城师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "白城师范学院",
+          "fallback": "Baicheng Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姜继童",
+              "fallback": "Jiang Jitong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "沈煜隆",
+              "fallback": "Shen Yulong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄浩",
+              "fallback": "Huang Hao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "闫红彦",
+              "fallback": "Yan Hongyan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -12555,8 +14865,42 @@
       "user": {
         "id": "182165805",
         "name": "AC启动！",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "薛宇阳",
+              "fallback": "Xue Yuyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李卓繁",
+              "fallback": "Li Zhuofan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "任勇绮",
+              "fallback": "Ren Yongqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "Wang Tao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -12678,8 +15022,42 @@
       "user": {
         "id": "182165707",
         "name": "海底小纵队",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "周文琦",
+              "fallback": "Zhou Wenqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "梁博芳",
+              "fallback": "Liang Bofang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张鸿昊",
+              "fallback": "Zhang Honghao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王艺源",
+              "fallback": "Wang Yiyuan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -12881,9 +15259,42 @@
       "user": {
         "id": "182165774",
         "name": "只做签到题",
-        "organization": "内蒙古大学",
+        "organization": {
+          "zh-CN": "内蒙古大学",
+          "fallback": "Inner Mongolia University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "白帅",
+              "fallback": "Bai Shuai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贾基茂",
+              "fallback": "Jia Jimao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "任民帅",
+              "fallback": "Ren Minshuai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔波",
+              "fallback": "Cui Bo"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -13026,8 +15437,42 @@
       "user": {
         "id": "182165695",
         "name": "梦想成为魔法少女",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "金哲",
+              "fallback": "Jin Zhe"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "付再铭",
+              "fallback": "Fu Zaiming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姚杰炜",
+              "fallback": "Yao Jiewei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孟凡奇",
+              "fallback": "Meng Fanqi"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -13288,8 +15733,42 @@
       "user": {
         "id": "182165698",
         "name": "再看一眼就会AC",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "顾姚铭",
+              "fallback": "Gu Yaoming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈昭良",
+              "fallback": "Chen Zhanliang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔嘉炜",
+              "fallback": "Cui Jiawei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孟凡奇",
+              "fallback": "Meng Fanqi"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -13484,8 +15963,42 @@
       "user": {
         "id": "182165797",
         "name": "气球四元一个",
-        "organization": "长春电子科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春电子科技学院",
+          "fallback": "Changchun College Of Electronic Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郑惠深",
+              "fallback": "zheng Huishen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨家驹",
+              "fallback": "Yang Jiaju"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "屈太元",
+              "fallback": "Qu Taiyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙秀玲",
+              "fallback": "Sun Xiuling"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 3,
@@ -13649,8 +16162,42 @@
       "user": {
         "id": "182165726",
         "name": "牢大助我AC",
-        "organization": "吉林工程技术师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林工程技术师范学院",
+          "fallback": "Jilin Engineering Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "徐二冰",
+              "fallback": "Xu Erbing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王亚鹏",
+              "fallback": "Wang Yapeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "余阳",
+              "fallback": "Yu Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨宇晶",
+              "fallback": "Yang Yujing"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -13869,8 +16416,42 @@
       "user": {
         "id": "182165860",
         "name": "无畏契约2021冠军赛狂徒5杀",
-        "organization": "东北师范大学附属中学",
-        "official": false
+        "organization": {
+          "zh-CN": "东北师范大学附属中学",
+          "fallback": "High School Attached to Northeast Normal University"
+        },
+        "official": false,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "于博源",
+              "fallback": "Yu Boyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王诏平",
+              "fallback": "Wang Zhaoping"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许朝博",
+              "fallback": "Xu Zhaobo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王晓光",
+              "fallback": "Wang Xiaoguang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -14180,8 +16761,42 @@
       "user": {
         "id": "182165686",
         "name": "不想取名所以取模",
-        "organization": "北华大学",
-        "official": true
+        "organization": {
+          "zh-CN": "北华大学",
+          "fallback": "Beihua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "薛家琪",
+              "fallback": "Xue Jiaqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张宇飞",
+              "fallback": "Zhang Yufei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "彭章泽",
+              "fallback": "Peng Zhangze"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鲁静轩",
+              "fallback": "Lu Jingxuan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 3,
@@ -14411,8 +17026,42 @@
       "user": {
         "id": "182165708",
         "name": "所有题都队",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "高俊涛",
+              "fallback": "Gao JunTao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李超平",
+              "fallback": "Li Chaoping"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鲁博然",
+              "fallback": "Lu Boran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗娜",
+              "fallback": "Luo Na"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -14568,9 +17217,42 @@
       "user": {
         "id": "182165770",
         "name": "半对不",
-        "organization": "内蒙古大学",
+        "organization": {
+          "zh-CN": "内蒙古大学",
+          "fallback": "Inner Mongolia University"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "程明昊",
+              "fallback": "Cheng Minghao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨星宇",
+              "fallback": "Yang Xingyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘丞量",
+              "fallback": "Liu Chengliang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贾冰",
+              "fallback": "Jia Bing"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14782,8 +17464,42 @@
       "user": {
         "id": "182165752",
         "name": "夫妇护肤敷芙福",
-        "organization": "吉林师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学",
+          "fallback": "Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李梦莹",
+              "fallback": "Li Mengying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王学志",
+              "fallback": "Wang Xuezhi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王传明",
+              "fallback": "Wang Chuanming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王东明",
+              "fallback": "Wang Dongming"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -14922,9 +17638,43 @@
       "user": {
         "id": "182165702",
         "name": "不是吧！还来队",
-        "organization": "东北师范大学",
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王心雨",
+              "fallback": "Wang Xinyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "于紫洋",
+              "fallback": "Yu Ziyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张若妍",
+              "fallback": "Zhang Ruoyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗娜",
+              "fallback": "Luo Na"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15108,9 +17858,42 @@
       "user": {
         "id": "182165857",
         "name": "铁匠铺",
-        "organization": "中北大学",
+        "organization": {
+          "zh-CN": "中北大学",
+          "fallback": "North University of China"
+        },
         "official": true,
-        "markers": ["external"]
+        "markers": [
+          "invitational",
+          "external"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "严臻圆",
+              "fallback": "Yan Zhenyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "纪伟伟",
+              "fallback": "Ji Weiwei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张雨静",
+              "fallback": "Zhang Yujing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘广贞",
+              "fallback": "Pan Guangzhen"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15301,8 +18084,42 @@
       "user": {
         "id": "182165693",
         "name": "鸿运齐天",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "董学阳",
+              "fallback": "Dong Xueyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈科畅",
+              "fallback": "Chen Kechang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘卓武",
+              "fallback": "Liu Zhuowu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姜万昌",
+              "fallback": "Jiang Wanchang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -15483,8 +18300,42 @@
       "user": {
         "id": "182165863",
         "name": "宇宙无敌小火车",
-        "organization": "吉林市第一实验小学",
-        "official": false
+        "organization": {
+          "zh-CN": "吉林市第一实验小学",
+          "fallback": "Jilin No. 1 Experimental Primary School English"
+        },
+        "official": false,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "韩沐轩",
+              "fallback": "Han Muxuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李昊翀",
+              "fallback": "Li Haochong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘奕含",
+              "fallback": "Liu Yihan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "关凯铭",
+              "fallback": "Guan Kaiming"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -15766,8 +18617,42 @@
       "user": {
         "id": "182165806",
         "name": "AC是你的谎言",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孙荣超",
+              "fallback": "Sun Rongchao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李甫",
+              "fallback": "Li Fu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鲍菊香",
+              "fallback": "Bao Juxiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "董亚则",
+              "fallback": "Dong Yaze"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -15920,8 +18805,42 @@
       "user": {
         "id": "182165809",
         "name": "不虚此行",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈柯嵩",
+              "fallback": "Chen Kesong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵俊哲",
+              "fallback": "Zhao Junzhe"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张栩睿",
+              "fallback": "Zhang Xurui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周丽娟",
+              "fallback": "Zhou Lijuan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -16015,8 +18934,42 @@
       "user": {
         "id": "182165696",
         "name": "提瓦特AC少年团",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "董浩然",
+              "fallback": "Dong Haoran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹梦露",
+              "fallback": "Cao Menglu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "于华天",
+              "fallback": "Yu Huatian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孟凡奇",
+              "fallback": "Meng Fanqi"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -16242,8 +19195,42 @@
       "user": {
         "id": "182165692",
         "name": "AC/DC",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邢泽烨",
+              "fallback": "Xing Zeye"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张仕坤",
+              "fallback": "Zhang Shikun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "于小亨",
+              "fallback": "Yu Xiaoheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姜万昌",
+              "fallback": "Jiang Wanchang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -16396,8 +19383,42 @@
       "user": {
         "id": "182165831",
         "name": "金莲，这药味道不队",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "冯品隆",
+              "fallback": "Feng Pinlong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔茂源",
+              "fallback": "Cui Maoyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄佳睿",
+              "fallback": "Huang Jiarui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王岩",
+              "fallback": "Wang Yan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 2,
@@ -16612,8 +19633,42 @@
       "user": {
         "id": "182165804",
         "name": "要不摇个骰子？",
-        "organization": "长春工程学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工程学院",
+          "fallback": "Changchun Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孙诚禛",
+              "fallback": "Sun Chengzhen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "余若岩",
+              "fallback": "Yu Ruoyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谷峥",
+              "fallback": "Gu Zheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张华",
+              "fallback": "Zhang Hua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -16793,8 +19848,42 @@
       "user": {
         "id": "182165820",
         "name": "事已至此先吃饭吧",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘传明",
+              "fallback": "Liu Chuanming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姜育泽",
+              "fallback": "Jiang Yuze"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙雪丽",
+              "fallback": "Sun Xueli"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王国春",
+              "fallback": "Wang Guochun"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -16930,8 +20019,42 @@
       "user": {
         "id": "182165755",
         "name": "平安喜乐队",
-        "organization": "吉林师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学",
+          "fallback": "Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "冯汉诚",
+              "fallback": "Feng Hancheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱迦南",
+              "fallback": "Zhu Jianan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏志成",
+              "fallback": "Xia Zhicheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "白文秀",
+              "fallback": "Bai Wenxiu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -17157,8 +20280,42 @@
       "user": {
         "id": "182165682",
         "name": "听说你不服队",
-        "organization": "白城师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "白城师范学院",
+          "fallback": "Baicheng Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "冯骥驰",
+              "fallback": "Feng Jichi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李俊德",
+              "fallback": "Li Junde"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐云峰",
+              "fallback": "Xu Yunfeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张希花",
+              "fallback": "Zhang Xihua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -17325,8 +20482,42 @@
       "user": {
         "id": "182165733",
         "name": "清华不比建工差",
-        "organization": "吉林建筑大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑大学",
+          "fallback": "Jilin Jianzhu University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邬思龙",
+              "fallback": "Wu Silong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓翔戈",
+              "fallback": "Deng Xiangge"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张宇",
+              "fallback": "Zhang Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张沛露",
+              "fallback": "Zhang Peilu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -17486,8 +20677,42 @@
       "user": {
         "id": "182165756",
         "name": "我觉着队",
-        "organization": "吉林师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学",
+          "fallback": "Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李阔",
+              "fallback": "Li Kuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王广智",
+              "fallback": "Wang Guangzhi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "熊蔡翼",
+              "fallback": "Xiong Caiyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李颖",
+              "fallback": "Li Ying"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -17626,8 +20851,42 @@
       "user": {
         "id": "182165688",
         "name": "求求你了别和我们作队",
-        "organization": "北华大学",
-        "official": true
+        "organization": {
+          "zh-CN": "北华大学",
+          "fallback": "Beihua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张鑫",
+              "fallback": "Zhang Xin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李立松",
+              "fallback": "Li Lisong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王琪",
+              "fallback": "Wang Qi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹洪宇",
+              "fallback": "Cao Hongyu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -17794,8 +21053,42 @@
       "user": {
         "id": "182165699",
         "name": "组委会",
-        "organization": "东北电力大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北电力大学",
+          "fallback": "Northeast Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张婷",
+              "fallback": "Zhang Ting"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王男",
+              "fallback": "Wang Nan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄一帆",
+              "fallback": "Huang Yifan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王敬东",
+              "fallback": "Wang Jingdong"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -18109,8 +21402,42 @@
       "user": {
         "id": "182165761",
         "name": "单机婆罗门，拱火乐子人",
-        "organization": "吉林师范大学博达学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学博达学院",
+          "fallback": "Boda College of Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张忠满",
+              "fallback": "Zhang Zhongman"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "褚麒鹏",
+              "fallback": "Chu Qipeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "娄周盛",
+              "fallback": "Lou Zhousheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘德宝",
+              "fallback": "Liu Debao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 2,
@@ -18267,8 +21594,42 @@
       "user": {
         "id": "182165823",
         "name": "我很厉害",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "滕铭宇",
+              "fallback": "teng Mingyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋炳宇",
+              "fallback": "Song Bingyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙凯",
+              "fallback": "Sun Kai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "Wang Tao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -18473,8 +21834,42 @@
       "user": {
         "id": "182165705",
         "name": "复活劳大",
-        "organization": "东北师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "马万里",
+              "fallback": "Ma Wanli"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙朝阳",
+              "fallback": "Sun Zhaoyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李佳宝",
+              "fallback": "Li Jiabao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李辉",
+              "fallback": "Li Hui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -18843,8 +22238,42 @@
       "user": {
         "id": "182165728",
         "name": "所以爱会消失对不队",
-        "organization": "吉林工程技术师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林工程技术师范学院",
+          "fallback": "Jilin Engineering Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李乐",
+              "fallback": "Li Le"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "魏家伟",
+              "fallback": "Wei Jiawei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "汪天俊",
+              "fallback": "Wang Tianjun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨宇晶",
+              "fallback": "Yang Yujing"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 2,
@@ -19036,8 +22465,42 @@
       "user": {
         "id": "182165836",
         "name": "甘文崔队",
-        "organization": "长春建筑学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春建筑学院",
+          "fallback": "Changchun University Of Architecture"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "甘江涛",
+              "fallback": "Gan Jiangtao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "路依彪",
+              "fallback": "Lu Yibiao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘敬敏",
+              "fallback": "Liu Jingmin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鹿彦",
+              "fallback": "Lu Yan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 2,
@@ -19260,8 +22723,42 @@
       "user": {
         "id": "182165730",
         "name": "吃薯片队",
-        "organization": "吉林建筑大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑大学",
+          "fallback": "Jilin Jianzhu University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "朱柳希",
+              "fallback": "Zhu Liuxi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林扬耀",
+              "fallback": "Lin Yangyao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张加龙",
+              "fallback": "Zhang Jialong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕冬梅",
+              "fallback": "Lv Dongmei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -19361,8 +22858,42 @@
       "user": {
         "id": "182165748",
         "name": "快乐雪球",
-        "organization": "吉林农业科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业科技学院",
+          "fallback": "Jilin Agricultural Science and Technology University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "林奕洋",
+              "fallback": "Lin Yiyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘子壮",
+              "fallback": "Liu Zizhuang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "彭文娟",
+              "fallback": "Peng Wenjuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姜春风",
+              "fallback": "Jiang Chunfeng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -19508,8 +23039,42 @@
       "user": {
         "id": "182165782",
         "name": "会银的",
-        "organization": "通化师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "通化师范学院",
+          "fallback": "Tonghua Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵星旭",
+              "fallback": "Zhao Xingxu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "余思远",
+              "fallback": "Yu Siyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王营赫",
+              "fallback": "Wang Yinghe"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙铭蔚",
+              "fallback": "Sun Mingwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -19599,8 +23164,42 @@
       "user": {
         "id": "182165813",
         "name": "麦当劳",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "欧玉琛",
+              "fallback": "Ou Yuchen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "冯昌毅",
+              "fallback": "Feng Changyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李姝",
+              "fallback": "Li Shu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈满林",
+              "fallback": "Chen Manlin"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -19801,8 +23400,42 @@
       "user": {
         "id": "182165819",
         "name": "少年本“色”",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张旭",
+              "fallback": "Zhang Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李依隆",
+              "fallback": "Li Yilong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓扬勇",
+              "fallback": "Deng Yangyong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周丽娟",
+              "fallback": "Zhou Lijuan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -19899,8 +23532,42 @@
       "user": {
         "id": "182165833",
         "name": "蒙的全队",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "任明煜",
+              "fallback": "Ren Mingyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋有维",
+              "fallback": "Song Youwei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "尚媛媛",
+              "fallback": "Shang Yuanyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "唐昌华",
+              "fallback": "Tang Changhua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -20061,9 +23728,43 @@
       "user": {
         "id": "182165821",
         "name": "鼠鼠我啊，真的要AC了",
-        "organization": "长春工业大学",
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "于乐",
+              "fallback": "Yu Le"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李思琦",
+              "fallback": "Li Siqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鞠晓",
+              "fallback": "Ju Xiao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙暘",
+              "fallback": "Sun Yang"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -20146,8 +23847,42 @@
       "user": {
         "id": "182165758",
         "name": "Ciallo",
-        "organization": "吉林师范大学博达学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学博达学院",
+          "fallback": "Boda College of Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李善智",
+              "fallback": "Li Shanzhi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "尹浩天",
+              "fallback": "Yin Haotian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周艳林",
+              "fallback": "Zhou Yanlin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陆思辰",
+              "fallback": "Lu Sichen"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -20390,8 +24125,42 @@
       "user": {
         "id": "182165763",
         "name": "水流",
-        "organization": "吉林师范大学博达学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学博达学院",
+          "fallback": "Boda College of Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "欧璨",
+              "fallback": "Ou Can"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "季育攀",
+              "fallback": "Ji Yupan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "丁凡作",
+              "fallback": "Ding Fanzuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨久婷",
+              "fallback": "Yang Jiuting"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -20484,8 +24253,42 @@
       "user": {
         "id": "182165793",
         "name": "睡醒就AC",
-        "organization": "长春大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春大学",
+          "fallback": "Changchun University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "韩奇达",
+              "fallback": "Han Qida"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "屈杭非",
+              "fallback": "Qu Hangfei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张公明",
+              "fallback": "Zhang Gongming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王薇",
+              "fallback": "Wang Wei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -20690,9 +24493,43 @@
       "user": {
         "id": "182165690",
         "name": "做AC梦",
-        "organization": "北华大学",
+        "organization": {
+          "zh-CN": "北华大学",
+          "fallback": "Beihua University"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王迪",
+              "fallback": "Wang Di"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李筱萌",
+              "fallback": "Li Xiaomeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王巾月",
+              "fallback": "Wang Jinyue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李来春",
+              "fallback": "Li Laichun"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -20862,8 +24699,42 @@
       "user": {
         "id": "182165835",
         "name": "营销团队",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李旭昌",
+              "fallback": "Li Xuchang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张颖",
+              "fallback": "Zhang Ying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵达",
+              "fallback": "Zhao Da"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姜锋",
+              "fallback": "Jiang Feng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -21022,8 +24893,42 @@
       "user": {
         "id": "182165798",
         "name": "气球五元一个",
-        "organization": "长春电子科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春电子科技学院",
+          "fallback": "Changchun College Of Electronic Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "朱玉明",
+              "fallback": "Zhu Yuming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "江维清",
+              "fallback": "Jiang Weiqing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "金依乐",
+              "fallback": "Jin Yile"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王静",
+              "fallback": "Wang Jing"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -21172,8 +25077,42 @@
       "user": {
         "id": "182165683",
         "name": "行动预备组",
-        "organization": "白城师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "白城师范学院",
+          "fallback": "Baicheng Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "曹仁杰",
+              "fallback": "Cao Renjie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘钘德",
+              "fallback": "Liu Xingde"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马忠新",
+              "fallback": "Ma Zhongxin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "庄严",
+              "fallback": "Zhuang Yan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -21343,8 +25282,42 @@
       "user": {
         "id": "182165818",
         "name": "三只小趴菜",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "佟玉男",
+              "fallback": "Tong Yunan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡明佳",
+              "fallback": "Hu Mingjia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马鸿蕾",
+              "fallback": "Ma Honglei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "彭馨仪",
+              "fallback": "Peng Xinyi"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -21451,9 +25424,43 @@
       "user": {
         "id": "182165815",
         "name": "蒙的全对",
-        "organization": "长春工业大学",
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "任梓瑛",
+              "fallback": "Ren Ziying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张傲雪",
+              "fallback": "Zhang Aoxue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王馨悦",
+              "fallback": "Wang Xinyue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "肖巍",
+              "fallback": "Xiao Wei"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -21571,8 +25578,42 @@
       "user": {
         "id": "182165732",
         "name": "合乎粥礼",
-        "organization": "吉林建筑大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑大学",
+          "fallback": "Jilin Jianzhu University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "林楠",
+              "fallback": "Lin Nan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李凯",
+              "fallback": "Li Kai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "史青华",
+              "fallback": "Shi Qinghua"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕冬梅",
+              "fallback": "Lv Dongmei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -21766,8 +25807,42 @@
       "user": {
         "id": "182165830",
         "name": "会做的题都队",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吴启立",
+              "fallback": "Wu Qili"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张子豪",
+              "fallback": "Zhang Zihao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "魏传奇",
+              "fallback": "Wei Chuanqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "司君蕊",
+              "fallback": "Si Junrui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -21913,8 +25988,42 @@
       "user": {
         "id": "182165825",
         "name": "再多出一题就可以不用拿铁了",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吴宜朔",
+              "fallback": "Wu Yishuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "魏旭东",
+              "fallback": "Wei Xudong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王鹏羽",
+              "fallback": "Wang Pengyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姚庆安",
+              "fallback": "Yao Qingan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -22035,8 +26144,42 @@
       "user": {
         "id": "182165738",
         "name": "吉建科四队",
-        "organization": "吉林建筑科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑科技学院",
+          "fallback": "Jilin University of Architecture and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘鑫宇",
+              "fallback": "Liu Xinyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "严令浩",
+              "fallback": "Yan Linghao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔杨",
+              "fallback": "Cui Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘鑫",
+              "fallback": "Liu Xin"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -22202,8 +26345,42 @@
       "user": {
         "id": "182165760",
         "name": "thaila队",
-        "organization": "吉林师范大学博达学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学博达学院",
+          "fallback": "Boda College of Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "华哲昊",
+              "fallback": "Hua Zhehao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张凯",
+              "fallback": "Zhang Kai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭霁莹",
+              "fallback": "Guo Jiying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王文",
+              "fallback": "Wang Wen"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -22341,8 +26518,42 @@
       "user": {
         "id": "182165714",
         "name": "荠菜先疯队",
-        "organization": "吉林财经大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林财经大学",
+          "fallback": "Jilin University of Finance and Economics"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李雄",
+              "fallback": "Li Xiong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩栋梁",
+              "fallback": "Han Dongliang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王炫策",
+              "fallback": "Wang Xuance"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马知行",
+              "fallback": "Ma Zhixing"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -22484,8 +26695,42 @@
       "user": {
         "id": "182165745",
         "name": "秃顶三人组",
-        "organization": "吉林农业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业大学",
+          "fallback": "Jilin Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陶承程",
+              "fallback": "Tao Chengcheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张玉君",
+              "fallback": "Zhang Yujun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王昭杨",
+              "fallback": "Wang Zhaoyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "段云鹏",
+              "fallback": "Duan YunPeng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -22606,8 +26851,42 @@
       "user": {
         "id": "182165795",
         "name": "气球两元一个",
-        "organization": "长春电子科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春电子科技学院",
+          "fallback": "Changchun College Of Electronic Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "常世达",
+              "fallback": "Chang Shida"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘乐平",
+              "fallback": "Liu Leping"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李延飞",
+              "fallback": "Li Yanfei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙海峰",
+              "fallback": "Sun Haifeng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -22707,8 +26986,42 @@
       "user": {
         "id": "182165744",
         "name": "体验小分队",
-        "organization": "吉林农业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业大学",
+          "fallback": "Jilin Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李晓晨",
+              "fallback": "Li Xiaochen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹帅豪",
+              "fallback": "Cao Shuaihao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "牟世桂",
+              "fallback": "Mu Shigui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "司秀丽",
+              "fallback": "Si Xiuli"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -22871,8 +27184,42 @@
       "user": {
         "id": "182165747",
         "name": "AC&AC",
-        "organization": "吉林农业科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业科技学院",
+          "fallback": "Jilin Agricultural Science and Technology University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张杰",
+              "fallback": "Zhang Jie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "颜仁泽",
+              "fallback": "Yan Renze"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "梁欣妍",
+              "fallback": "Liang Xinyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张艺竞",
+              "fallback": "Zhang Yijing"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -23041,9 +27388,43 @@
       "user": {
         "id": "182165822",
         "name": "我参赛不等于我得奖",
-        "organization": "长春工业大学",
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-college",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "凌小欢",
+              "fallback": "Ling Xiaohuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李木颖",
+              "fallback": "Li Muying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈婷婷",
+              "fallback": "Chen Tingting"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕健雄",
+              "fallback": "Lv Jianxiong"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -23234,8 +27615,42 @@
       "user": {
         "id": "182165741",
         "name": "从容应队",
-        "organization": "吉林农业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业大学",
+          "fallback": "Jilin Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李鼎",
+              "fallback": "Li Ding"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕星泽",
+              "fallback": "Lv Xingze"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李文点",
+              "fallback": "Li Wendian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘鹤",
+              "fallback": "Liu He"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -23569,8 +27984,42 @@
       "user": {
         "id": "182165837",
         "name": "下个队是这个队伍名字很长",
-        "organization": "长春建筑学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春建筑学院",
+          "fallback": "Changchun University Of Architecture"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈伦炜",
+              "fallback": "Chen Lunwei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "万国豪",
+              "fallback": "Wan Guohao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱浩然",
+              "fallback": "Zhu Haoran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鹿彦",
+              "fallback": "Lu Yan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -23688,8 +28137,42 @@
       "user": {
         "id": "182165796",
         "name": "气球三元一个",
-        "organization": "长春电子科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春电子科技学院",
+          "fallback": "Changchun College Of Electronic Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张校闻",
+              "fallback": "Zhang Xiaowen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贾昊泽",
+              "fallback": "Jia Haoze"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔鑫瑞",
+              "fallback": "Cui Xinrui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "池金阳",
+              "fallback": "Chi Jinyang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -23789,8 +28272,42 @@
       "user": {
         "id": "182165828",
         "name": "A大对不队",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "董权旭",
+              "fallback": "Dong Quanxu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王兆阳",
+              "fallback": "Wang Zhaoyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "廖顺兰",
+              "fallback": "Liao Shunlan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张倩",
+              "fallback": "Zhang Qian"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -23967,9 +28484,43 @@
       "user": {
         "id": "182165843",
         "name": "无间",
-        "organization": "长春科技学院",
+        "organization": {
+          "zh-CN": "长春科技学院",
+          "fallback": "Changchun Sci-Tech University"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姜佳欣",
+              "fallback": "Jiang Jiaxin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李彤",
+              "fallback": "Li Tong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄悦莹",
+              "fallback": "Huang Yueying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘智杨",
+              "fallback": "Liu Zhiyang"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -24045,8 +28596,42 @@
       "user": {
         "id": "182165800",
         "name": "不想丸辣队",
-        "organization": "长春工程学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工程学院",
+          "fallback": "Changchun Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邱雁杰",
+              "fallback": "Qiu Yanjie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王颖朕",
+              "fallback": "Wang Yingzhen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡景超",
+              "fallback": "Hu Jingchao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张素莉",
+              "fallback": "Zhang Suli"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -24136,8 +28721,42 @@
       "user": {
         "id": "182165856",
         "name": "Wrong Answer就是Wrong Answer",
-        "organization": "长春中医药大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春中医药大学",
+          "fallback": "Changchun University Of Chinese Medicine"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王智验",
+              "fallback": "Wang Zhiyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谭禹龙",
+              "fallback": "Tan Yulong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈思琪",
+              "fallback": "Chen Siqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄家琦",
+              "fallback": "Huang Jiaqi"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -24265,8 +28884,42 @@
       "user": {
         "id": "182165737",
         "name": "吉建科三队",
-        "organization": "吉林建筑科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑科技学院",
+          "fallback": "Jilin University of Architecture and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "肖晨淇",
+              "fallback": "Xiao Chenqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王鑫",
+              "fallback": "Wang Xin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐富荣",
+              "fallback": "Xu Furong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘书红",
+              "fallback": "Liu Shuhong"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -24419,8 +29072,42 @@
       "user": {
         "id": "182165764",
         "name": "我是ikun!",
-        "organization": "吉林师范大学博达学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学博达学院",
+          "fallback": "Boda College of Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "牛世晗",
+              "fallback": "Niu Shihan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "季首安",
+              "fallback": "Ji Shouan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周彬",
+              "fallback": "Zhou Bin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘红娇",
+              "fallback": "Liu Hongjiao"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -24534,9 +29221,43 @@
       "user": {
         "id": "182165827",
         "name": "自强不息",
-        "organization": "长春工业大学",
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵珂伊",
+              "fallback": "Zhao Keyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张傲",
+              "fallback": "Zhang Ao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐彦佳",
+              "fallback": "Xu Yanjia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘超",
+              "fallback": "Pan Chao"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -24626,8 +29347,42 @@
       "user": {
         "id": "182165739",
         "name": "吉建科五队",
-        "organization": "吉林建筑科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑科技学院",
+          "fallback": "Jilin University of Architecture and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "周越丰",
+              "fallback": "Zhou Yuefeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "苏美畅",
+              "fallback": "Su Meichang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "任蕾",
+              "fallback": "Ren Lei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘鑫",
+              "fallback": "Liu Xin"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -24772,8 +29527,42 @@
       "user": {
         "id": "182165791",
         "name": "孩子这并不好笑",
-        "organization": "长春大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春大学",
+          "fallback": "Changchun University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄毅彬",
+              "fallback": "Huang Yibin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵博群",
+              "fallback": "Zhao Boqun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "葛家旭",
+              "fallback": "Ge JiaXu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱德新",
+              "fallback": "Zhu Dexin"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -25096,8 +29885,42 @@
       "user": {
         "id": "182165799",
         "name": "气球一元一个",
-        "organization": "长春电子科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春电子科技学院",
+          "fallback": "Changchun College Of Electronic Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨嘉诚",
+              "fallback": "Yang Jiacheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "边海睿",
+              "fallback": "Bian Hairui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杜紫悦",
+              "fallback": "Du Ziyue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "由扬",
+              "fallback": "You Yang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -25180,9 +30003,43 @@
       "user": {
         "id": "182165783",
         "name": "青年先疯队",
-        "organization": "通化师范学院",
+        "organization": {
+          "zh-CN": "通化师范学院",
+          "fallback": "Tonghua Normal University"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨添祺",
+              "fallback": "Yang Tianqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "左欣鹭",
+              "fallback": "Zuo Xinlu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵玲",
+              "fallback": "Zhao Ling"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙铭蔚",
+              "fallback": "Sun Mingwei"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -25289,8 +30146,42 @@
       "user": {
         "id": "182165844",
         "name": "玄学AC",
-        "organization": "长春科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春科技学院",
+          "fallback": "Changchun Sci-Tech University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "方磊",
+              "fallback": "Fang Lei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢薪谨",
+              "fallback": "Xie Xinjin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐资鑫",
+              "fallback": "Xu Zixin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙国",
+              "fallback": "Sun Guo"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -25376,8 +30267,42 @@
       "user": {
         "id": "182165735",
         "name": "少年先疯队",
-        "organization": "吉林建筑大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑大学",
+          "fallback": "Jilin Jianzhu University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "高汇文",
+              "fallback": "Gao Huiwen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李惠娴",
+              "fallback": "Li Huixian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王梦宇",
+              "fallback": "Wang Mengyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕冬梅",
+              "fallback": "Lv Dongmei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -25501,8 +30426,42 @@
       "user": {
         "id": "182165855",
         "name": "安月笙",
-        "organization": "长春师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春师范大学",
+          "fallback": "Changchun Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王帅帅",
+              "fallback": "Wang shuaishuai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹天宇",
+              "fallback": "Cao tianyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王佳添",
+              "fallback": "Wang jiatian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高枫",
+              "fallback": "Gao Feng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -25616,8 +30575,42 @@
       "user": {
         "id": "182165725",
         "name": "对对队",
-        "organization": "吉林工程技术师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林工程技术师范学院",
+          "fallback": "Jilin Engineering Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "肖春玲",
+              "fallback": "Xiao Chunling"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "付长欣",
+              "fallback": "Fu Changxin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘煜",
+              "fallback": "Pan Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘国成",
+              "fallback": "Liu Guocheng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -25700,8 +30693,42 @@
       "user": {
         "id": "182165826",
         "name": "自己觉得很幽默",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄哲睿",
+              "fallback": "Huang Zherui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张迪",
+              "fallback": "Zhang Di"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许健博",
+              "fallback": "Xu Jianbo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姚庆安",
+              "fallback": "Yao Qingan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -25895,9 +30922,43 @@
       "user": {
         "id": "182165824",
         "name": "我剑也未尝不利",
-        "organization": "长春工业大学",
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘颖新",
+              "fallback": "Liu Yingxin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马婧瑶",
+              "fallback": "Ma Jingyao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗宝玲",
+              "fallback": "Luo Baoling"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周丽娟",
+              "fallback": "Zhou Lijuan"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -26029,8 +31090,42 @@
       "user": {
         "id": "182165832",
         "name": "每天稳定WA10发",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈真",
+              "fallback": "Chen Zhen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张中睿",
+              "fallback": "Zhang Zhongrui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黎增",
+              "fallback": "Li Zeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林芮铭",
+              "fallback": "Lin Ruiming"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -26172,8 +31267,42 @@
       "user": {
         "id": "182165785",
         "name": "卧龙凤雏",
-        "organization": "通化师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "通化师范学院",
+          "fallback": "Tonghua Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "韩家阳",
+              "fallback": "Han Jiayang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈嘉琳",
+              "fallback": "Chen Jialin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张继远",
+              "fallback": "Zhang Jiyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙铭蔚",
+              "fallback": "Sun Mingwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -26399,8 +31528,42 @@
       "user": {
         "id": "182165842",
         "name": "三傻大闹CCPC",
-        "organization": "长春科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春科技学院",
+          "fallback": "Changchun Sci-Tech University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "于毕昊天",
+              "fallback": "Yu Bihaotian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王林丁",
+              "fallback": "Wang Linding"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "俞炜玘",
+              "fallback": "Yu Weiqi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "隋庆茹",
+              "fallback": "Sui Qingru"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -26590,8 +31753,42 @@
       "user": {
         "id": "182165729",
         "name": "做的都对",
-        "organization": "吉林工程技术师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林工程技术师范学院",
+          "fallback": "Jilin Engineering Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孟宸",
+              "fallback": "Meng Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "侯极良",
+              "fallback": "Hou Jiliang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王超凡",
+              "fallback": "Wang Chaofan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "田丽华",
+              "fallback": "Tian Lihua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -26810,8 +32007,42 @@
       "user": {
         "id": "182165814",
         "name": "没事乐意喝点摩卡",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘嘉澳",
+              "fallback": "Liu Jiaao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马宇卓",
+              "fallback": "Ma Yuzhuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张学洋",
+              "fallback": "Zhang Xueyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙暘",
+              "fallback": "Sun Yang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -27002,8 +32233,42 @@
       "user": {
         "id": "182165810",
         "name": "此队伍四零四",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孟宪优",
+              "fallback": "Meng Xianyou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡嘉伟",
+              "fallback": "Hu Jiawei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘兆英",
+              "fallback": "Liu Zhaoying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "董亚则",
+              "fallback": "Dong Yaze"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -27208,8 +32473,42 @@
       "user": {
         "id": "182165786",
         "name": "执棋胜子",
-        "organization": "通化师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "通化师范学院",
+          "fallback": "Tonghua Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王泯昊",
+              "fallback": "Wang Minhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵海博",
+              "fallback": "Zhao Haibo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "关行之",
+              "fallback": "Guan Xingzhi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "纪洪波",
+              "fallback": "Ji Hongbo"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -27285,8 +32584,42 @@
       "user": {
         "id": "182165727",
         "name": "三好学生",
-        "organization": "吉林工程技术师范学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林工程技术师范学院",
+          "fallback": "Jilin Engineering Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "林钰程",
+              "fallback": "Lin Yucheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓浩东",
+              "fallback": "Deng Haodong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李露",
+              "fallback": "Li Lu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨静秋",
+              "fallback": "Yang Jingqiu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -27452,8 +32785,42 @@
       "user": {
         "id": "182165746",
         "name": "以上队伍得分无效",
-        "organization": "吉林农业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业大学",
+          "fallback": "Jilin Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张景",
+              "fallback": "Zhang Jing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "段沙隆",
+              "fallback": "Duan Shalong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗才路",
+              "fallback": "Luo Cailu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐兴梅",
+              "fallback": "Xu Xingmei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -27630,8 +32997,42 @@
       "user": {
         "id": "182165829",
         "name": "啊对对队",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈星益",
+              "fallback": "Chen Xingyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王安定",
+              "fallback": "Wang Anding"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王一然",
+              "fallback": "Wang Yiran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王润芳",
+              "fallback": "Wang Runfang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -27815,8 +33216,42 @@
       "user": {
         "id": "182165762",
         "name": "今日不AC",
-        "organization": "吉林师范大学博达学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学博达学院",
+          "fallback": "Boda College of Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "周君儒",
+              "fallback": "Zhou Junru"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘雨龙",
+              "fallback": "Liu Yulong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "季欣雨",
+              "fallback": "Ji Xinyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "华振兴",
+              "fallback": "Hua Zhenxing"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -27996,8 +33431,42 @@
       "user": {
         "id": "182165715",
         "name": "破釜沉舟队",
-        "organization": "吉林财经大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林财经大学",
+          "fallback": "Jilin University of Finance and Economics"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄建胜",
+              "fallback": "Huang Jiansheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘承烨",
+              "fallback": "Liu Chengye"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李昊",
+              "fallback": "Li Hao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹忠波",
+              "fallback": "Cao Zhongbo"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -28129,8 +33598,42 @@
       "user": {
         "id": "182165812",
         "name": "急急急让我a c",
-        "organization": "长春工业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学",
+          "fallback": "Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "左梓玥",
+              "fallback": "Zuo Ziyue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵雨轩",
+              "fallback": "Zhao Yuxuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩朔",
+              "fallback": "Han Shuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭建伟",
+              "fallback": "Guo Jianwei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -28363,8 +33866,42 @@
       "user": {
         "id": "182165743",
         "name": "赛博木耳养殖基地",
-        "organization": "吉林农业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业大学",
+          "fallback": "Jilin Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "季嘉慧",
+              "fallback": "ji jiahui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘泽业",
+              "fallback": "liu zeye"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林以星",
+              "fallback": "Lin Yixing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩永奇",
+              "fallback": "Han Yongqi"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -28520,8 +34057,42 @@
       "user": {
         "id": "182165838",
         "name": "星辰大海",
-        "organization": "长春建筑学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春建筑学院",
+          "fallback": "Changchun University Of Architecture"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘奕昕",
+              "fallback": "Liu YiXin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄胜盘",
+              "fallback": "Huang ShengPan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "计嘉贺",
+              "fallback": "Ji JiaHe"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "鹿彦",
+              "fallback": "Lu Yan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -28646,8 +34217,42 @@
       "user": {
         "id": "182165840",
         "name": "极客",
-        "organization": "长春科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春科技学院",
+          "fallback": "Changchun Sci-Tech University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "韩峥",
+              "fallback": "Han Zheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高长青",
+              "fallback": "Gao Changqing"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李富豪",
+              "fallback": "Li Fuhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋磊",
+              "fallback": "Song Lei"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -28720,8 +34325,42 @@
       "user": {
         "id": "182165750",
         "name": "宇宙超级无敌暴龙战士队",
-        "organization": "吉林农业科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业科技学院",
+          "fallback": "Jilin Agricultural Science and Technology University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "胡圣佳",
+              "fallback": "Hu Shengjia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王世博",
+              "fallback": "Wang Shibo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "顾佳",
+              "fallback": "Gu Jia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "武青海",
+              "fallback": "Wu Qinghai"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -28954,8 +34593,42 @@
       "user": {
         "id": "182165802",
         "name": "三枪队",
-        "organization": "长春工程学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工程学院",
+          "fallback": "Changchun Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "云大权",
+              "fallback": "YUN Daquan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈世发",
+              "fallback": "Chen Shifa"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩旭",
+              "fallback": "Han Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张素莉",
+              "fallback": "Zhang Suli"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -29090,8 +34763,42 @@
       "user": {
         "id": "182165742",
         "name": "嘎巴虾_Pioneer",
-        "organization": "吉林农业大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业大学",
+          "fallback": "Jilin Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李子源",
+              "fallback": "Li Ziyuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘克腾",
+              "fallback": "Liu Keteng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李宏炎",
+              "fallback": "Li Hongyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘鹤",
+              "fallback": "Liu He"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -29181,8 +34888,42 @@
       "user": {
         "id": "182165801",
         "name": "龙马之王",
-        "organization": "长春工程学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工程学院",
+          "fallback": "Changchun Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王童",
+              "fallback": "Wang Tong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马彪",
+              "fallback": "Ma Biao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "袁堉富",
+              "fallback": "Yuan Yufu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张华",
+              "fallback": "Zhang Hua"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -29282,8 +35023,42 @@
       "user": {
         "id": "182165759",
         "name": "ikun就是",
-        "organization": "吉林师范大学博达学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林师范大学博达学院",
+          "fallback": "Boda College of Jilin Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张行然",
+              "fallback": "Zhang Xingran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗子旋",
+              "fallback": "Luo Zixuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "向家毅",
+              "fallback": "Xiang Jiayi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘刚",
+              "fallback": "Liu Gang"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -29366,8 +35141,42 @@
       "user": {
         "id": "182165854",
         "name": "啊对对对",
-        "organization": "长春师范大学",
-        "official": true
+        "organization": {
+          "zh-CN": "长春师范大学",
+          "fallback": "Changchun Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姚鑫晨",
+              "fallback": "Yao Xinchen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王丽颖",
+              "fallback": "Wang Liying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王浏博",
+              "fallback": "Wang Lanbuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高枫",
+              "fallback": "Gao Feng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -29492,8 +35301,42 @@
       "user": {
         "id": "182165736",
         "name": "吉建科二队",
-        "organization": "吉林建筑科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑科技学院",
+          "fallback": "Jilin University of Architecture and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吴梓豪",
+              "fallback": "Wu Zihao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓磊春",
+              "fallback": "Deng Leichun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张一冉",
+              "fallback": "Zhang Yiran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘书红",
+              "fallback": "Liu Shuhong"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -29600,8 +35443,42 @@
       "user": {
         "id": "182165841",
         "name": "黎明",
-        "organization": "长春科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春科技学院",
+          "fallback": "Changchun Sci-Tech University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李鑫",
+              "fallback": "Li Xin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李繁金",
+              "fallback": "Li Fanjin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "任雨婷",
+              "fallback": "Ren Yuting"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩智慧",
+              "fallback": "Han Zhihui"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -29698,8 +35575,42 @@
       "user": {
         "id": "182165751",
         "name": "这ac的感觉很队",
-        "organization": "吉林农业科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业科技学院",
+          "fallback": "Jilin Agricultural Science and Technology University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "游政",
+              "fallback": "You Zheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘思宇",
+              "fallback": "Pan Siyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘宇航",
+              "fallback": "Pan Yuhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "方修丰",
+              "fallback": "Fang Xiufeng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -29810,8 +35721,42 @@
       "user": {
         "id": "182165749",
         "name": "需要队长夫人的全能无敌青春靓丽可爱的桃队",
-        "organization": "吉林农业科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林农业科技学院",
+          "fallback": "Jilin Agricultural Science and Technology University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姚忠毅",
+              "fallback": "Yao Zhongyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王喜悦",
+              "fallback": "Wang Xiyue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘蕾娜",
+              "fallback": "Liu Leina"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张家爱",
+              "fallback": "Zhang Jiaai"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -29894,8 +35839,42 @@
       "user": {
         "id": "182165740",
         "name": "吉建科一队",
-        "organization": "吉林建筑科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑科技学院",
+          "fallback": "Jilin University of Architecture and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "贾雨欣",
+              "fallback": "Jia Xinyu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张宇",
+              "fallback": "Zhang Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭洁",
+              "fallback": "Guo Jie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘书红",
+              "fallback": "Liu Shuhong"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -29992,9 +35971,43 @@
       "user": {
         "id": "182165803",
         "name": "我就是王谁与争锋",
-        "organization": "长春工程学院",
+        "organization": {
+          "zh-CN": "长春工程学院",
+          "fallback": "Changchun Institute of Technology"
+        },
         "official": true,
-        "markers": ["female"]
+        "markers": [
+          "invitational",
+          "provincial-university",
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孙靖雅",
+              "fallback": "Sun Jingya"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨凤仪",
+              "fallback": "Yang Fengyi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周建梅",
+              "fallback": "Zhou Jianmei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张素莉",
+              "fallback": "Zhang Suli"
+            },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -30098,8 +36111,42 @@
       "user": {
         "id": "182165839",
         "name": "RJM",
-        "organization": "长春科技学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春科技学院",
+          "fallback": "Changchun Sci-Tech University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "金璋俊",
+              "fallback": "Jin Zhangjun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "任冬",
+              "fallback": "Ren Dong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "明东晨",
+              "fallback": "Ming Dongchen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘晓彦",
+              "fallback": "Liu Xiaoyan"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -30217,8 +36264,42 @@
       "user": {
         "id": "182165713",
         "name": "发际线总和我作队",
-        "organization": "吉林财经大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林财经大学",
+          "fallback": "Jilin University of Finance and Economics"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨智博",
+              "fallback": "Yang Zhibo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "龙灿明",
+              "fallback": "Long Canming"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李双",
+              "fallback": "Li Shuang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙铁铮",
+              "fallback": "Sun Tiezheng"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
@@ -30315,8 +36396,42 @@
       "user": {
         "id": "182165834",
         "name": "无言以队",
-        "organization": "长春工业大学人文信息学院",
-        "official": true
+        "organization": {
+          "zh-CN": "长春工业大学人文信息学院",
+          "fallback": "College of Humanities & Information Changchun University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "桂接建",
+              "fallback": "Gui Jiejian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔译菲",
+              "fallback": "Cui Yifei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王子龙",
+              "fallback": "Wan Zilong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴琼",
+              "fallback": "Wu Qiong"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-college"
+        ]
       },
       "score": {
         "value": 1,
@@ -30521,8 +36636,42 @@
       "user": {
         "id": "182165731",
         "name": "弗雷尔卓德",
-        "organization": "吉林建筑大学",
-        "official": true
+        "organization": {
+          "zh-CN": "吉林建筑大学",
+          "fallback": "Jilin Jianzhu University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张劲豪",
+              "fallback": "Zhang Jinhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨旭东",
+              "fallback": "Yang Xudong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "雷嵛",
+              "fallback": "Lei Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张沛露",
+              "fallback": "Zhang Peilu"
+            },
+            "role": "coach"
+          }
+        ],
+        "markers": [
+          "invitational",
+          "provincial-university"
+        ]
       },
       "score": {
         "value": 1,
