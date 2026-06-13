@@ -32,6 +32,18 @@
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
     "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
   },
+  "markers": [
+    {
+      "id": "extra",
+      "label": "extra",
+      "style": "blue"
+    },
+    {
+      "id": "female",
+      "label": "女队",
+      "style": "pink"
+    }
+  ],
   "series": [
     {
       "title": "#",
@@ -106,6 +118,9 @@
       "statistics": {
         "accepted": 211,
         "submitted": 728
+      },
+      "style": {
+        "backgroundColor": "#95bbf9"
       }
     },
     {
@@ -114,6 +129,9 @@
       "statistics": {
         "accepted": 3,
         "submitted": 28
+      },
+      "style": {
+        "backgroundColor": "#b395df"
       }
     },
     {
@@ -122,6 +140,9 @@
       "statistics": {
         "accepted": 0,
         "submitted": 14
+      },
+      "style": {
+        "backgroundColor": "#c8313a"
       }
     },
     {
@@ -130,6 +151,9 @@
       "statistics": {
         "accepted": 218,
         "submitted": 354
+      },
+      "style": {
+        "backgroundColor": "#feb8dc"
       }
     },
     {
@@ -138,6 +162,9 @@
       "statistics": {
         "accepted": 175,
         "submitted": 798
+      },
+      "style": {
+        "backgroundColor": "#ddc682"
       }
     },
     {
@@ -146,6 +173,9 @@
       "statistics": {
         "accepted": 20,
         "submitted": 183
+      },
+      "style": {
+        "backgroundColor": "#c3cec8"
       }
     },
     {
@@ -154,6 +184,9 @@
       "statistics": {
         "accepted": 4,
         "submitted": 75
+      },
+      "style": {
+        "backgroundColor": "#c4bb59"
       }
     },
     {
@@ -162,6 +195,9 @@
       "statistics": {
         "accepted": 9,
         "submitted": 57
+      },
+      "style": {
+        "backgroundColor": "#e0cfbf"
       }
     },
     {
@@ -170,6 +206,9 @@
       "statistics": {
         "accepted": 19,
         "submitted": 345
+      },
+      "style": {
+        "backgroundColor": "#e3e2e0"
       }
     },
     {
@@ -178,6 +217,9 @@
       "statistics": {
         "accepted": 226,
         "submitted": 257
+      },
+      "style": {
+        "backgroundColor": "#a7c3eb"
       }
     },
     {
@@ -186,6 +228,9 @@
       "statistics": {
         "accepted": 2,
         "submitted": 27
+      },
+      "style": {
+        "backgroundColor": "#83d66b"
       }
     },
     {
@@ -194,6 +239,9 @@
       "statistics": {
         "accepted": 88,
         "submitted": 244
+      },
+      "style": {
+        "backgroundColor": "#e5b6b8"
       }
     },
     {
@@ -202,6 +250,9 @@
       "statistics": {
         "accepted": 31,
         "submitted": 186
+      },
+      "style": {
+        "backgroundColor": "#db8710"
       }
     }
   ],
@@ -2561,7 +2612,8 @@
         "id": "182303143",
         "name": "闪光春日影",
         "organization": "厦门大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 8,
@@ -3190,7 +3242,7 @@
         "id": "182303171",
         "name": "23：从HL开始的JL省赛生活",
         "organization": "东北师范大学附属中学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 8,
@@ -4498,7 +4550,7 @@
         "id": "182303157",
         "name": "阿巴阿巴",
         "organization": "哈尔滨工业大学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 7,
@@ -5190,7 +5242,8 @@
         "id": "182303150",
         "name": "我们仨真强",
         "organization": "西南民族大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 6,
@@ -6728,7 +6781,8 @@
         "id": "182303147",
         "name": "蓝桥杯深圳总部",
         "organization": "深圳大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 6,
@@ -9098,7 +9152,8 @@
         "id": "182303146",
         "name": "疾旋鼬后援团",
         "organization": "山西大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -9823,7 +9878,8 @@
         "id": "182303142",
         "name": "凑鱼烂虾",
         "organization": "南阳理工学院",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -10130,7 +10186,8 @@
         "id": "182303139",
         "name": "来长春爬个雪山",
         "organization": "江西师范大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -10317,7 +10374,8 @@
         "id": "182303170",
         "name": "感觉你俩是为了追我才打ACM的",
         "organization": "南阳理工学院",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 5,
@@ -15162,7 +15220,8 @@
         "id": "182303161",
         "name": "不是吧！还来队",
         "organization": "东北师范大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 5,
@@ -15410,7 +15469,8 @@
         "id": "182303151",
         "name": "大漠孤烟直，长河落日圆",
         "organization": "新疆大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -16188,7 +16248,8 @@
         "id": "182303152",
         "name": "请你给个牌子，我什么都会做的",
         "organization": "新疆大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -16952,7 +17013,8 @@
         "id": "182303145",
         "name": "我每天打ACM也没上瘾啊",
         "organization": "山东理工大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -17702,7 +17764,8 @@
         "id": "182303138",
         "name": "能不能不爆零",
         "organization": "江西财经大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -17894,7 +17957,8 @@
         "id": "182303140",
         "name": "一人上机，一人烧烤，一人探花",
         "organization": "南阳理工学院",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -18069,7 +18133,7 @@
         "id": "182303172",
         "name": "魔法绵羊吃掉糖菜投手",
         "organization": "东北师范大学附属中学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 5,
@@ -19028,7 +19092,7 @@
         "id": "182303173",
         "name": "必胜客",
         "organization": "东北师范大学附属中学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 5,
@@ -19524,7 +19588,7 @@
         "id": "182303158",
         "name": "打编程省赛，享悦己人生",
         "organization": "哈尔滨工业大学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 5,
@@ -21182,7 +21246,8 @@
         "id": "182303148",
         "name": "射阳中学一队",
         "organization": "天津工业大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 5,
@@ -23613,7 +23678,7 @@
         "id": "182303159",
         "name": "没啥想法队",
         "organization": "哈尔滨工业大学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 4,
@@ -23996,7 +24061,7 @@
         "id": "182303156",
         "name": "海底小纵队",
         "organization": "东北师范大学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 4,
@@ -26354,7 +26419,8 @@
         "id": "182303169",
         "name": "风雪过境",
         "organization": "长春理工大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 4,
@@ -27258,7 +27324,8 @@
         "id": "182303141",
         "name": "WA2是你的谎言",
         "organization": "南阳理工学院",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 4,
@@ -28054,7 +28121,8 @@
         "id": "182303149",
         "name": "为什么天工不报销？",
         "organization": "天津工业大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 4,
@@ -28689,7 +28757,8 @@
         "id": "182303165",
         "name": "教练SCI一区换我四省赛牌子",
         "organization": "辽宁大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 4,
@@ -29893,7 +29962,8 @@
         "id": "182303144",
         "name": "凌乱之风粉丝团",
         "organization": "山东理工大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 4,
@@ -30943,7 +31013,8 @@
         "id": "182303153",
         "name": "这里是铁匠铺",
         "organization": "中北大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 4,
@@ -31275,7 +31346,8 @@
         "id": "182303160",
         "name": "做AC梦",
         "organization": "北华大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 4,
@@ -33820,7 +33892,7 @@
         "id": "182303154",
         "name": "渝湘大皖宽面",
         "organization": "大连理工大学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 4,
@@ -37047,7 +37119,8 @@
         "id": "182303137",
         "name": "云帆一东北旅行团",
         "organization": "河北大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 3,
@@ -39627,7 +39700,7 @@
         "id": "182303155",
         "name": "复活劳大",
         "organization": "东北师范大学",
-        "official": true
+        "official": false
       },
       "score": {
         "value": 3,
@@ -40257,7 +40330,8 @@
         "id": "182303162",
         "name": "啊对对队",
         "organization": "哈尔滨师范大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 3,
@@ -42062,7 +42136,8 @@
         "id": "182303166",
         "name": "内师2队",
         "organization": "内蒙古师范大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 3,
@@ -42549,7 +42624,8 @@
         "id": "182303164",
         "name": "卡布达变身",
         "organization": "佳木斯大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 2,
@@ -43270,7 +43346,8 @@
         "id": "182303167",
         "name": "青年先疯队",
         "organization": "通化师范学院",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 2,
@@ -44280,7 +44357,8 @@
         "id": "182303163",
         "name": "Sorry！我女秒了全世界",
         "organization": "佳木斯大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 1,
@@ -44440,7 +44518,8 @@
         "id": "182303168",
         "name": "鼠鼠我啊，真的要AC了",
         "organization": "长春工业大学",
-        "official": true
+        "official": true,
+        "markers": ["female"]
       },
       "score": {
         "value": 1,
@@ -52802,7 +52881,8 @@
         "id": "182302929",
         "name": "请你给个牌子，我什么都会做的",
         "organization": "新疆大学",
-        "official": true
+        "official": true,
+        "markers": ["extra"]
       },
       "score": {
         "value": 0,
