@@ -1,0 +1,8497 @@
+{
+  "type": "general",
+  "version": "0.3.13",
+  "contest": {
+    "title": {
+      "zh-CN": "2026年安徽省机器人大赛——算法设计赛道 初赛",
+      "fallback": "2026年安徽省机器人大赛——算法设计赛道 初赛"
+    },
+    "startAt": "2026-05-10T09:00:00+08:00",
+    "duration": [
+      3,
+      "h"
+    ],
+    "frozenDuration": [
+      0,
+      "h"
+    ]
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)"
+  ],
+  "problems": [],
+  "series": [
+    {
+      "title": "本科#",
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "filter": {
+            "byMarker": "undergraduate"
+          }
+        }
+      }
+    },
+    {
+      "title": "高职#",
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "filter": {
+            "byMarker": "hv"
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "user": {
+        "id": "1021127229",
+        "name": "Delete the ranklist",
+        "organization": "合肥工业大学宣城校区",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张海涛"
+          },
+          {
+            "name": "程龙廷"
+          },
+          {
+            "name": "李航"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          },
+          {
+            "name": "卜晨阳",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020095242",
+        "name": "合工大002队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "肖壹凡"
+          },
+          {
+            "name": "陈暄石"
+          },
+          {
+            "name": "万志翔"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020532121",
+        "name": "反正能过样例",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨帅"
+          },
+          {
+            "name": "汝豪杰"
+          },
+          {
+            "name": "瞿康辰"
+          },
+          {
+            "name": "项响琴",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020538763",
+        "name": "Amusing Cat",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "许志航"
+          },
+          {
+            "name": "杨仕超"
+          },
+          {
+            "name": "吕文杰"
+          },
+          {
+            "name": "张新",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020840341",
+        "name": "胖若两人",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈林国然"
+          },
+          {
+            "name": "李乐乐"
+          },
+          {
+            "name": "李子寒"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022789565",
+        "name": "安职大一队",
+        "organization": "安徽职业技术大学",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "赵丽"
+          },
+          {
+            "name": "李梦圆"
+          },
+          {
+            "name": "陈亚乔"
+          },
+          {
+            "name": "章宏远",
+            "role": "coach"
+          },
+          {
+            "name": "毕佳佳",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020265234",
+        "name": "零基础1队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "许居尚"
+          },
+          {
+            "name": "高翔"
+          },
+          {
+            "name": "火天宝"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021985196",
+        "name": "花时梦迹",
+        "organization": "安徽农业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈溪"
+          },
+          {
+            "name": "韩贺宇"
+          },
+          {
+            "name": "杨皓宇"
+          },
+          {
+            "name": "涂立静",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020319817",
+        "name": "AustA",
+        "organization": "安徽理工大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "厉东霖"
+          },
+          {
+            "name": "李天祥"
+          },
+          {
+            "name": "徐歌"
+          },
+          {
+            "name": "蒋社想",
+            "role": "coach"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 700
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021121482",
+        "name": "hfutxc001",
+        "organization": "合肥工业大学宣城校区",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "傅添成"
+          },
+          {
+            "name": "刘嘉傲"
+          },
+          {
+            "name": "张力翔"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          },
+          {
+            "name": "罗月童",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 690
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020091790",
+        "name": "合工大004队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "呼建睿"
+          },
+          {
+            "name": "朱智伟"
+          },
+          {
+            "name": "舒雨飞"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 690
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020532378",
+        "name": "飞带被长队",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "曾一凡"
+          },
+          {
+            "name": "田润泽"
+          },
+          {
+            "name": "邵新成"
+          },
+          {
+            "name": "项响琴",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 690
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020264405",
+        "name": "安师大1队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "柏成雨"
+          },
+          {
+            "name": "吕金霖"
+          },
+          {
+            "name": "王晨庆"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 690
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020640899",
+        "name": "安工大十二队",
+        "organization": "安徽工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张敬义"
+          },
+          {
+            "name": "张鑫"
+          },
+          {
+            "name": "周子健"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 690
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020096425",
+        "name": "合工大001队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "谢麒翰"
+          },
+          {
+            "name": "乔淼玥"
+          },
+          {
+            "name": "单戴"
+          },
+          {
+            "name": "刘彬彬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 680
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020936616",
+        "name": "锋铠纪元",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张鹏程"
+          },
+          {
+            "name": "马静祥"
+          },
+          {
+            "name": "严航"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 680
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021123218",
+        "name": "升降机领域大神",
+        "organization": "合肥工业大学宣城校区",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "冯舶钊"
+          },
+          {
+            "name": "马久贺"
+          },
+          {
+            "name": "马菡阳"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          },
+          {
+            "name": "陈伟",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 670
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260356",
+        "name": "随缘",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "邵俊杨"
+          },
+          {
+            "name": "孙宁宇"
+          },
+          {
+            "name": "余文乐"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 670
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020021467",
+        "name": "老大我们这样真的能骗到报销吗",
+        "organization": "安徽大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "苗卫舟"
+          },
+          {
+            "name": "陈彬钰"
+          },
+          {
+            "name": "吕清睿"
+          },
+          {
+            "name": "无",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 670
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022450236",
+        "name": "AAA代码批发",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "包雨轩"
+          },
+          {
+            "name": "王青硕"
+          },
+          {
+            "name": "柳依然"
+          },
+          {
+            "name": "黄启东",
+            "role": "coach"
+          },
+          {
+            "name": "马领",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 670
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020535937",
+        "name": "ciallo~都是杂鱼喵",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘乐乐"
+          },
+          {
+            "name": "葛昊"
+          },
+          {
+            "name": "钱诚"
+          },
+          {
+            "name": "嵇圣硙",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 660
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260916",
+        "name": "天天ac",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘一申"
+          },
+          {
+            "name": "陈建宇"
+          },
+          {
+            "name": "刘子阳"
+          },
+          {
+            "name": "伍长荣",
+            "role": "coach"
+          },
+          {
+            "name": "杜安红",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 660
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020026190",
+        "name": "安大四队",
+        "organization": "安徽大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "程良杰"
+          },
+          {
+            "name": "李宇齐"
+          },
+          {
+            "name": "高研"
+          },
+          {
+            "name": "无",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 660
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020533622",
+        "name": "旮旯编程不是这样的，快给我ac啊",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "凌梦琪"
+          },
+          {
+            "name": "冉婷"
+          },
+          {
+            "name": "杨梦茹"
+          },
+          {
+            "name": "蔡佳楠",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 650
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021943705",
+        "name": "我重生了，这一世我要夺回属于我的一切",
+        "organization": "安庆师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "纪润奇"
+          },
+          {
+            "name": "余永沁"
+          },
+          {
+            "name": "王乐泉"
+          },
+          {
+            "name": "江克勤",
+            "role": "coach"
+          },
+          {
+            "name": "程一飞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 650
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022455336",
+        "name": "鸿皓之志",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王皓"
+          },
+          {
+            "name": "戴鸿波"
+          },
+          {
+            "name": "徐鸿"
+          },
+          {
+            "name": "吕永强",
+            "role": "coach"
+          },
+          {
+            "name": "黄欢欢",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 630
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020936572",
+        "name": "打表对拍猜答案",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "郭丹丹"
+          },
+          {
+            "name": "时小舒"
+          },
+          {
+            "name": "高瑗"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 630
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020936657",
+        "name": "希望时代的涂鸦",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘欣怡"
+          },
+          {
+            "name": "王修晗"
+          },
+          {
+            "name": "彭思敏"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 630
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021947083",
+        "name": "BUG生产队",
+        "organization": "安庆师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘玉锦"
+          },
+          {
+            "name": "张益玮"
+          },
+          {
+            "name": "占善文"
+          },
+          {
+            "name": "程一飞",
+            "role": "coach"
+          },
+          {
+            "name": "江克勤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 630
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020029918",
+        "name": "安大五队",
+        "organization": "安徽大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "聂剑"
+          },
+          {
+            "name": "王壮博"
+          },
+          {
+            "name": "诸帮丁"
+          },
+          {
+            "name": "无",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 630
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021129268",
+        "name": "合肥工业大学宣城校区一队",
+        "organization": "合肥工业大学宣城校区",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "江博文"
+          },
+          {
+            "name": "莫子扬"
+          },
+          {
+            "name": "郑付彬"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          },
+          {
+            "name": "罗月童",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 620
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "10211685857",
+        "name": "终将升起的烈阳！",
+        "organization": "淮北理工学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "尹洪超"
+          },
+          {
+            "name": "王琰博"
+          },
+          {
+            "name": "朱宏伟"
+          },
+          {
+            "name": "杨振仁",
+            "role": "coach"
+          },
+          {
+            "name": "左自然",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260572",
+        "name": "代码能跑队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王国庆"
+          },
+          {
+            "name": "江俊杰"
+          },
+          {
+            "name": "刘傲"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260387",
+        "name": "键盘卡键导致签到题没做队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "孙涵泽"
+          },
+          {
+            "name": "段翃翔"
+          },
+          {
+            "name": "王欣怡"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022136489",
+        "name": "6",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "贾士杰"
+          },
+          {
+            "name": "薛鎏洋"
+          },
+          {
+            "name": "吴思佳"
+          },
+          {
+            "name": "孙文玲",
+            "role": "coach"
+          },
+          {
+            "name": "赵祥永",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022456419",
+        "name": "一灵代码",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王康子睿"
+          },
+          {
+            "name": "黎晟懿"
+          },
+          {
+            "name": "高明睿"
+          },
+          {
+            "name": "王一灵",
+            "role": "coach"
+          },
+          {
+            "name": "马领",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 600
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020936401",
+        "name": "黼黻明思",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘振东"
+          },
+          {
+            "name": "朱国昊"
+          },
+          {
+            "name": "张晓宇"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 600
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020261216",
+        "name": "如果读到这行请输出队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王子航"
+          },
+          {
+            "name": "刘智立"
+          },
+          {
+            "name": "胡宏鑫"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 600
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021738300",
+        "name": "虎子你队",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "宋佳俊"
+          },
+          {
+            "name": "丁赐"
+          },
+          {
+            "name": "吴凯"
+          },
+          {
+            "name": "赵靖",
+            "role": "coach"
+          },
+          {
+            "name": "荣亮宇",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 600
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020640843",
+        "name": "安工大世一队",
+        "organization": "安徽工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李锐"
+          },
+          {
+            "name": "李冠庭"
+          },
+          {
+            "name": "康福"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 600
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021308684",
+        "name": "你说我的暴力是beats",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "潘家宝"
+          },
+          {
+            "name": "余泽凯"
+          },
+          {
+            "name": "陆州岩"
+          },
+          {
+            "name": "刘清",
+            "role": "coach"
+          },
+          {
+            "name": "刘正余",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 600
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020445238",
+        "name": "HNNU",
+        "organization": "淮南师范学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张家鑫"
+          },
+          {
+            "name": "古丽努尔"
+          },
+          {
+            "name": "黄奕天"
+          },
+          {
+            "name": "时慧琨",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020537628",
+        "name": "华尔街之狼",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "丁涛"
+          },
+          {
+            "name": "方基伟"
+          },
+          {
+            "name": "方大伟"
+          },
+          {
+            "name": "项响琴",
+            "role": "coach"
+          },
+          {
+            "name": "孟文文",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020934929",
+        "name": "写的都对",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "章雨欣"
+          },
+          {
+            "name": "高晨晨"
+          },
+          {
+            "name": "王艺燕"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020932382",
+        "name": "小飞队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "许世阳"
+          },
+          {
+            "name": "张旭"
+          },
+          {
+            "name": "张萌"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260257",
+        "name": "样例过了就算队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张善波"
+          },
+          {
+            "name": "李勇"
+          },
+          {
+            "name": "胡静玉"
+          },
+          {
+            "name": "杜安红",
+            "role": "coach"
+          },
+          {
+            "name": "伍长荣",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260533",
+        "name": "这题对不队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张登科"
+          },
+          {
+            "name": "余洋洋"
+          },
+          {
+            "name": "张旭"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020263143",
+        "name": "三个绿名",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈乐"
+          },
+          {
+            "name": "张宇凡"
+          },
+          {
+            "name": "刘雅琦"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021988640",
+        "name": "队伍名称不能为空",
+        "organization": "安徽农业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "吴亦染"
+          },
+          {
+            "name": "谢文杰"
+          },
+          {
+            "name": "彭康"
+          },
+          {
+            "name": "涂立静",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023081968",
+        "name": "w can i say",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "王天宇"
+          },
+          {
+            "name": "闵永智"
+          },
+          {
+            "name": "储翔宇"
+          },
+          {
+            "name": "付遥银",
+            "role": "coach"
+          },
+          {
+            "name": "陆金江",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021345467",
+        "name": "#define wa ac",
+        "organization": "宿州学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "程宏俊"
+          },
+          {
+            "name": "房志拥"
+          },
+          {
+            "name": "潘伟强"
+          },
+          {
+            "name": "余晓永",
+            "role": "coach"
+          },
+          {
+            "name": "张晓梅",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020932572",
+        "name": "写的全队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "曹佳宁"
+          },
+          {
+            "name": "孟佳瑞"
+          },
+          {
+            "name": "张婉君"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 580
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020023245",
+        "name": "安大1.4队",
+        "organization": "安徽大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "何梓晗"
+          },
+          {
+            "name": "王雪阳"
+          },
+          {
+            "name": "王叶舟"
+          },
+          {
+            "name": "无",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 580
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020020703",
+        "name": "安大六队",
+        "organization": "安徽大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "杜天正"
+          },
+          {
+            "name": "洪茁珉"
+          },
+          {
+            "name": "廖宇涵"
+          },
+          {
+            "name": "无",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 580
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020537097",
+        "name": "爱学习的小猪最有出息",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "邵欣越"
+          },
+          {
+            "name": "李继红"
+          },
+          {
+            "name": "赵梦雅"
+          },
+          {
+            "name": "孟文文",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 570
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020844787",
+        "name": "菲比啾比",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "汪子骏"
+          },
+          {
+            "name": "祝宇乐"
+          },
+          {
+            "name": "叶琳琳"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 570
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020263994",
+        "name": "对对对！对… 对吗？不对不队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "胡鸣"
+          },
+          {
+            "name": "赵翔"
+          },
+          {
+            "name": "茹桂堂"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 570
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020647690",
+        "name": "起个名字是个麻烦的事",
+        "organization": "安徽工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄逸尘"
+          },
+          {
+            "name": "吴海啸"
+          },
+          {
+            "name": "李成洁"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 570
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020533354",
+        "name": "四缺一",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "芦婷"
+          },
+          {
+            "name": "张圣婕"
+          },
+          {
+            "name": "徐金凤"
+          },
+          {
+            "name": "邵桂伟",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 560
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020263033",
+        "name": "萌鸡小队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王艺儒"
+          },
+          {
+            "name": "周晓妍"
+          },
+          {
+            "name": "陈月明"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 560
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020261059",
+        "name": "你是奶龙对不队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "高子妍"
+          },
+          {
+            "name": "何明姗"
+          },
+          {
+            "name": "尹文静"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 560
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020649000",
+        "name": "安工大一队",
+        "organization": "安徽工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "钱子晨"
+          },
+          {
+            "name": "曹政坤"
+          },
+          {
+            "name": "黄梓睿"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 560
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021794829",
+        "name": "我是奶龙",
+        "organization": "安徽财经大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "路文浩"
+          },
+          {
+            "name": "潘誉文"
+          },
+          {
+            "name": "马明阳"
+          },
+          {
+            "name": "张林",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 560
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020094480",
+        "name": "合工大005队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "曹巧明"
+          },
+          {
+            "name": "谭嘉烨"
+          },
+          {
+            "name": "陆智健"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020531141",
+        "name": "ABCD不要BD",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈源"
+          },
+          {
+            "name": "胡畔然"
+          },
+          {
+            "name": "田思洋"
+          },
+          {
+            "name": "程知",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020934464",
+        "name": "我一直在哭",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "周俊豪"
+          },
+          {
+            "name": "刘徐瑞"
+          },
+          {
+            "name": "刘星宇"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020406125",
+        "name": "巨神战击队",
+        "organization": "蚌埠学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈星科"
+          },
+          {
+            "name": "童仁杰"
+          },
+          {
+            "name": "许一凡"
+          },
+          {
+            "name": "沈恂",
+            "role": "coach"
+          },
+          {
+            "name": "蔡绍峰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020264088",
+        "name": "天绫绫地宁宁",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "许译涛"
+          },
+          {
+            "name": "黄锐杰"
+          },
+          {
+            "name": "袁文晟"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020313633",
+        "name": "AustB",
+        "organization": "安徽理工大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "林逸晖"
+          },
+          {
+            "name": "沈健豪"
+          },
+          {
+            "name": "彭耀辉"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          },
+          {
+            "name": "蒋社想",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021017680",
+        "name": "互联网上笑声起，今日方知奶是龙",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "罗宇昊"
+          },
+          {
+            "name": "余牧"
+          },
+          {
+            "name": "鲍远超"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          },
+          {
+            "name": "刘三民",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022457517",
+        "name": "广源图文",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "吴文韬"
+          },
+          {
+            "name": "范皓源"
+          },
+          {
+            "name": "张广林"
+          },
+          {
+            "name": "王一灵",
+            "role": "coach"
+          },
+          {
+            "name": "陈娅",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020097198",
+        "name": "合工大003队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "诸光轩"
+          },
+          {
+            "name": "马丙戌"
+          },
+          {
+            "name": "张旭"
+          },
+          {
+            "name": "刘彬彬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "10211686774",
+        "name": "喵喵喵喵喵喵喵",
+        "organization": "淮北理工学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "霍宇成"
+          },
+          {
+            "name": "孙亚楠"
+          },
+          {
+            "name": "刘家宏"
+          },
+          {
+            "name": "孙莹莹",
+            "role": "coach"
+          },
+          {
+            "name": "赵化勇",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020533900",
+        "name": "好心态确定一生",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "叶咨含"
+          },
+          {
+            "name": "叶铠睿"
+          },
+          {
+            "name": "蔡庆喜"
+          },
+          {
+            "name": "唐超",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020535055",
+        "name": "无敌暴龙战士",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "徐恒瑞"
+          },
+          {
+            "name": "石浩然"
+          },
+          {
+            "name": "崔逸华"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          },
+          {
+            "name": "蔡佳楠",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020936625",
+        "name": "不想起名",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王彦彬"
+          },
+          {
+            "name": "李群"
+          },
+          {
+            "name": "孙家进"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020935032",
+        "name": "偷偷打比赛",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李航"
+          },
+          {
+            "name": "黄光亚"
+          },
+          {
+            "name": "徐翔宇"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021946020",
+        "name": "原神牛逼",
+        "organization": "安庆师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王昆"
+          },
+          {
+            "name": "陈焕博"
+          },
+          {
+            "name": "吴文俊"
+          },
+          {
+            "name": "蒋涛涛",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020264160",
+        "name": "编译都队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "林雨珊"
+          },
+          {
+            "name": "高子嘉"
+          },
+          {
+            "name": "王嘉维"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020025564",
+        "name": "AAAWA批发商()",
+        "organization": "安徽大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张仕林"
+          },
+          {
+            "name": "丁博源"
+          },
+          {
+            "name": "颜志恒"
+          },
+          {
+            "name": "无",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "10211689505",
+        "name": "代码一改就队",
+        "organization": "淮北理工学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "武钰璇"
+          },
+          {
+            "name": "韩筱雅"
+          },
+          {
+            "name": "马艺婷"
+          },
+          {
+            "name": "刘大恒",
+            "role": "coach"
+          },
+          {
+            "name": "杨振仁",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020537410",
+        "name": "玄学AC队",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘文齐"
+          },
+          {
+            "name": "营子涵"
+          },
+          {
+            "name": "王冬傲"
+          },
+          {
+            "name": "孟文文",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020939559",
+        "name": "随便写都队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "汪若曦"
+          },
+          {
+            "name": "杨洁"
+          },
+          {
+            "name": "董士成"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020938114",
+        "name": "光宗耀组",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "洪硕威"
+          },
+          {
+            "name": "许世鹏"
+          },
+          {
+            "name": "王庆彬"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020936238",
+        "name": "啊对对对",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "韩云兴"
+          },
+          {
+            "name": "周文豪"
+          },
+          {
+            "name": "王润书"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020932416",
+        "name": "同花顺",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张学治"
+          },
+          {
+            "name": "王欣"
+          },
+          {
+            "name": "孙健"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020404940",
+        "name": "蚌埠住了对不",
+        "organization": "蚌埠学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "侯西涵"
+          },
+          {
+            "name": "尹杭杭"
+          },
+          {
+            "name": "杨宇航"
+          },
+          {
+            "name": "刘世军",
+            "role": "coach"
+          },
+          {
+            "name": "朱洪浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022276287",
+        "name": "AHTCM01",
+        "organization": "安徽中医药大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "徐浩东"
+          },
+          {
+            "name": "李子韩"
+          },
+          {
+            "name": "刘宝峰"
+          },
+          {
+            "name": "王世好",
+            "role": "coach"
+          },
+          {
+            "name": "胡继礼",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 530
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020097899",
+        "name": "合工大006队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "孟祥琛"
+          },
+          {
+            "name": "杜佳泽"
+          },
+          {
+            "name": "陆思立"
+          },
+          {
+            "name": "徐本柱",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020536911",
+        "name": "会飞的老虎",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "赵子龙"
+          },
+          {
+            "name": "方一鸣"
+          },
+          {
+            "name": "史铎"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          },
+          {
+            "name": "蔡佳楠",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020935021",
+        "name": "桃源三结义",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王昊"
+          },
+          {
+            "name": "赵佳浩"
+          },
+          {
+            "name": "刘泊彤"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020409059",
+        "name": "Trie树上的Build^3_Rebuild^2",
+        "organization": "蚌埠学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "卢俊杰"
+          },
+          {
+            "name": "李环宇"
+          },
+          {
+            "name": "吴智寅"
+          },
+          {
+            "name": "刘世军",
+            "role": "coach"
+          },
+          {
+            "name": "沈恂",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021370457",
+        "name": "Qu_God",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "童梓乘"
+          },
+          {
+            "name": "叶德健"
+          },
+          {
+            "name": "杨希望"
+          },
+          {
+            "name": "佘星星",
+            "role": "coach"
+          },
+          {
+            "name": "姜玮",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020265679",
+        "name": "蒜鸟蒜鸟都不容易队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "胡薇"
+          },
+          {
+            "name": "潘梓润"
+          },
+          {
+            "name": "吴淇"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020268601",
+        "name": "精神状态良好",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "马正宇"
+          },
+          {
+            "name": "罗中祥"
+          },
+          {
+            "name": "宋泽宇"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020263043",
+        "name": "对对队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨得田"
+          },
+          {
+            "name": "郑钦友"
+          },
+          {
+            "name": "张雨"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020265212",
+        "name": "都队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "雷子豪"
+          },
+          {
+            "name": "鲁珏忠"
+          },
+          {
+            "name": "马畅"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020099634",
+        "name": "合工大010队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘京文"
+          },
+          {
+            "name": "周星缘"
+          },
+          {
+            "name": "魏志豪"
+          },
+          {
+            "name": "徐本柱",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020537801",
+        "name": "惊天三条区",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "葛毅"
+          },
+          {
+            "name": "周子凡"
+          },
+          {
+            "name": "查宇"
+          },
+          {
+            "name": "唐超",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020933836",
+        "name": "向前队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陆强"
+          },
+          {
+            "name": "朱林"
+          },
+          {
+            "name": "李明元"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020400077",
+        "name": "bug退散",
+        "organization": "蚌埠学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "桑乐"
+          },
+          {
+            "name": "许冠杰"
+          },
+          {
+            "name": "蒋立勇"
+          },
+          {
+            "name": "杨学颖",
+            "role": "coach"
+          },
+          {
+            "name": "黄刚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020268837",
+        "name": "芳空警报",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李飞"
+          },
+          {
+            "name": "张智凯"
+          },
+          {
+            "name": "方寒冰"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020318770",
+        "name": "AustC",
+        "organization": "安徽理工大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "段煜明"
+          },
+          {
+            "name": "段宇飞"
+          },
+          {
+            "name": "殷仕腾"
+          },
+          {
+            "name": "李邵莹",
+            "role": "coach"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020641069",
+        "name": "真的很饿队",
+        "organization": "安徽工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨雅婷"
+          },
+          {
+            "name": "张绮绮"
+          },
+          {
+            "name": "后志远"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022891470",
+        "name": "暴力出奇迹",
+        "organization": "芜湖职业技术大学",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "周明岩"
+          },
+          {
+            "name": "骆欢"
+          },
+          {
+            "name": "刘宁"
+          },
+          {
+            "name": "单强达",
+            "role": "coach"
+          },
+          {
+            "name": "陶昀翔",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020939515",
+        "name": "又双叒叕到了难搞的时候",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "方鼎"
+          },
+          {
+            "name": "石瑞尧"
+          },
+          {
+            "name": "唐毅轩"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020933289",
+        "name": "乘风揽月",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "郑城晖"
+          },
+          {
+            "name": "徐佳怡"
+          },
+          {
+            "name": "孙紫彤"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020264600",
+        "name": "Ave Mujica",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "孙先保"
+          },
+          {
+            "name": "尚卫东"
+          },
+          {
+            "name": "奚涛"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020266062",
+        "name": "名字自己冒出来",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王李庆晨"
+          },
+          {
+            "name": "宛旭东"
+          },
+          {
+            "name": "章驰"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260894",
+        "name": "神之三首",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "荆阁尉"
+          },
+          {
+            "name": "徐广灿"
+          },
+          {
+            "name": "王徽"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1024000957",
+        "name": "工贸3队",
+        "organization": "安徽工贸职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "代龙龙"
+          },
+          {
+            "name": "童雨梦"
+          },
+          {
+            "name": "谢望龙"
+          },
+          {
+            "name": "商杰",
+            "role": "coach"
+          },
+          {
+            "name": "田甜",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023080962",
+        "name": "本队名由AI生成",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘志鹏"
+          },
+          {
+            "name": "邓子和"
+          },
+          {
+            "name": "吴若寒"
+          },
+          {
+            "name": "陆金江",
+            "role": "coach"
+          },
+          {
+            "name": "李宁",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022459846",
+        "name": "数融先锋",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "崔北强"
+          },
+          {
+            "name": "张航瑞"
+          },
+          {
+            "name": "劳世谐"
+          },
+          {
+            "name": "施宁",
+            "role": "coach"
+          },
+          {
+            "name": "方星星",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022454709",
+        "name": "风帆",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "胡滋润"
+          },
+          {
+            "name": "林子渊"
+          },
+          {
+            "name": "胡敬东"
+          },
+          {
+            "name": "肖红菊",
+            "role": "coach"
+          },
+          {
+            "name": "黄启东",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021863968",
+        "name": "三思而行",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李先彬"
+          },
+          {
+            "name": "金钰豪"
+          },
+          {
+            "name": "胡雪"
+          },
+          {
+            "name": "张非凡",
+            "role": "coach"
+          },
+          {
+            "name": "李玉玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 490
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020644954",
+        "name": "AHUT-24",
+        "organization": "安徽工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王长勤"
+          },
+          {
+            "name": "聂宇恒"
+          },
+          {
+            "name": "马宇祥"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 490
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022853673",
+        "name": "佳山小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "石瑞仁"
+          },
+          {
+            "name": "王超"
+          },
+          {
+            "name": "石蕙萌"
+          },
+          {
+            "name": "甘丽",
+            "role": "coach"
+          },
+          {
+            "name": "吴慧林",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 490
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021462854",
+        "name": "星江俐伟队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "江利伟"
+          },
+          {
+            "name": "尹大伟"
+          },
+          {
+            "name": "金俐君"
+          },
+          {
+            "name": "范庆春",
+            "role": "coach"
+          },
+          {
+            "name": "谢飞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021461309",
+        "name": "都对都队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "孙健清"
+          },
+          {
+            "name": "陈锦鹏"
+          },
+          {
+            "name": "陈志宇"
+          },
+          {
+            "name": "范庆春",
+            "role": "coach"
+          },
+          {
+            "name": "朱强",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020095414",
+        "name": "合工大007队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "褚鑫源"
+          },
+          {
+            "name": "贺雨萱"
+          },
+          {
+            "name": "梁家铭"
+          },
+          {
+            "name": "鲍秉坤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020536747",
+        "name": "奇迹再现",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "曹志玉"
+          },
+          {
+            "name": "周玮"
+          },
+          {
+            "name": "章伟涛"
+          },
+          {
+            "name": "嵇圣硙",
+            "role": "coach"
+          },
+          {
+            "name": "张新",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020930937",
+        "name": "不超时就赢",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨凯"
+          },
+          {
+            "name": "莫文轩"
+          },
+          {
+            "name": "鲍庐丰"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020934134",
+        "name": "睡务局",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "盛源"
+          },
+          {
+            "name": "牛国英"
+          },
+          {
+            "name": "张瑞"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020932573",
+        "name": "不会写就点了",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张宏健"
+          },
+          {
+            "name": "汤佳伟"
+          },
+          {
+            "name": "张延"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020845050",
+        "name": "菜鸟图鉴",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "周友胜"
+          },
+          {
+            "name": "张智恒"
+          },
+          {
+            "name": "张嘉玮"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          },
+          {
+            "name": "杨传健",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021370760",
+        "name": "发之恒宇，展尽塔、柯、请、吃、只、云、吃、咕、Q队",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "郭发展"
+          },
+          {
+            "name": "张子恒"
+          },
+          {
+            "name": "陈宇轩"
+          },
+          {
+            "name": "姜玮",
+            "role": "coach"
+          },
+          {
+            "name": "王婷婷",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020261391",
+        "name": "菲比流萤牛福队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "瞿康康"
+          },
+          {
+            "name": "蔡梦珠"
+          },
+          {
+            "name": "瞿睿阳"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020268013",
+        "name": "不死鸟队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "吴小龙"
+          },
+          {
+            "name": "焦晨"
+          },
+          {
+            "name": "苏桂"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020269175",
+        "name": "所以爱会消失对不队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李雯芳"
+          },
+          {
+            "name": "丁洁"
+          },
+          {
+            "name": "姚如凤"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021018487",
+        "name": "无名队",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "周涛"
+          },
+          {
+            "name": "吴文静"
+          },
+          {
+            "name": "范家祥"
+          },
+          {
+            "name": "赵森严",
+            "role": "coach"
+          },
+          {
+            "name": "皮凌青",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021019113",
+        "name": "下一队",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王小龙"
+          },
+          {
+            "name": "薛梦杰"
+          },
+          {
+            "name": "潘绍东"
+          },
+          {
+            "name": "张俊",
+            "role": "coach"
+          },
+          {
+            "name": "赵森严",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021010583",
+        "name": "只会暴力枚举",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李彦科"
+          },
+          {
+            "name": "伍小灯"
+          },
+          {
+            "name": "马建军"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          },
+          {
+            "name": "赵森严",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020971749",
+        "name": "代码不报错队",
+        "organization": "淮北师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "许秦豪"
+          },
+          {
+            "name": "余峰"
+          },
+          {
+            "name": "赵善庆"
+          },
+          {
+            "name": "高向军",
+            "role": "coach"
+          },
+          {
+            "name": "洪留荣",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 470
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020090239",
+        "name": "合工大008队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "储金洋"
+          },
+          {
+            "name": "周义浩"
+          },
+          {
+            "name": "施子涵"
+          },
+          {
+            "name": "鲍秉坤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 470
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020267182",
+        "name": "三只小唐",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "马国昱"
+          },
+          {
+            "name": "吕瑞一"
+          },
+          {
+            "name": "潘书成"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 470
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020260791",
+        "name": "咱们叫啥队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "廖诗雨"
+          },
+          {
+            "name": "柴恒一"
+          },
+          {
+            "name": "赖敏"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 470
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021792768",
+        "name": "",
+        "organization": "安徽财经大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张昆"
+          },
+          {
+            "name": "苏心怡"
+          },
+          {
+            "name": "罗志远"
+          },
+          {
+            "name": "吴延辉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020934808",
+        "name": "蛋仔派队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "谢孙勇"
+          },
+          {
+            "name": "龚婉玉"
+          },
+          {
+            "name": "汪志怡"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020846588",
+        "name": "下键如有神",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "马登伟"
+          },
+          {
+            "name": "王扩圆"
+          },
+          {
+            "name": "李博文"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021940320",
+        "name": "泪落双龙湖",
+        "organization": "安庆师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王程璨"
+          },
+          {
+            "name": "胡可仁"
+          },
+          {
+            "name": "黎诚宇"
+          },
+          {
+            "name": "江克勤",
+            "role": "coach"
+          },
+          {
+            "name": "程一飞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021869093",
+        "name": "你随便起一个",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王子华"
+          },
+          {
+            "name": "黄丽彤"
+          },
+          {
+            "name": "何政"
+          },
+          {
+            "name": "张非凡",
+            "role": "coach"
+          },
+          {
+            "name": "李玉玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021377005",
+        "name": "AcWing",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "卢酉杰"
+          },
+          {
+            "name": "吴嘉奇"
+          },
+          {
+            "name": "王健康"
+          },
+          {
+            "name": "姜玮",
+            "role": "coach"
+          },
+          {
+            "name": "佘星星",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020267728",
+        "name": "hello world队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "钟静雯"
+          },
+          {
+            "name": "蒋在欣"
+          },
+          {
+            "name": "李云云"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021010864",
+        "name": "汪汪特工队",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "孙康"
+          },
+          {
+            "name": "单伟洁"
+          },
+          {
+            "name": "张李"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          },
+          {
+            "name": "赵森严",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022948784",
+        "name": "计用1队",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "王耀威"
+          },
+          {
+            "name": "许骅睿"
+          },
+          {
+            "name": "杨军豪"
+          },
+          {
+            "name": "陈键",
+            "role": "coach"
+          },
+          {
+            "name": "张古泰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022455041",
+        "name": "追求卓越",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王皓"
+          },
+          {
+            "name": "邓勇军"
+          },
+          {
+            "name": "周凡"
+          },
+          {
+            "name": "陈娅",
+            "role": "coach"
+          },
+          {
+            "name": "王一灵",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020976538",
+        "name": "暴力混分队",
+        "organization": "淮北师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "闫永春"
+          },
+          {
+            "name": "魏天祥"
+          },
+          {
+            "name": "刘宝琪"
+          },
+          {
+            "name": "高向军",
+            "role": "coach"
+          },
+          {
+            "name": "洪留荣",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021460318",
+        "name": "O(1)队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李轶男"
+          },
+          {
+            "name": "李政奇"
+          },
+          {
+            "name": "江林峰"
+          },
+          {
+            "name": "朱强",
+            "role": "coach"
+          },
+          {
+            "name": "程敏",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020932933",
+        "name": "比奇堡摸鱼小队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李旭东"
+          },
+          {
+            "name": "谢登澳"
+          },
+          {
+            "name": "刘晨阳"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020401976",
+        "name": "双子塔没有跳跃键",
+        "organization": "蚌埠学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "邱紫鑫"
+          },
+          {
+            "name": "王梓诺"
+          },
+          {
+            "name": "孟翔"
+          },
+          {
+            "name": "沈恂",
+            "role": "coach"
+          },
+          {
+            "name": "李现伟",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021370255",
+        "name": "吃饭为什么要排队",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "鲍克靖"
+          },
+          {
+            "name": "王振楠"
+          },
+          {
+            "name": "应鸣"
+          },
+          {
+            "name": "姜玮",
+            "role": "coach"
+          },
+          {
+            "name": "佘星星",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020265219",
+        "name": "你说啥都队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈庆财"
+          },
+          {
+            "name": "侯家浩"
+          },
+          {
+            "name": "阚子潭"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020269853",
+        "name": "全都做不队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "许杰"
+          },
+          {
+            "name": "王涵"
+          },
+          {
+            "name": "朱玉明"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020312897",
+        "name": "AustD",
+        "organization": "安徽理工大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "杜令贤"
+          },
+          {
+            "name": "周耀宇"
+          },
+          {
+            "name": "徐泽阳"
+          },
+          {
+            "name": "李邵莹",
+            "role": "coach"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023080714",
+        "name": "财贸三皮酱",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "陆佳庆"
+          },
+          {
+            "name": "陶宏涛"
+          },
+          {
+            "name": "徐冰琴"
+          },
+          {
+            "name": "霍卓群",
+            "role": "coach"
+          },
+          {
+            "name": "张成叔",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021460666",
+        "name": "嗯对对队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "聂林夕"
+          },
+          {
+            "name": "徐国正"
+          },
+          {
+            "name": "张梁"
+          },
+          {
+            "name": "范庆春",
+            "role": "coach"
+          },
+          {
+            "name": "谢飞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 440
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020532236",
+        "name": "雷斯护卫队",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张浩天"
+          },
+          {
+            "name": "杨晓宇"
+          },
+          {
+            "name": "何沛瑾"
+          },
+          {
+            "name": "邵桂伟",
+            "role": "coach"
+          },
+          {
+            "name": "程知",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 440
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020847629",
+        "name": "别码了再码人傻了",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张海天"
+          },
+          {
+            "name": "沈明轩"
+          },
+          {
+            "name": "许宇航"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 440
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021866128",
+        "name": "新建文件夹",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王潇茗"
+          },
+          {
+            "name": "花国庆"
+          },
+          {
+            "name": "胡伊枫"
+          },
+          {
+            "name": "张非凡",
+            "role": "coach"
+          },
+          {
+            "name": "李玉玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 440
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023083281",
+        "name": "暴力出奇迹队",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "程帅"
+          },
+          {
+            "name": "魏来"
+          },
+          {
+            "name": "杨硕"
+          },
+          {
+            "name": "胡超",
+            "role": "coach"
+          },
+          {
+            "name": "翟莉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 440
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020096265",
+        "name": "合工大009队",
+        "organization": "合肥工业大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "汪鸿鹏"
+          },
+          {
+            "name": "杨晨曦"
+          },
+          {
+            "name": "孙建睿"
+          },
+          {
+            "name": "鲍秉坤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 430
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020934289",
+        "name": "牢大队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "江立晔"
+          },
+          {
+            "name": "李东海"
+          },
+          {
+            "name": "郭申亚"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 430
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020935450",
+        "name": "无言以队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "卢静雯"
+          },
+          {
+            "name": "黄宇娟"
+          },
+          {
+            "name": "李武雪"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 430
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020267449",
+        "name": "暴力出奇迹",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李贤"
+          },
+          {
+            "name": "张焕"
+          },
+          {
+            "name": "刘子涵"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 430
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1020312234",
+        "name": "AustE",
+        "organization": "安徽理工大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "徐泽男"
+          },
+          {
+            "name": "伊全智"
+          },
+          {
+            "name": "方中旺"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          },
+          {
+            "name": "蒋社想",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 430
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021018729",
+        "name": "这一队",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "程精权"
+          },
+          {
+            "name": "皮兴勇"
+          },
+          {
+            "name": "胡李飞扬"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          },
+          {
+            "name": "皮凌青",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 430
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1021798824",
+        "name": "刷刷水题骗自己队",
+        "organization": "安徽财经大学",
+        "markers": [
+          "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李子晋"
+          },
+          {
+            "name": "朱媛媛"
+          },
+          {
+            "name": "李宇一"
+          },
+          {
+            "name": "何宗林",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 430
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽财经大学-三人行",
+        "name": "三人行",
+        "organization": "安徽财经大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 420
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-O(n³)队",
+        "name": "O(n³)队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 420
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学-食堂买饭从不排队",
+        "name": "食堂买饭从不排队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 420
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳理工学院-AC不了急死我了",
+        "name": "AC不了急死我了",
+        "organization": "阜阳理工学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 420
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安庆师范大学-蛋仔派",
+        "name": "蛋仔派",
+        "organization": "安庆师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 420
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "铜陵学院-成群结队",
+        "name": "成群结队",
+        "organization": "铜陵学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 420
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022853080",
+        "name": "花山小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "李慧"
+          },
+          {
+            "name": "王一凡"
+          },
+          {
+            "name": "胡思慈"
+          },
+          {
+            "name": "毕波",
+            "role": "coach"
+          },
+          {
+            "name": "王玮",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 420
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学-华辰创越",
+        "name": "华辰创越",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 410
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "滁州学院-别搞正在想",
+        "name": "别搞正在想",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 410
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022782104",
+        "name": "安职大的夏天",
+        "organization": "安徽职业技术大学",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "孙傲旗"
+          },
+          {
+            "name": "黄万丽"
+          },
+          {
+            "name": "王发锟"
+          },
+          {
+            "name": "裴明丽",
+            "role": "coach"
+          },
+          {
+            "name": "杨士猛",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1024003127",
+        "name": "安工贸2队",
+        "organization": "安徽工贸职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "孔甜甜"
+          },
+          {
+            "name": "代素婷"
+          },
+          {
+            "name": "高妍"
+          },
+          {
+            "name": "商杰",
+            "role": "coach"
+          },
+          {
+            "name": "田甜",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023081199",
+        "name": "原神NB",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "王书文"
+          },
+          {
+            "name": "高瑞彤"
+          },
+          {
+            "name": "周志豪"
+          },
+          {
+            "name": "李宁",
+            "role": "coach"
+          },
+          {
+            "name": "柯亚文",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-码到成功",
+        "name": "码到成功",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 400
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "陆军兵种大学-一斤海蜇",
+        "name": "一斤海蜇",
+        "organization": "陆军兵种大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 390
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-啊对对队",
+        "name": "啊对对队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 390
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-算对队",
+        "name": "算对队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 390
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "滁州学院-能吃就要多吃",
+        "name": "能吃就要多吃",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 390
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "马鞍山学院-masu1",
+        "name": "masu1",
+        "organization": "马鞍山学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 390
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1024031816",
+        "name": "豪运连连",
+        "organization": "淮北职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘思辰"
+          },
+          {
+            "name": "曹宇"
+          },
+          {
+            "name": "陈振廷"
+          },
+          {
+            "name": "冯伟",
+            "role": "coach"
+          },
+          {
+            "name": "李凌",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 380
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽信息工程学院-柯林斯家族二代目",
+        "name": "柯林斯家族二代目",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 380
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽新华学院-一飞冲天",
+        "name": "一飞冲天",
+        "organization": "安徽新华学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 380
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽师范大学-海底小纵队",
+        "name": "海底小纵队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 380
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽三联学院-无限进步",
+        "name": "无限进步",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 380
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-我说对就队",
+        "name": "我说对就队",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 380
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥工业大学（宣城校区）-酱味大鸡",
+        "name": "酱味大鸡",
+        "organization": "合肥工业大学（宣城校区）",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 370
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学-这把有点逆风了",
+        "name": "这把有点逆风了",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 370
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽信息工程学院-请输入文本",
+        "name": "请输入文本",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 370
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽师范大学-做得全队",
+        "name": "做得全队",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 370
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽三联学院-不开longlong见祖宗",
+        "name": "不开longlong见祖宗",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 370
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽三联学院-我要玩原神",
+        "name": "我要玩原神",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 360
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽公安学院-高松灯不是凑企鹅",
+        "name": "高松灯不是凑企鹅",
+        "organization": "安徽公安学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 360
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽公安学院-波奇酱不是区",
+        "name": "波奇酱不是区",
+        "organization": "安徽公安学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 360
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023089518",
+        "name": "三人行必过",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "倪洋"
+          },
+          {
+            "name": "胡靖怡"
+          },
+          {
+            "name": "张倩"
+          },
+          {
+            "name": "张成叔",
+            "role": "coach"
+          },
+          {
+            "name": "胡超",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 360
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥工业大学（宣城校区）-return0",
+        "name": "return0",
+        "organization": "合肥工业大学（宣城校区）",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 350
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-这就很队",
+        "name": "这就很队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 350
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学-暴力出奇迹",
+        "name": "暴力出奇迹",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 350
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学-我觉得队",
+        "name": "我觉得队",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 350
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "铜陵学院-EDG",
+        "name": "EDG",
+        "organization": "铜陵学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 350
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022851992",
+        "name": "雨山小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "袁平"
+          },
+          {
+            "name": "沈杨"
+          },
+          {
+            "name": "薛昊"
+          },
+          {
+            "name": "甘丽",
+            "role": "coach"
+          },
+          {
+            "name": "胡桃英",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 350
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳理工学院-熬走一队是一队",
+        "name": "熬走一队是一队",
+        "organization": "阜阳理工学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 340
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "滁州学院-公告放",
+        "name": "公告放",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 340
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽科技工程大学-重生之我在安科打ccpc",
+        "name": "重生之我在安科打ccpc",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 340
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022940955",
+        "name": "过了样例就A了",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "孟禹"
+          },
+          {
+            "name": "蒋自豪"
+          },
+          {
+            "name": "刘宜阳"
+          },
+          {
+            "name": "洪波",
+            "role": "coach"
+          },
+          {
+            "name": "江辉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 340
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023083845",
+        "name": "我将给你最直接、最真相、最不委婉、最不含蓄、最不模糊、最看透内核、最毫无保留、最一针见血的终极回答队",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "葛雪康"
+          },
+          {
+            "name": "余建飞"
+          },
+          {
+            "name": "衡慧敏"
+          },
+          {
+            "name": "霍卓群",
+            "role": "coach"
+          },
+          {
+            "name": "张成叔",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 340
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022857819",
+        "name": "黄池小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "沈磊磊"
+          },
+          {
+            "name": "金帅宇"
+          },
+          {
+            "name": "郭雨婷"
+          },
+          {
+            "name": "甘丽",
+            "role": "coach"
+          },
+          {
+            "name": "丁鑫",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 340
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022851329",
+        "name": "翠螺小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "徐洋"
+          },
+          {
+            "name": "崔小凤"
+          },
+          {
+            "name": "甘铂"
+          },
+          {
+            "name": "张小翠",
+            "role": "coach"
+          },
+          {
+            "name": "甘丽",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 340
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "淮北师范大学-不串等于禁言",
+        "name": "不串等于禁言",
+        "organization": "淮北师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 330
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-不想比队",
+        "name": "不想比队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 330
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽工程大学-收敛至极值",
+        "name": "收敛至极值",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 330
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022944986",
+        "name": "逐火之蛾",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "宫硕"
+          },
+          {
+            "name": "何思齐"
+          },
+          {
+            "name": "赵彪"
+          },
+          {
+            "name": "蒋荣",
+            "role": "coach"
+          },
+          {
+            "name": "章晓勤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 330
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022949051",
+        "name": "队伍1",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "王胜杰"
+          },
+          {
+            "name": "戴浩晨"
+          },
+          {
+            "name": "杨程显"
+          },
+          {
+            "name": "彭莉芬",
+            "role": "coach"
+          },
+          {
+            "name": "刘影",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 330
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽财经大学-人比代码跑得快",
+        "name": "人比代码跑得快",
+        "organization": "安徽财经大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 330
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学-book思议",
+        "name": "book思议",
+        "organization": "阜阳师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 320
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1024001898",
+        "name": "工贸一队",
+        "organization": "安徽工贸职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "贾瀚"
+          },
+          {
+            "name": "万浩壬"
+          },
+          {
+            "name": "刘奕娜"
+          },
+          {
+            "name": "商杰",
+            "role": "coach"
+          },
+          {
+            "name": "田甜",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 320
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023053362",
+        "name": "AC",
+        "organization": "安徽工商职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "周杰超"
+          },
+          {
+            "name": "周俊辉"
+          },
+          {
+            "name": "曲艺航"
+          },
+          {
+            "name": "朱同悦",
+            "role": "coach"
+          },
+          {
+            "name": "刘晓强",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 310
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023082159",
+        "name": "写啥都",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "罗斌"
+          },
+          {
+            "name": "刘家伟"
+          },
+          {
+            "name": "袁印"
+          },
+          {
+            "name": "霍卓群",
+            "role": "coach"
+          },
+          {
+            "name": "翟莉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 310
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-路人AC养成",
+        "name": "路人AC养成",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 300
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022948551",
+        "name": "对对队",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "李响"
+          },
+          {
+            "name": "赵晓威"
+          },
+          {
+            "name": "杜德成"
+          },
+          {
+            "name": "刘影",
+            "role": "coach"
+          },
+          {
+            "name": "彭莉芬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023085918",
+        "name": "码上通关队",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "缪梦涵"
+          },
+          {
+            "name": "魏佳奇"
+          },
+          {
+            "name": "吴敏栅"
+          },
+          {
+            "name": "翟莉",
+            "role": "coach"
+          },
+          {
+            "name": "胡超",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-随缘队",
+        "name": "随缘队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 290
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽公安学院-超时空肯德基",
+        "name": "超时空肯德基",
+        "organization": "安徽公安学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 290
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022821117",
+        "name": "啊对对队",
+        "organization": "安徽工业经济职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "张语蝶"
+          },
+          {
+            "name": "汪妍"
+          },
+          {
+            "name": "杨海辰"
+          },
+          {
+            "name": "程昌虎",
+            "role": "coach"
+          },
+          {
+            "name": "朱鹏",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 290
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-管他对不队",
+        "name": "管他对不队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 280
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-努力就会胜利队",
+        "name": "努力就会胜利队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 280
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "滁州学院-星河智能",
+        "name": "星河智能",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 280
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽工业大学-咸鱼翻身",
+        "name": "咸鱼翻身",
+        "organization": "安徽工业大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 280
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥大学-同花顺高手",
+        "name": "同花顺高手",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 270
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022943980",
+        "name": "深藏不blue",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘贞呈"
+          },
+          {
+            "name": "李新雨"
+          },
+          {
+            "name": "韩霏"
+          },
+          {
+            "name": "陈键",
+            "role": "coach"
+          },
+          {
+            "name": "曹梦如",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽理工大学-AustF",
+        "name": "AustF",
+        "organization": "安徽理工大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 260
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽科技工程大学-反卷部队",
+        "name": "反卷部队",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 260
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022941366",
+        "name": "银马逐日",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "翁睿"
+          },
+          {
+            "name": "何宇宸"
+          },
+          {
+            "name": "王哲轩"
+          },
+          {
+            "name": "张红梅",
+            "role": "coach"
+          },
+          {
+            "name": "夏克付",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 260
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023084734",
+        "name": "开挂小分队",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "汪欣雨"
+          },
+          {
+            "name": "黄天赐"
+          },
+          {
+            "name": "李灿"
+          },
+          {
+            "name": "付遥银",
+            "role": "coach"
+          },
+          {
+            "name": "柯亚文",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 260
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-gogogo队",
+        "name": "gogogo队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 250
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "蚌埠学院-码码生的",
+        "name": "码码生的",
+        "organization": "蚌埠学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 250
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽师范大学-聪明的孩子不留名字",
+        "name": "聪明的孩子不留名字",
+        "organization": "安徽师范大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 250
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022949476",
+        "name": "JAVA三剑客",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "王明冉"
+          },
+          {
+            "name": "陈杨"
+          },
+          {
+            "name": "李润清"
+          },
+          {
+            "name": "邵黑龙",
+            "role": "coach"
+          },
+          {
+            "name": "周悦",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 250
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023082764",
+        "name": "原神？启动！",
+        "organization": "安徽财贸职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "张思宇"
+          },
+          {
+            "name": "张成"
+          },
+          {
+            "name": "戴欣原"
+          },
+          {
+            "name": "付遥银",
+            "role": "coach"
+          },
+          {
+            "name": "李宁",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 250
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-璇玑队",
+        "name": "璇玑队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 240
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽信息工程学院-塔菲谢谢猫队",
+        "name": "塔菲谢谢猫队",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 230
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽医科大学-好运连连",
+        "name": "好运连连",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 210
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥师范学院-全员蒙AC队",
+        "name": "全员蒙AC队",
+        "organization": "合肥师范学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 200
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "蚌埠学院-小卡拉米",
+        "name": "小卡拉米",
+        "organization": "蚌埠学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 200
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽三联学院-123",
+        "name": "123",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 200
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022786051",
+        "name": "逐梦编程队",
+        "organization": "安徽职业技术大学",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "季飘"
+          },
+          {
+            "name": "夏同欣"
+          },
+          {
+            "name": "胡文杰"
+          },
+          {
+            "name": "汪祥舜",
+            "role": "coach"
+          },
+          {
+            "name": "王德正",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 190
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽信息工程学院-吃嘛嘛香队",
+        "name": "吃嘛嘛香队",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 190
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宿州学院-代码不翻车",
+        "name": "代码不翻车",
+        "organization": "宿州学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 180
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽信息工程学院-只会复制粘贴",
+        "name": "只会复制粘贴",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 180
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽科技工程大学-未来之星队",
+        "name": "未来之星队",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 170
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽财经大学-玄学过题",
+        "name": "玄学过题",
+        "organization": "安徽财经大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 170
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "淮北理工学院-拼好队",
+        "name": "拼好队",
+        "organization": "淮北理工学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 160
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳理工学院-敲的都队",
+        "name": "敲的都队",
+        "organization": "阜阳理工学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 160
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽医科大学-你说的都不队",
+        "name": "你说的都不队",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 160
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽三联学院-INF",
+        "name": "INF",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 160
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "铜陵学院-爱在798",
+        "name": "爱在798",
+        "organization": "铜陵学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 160
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽工程大学-宇宙超级无敌暴龙战士队",
+        "name": "宇宙超级无敌暴龙战士队",
+        "organization": "安徽工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 150
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽医科大学-玄学AC事务所",
+        "name": "玄学AC事务所",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 140
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022944084",
+        "name": "咸鱼队",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "汪睿"
+          },
+          {
+            "name": "苑国庆"
+          },
+          {
+            "name": "徐向欣"
+          },
+          {
+            "name": "陈俊生",
+            "role": "coach"
+          },
+          {
+            "name": "魏树峰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 140
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022948339",
+        "name": "FNTE",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "童明乔"
+          },
+          {
+            "name": "金鹏"
+          },
+          {
+            "name": "闫俊祥"
+          },
+          {
+            "name": "章晓勤",
+            "role": "coach"
+          },
+          {
+            "name": "张红梅",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 130
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022940331",
+        "name": "队伍名称不能为空",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "方言"
+          },
+          {
+            "name": "王晨慈"
+          },
+          {
+            "name": "孙慧慧"
+          },
+          {
+            "name": "张古泰",
+            "role": "coach"
+          },
+          {
+            "name": "曹梦如",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 130
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-长风队",
+        "name": "长风队",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 130
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022859136",
+        "name": "濮塘小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "徐圆圆"
+          },
+          {
+            "name": "乔玲"
+          },
+          {
+            "name": "王悦悦"
+          },
+          {
+            "name": "张小翠",
+            "role": "coach"
+          },
+          {
+            "name": "甘丽",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 130
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022947019",
+        "name": "无敌暴龙战士队",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "盛文通"
+          },
+          {
+            "name": "田郑万熙"
+          },
+          {
+            "name": "曹小浩"
+          },
+          {
+            "name": "蒋荣",
+            "role": "coach"
+          },
+          {
+            "name": "夏红霞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 120
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-三核超频",
+        "name": "三核超频",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 110
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽中医药大学-AHTCM03",
+        "name": "AHTCM03",
+        "organization": "安徽中医药大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 100
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽三联学院-拓扑突破",
+        "name": "拓扑突破",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 100
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽科技工程大学-棍龙队",
+        "name": "棍龙队",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 90
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022942078",
+        "name": "蛋仔派队",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨昊"
+          },
+          {
+            "name": "苏哲"
+          },
+          {
+            "name": "林欣薇"
+          },
+          {
+            "name": "李曼玉",
+            "role": "coach"
+          },
+          {
+            "name": "李洁",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 90
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽科技工程大学-好好好队",
+        "name": "好好好队",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 80
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽科技工程大学-力竭队",
+        "name": "力竭队",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 80
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023728164",
+        "name": "安广一队",
+        "organization": "安徽广播影视职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "王梦祥"
+          },
+          {
+            "name": "王心语"
+          },
+          {
+            "name": "谢昊"
+          },
+          {
+            "name": "程广振",
+            "role": "coach"
+          },
+          {
+            "name": "何进成",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 80
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-芯之所向队",
+        "name": "芯之所向队",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 80
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥大学-哈哈哈队",
+        "name": "哈哈哈队",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 70
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽医科大学-三人行队",
+        "name": "三人行队",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 70
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022946119",
+        "name": "玄理集",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "许璐璐"
+          },
+          {
+            "name": "见才朴"
+          },
+          {
+            "name": "李浩宇"
+          },
+          {
+            "name": "魏树峰",
+            "role": "coach"
+          },
+          {
+            "name": "陈俊生",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 70
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "宿州学院-foodie",
+        "name": "foodie",
+        "organization": "宿州学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 60
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022946490",
+        "name": "三角函数",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨佳睿"
+          },
+          {
+            "name": "张馨月"
+          },
+          {
+            "name": "薛辉"
+          },
+          {
+            "name": "夏红霞",
+            "role": "coach"
+          },
+          {
+            "name": "邵黑龙",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 60
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022859513",
+        "name": "姑熟小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄孟雪"
+          },
+          {
+            "name": "刘远远"
+          },
+          {
+            "name": "陈悦粤"
+          },
+          {
+            "name": "胡桃英",
+            "role": "coach"
+          },
+          {
+            "name": "毕波",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 60
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023058861",
+        "name": "一直Accept",
+        "organization": "安徽工商职业学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "张彤"
+          },
+          {
+            "name": "陈果"
+          },
+          {
+            "name": "黄子杰"
+          },
+          {
+            "name": "朱同悦",
+            "role": "coach"
+          },
+          {
+            "name": "李龙",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 50
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-能摆就摆",
+        "name": "能摆就摆",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 50
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-不知道对不队",
+        "name": "不知道对不队",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 50
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "合肥大学-对不队",
+        "name": "对不队",
+        "organization": "合肥大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 40
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽医科大学-思路全对",
+        "name": "思路全对",
+        "organization": "安徽医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 40
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022940761",
+        "name": "东方year",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "许勤"
+          },
+          {
+            "name": "薛贵阳"
+          },
+          {
+            "name": "马婷"
+          },
+          {
+            "name": "王大灵",
+            "role": "coach"
+          },
+          {
+            "name": "程淑玉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 40
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-桂花乌龙队",
+        "name": "桂花乌龙队",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 40
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "淮北理工学院-码到成功",
+        "name": "码到成功",
+        "organization": "淮北理工学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 30
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽中医药大学-AHTCM02",
+        "name": "AHTCM02",
+        "organization": "安徽中医药大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 30
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽信息工程学院-咕咕嘎嘎",
+        "name": "咕咕嘎嘎",
+        "organization": "安徽信息工程学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 30
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022826399",
+        "name": "前面的别插队",
+        "organization": "安徽工业经济职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈永强"
+          },
+          {
+            "name": "胡丹妮"
+          },
+          {
+            "name": "苗志成"
+          },
+          {
+            "name": "丁俊",
+            "role": "coach"
+          },
+          {
+            "name": "程昌虎",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 30
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023727987",
+        "name": "安广2队",
+        "organization": "安徽广播影视职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨彤彤"
+          },
+          {
+            "name": "汪梦娇"
+          },
+          {
+            "name": "高旋"
+          },
+          {
+            "name": "张道福",
+            "role": "coach"
+          },
+          {
+            "name": "武春友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 20
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1024006352",
+        "name": "工贸5队",
+        "organization": "安徽工贸职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "李嘉翔"
+          },
+          {
+            "name": "郭羽珊"
+          },
+          {
+            "name": "柯雨欣"
+          },
+          {
+            "name": "商杰",
+            "role": "coach"
+          },
+          {
+            "name": "田甜",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 20
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022850225",
+        "name": "采石小分队",
+        "organization": "马鞍山师范高等专科学校",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "王创创"
+          },
+          {
+            "name": "李展鹏"
+          },
+          {
+            "name": "张俊轩"
+          },
+          {
+            "name": "胡桃英",
+            "role": "coach"
+          },
+          {
+            "name": "毕波",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 20
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1024035169",
+        "name": "码上协作",
+        "organization": "淮北职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "赵生举"
+          },
+          {
+            "name": "王立伟"
+          },
+          {
+            "name": "张宇乐"
+          },
+          {
+            "name": "李凌",
+            "role": "coach"
+          },
+          {
+            "name": "冯伟",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 10
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽中医药大学-AHTCM04",
+        "name": "AHTCM04",
+        "organization": "安徽中医药大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 10
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽科技工程大学-怎么都队",
+        "name": "怎么都队",
+        "organization": "安徽科技工程大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 10
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽公安学院-萌鸡小队",
+        "name": "萌鸡小队",
+        "organization": "安徽公安学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 10
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1024009457",
+        "name": "安工贸4队",
+        "organization": "安徽工贸职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "张子豪"
+          },
+          {
+            "name": "周宇涵"
+          },
+          {
+            "name": "黄林"
+          },
+          {
+            "name": "商杰",
+            "role": "coach"
+          },
+          {
+            "name": "田甜",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 10
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-逐光优算",
+        "name": "逐光优算",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 10
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-321",
+        "name": "321",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 10
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023793111",
+        "name": "滁州职院二队",
+        "organization": "滁州职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "龚鹏飞"
+          },
+          {
+            "name": "艾佳好"
+          },
+          {
+            "name": "赵丰豪"
+          },
+          {
+            "name": "王善勤",
+            "role": "coach"
+          },
+          {
+            "name": "周慧慧",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "阜阳师范大学信息工程学院-敲的都队",
+        "name": "敲的都队",
+        "organization": "阜阳师范大学信息工程学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1023795852",
+        "name": "滁州职业技术学院一队",
+        "organization": "滁州职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "吴靖宇"
+          },
+          {
+            "name": "尹业帆"
+          },
+          {
+            "name": "白俊豪"
+          },
+          {
+            "name": "周慧慧",
+            "role": "coach"
+          },
+          {
+            "name": "张淼",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "滁州学院-想吃格拉条",
+        "name": "想吃格拉条",
+        "organization": "滁州学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽中医药大学-AHTCM05",
+        "name": "AHTCM05",
+        "organization": "安徽中医药大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽三联学院-醉把佳人成三队",
+        "name": "醉把佳人成三队",
+        "organization": "安徽三联学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽建筑大学-666",
+        "name": "666",
+        "organization": "安徽建筑大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽建筑大学-千棘党别蒸了",
+        "name": "千棘党别蒸了",
+        "organization": "安徽建筑大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "安徽公安学院-爱谁谁",
+        "name": "爱谁谁",
+        "organization": "安徽公安学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022825100",
+        "name": "不和人民作队",
+        "organization": "安徽工业经济职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "张志闽"
+          },
+          {
+            "name": "瞿文昊"
+          },
+          {
+            "name": "叶向阳"
+          },
+          {
+            "name": "朱鹏",
+            "role": "coach"
+          },
+          {
+            "name": "丁俊",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "1022943355",
+        "name": "逐梦队",
+        "organization": "安徽电子信息职业技术学院",
+        "markers": [
+          "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "胡振宇"
+          },
+          {
+            "name": "蔡文墨"
+          },
+          {
+            "name": "陆泽"
+          },
+          {
+            "name": "王林",
+            "role": "coach"
+          },
+          {
+            "name": "孙哲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-HelloWorld三连",
+        "name": "HelloWorld三连",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-大力崩布队",
+        "name": "大力崩布队",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖西学院-冷不丁邦邦就三拳",
+        "name": "冷不丁邦邦就三拳",
+        "organization": "皖西学院",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-Bug退散局",
+        "name": "Bug退散局",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-智脑领航队",
+        "name": "智脑领航队",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-哈基米",
+        "name": "哈基米",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-羊了个羊队",
+        "name": "羊了个羊队",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "皖南医科大学-扬帆起航",
+        "name": "扬帆起航",
+        "organization": "皖南医科大学",
+        "markers": [
+          "undergraduate"
+        ]
+      },
+      "score": {
+        "value": 0
+      },
+      "statuses": []
+    }
+  ],
+  "markers": [
+    {
+      "id": "undergraduate",
+      "label": "本科组",
+      "style": "blue"
+    },
+    {
+      "id": "hv",
+      "label": "高职组",
+      "style": "green"
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "min"
+    }
+  }
+}

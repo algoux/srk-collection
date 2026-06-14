@@ -825,6 +825,12 @@ root:
             - path: zjcpc17th
               format: srk.json
               name: 2020-10-17 第十七届
+        - path: ah
+          name: 安徽省赛
+          children:
+            - path: ahcpc2026
+              format: srk.json
+              name: 2026-05-24 2026
         - path: fj
           name: 福建省赛
           children:
