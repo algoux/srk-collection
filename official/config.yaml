@@ -831,6 +831,9 @@ root:
             - path: ahcpc2026
               format: srk.json
               name: 2026-05-24 2026
+            - path: ahcpc2026preliminary
+              format: srk.json
+              name: 2026-05-10 2026（初赛）
         - path: fj
           name: 福建省赛
           children:
