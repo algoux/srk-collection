@@ -1017,6 +1017,9 @@ root:
         - path: cq
           name: 重庆市赛
           children:
+            - path: cqcpc14th
+              format: srk.json
+              name: 2026-06-14 第十四届
             - path: cqcpc13th
               format: srk.json
               name: 2025-05-10 第十三届
