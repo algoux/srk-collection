@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.12",
+  "version": "0.3.13",
   "contest": {
     "title": {
       "zh-CN": "2026年山东省大学生程序设计竞赛正式赛（山东大学）",
@@ -262,7 +262,8 @@
             "name": "郭伟辰"
           },
           {
-            "name": "姜涛 (教练)"
+            "name": "姜涛",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -559,7 +560,8 @@
             "name": "张志心"
           },
           {
-            "name": "王灿 (教练)"
+            "name": "王灿",
+            "role": "coach"
           }
         ],
         "official": false
@@ -881,7 +883,8 @@
             "name": "史昱阳"
           },
           {
-            "name": "冷学农 (教练)"
+            "name": "冷学农",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -1202,7 +1205,8 @@
             "name": "尹瀚铭"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -1516,7 +1520,8 @@
             "name": "刘国恩"
           },
           {
-            "name": "张文军 (教练)"
+            "name": "张文军",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -1789,7 +1794,8 @@
             "name": "修宇鹏"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -2076,7 +2082,8 @@
             "name": "张佳瑞"
           },
           {
-            "name": "崔学峰 (教练)"
+            "name": "崔学峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -2319,7 +2326,8 @@
             "name": "王福睿"
           },
           {
-            "name": "姜涛 (教练)"
+            "name": "姜涛",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -2638,7 +2646,8 @@
             "name": "包赟瑞"
           },
           {
-            "name": "姜仕华 (教练)"
+            "name": "姜仕华",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -2948,7 +2957,8 @@
             "name": "张朝政"
           },
           {
-            "name": "张文军 (教练)"
+            "name": "张文军",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -3242,7 +3252,8 @@
             "name": "李玉庭"
           },
           {
-            "name": "崔学峰 (教练)"
+            "name": "崔学峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -3508,7 +3519,8 @@
             "name": "郑岩泽"
           },
           {
-            "name": "张佰亮 (教练)"
+            "name": "张佰亮",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -3830,7 +3842,8 @@
             "name": "赵跃博"
           },
           {
-            "name": "姜涛 (教练)"
+            "name": "姜涛",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -4113,7 +4126,8 @@
             "name": "袁胜利"
           },
           {
-            "name": "汪楚奇 (教练)"
+            "name": "汪楚奇",
+            "role": "coach"
           }
         ],
         "official": false
@@ -4387,7 +4401,8 @@
             "name": "杨逸伦"
           },
           {
-            "name": "姜仕华 (教练)"
+            "name": "姜仕华",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -4745,7 +4760,8 @@
             "name": "李欣鹏"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -5018,7 +5034,8 @@
             "name": "吴梓禾"
           },
           {
-            "name": "宁华 (教练)"
+            "name": "宁华",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -5350,7 +5367,8 @@
             "name": "赵禹权"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -5717,7 +5735,8 @@
             "name": "王一铭"
           },
           {
-            "name": "张先伟 (教练)"
+            "name": "张先伟",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6021,7 +6040,8 @@
             "name": "高士轩"
           },
           {
-            "name": "崔学峰 (教练)"
+            "name": "崔学峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6335,7 +6355,8 @@
             "name": "徐熙睿"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6578,7 +6599,8 @@
             "name": "杨卓"
           },
           {
-            "name": "鹿旭东 (教练)"
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6840,7 +6862,8 @@
             "name": "李子凯"
           },
           {
-            "name": "蔺永政 (教练)"
+            "name": "蔺永政",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -7072,7 +7095,8 @@
             "name": "吴桐雨"
           },
           {
-            "name": "崔学峰 (教练)"
+            "name": "崔学峰",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -7320,7 +7344,8 @@
             "name": "张胜熙"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -7582,7 +7607,8 @@
             "name": "袁泽岳"
           },
           {
-            "name": "郭丽丽 (教练)"
+            "name": "郭丽丽",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -7860,7 +7886,8 @@
             "name": "吕宏业"
           },
           {
-            "name": "张先伟 (教练)"
+            "name": "张先伟",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -8116,7 +8143,8 @@
             "name": "代自超"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -8293,7 +8321,8 @@
             "name": "胡嘉文"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -8532,7 +8561,8 @@
             "name": "刘牧原"
           },
           {
-            "name": "周鑫 (教练)"
+            "name": "周鑫",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -8723,7 +8753,8 @@
             "name": "房禹同"
           },
           {
-            "name": "孟浩祥 (教练)"
+            "name": "孟浩祥",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -8951,7 +8982,8 @@
             "name": "何洪哲"
           },
           {
-            "name": "张先伟 (教练)"
+            "name": "张先伟",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9156,7 +9188,8 @@
             "name": "杨子涵"
           },
           {
-            "name": "黄玉文 (教练)"
+            "name": "黄玉文",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -9449,7 +9482,8 @@
             "name": "姜刘子硕"
           },
           {
-            "name": "崔学峰 (教练)"
+            "name": "崔学峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9670,7 +9704,8 @@
             "name": "李贤君"
           },
           {
-            "name": "鹿旭东 (教练)"
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9889,7 +9924,8 @@
             "name": "杨景成"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -10110,7 +10146,8 @@
             "name": "王炳旭"
           },
           {
-            "name": "崔学峰 (教练)"
+            "name": "崔学峰",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -10385,7 +10422,8 @@
             "name": "汪天赐"
           },
           {
-            "name": "黄万丽 (教练)"
+            "name": "黄万丽",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -10611,7 +10649,8 @@
             "name": "李超楠"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -10907,7 +10946,8 @@
             "name": "王心语"
           },
           {
-            "name": "陈珍珍 (教练)"
+            "name": "陈珍珍",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -11177,7 +11217,8 @@
             "name": "李畅"
           },
           {
-            "name": "梁浩 (教练)"
+            "name": "梁浩",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -11396,7 +11437,8 @@
             "name": "谢文锡"
           },
           {
-            "name": "万晓青 (教练)"
+            "name": "万晓青",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -11636,7 +11678,8 @@
             "name": "高煜明"
           },
           {
-            "name": "万晓青 (教练)"
+            "name": "万晓青",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -11939,7 +11982,8 @@
             "name": "廉昌业"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12163,7 +12207,8 @@
             "name": "邢子建"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12364,7 +12409,8 @@
             "name": "陈安昕"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12642,7 +12688,8 @@
             "name": "冯子健"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12871,7 +12918,8 @@
             "name": "王伯源"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13114,7 +13162,8 @@
             "name": "付俊潇"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13315,7 +13364,8 @@
             "name": "张开瑞"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13486,7 +13536,8 @@
             "name": "张瀚文"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13717,7 +13768,8 @@
             "name": "王圣喆"
           },
           {
-            "name": "卢云宏 (教练)"
+            "name": "卢云宏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13892,7 +13944,8 @@
             "name": "田堃"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14115,7 +14168,8 @@
             "name": "毕振豪"
           },
           {
-            "name": "张艳华 (教练)"
+            "name": "张艳华",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14372,7 +14426,8 @@
             "name": "杨辰方"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14629,7 +14684,8 @@
             "name": "牛清华"
           },
           {
-            "name": "肖进杰 (教练)"
+            "name": "肖进杰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14844,7 +14900,8 @@
             "name": "穆帅宇"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15059,7 +15116,8 @@
             "name": "刘艺航"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15288,7 +15346,8 @@
             "name": "冯湛博"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15452,7 +15511,8 @@
             "name": "禹艳芳"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15644,7 +15704,8 @@
             "name": "王松蒲"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15873,7 +15934,8 @@
             "name": "徐展鹏"
           },
           {
-            "name": "张瑞全 (教练)"
+            "name": "张瑞全",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16067,7 +16129,8 @@
             "name": "刘志轩"
           },
           {
-            "name": "尹红丽 (教练)"
+            "name": "尹红丽",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16238,7 +16301,8 @@
             "name": "丁子祥"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16425,7 +16489,8 @@
             "name": "杨竣凯"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16610,7 +16675,8 @@
             "name": "邢少洋"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16867,7 +16933,8 @@
             "name": "严哲"
           },
           {
-            "name": "张文军 (教练)"
+            "name": "张文军",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -17086,7 +17153,8 @@
             "name": "刘胜科"
           },
           {
-            "name": "张瑞全 (教练)"
+            "name": "张瑞全",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17250,7 +17318,8 @@
             "name": "郭俊泽"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17465,7 +17534,8 @@
             "name": "许刘青杉"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17666,7 +17736,8 @@
             "name": "周景然"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17860,7 +17931,8 @@
             "name": "李原酌"
           },
           {
-            "name": "万晓青 (教练)"
+            "name": "万晓青",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -18121,7 +18193,8 @@
             "name": "李福超"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -18338,7 +18411,8 @@
             "name": "孙润田"
           },
           {
-            "name": "万晓青 (教练)"
+            "name": "万晓青",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -18537,7 +18611,8 @@
             "name": "王浩然"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -18715,7 +18790,8 @@
             "name": "王烨"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -18909,7 +18985,8 @@
             "name": "宋承洋"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19122,7 +19199,8 @@
             "name": "宫子涵"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19379,7 +19457,8 @@
             "name": "刘一帆"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19622,7 +19701,8 @@
             "name": "杜桂涛"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19823,7 +19903,8 @@
             "name": "郑嘉诚"
           },
           {
-            "name": "范昊 (教练)"
+            "name": "范昊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20001,7 +20082,8 @@
             "name": "李庆拓"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20244,7 +20326,8 @@
             "name": "钱玮浩"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20501,7 +20584,8 @@
             "name": "赵昱霖"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20718,7 +20802,8 @@
             "name": "谭守璞"
           },
           {
-            "name": "赵传申 (教练)"
+            "name": "赵传申",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20931,7 +21016,8 @@
             "name": "宋俊航"
           },
           {
-            "name": "李珊珊 (教练)"
+            "name": "李珊珊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21209,7 +21295,8 @@
             "name": "贾安骏"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21426,7 +21513,8 @@
             "name": "徐大好"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21632,7 +21720,8 @@
             "name": "李忆雯"
           },
           {
-            "name": "郭河川 (教练)"
+            "name": "郭河川",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -21835,7 +21924,8 @@
             "name": "管南越"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22029,7 +22119,8 @@
             "name": "唐宗豪"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22251,7 +22342,8 @@
             "name": "李俊锋"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22487,7 +22579,8 @@
             "name": "罗仁浩"
           },
           {
-            "name": "鹿旭东 (教练)"
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22686,7 +22779,8 @@
             "name": "丁海"
           },
           {
-            "name": "鞠传香 (教练)"
+            "name": "鞠传香",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22950,7 +23044,8 @@
             "name": "郭奕聪"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23174,7 +23269,8 @@
             "name": "何滕辉"
           },
           {
-            "name": "王磊 (教练)"
+            "name": "王磊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23431,7 +23527,8 @@
             "name": "高昌宇"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23634,7 +23731,8 @@
             "name": "彭俊皓"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23856,7 +23954,8 @@
             "name": "陈泽涵"
           },
           {
-            "name": "张瑞全 (教练)"
+            "name": "张瑞全",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24113,7 +24212,8 @@
             "name": "王源灏"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24349,7 +24449,8 @@
             "name": "尹逊豪"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24550,7 +24651,8 @@
             "name": "贺世凌"
           },
           {
-            "name": "梁浩 (教练)"
+            "name": "梁浩",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24770,7 +24872,8 @@
             "name": "王韵涵"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24981,7 +25084,8 @@
             "name": "刘恩泽"
           },
           {
-            "name": "唐振华 (教练)"
+            "name": "唐振华",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -25210,7 +25314,8 @@
             "name": "李骋"
           },
           {
-            "name": "杨福强 (教练)"
+            "name": "杨福强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25453,7 +25558,8 @@
             "name": "李宇"
           },
           {
-            "name": "张瑞全 (教练)"
+            "name": "张瑞全",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25687,7 +25793,8 @@
             "name": "李云龙"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25914,7 +26021,8 @@
             "name": "王明川"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26127,7 +26235,8 @@
             "name": "温瑞波"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26398,7 +26507,8 @@
             "name": "赵文皓"
           },
           {
-            "name": "公冶小燕 (教练)"
+            "name": "公冶小燕",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26632,7 +26742,8 @@
             "name": "张伟浩"
           },
           {
-            "name": "王磊 (教练)"
+            "name": "王磊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26908,7 +27019,8 @@
             "name": "苏子轩"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27147,7 +27259,8 @@
             "name": "章晟"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27376,7 +27489,8 @@
             "name": "李嘉禾"
           },
           {
-            "name": "周鑫 (教练)"
+            "name": "周鑫",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -27564,7 +27678,8 @@
             "name": "秦正岩"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27780,7 +27895,8 @@
             "name": "张恒源"
           },
           {
-            "name": "崔国亮 (教练)"
+            "name": "崔国亮",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -27975,7 +28091,8 @@
             "name": "曲峥榛"
           },
           {
-            "name": "张瑞全 (教练)"
+            "name": "张瑞全",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28214,7 +28331,8 @@
             "name": "崔文明"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28446,7 +28564,8 @@
             "name": "郝育辉"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28683,7 +28802,8 @@
             "name": "阎梁珏琛"
           },
           {
-            "name": "张艳华 (教练)"
+            "name": "张艳华",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28936,7 +29056,8 @@
             "name": "陈金忠"
           },
           {
-            "name": "程晗晗 (教练)"
+            "name": "程晗晗",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29135,7 +29256,8 @@
             "name": "李义朋"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29323,7 +29445,8 @@
             "name": "栾贻健"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29525,7 +29648,8 @@
             "name": "贺欣奇"
           },
           {
-            "name": "梁浩 (教练)"
+            "name": "梁浩",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29771,7 +29895,8 @@
             "name": "陈鹏宇"
           },
           {
-            "name": "万晓青 (教练)"
+            "name": "万晓青",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -30059,7 +30184,8 @@
             "name": "徐世恒"
           },
           {
-            "name": "王磊 (教练)"
+            "name": "王磊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30247,7 +30373,8 @@
             "name": "敬恩"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30421,7 +30548,8 @@
             "name": "孙一粟"
           },
           {
-            "name": "闫超 (教练)"
+            "name": "闫超",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30665,7 +30793,8 @@
             "name": "柳爱于"
           },
           {
-            "name": "张艳华 (教练)"
+            "name": "张艳华",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30842,7 +30971,8 @@
             "name": "李子良"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -31030,7 +31160,8 @@
             "name": "刘佳豪"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -31297,7 +31428,8 @@
             "name": "吕沛铮"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -31499,7 +31631,8 @@
             "name": "张韵"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -31766,7 +31899,8 @@
             "name": "姚洪冉"
           },
           {
-            "name": "王猛 (教练)"
+            "name": "王猛",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32040,7 +32174,8 @@
             "name": "王万涛"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32242,7 +32377,8 @@
             "name": "单衍喆"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32465,7 +32601,8 @@
             "name": "李知蔓"
           },
           {
-            "name": "郭河川 (教练)"
+            "name": "郭河川",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32767,7 +32904,8 @@
             "name": "赵庆硕"
           },
           {
-            "name": "杨昌玉 (教练)"
+            "name": "杨昌玉",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32962,7 +33100,8 @@
             "name": "付志远"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33127,7 +33266,8 @@
             "name": "莫逸文"
           },
           {
-            "name": "朱伟鑫 (教练)"
+            "name": "朱伟鑫",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33299,7 +33439,8 @@
             "name": "席佳沐"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33485,7 +33626,8 @@
             "name": "官睿智"
           },
           {
-            "name": "姚艳玲 (教练)"
+            "name": "姚艳玲",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33692,7 +33834,8 @@
             "name": "饶子航"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33922,7 +34065,8 @@
             "name": "阮邦俊"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34138,7 +34282,8 @@
             "name": "葛俊逸"
           },
           {
-            "name": "冷学农 (教练)"
+            "name": "冷学农",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -34440,7 +34585,8 @@
             "name": "吴克逍"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34656,7 +34802,8 @@
             "name": "胡恒瑞"
           },
           {
-            "name": "徐鹏 (教练)"
+            "name": "徐鹏",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -34881,7 +35028,8 @@
             "name": "沈宇轩"
           },
           {
-            "name": "霍瑛 (教练)"
+            "name": "霍瑛",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -35067,7 +35215,8 @@
             "name": "王硕"
           },
           {
-            "name": "王海鹏 (教练)"
+            "name": "王海鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35260,7 +35409,8 @@
             "name": "左逸帆"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35469,7 +35619,8 @@
             "name": "张硕"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35713,7 +35864,8 @@
             "name": "王浩宇"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35950,7 +36102,8 @@
             "name": "石煜"
           },
           {
-            "name": "崔健 (教练)"
+            "name": "崔健",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -36257,7 +36410,8 @@
             "name": "贾甦瑞"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -36543,7 +36697,8 @@
             "name": "张宸睿"
           },
           {
-            "name": "王元英 (教练)"
+            "name": "王元英",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -36801,7 +36956,8 @@
             "name": "成军骁"
           },
           {
-            "name": "张瑞全 (教练)"
+            "name": "张瑞全",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37052,7 +37208,8 @@
             "name": "时佰智"
           },
           {
-            "name": "许艳春 (教练)"
+            "name": "许艳春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37287,7 +37444,8 @@
             "name": "董明轩"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37529,7 +37687,8 @@
             "name": "董军豪"
           },
           {
-            "name": "李胜利 (教练)"
+            "name": "李胜利",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37827,7 +37986,8 @@
             "name": "李子易"
           },
           {
-            "name": "王斯锋 (教练)"
+            "name": "王斯锋",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38002,7 +38162,8 @@
             "name": "王科锦"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38200,7 +38361,8 @@
             "name": "赵吉胜"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -38405,7 +38567,8 @@
             "name": "孔文卓"
           },
           {
-            "name": "范昊 (教练)"
+            "name": "范昊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38589,7 +38752,8 @@
             "name": "赵浩然"
           },
           {
-            "name": "杨福强 (教练)"
+            "name": "杨福强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38792,7 +38956,8 @@
             "name": "袁晨"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38967,7 +39132,8 @@
             "name": "李秉峻"
           },
           {
-            "name": "陈珍珍 (教练)"
+            "name": "陈珍珍",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -39172,7 +39338,8 @@
             "name": "孙梓涵"
           },
           {
-            "name": "范丽丽 (教练)"
+            "name": "范丽丽",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -39435,7 +39602,8 @@
             "name": "张高正"
           },
           {
-            "name": "卢云宏 (教练)"
+            "name": "卢云宏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39638,7 +39806,8 @@
             "name": "徐硕"
           },
           {
-            "name": "仇大伟 (教练)"
+            "name": "仇大伟",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39918,7 +40087,8 @@
             "name": "刘子婕"
           },
           {
-            "name": "朱伟鑫 (教练)"
+            "name": "朱伟鑫",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40063,7 +40233,8 @@
             "name": "李倍源"
           },
           {
-            "name": "崔健 (教练)"
+            "name": "崔健",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40245,7 +40416,8 @@
             "name": "李铭轩"
           },
           {
-            "name": "仇大伟 (教练)"
+            "name": "仇大伟",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40464,7 +40636,8 @@
             "name": "王沐阳"
           },
           {
-            "name": "范丽丽 (教练)"
+            "name": "范丽丽",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -40753,7 +40926,8 @@
             "name": "李泽冰"
           },
           {
-            "name": "韩军峰 (教练)"
+            "name": "韩军峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40984,7 +41158,8 @@
             "name": "吕康宁"
           },
           {
-            "name": "王海鹏 (教练)"
+            "name": "王海鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41250,7 +41425,8 @@
             "name": "谢松正"
           },
           {
-            "name": "孔晓明 (教练)"
+            "name": "孔晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41518,7 +41694,8 @@
             "name": "李琲熙"
           },
           {
-            "name": "万晓青 (教练)"
+            "name": "万晓青",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -41746,7 +41923,8 @@
             "name": "张骞丞"
           },
           {
-            "name": "万晓青 (教练)"
+            "name": "万晓青",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -41965,7 +42143,8 @@
             "name": "朱昱帆"
           },
           {
-            "name": "鹿旭东 (教练)"
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42133,7 +42312,8 @@
             "name": "华夏琨"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42352,7 +42532,8 @@
             "name": "滕原平"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42569,7 +42750,8 @@
             "name": "张龙"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42725,7 +42907,8 @@
             "name": "李鲁豫"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42942,7 +43125,8 @@
             "name": "吴滨阳"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -43108,7 +43292,8 @@
             "name": "祝詞峰"
           },
           {
-            "name": "卢云宏 (教练)"
+            "name": "卢云宏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -43269,7 +43454,8 @@
             "name": "唐浩宇"
           },
           {
-            "name": "唐振华 (教练)"
+            "name": "唐振华",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -43530,7 +43716,8 @@
             "name": "李岩霞"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -43701,7 +43888,8 @@
             "name": "崔健"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -43874,7 +44062,8 @@
             "name": "喻泓凯"
           },
           {
-            "name": "周晓琳 (教练)"
+            "name": "周晓琳",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -44053,7 +44242,8 @@
             "name": "王彦凯"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44216,7 +44406,8 @@
             "name": "尹艺洁"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44456,7 +44647,8 @@
             "name": "雷凯"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44659,7 +44851,8 @@
             "name": "孙明洋"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44832,7 +45025,8 @@
             "name": "祝智诺"
           },
           {
-            "name": "李胜利 (教练)"
+            "name": "李胜利",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44984,7 +45178,8 @@
             "name": "李继丰"
           },
           {
-            "name": "乔勇 (教练)"
+            "name": "乔勇",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -45236,7 +45431,8 @@
             "name": "马成"
           },
           {
-            "name": "任国强 (教练)"
+            "name": "任国强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45453,7 +45649,8 @@
             "name": "张维杰"
           },
           {
-            "name": "任国强 (教练)"
+            "name": "任国强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45642,7 +45839,8 @@
             "name": "袁佳树"
           },
           {
-            "name": "李胜利 (教练)"
+            "name": "李胜利",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45856,7 +46054,8 @@
             "name": "张盛景"
           },
           {
-            "name": "富野 (教练)"
+            "name": "富野",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45994,7 +46193,8 @@
             "name": "董寒"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46218,7 +46418,8 @@
             "name": "吴锐"
           },
           {
-            "name": "卢云宏 (教练)"
+            "name": "卢云宏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46363,7 +46564,8 @@
             "name": "刘晓宇"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46559,7 +46761,8 @@
             "name": "马欣欣"
           },
           {
-            "name": "卢云宏 (教练)"
+            "name": "卢云宏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46758,7 +46961,8 @@
             "name": "李耀鑫"
           },
           {
-            "name": "黄万丽 (教练)"
+            "name": "黄万丽",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46989,7 +47193,8 @@
             "name": "巩浩铭"
           },
           {
-            "name": "王磊 (教练)"
+            "name": "王磊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47215,7 +47420,8 @@
             "name": "梁颂清"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47386,7 +47592,8 @@
             "name": "张轩铭"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47599,7 +47806,8 @@
             "name": "马彬凯"
           },
           {
-            "name": "张坤 (教练)"
+            "name": "张坤",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -47777,7 +47985,8 @@
             "name": "刘思哲"
           },
           {
-            "name": "肖进杰 (教练)"
+            "name": "肖进杰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47918,7 +48127,8 @@
             "name": "王若宇"
           },
           {
-            "name": "鹿旭东 (教练)"
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48110,7 +48320,8 @@
             "name": "孔德宸"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48260,7 +48471,8 @@
             "name": "王家宝"
           },
           {
-            "name": "房正华 (教练)"
+            "name": "房正华",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48422,7 +48634,8 @@
             "name": "白峻豪"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48556,7 +48769,8 @@
             "name": "郭东瑞"
           },
           {
-            "name": "程晗晗 (教练)"
+            "name": "程晗晗",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48767,7 +48981,8 @@
             "name": "马靖煦"
           },
           {
-            "name": "范丽丽 (教练)"
+            "name": "范丽丽",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -49092,7 +49307,8 @@
             "name": "武嘉译"
           },
           {
-            "name": "张小峰 (教练)"
+            "name": "张小峰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -49235,7 +49451,8 @@
             "name": "王圣文"
           },
           {
-            "name": "范丽丽 (教练)"
+            "name": "范丽丽",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -49422,7 +49639,8 @@
             "name": "江明恩"
           },
           {
-            "name": "王永钦 (教练)"
+            "name": "王永钦",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -49593,7 +49811,8 @@
             "name": "刘妍哲"
           },
           {
-            "name": "肖进杰 (教练)"
+            "name": "肖进杰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -49757,7 +49976,8 @@
             "name": "于铠源"
           },
           {
-            "name": "杨福强 (教练)"
+            "name": "杨福强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -49935,7 +50155,8 @@
             "name": "翁汝毅"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50108,7 +50329,8 @@
             "name": "高衡"
           },
           {
-            "name": "李文凤 (教练)"
+            "name": "李文凤",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -50263,7 +50485,8 @@
             "name": "舒镇海"
           },
           {
-            "name": "张瑞全 (教练)"
+            "name": "张瑞全",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50441,7 +50664,8 @@
             "name": "盖德鑫"
           },
           {
-            "name": "郑春光 (教练)"
+            "name": "郑春光",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50612,7 +50836,8 @@
             "name": "邵珠倡"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50774,7 +50999,8 @@
             "name": "王硕"
           },
           {
-            "name": "王磊 (教练)"
+            "name": "王磊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50997,7 +51223,8 @@
             "name": "王梦乐"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51169,7 +51396,8 @@
             "name": "冯庆嵩"
           },
           {
-            "name": "丁林花 (教练)"
+            "name": "丁林花",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51331,7 +51559,8 @@
             "name": "闫煦明"
           },
           {
-            "name": "王永钦 (教练)"
+            "name": "王永钦",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -51481,7 +51710,8 @@
             "name": "崔赵轩"
           },
           {
-            "name": "崔国亮 (教练)"
+            "name": "崔国亮",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -51710,7 +51940,8 @@
             "name": "于明哲"
           },
           {
-            "name": "范昊 (教练)"
+            "name": "范昊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51851,7 +52082,8 @@
             "name": "常开祥"
           },
           {
-            "name": "杨福强 (教练)"
+            "name": "杨福强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51969,7 +52201,8 @@
             "name": "刘好良"
           },
           {
-            "name": "王宁 (教练)"
+            "name": "王宁",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52108,7 +52341,8 @@
             "name": "刘议锋"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52249,7 +52483,8 @@
             "name": "王之星"
           },
           {
-            "name": "王宁 (教练)"
+            "name": "王宁",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52399,7 +52634,8 @@
             "name": "于佳田"
           },
           {
-            "name": "郭丽丽 (教练)"
+            "name": "郭丽丽",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -52633,7 +52869,8 @@
             "name": "陆熠"
           },
           {
-            "name": "梁浩 (教练)"
+            "name": "梁浩",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52783,7 +53020,8 @@
             "name": "谢翔宇"
           },
           {
-            "name": "唐振华 (教练)"
+            "name": "唐振华",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -52984,7 +53222,8 @@
             "name": "常景阳"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53153,7 +53392,8 @@
             "name": "祝令梁"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53306,7 +53546,8 @@
             "name": "孔德"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53498,7 +53739,8 @@
             "name": "谢明烨"
           },
           {
-            "name": "朱伟鑫 (教练)"
+            "name": "朱伟鑫",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53713,7 +53955,8 @@
             "name": "鲍怡润"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53859,7 +54102,8 @@
             "name": "汪仕凡"
           },
           {
-            "name": "范昊 (教练)"
+            "name": "范昊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54028,7 +54272,8 @@
             "name": "张兴泽"
           },
           {
-            "name": "王磊 (教练)"
+            "name": "王磊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54183,7 +54428,8 @@
             "name": "徐教科"
           },
           {
-            "name": "富野 (教练)"
+            "name": "富野",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54387,7 +54633,8 @@
             "name": "谢佳为"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54593,7 +54840,8 @@
             "name": "温杰瑞"
           },
           {
-            "name": "李珊珊 (教练)"
+            "name": "李珊珊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54802,7 +55050,8 @@
             "name": "刘津铭"
           },
           {
-            "name": "富野 (教练)"
+            "name": "富野",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54976,7 +55225,8 @@
             "name": "赵子豪"
           },
           {
-            "name": "蔺永政 (教练)"
+            "name": "蔺永政",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55185,7 +55435,8 @@
             "name": "徐传广"
           },
           {
-            "name": "肖进杰 (教练)"
+            "name": "肖进杰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55341,7 +55592,8 @@
             "name": "曹喜鹏"
           },
           {
-            "name": "吴振寰 (教练)"
+            "name": "吴振寰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55478,7 +55730,8 @@
             "name": "孟释然"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55592,7 +55845,8 @@
             "name": "彭天一"
           },
           {
-            "name": "郑春光 (教练)"
+            "name": "郑春光",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55715,7 +55969,8 @@
             "name": "李昶勃"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55973,7 +56228,8 @@
             "name": "鞠楷文"
           },
           {
-            "name": "富野 (教练)"
+            "name": "富野",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56152,7 +56408,8 @@
             "name": "徐冰"
           },
           {
-            "name": "高雷亭 (教练)"
+            "name": "高雷亭",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56308,7 +56565,8 @@
             "name": "葛飞越"
           },
           {
-            "name": "黄万丽 (教练)"
+            "name": "黄万丽",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56424,7 +56682,8 @@
             "name": "于晴"
           },
           {
-            "name": "卢山群 (教练)"
+            "name": "卢山群",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56561,7 +56820,8 @@
             "name": "杨双涵"
           },
           {
-            "name": "王海鹏 (教练)"
+            "name": "王海鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56791,7 +57051,8 @@
             "name": "高敏彰"
           },
           {
-            "name": "崔国亮 (教练)"
+            "name": "崔国亮",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -56956,7 +57217,8 @@
             "name": "刘玉顺"
           },
           {
-            "name": "高雷亭 (教练)"
+            "name": "高雷亭",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57063,7 +57325,8 @@
             "name": "梁潇"
           },
           {
-            "name": "郭丽丽 (教练)"
+            "name": "郭丽丽",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -57284,7 +57547,8 @@
             "name": "曹璘达"
           },
           {
-            "name": "唐振华 (教练)"
+            "name": "唐振华",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -57519,7 +57783,8 @@
             "name": "曹佳"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57728,7 +57993,8 @@
             "name": "宋国静"
           },
           {
-            "name": "王磊 (教练)"
+            "name": "王磊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57886,7 +58152,8 @@
             "name": "刘海涛"
           },
           {
-            "name": "王秀娟 (教练)"
+            "name": "王秀娟",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58014,7 +58281,8 @@
             "name": "孙本浩"
           },
           {
-            "name": "赵传申 (教练)"
+            "name": "赵传申",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58223,7 +58491,8 @@
             "name": "李胜伟"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58367,7 +58636,8 @@
             "name": "吴志成"
           },
           {
-            "name": "范昊 (教练)"
+            "name": "范昊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58495,7 +58765,8 @@
             "name": "吴佳豪"
           },
           {
-            "name": "肖进杰 (教练)"
+            "name": "肖进杰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58632,7 +58903,8 @@
             "name": "耿晓萱"
           },
           {
-            "name": "吴万春 (教练)"
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58799,7 +59071,8 @@
             "name": "许展硕"
           },
           {
-            "name": "闫超 (教练)"
+            "name": "闫超",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58980,7 +59253,8 @@
             "name": "赵玉正"
           },
           {
-            "name": "张志梅 (教练)"
+            "name": "张志梅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59175,7 +59449,8 @@
             "name": "刘文辉"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59410,7 +59685,8 @@
             "name": "孙明浩"
           },
           {
-            "name": "刘毅 (教练)"
+            "name": "刘毅",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59596,7 +59872,8 @@
             "name": "杨思远"
           },
           {
-            "name": "朱伟鑫 (教练)"
+            "name": "朱伟鑫",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59712,7 +59989,8 @@
             "name": "王大伟"
           },
           {
-            "name": "闫超 (教练)"
+            "name": "闫超",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59858,7 +60136,8 @@
             "name": "冯泰铭"
           },
           {
-            "name": "薛峰会 (教练)"
+            "name": "薛峰会",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59972,7 +60251,8 @@
             "name": "朱振宇"
           },
           {
-            "name": "朱伟鑫 (教练)"
+            "name": "朱伟鑫",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60121,7 +60401,8 @@
             "name": "毛馨逸"
           },
           {
-            "name": "卢山群 (教练)"
+            "name": "卢山群",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60219,7 +60500,8 @@
             "name": "李颖章"
           },
           {
-            "name": "肖迎杰 (教练)"
+            "name": "肖迎杰",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60354,7 +60636,8 @@
             "name": "孙璟麒"
           },
           {
-            "name": "李珊珊 (教练)"
+            "name": "李珊珊",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60521,7 +60804,8 @@
             "name": "刘长鑫"
           },
           {
-            "name": "鹿文鹏 (教练)"
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60688,7 +60972,8 @@
             "name": "刘佳怡"
           },
           {
-            "name": "朱伟鑫 (教练)"
+            "name": "朱伟鑫",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60853,7 +61138,8 @@
             "name": "王海南"
           },
           {
-            "name": "卢云宏 (教练)"
+            "name": "卢云宏",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61041,7 +61327,8 @@
             "name": "王鹏宇"
           },
           {
-            "name": "任国强 (教练)"
+            "name": "任国强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61232,7 +61519,8 @@
             "name": "李志恒"
           },
           {
-            "name": "董开坤 (教练)"
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61429,7 +61717,8 @@
             "name": "周洛仰"
           },
           {
-            "name": "公冶小燕 (教练)"
+            "name": "公冶小燕",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61596,7 +61885,8 @@
             "name": "侯俊杰"
           },
           {
-            "name": "任国强 (教练)"
+            "name": "任国强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61703,7 +61993,8 @@
             "name": "胡锦程"
           },
           {
-            "name": "杨福强 (教练)"
+            "name": "杨福强",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61817,7 +62108,8 @@
             "name": "夏于琳"
           },
           {
-            "name": "卢山群 (教练)"
+            "name": "卢山群",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61922,7 +62214,8 @@
             "name": "王海凤"
           },
           {
-            "name": "卢山群 (教练)"
+            "name": "卢山群",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -62041,7 +62334,8 @@
             "name": "王祺嘉"
           },
           {
-            "name": "朱伟鑫 (教练)"
+            "name": "朱伟鑫",
+            "role": "coach"
           }
         ],
         "official": true,

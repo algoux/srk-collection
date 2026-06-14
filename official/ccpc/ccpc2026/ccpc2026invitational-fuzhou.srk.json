@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.12",
+  "version": "0.3.13",
   "contest": {
     "title": {
       "zh-CN": "第十三届福建省大学生程序设计竞赛 暨2026年CCPC全国邀请赛（福州）",
@@ -307,15 +307,17 @@
           },
           {
             "name": {
-              "zh-CN": "张勤健 (教练)",
-              "fallback": "Qinjian Zhang (Coach)"
-            }
+              "zh-CN": "张勤健",
+              "fallback": "Qinjian Zhang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "罗国杰 (教练)",
-              "fallback": "Guojie Luo (Coach)"
-            }
+              "zh-CN": "罗国杰",
+              "fallback": "Guojie Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -642,9 +644,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -906,15 +909,17 @@
           },
           {
             "name": {
-              "zh-CN": "单振宇 (教练)",
-              "fallback": "Zhenyu Shan (Coach)"
-            }
+              "zh-CN": "单振宇",
+              "fallback": "Zhenyu Shan"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "虞剑波 (教练)",
-              "fallback": "Jianbo Yu (Coach)"
-            }
+              "zh-CN": "虞剑波",
+              "fallback": "Jianbo Yu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -1189,9 +1194,10 @@
           },
           {
             "name": {
-              "zh-CN": "董文永 (教练)",
-              "fallback": "Wenyong Dong (Coach)"
-            }
+              "zh-CN": "董文永",
+              "fallback": "Wenyong Dong"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -1437,9 +1443,10 @@
           },
           {
             "name": {
-              "zh-CN": "吕帅 (教练)",
-              "fallback": "Shuai Lyu (Coach)"
-            }
+              "zh-CN": "吕帅",
+              "fallback": "Shuai Lyu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -1710,9 +1717,10 @@
           },
           {
             "name": {
-              "zh-CN": "吕帅 (教练)",
-              "fallback": "Shuai Lyu (Coach)"
-            }
+              "zh-CN": "吕帅",
+              "fallback": "Shuai Lyu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -1931,9 +1939,10 @@
           },
           {
             "name": {
-              "zh-CN": "熊辉 (教练)",
-              "fallback": "Hui Xiong (Coach)"
-            }
+              "zh-CN": "熊辉",
+              "fallback": "Hui Xiong"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -2373,15 +2382,17 @@
           },
           {
             "name": {
-              "zh-CN": "戴平阳 (教练)",
-              "fallback": "Pingyang Dai (Coach)"
-            }
+              "zh-CN": "戴平阳",
+              "fallback": "Pingyang Dai"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "林文水 (教练)",
-              "fallback": "Wenshui Lin (Coach)"
-            }
+              "zh-CN": "林文水",
+              "fallback": "Wenshui Lin"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -2625,9 +2636,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -2871,15 +2883,17 @@
           },
           {
             "name": {
-              "zh-CN": "刘晓红 (教练)",
-              "fallback": "Xiaohong Liu (Coach)"
-            }
+              "zh-CN": "刘晓红",
+              "fallback": "Xiaohong Liu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "曲志坚 (教练)",
-              "fallback": "Zhijian Qu (Coach)"
-            }
+              "zh-CN": "曲志坚",
+              "fallback": "Zhijian Qu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -3077,9 +3091,10 @@
           },
           {
             "name": {
-              "zh-CN": "景智 (教练)",
-              "fallback": "Zhi Jing (Coach)"
-            }
+              "zh-CN": "景智",
+              "fallback": "Zhi Jing"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -3270,9 +3285,10 @@
           },
           {
             "name": {
-              "zh-CN": "陆坤 (教练)",
-              "fallback": "Kun Lu (Coach)"
-            }
+              "zh-CN": "陆坤",
+              "fallback": "Kun Lu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -3473,9 +3489,10 @@
           },
           {
             "name": {
-              "zh-CN": "王和兴 (教练)",
-              "fallback": "Hexing Wang (Coach)"
-            }
+              "zh-CN": "王和兴",
+              "fallback": "Hexing Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -3711,9 +3728,10 @@
           },
           {
             "name": {
-              "zh-CN": "叶晨 (教练)",
-              "fallback": "Chen Ye (Coach)"
-            }
+              "zh-CN": "叶晨",
+              "fallback": "Chen Ye"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -4033,9 +4051,10 @@
           },
           {
             "name": {
-              "zh-CN": "周晓琳 (教练)",
-              "fallback": "Xiaolin Zhou (Coach)"
-            }
+              "zh-CN": "周晓琳",
+              "fallback": "Xiaolin Zhou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -4241,9 +4260,10 @@
           },
           {
             "name": {
-              "zh-CN": "沈俊 (教练)",
-              "fallback": "Jun Shen (Coach)"
-            }
+              "zh-CN": "沈俊",
+              "fallback": "Jun Shen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -4448,9 +4468,10 @@
           },
           {
             "name": {
-              "zh-CN": "郑继绍 (教练)",
-              "fallback": "Jishao Zheng (Coach)"
-            }
+              "zh-CN": "郑继绍",
+              "fallback": "Jishao Zheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -4740,9 +4761,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴敏敏 (教练)",
-              "fallback": "Minmin Wu (Coach)"
-            }
+              "zh-CN": "吴敏敏",
+              "fallback": "Minmin Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -4937,9 +4959,10 @@
           },
           {
             "name": {
-              "zh-CN": "孔晓明 (教练)",
-              "fallback": "Xiaoming Kong (Coach)"
-            }
+              "zh-CN": "孔晓明",
+              "fallback": "Xiaoming Kong"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -5133,9 +5156,10 @@
           },
           {
             "name": {
-              "zh-CN": "贺冰琰 (教练)",
-              "fallback": "Bingyan He (Coach)"
-            }
+              "zh-CN": "贺冰琰",
+              "fallback": "Bingyan He"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -5435,15 +5459,17 @@
           },
           {
             "name": {
-              "zh-CN": "梁军 (教练)",
-              "fallback": "Jun Liang (Coach)"
-            }
+              "zh-CN": "梁军",
+              "fallback": "Jun Liang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "陈寅 (教练)",
-              "fallback": "Yin Chen (Coach)"
-            }
+              "zh-CN": "陈寅",
+              "fallback": "Yin Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -5634,9 +5660,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -5807,9 +5834,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨丽英 (教练)",
-              "fallback": "Liying Yang (Coach)"
-            }
+              "zh-CN": "杨丽英",
+              "fallback": "Liying Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6000,9 +6028,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘培顺 (教练)",
-              "fallback": "Peishun Liu (Coach)"
-            }
+              "zh-CN": "刘培顺",
+              "fallback": "Peishun Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6186,9 +6215,10 @@
           },
           {
             "name": {
-              "zh-CN": "柴本成 (教练)",
-              "fallback": "Bencheng Chai (Coach)"
-            }
+              "zh-CN": "柴本成",
+              "fallback": "Bencheng Chai"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6379,9 +6409,10 @@
           },
           {
             "name": {
-              "zh-CN": "张洪豪 (教练)",
-              "fallback": "Honghao Zhang (Coach)"
-            }
+              "zh-CN": "张洪豪",
+              "fallback": "Honghao Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6589,9 +6620,10 @@
           },
           {
             "name": {
-              "zh-CN": "王和兴 (教练)",
-              "fallback": "Hexing Wang (Coach)"
-            }
+              "zh-CN": "王和兴",
+              "fallback": "Hexing Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6789,9 +6821,10 @@
           },
           {
             "name": {
-              "zh-CN": "李靖 (教练)",
-              "fallback": "Jing Li (Coach)"
-            }
+              "zh-CN": "李靖",
+              "fallback": "Jing Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -6961,9 +6994,10 @@
           },
           {
             "name": {
-              "zh-CN": "沈俊 (教练)",
-              "fallback": "Jun Shen (Coach)"
-            }
+              "zh-CN": "沈俊",
+              "fallback": "Jun Shen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -7154,9 +7188,10 @@
           },
           {
             "name": {
-              "zh-CN": "贺冰琰 (教练)",
-              "fallback": "Bingyan He (Coach)"
-            }
+              "zh-CN": "贺冰琰",
+              "fallback": "Bingyan He"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -7348,9 +7383,10 @@
           },
           {
             "name": {
-              "zh-CN": "涂立静 (教练)",
-              "fallback": "lijing tu (Coach)"
-            }
+              "zh-CN": "涂立静",
+              "fallback": "lijing tu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -7541,15 +7577,17 @@
           },
           {
             "name": {
-              "zh-CN": "郭金良 (教练)",
-              "fallback": "Jinliang Guo (Coach)"
-            }
+              "zh-CN": "郭金良",
+              "fallback": "Jinliang Guo"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "齐庆磊 (教练)",
-              "fallback": "Qinglei Qi (Coach)"
-            }
+              "zh-CN": "齐庆磊",
+              "fallback": "Qinglei Qi"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -7743,9 +7781,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴云鹏 (教练)",
-              "fallback": "Yunpeng Wu (Coach)"
-            }
+              "zh-CN": "吴云鹏",
+              "fallback": "Yunpeng Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -7960,9 +7999,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨超 (教练)",
-              "fallback": "Chao Yang (Coach)"
-            }
+              "zh-CN": "杨超",
+              "fallback": "Chao Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -8170,9 +8210,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴云鹏 (教练)",
-              "fallback": "Yunpeng Wu (Coach)"
-            }
+              "zh-CN": "吴云鹏",
+              "fallback": "Yunpeng Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -8363,9 +8404,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘伟 (教练)",
-              "fallback": "Wei Liu (Coach)"
-            }
+              "zh-CN": "刘伟",
+              "fallback": "Wei Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -8577,9 +8619,10 @@
           },
           {
             "name": {
-              "zh-CN": "王睿 (教练)",
-              "fallback": "Rui Wang (Coach)"
-            }
+              "zh-CN": "王睿",
+              "fallback": "Rui Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -8784,9 +8827,10 @@
           },
           {
             "name": {
-              "zh-CN": "冯猛 (教练)",
-              "fallback": "Meng Feng (Coach)"
-            }
+              "zh-CN": "冯猛",
+              "fallback": "Meng Feng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9040,9 +9084,10 @@
           },
           {
             "name": {
-              "zh-CN": "孟宪静 (教练)",
-              "fallback": "Xianjing Meng (Coach)"
-            }
+              "zh-CN": "孟宪静",
+              "fallback": "Xianjing Meng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9219,9 +9264,10 @@
           },
           {
             "name": {
-              "zh-CN": "肖如良 (教练)",
-              "fallback": "Ruliang Xiao (Coach)"
-            }
+              "zh-CN": "肖如良",
+              "fallback": "Ruliang Xiao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9420,9 +9466,10 @@
           },
           {
             "name": {
-              "zh-CN": "王震 (教练)",
-              "fallback": "Zhen Wang (Coach)"
-            }
+              "zh-CN": "王震",
+              "fallback": "Zhen Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9620,9 +9667,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴万春 (教练)",
-              "fallback": "Wanchun Wu (Coach)"
-            }
+              "zh-CN": "吴万春",
+              "fallback": "Wanchun Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -9813,15 +9861,17 @@
           },
           {
             "name": {
-              "zh-CN": "戴平阳 (教练)",
-              "fallback": "Pingyang Dai (Coach)"
-            }
+              "zh-CN": "戴平阳",
+              "fallback": "Pingyang Dai"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "林文水 (教练)",
-              "fallback": "Wenshui Lin (Coach)"
-            }
+              "zh-CN": "林文水",
+              "fallback": "Wenshui Lin"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -10051,9 +10101,10 @@
           },
           {
             "name": {
-              "zh-CN": "丁林花 (教练)",
-              "fallback": "Linhua Ding (Coach)"
-            }
+              "zh-CN": "丁林花",
+              "fallback": "Linhua Ding"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -10251,9 +10302,10 @@
           },
           {
             "name": {
-              "zh-CN": "向德生 (教练)",
-              "fallback": "Desheng Xiang (Coach)"
-            }
+              "zh-CN": "向德生",
+              "fallback": "Desheng Xiang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -10444,9 +10496,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈灯 (教练)",
-              "fallback": "Deng Chen (Coach)"
-            }
+              "zh-CN": "陈灯",
+              "fallback": "Deng Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -10654,9 +10707,10 @@
           },
           {
             "name": {
-              "zh-CN": "曲大鹏 (教练)",
-              "fallback": "Dapeng Qu (Coach)"
-            }
+              "zh-CN": "曲大鹏",
+              "fallback": "Dapeng Qu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -10840,15 +10894,17 @@
           },
           {
             "name": {
-              "zh-CN": "周晓琳 (教练)",
-              "fallback": "Xiaolin Zhou (Coach)"
-            }
+              "zh-CN": "周晓琳",
+              "fallback": "Xiaolin Zhou"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "刘勇 (教练)",
-              "fallback": "Yong Liu (Coach)"
-            }
+              "zh-CN": "刘勇",
+              "fallback": "Yong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -11039,9 +11095,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘晓红 (教练)",
-              "fallback": "Xiaohong Liu (Coach)"
-            }
+              "zh-CN": "刘晓红",
+              "fallback": "Xiaohong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -11277,9 +11334,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘毅 (教练)",
-              "fallback": "Yi Liu (Coach)"
-            }
+              "zh-CN": "刘毅",
+              "fallback": "Yi Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -11470,9 +11528,10 @@
           },
           {
             "name": {
-              "zh-CN": "骆曦 (教练)",
-              "fallback": "Xi Luo (Coach)"
-            }
+              "zh-CN": "骆曦",
+              "fallback": "Xi Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -11685,9 +11744,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢彦麒 (教练)",
-              "fallback": "Yanqi Xie (Coach)"
-            }
+              "zh-CN": "谢彦麒",
+              "fallback": "Yanqi Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -11910,9 +11970,10 @@
           },
           {
             "name": {
-              "zh-CN": "曹校林 (教练)",
-              "fallback": "Xiaolin Cao (Coach)"
-            }
+              "zh-CN": "曹校林",
+              "fallback": "Xiaolin Cao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12131,9 +12192,10 @@
           },
           {
             "name": {
-              "zh-CN": "黎才茂 (教练)",
-              "fallback": "Caimao Li (Coach)"
-            }
+              "zh-CN": "黎才茂",
+              "fallback": "Caimao Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12369,9 +12431,10 @@
           },
           {
             "name": {
-              "zh-CN": "党佳晨 (教练)",
-              "fallback": "Jiachen Dang (Coach)"
-            }
+              "zh-CN": "党佳晨",
+              "fallback": "Jiachen Dang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12583,9 +12646,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12801,15 +12865,17 @@
           },
           {
             "name": {
-              "zh-CN": "毛雷 (教练)",
-              "fallback": "Lei Mao (Coach)"
-            }
+              "zh-CN": "毛雷",
+              "fallback": "Lei Mao"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "李平 (教练)",
-              "fallback": "Ping Li (Coach)"
-            }
+              "zh-CN": "李平",
+              "fallback": "Ping Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -12993,9 +13059,10 @@
           },
           {
             "name": {
-              "zh-CN": "兰鑫 (教练)",
-              "fallback": "Xin Lan (Coach)"
-            }
+              "zh-CN": "兰鑫",
+              "fallback": "Xin Lan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13200,9 +13267,10 @@
           },
           {
             "name": {
-              "zh-CN": "石陆魁 (教练)",
-              "fallback": "Lukui Shi (Coach)"
-            }
+              "zh-CN": "石陆魁",
+              "fallback": "Lukui Shi"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13400,15 +13468,17 @@
           },
           {
             "name": {
-              "zh-CN": "黄晓华 (教练)",
-              "fallback": "Xiaohua Huang (Coach)"
-            }
+              "zh-CN": "黄晓华",
+              "fallback": "Xiaohua Huang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "严卫 (教练)",
-              "fallback": "Wei Yan (Coach)"
-            }
+              "zh-CN": "严卫",
+              "fallback": "Wei Yan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13623,9 +13693,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴振寰 (教练)",
-              "fallback": "Zhenhuan Wu (Coach)"
-            }
+              "zh-CN": "吴振寰",
+              "fallback": "Zhenhuan Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -13803,9 +13874,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢彦麒 (教练)",
-              "fallback": "Yanqi Xie (Coach)"
-            }
+              "zh-CN": "谢彦麒",
+              "fallback": "Yanqi Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14088,9 +14160,10 @@
           },
           {
             "name": {
-              "zh-CN": "王涛 (教练)",
-              "fallback": "Tao Wang (Coach)"
-            }
+              "zh-CN": "王涛",
+              "fallback": "Tao Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14288,9 +14361,10 @@
           },
           {
             "name": {
-              "zh-CN": "石陆魁 (教练)",
-              "fallback": "Lukui Shi (Coach)"
-            }
+              "zh-CN": "石陆魁",
+              "fallback": "Lukui Shi"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14474,9 +14548,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢勇 (教练)",
-              "fallback": "Yong XIE (Coach)"
-            }
+              "zh-CN": "谢勇",
+              "fallback": "Yong XIE"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14674,9 +14749,10 @@
           },
           {
             "name": {
-              "zh-CN": "毕方明 (教练)",
-              "fallback": "Fangming Bi (Coach)"
-            }
+              "zh-CN": "毕方明",
+              "fallback": "Fangming Bi"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -14869,9 +14945,10 @@
           },
           {
             "name": {
-              "zh-CN": "李珊 (教练)",
-              "fallback": "Shan Li (Coach)"
-            }
+              "zh-CN": "李珊",
+              "fallback": "Shan Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15069,9 +15146,10 @@
           },
           {
             "name": {
-              "zh-CN": "尚俊平 (教练)",
-              "fallback": "Junping Shang (Coach)"
-            }
+              "zh-CN": "尚俊平",
+              "fallback": "Junping Shang"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -15294,9 +15372,10 @@
           },
           {
             "name": {
-              "zh-CN": "曹志英 (教练)",
-              "fallback": "Zhiying Cao (Coach)"
-            }
+              "zh-CN": "曹志英",
+              "fallback": "Zhiying Cao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15560,9 +15639,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15789,9 +15869,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈荣钦 (教练)",
-              "fallback": "Rongqin Chen (Coach)"
-            }
+              "zh-CN": "陈荣钦",
+              "fallback": "Rongqin Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -15989,9 +16070,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈圣波 (教练)",
-              "fallback": "Shengbo Chen (Coach)"
-            }
+              "zh-CN": "陈圣波",
+              "fallback": "Shengbo Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16196,9 +16278,10 @@
           },
           {
             "name": {
-              "zh-CN": "高嘉伟 (教练)",
-              "fallback": "Jiawei Gao (Coach)"
-            }
+              "zh-CN": "高嘉伟",
+              "fallback": "Jiawei Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16403,9 +16486,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴振寰 (教练)",
-              "fallback": "Zhenhuan Wu (Coach)"
-            }
+              "zh-CN": "吴振寰",
+              "fallback": "Zhenhuan Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16596,15 +16680,17 @@
           },
           {
             "name": {
-              "zh-CN": "梁浩 (教练)",
-              "fallback": "Allen Liang (Coach)"
-            }
+              "zh-CN": "梁浩",
+              "fallback": "Allen Liang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "王春娟 (教练)",
-              "fallback": "Chunjuan Wang (Coach)"
-            }
+              "zh-CN": "王春娟",
+              "fallback": "Chunjuan Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -16805,15 +16891,17 @@
           },
           {
             "name": {
-              "zh-CN": "邓阳君 (教练)",
-              "fallback": "Yangjun Deng (Coach)"
-            }
+              "zh-CN": "邓阳君",
+              "fallback": "Yangjun Deng"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "何源 (教练)",
-              "fallback": "Yuan He (Coach)"
-            }
+              "zh-CN": "何源",
+              "fallback": "Yuan He"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17011,9 +17099,10 @@
           },
           {
             "name": {
-              "zh-CN": "李晓明 (教练)",
-              "fallback": "Xiaoming Li (Coach)"
-            }
+              "zh-CN": "李晓明",
+              "fallback": "Xiaoming Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17218,9 +17307,10 @@
           },
           {
             "name": {
-              "zh-CN": "李广军 (教练)",
-              "fallback": "Guangjun Li (Coach)"
-            }
+              "zh-CN": "李广军",
+              "fallback": "Guangjun Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17411,9 +17501,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘必雄 (教练)",
-              "fallback": "Bixiong Liu (Coach)"
-            }
+              "zh-CN": "刘必雄",
+              "fallback": "Bixiong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17703,15 +17794,17 @@
           },
           {
             "name": {
-              "zh-CN": "戴平阳 (教练)",
-              "fallback": "Pingyang Dai (Coach)"
-            }
+              "zh-CN": "戴平阳",
+              "fallback": "Pingyang Dai"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "林文水 (教练)",
-              "fallback": "Wenshui Lin (Coach)"
-            }
+              "zh-CN": "林文水",
+              "fallback": "Wenshui Lin"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -17983,9 +18076,10 @@
           },
           {
             "name": {
-              "zh-CN": "邱少明 (教练)",
-              "fallback": "Shaoming Qiu (Coach)"
-            }
+              "zh-CN": "邱少明",
+              "fallback": "Shaoming Qiu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -18190,9 +18284,10 @@
           },
           {
             "name": {
-              "zh-CN": "毕方明 (教练)",
-              "fallback": "Fangming Bi (Coach)"
-            }
+              "zh-CN": "毕方明",
+              "fallback": "Fangming Bi"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -18442,9 +18537,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘文强 (教练)",
-              "fallback": "Wenqiang Liu (Coach)"
-            }
+              "zh-CN": "刘文强",
+              "fallback": "Wenqiang Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -18684,9 +18780,10 @@
           },
           {
             "name": {
-              "zh-CN": "李洪涛 (教练)",
-              "fallback": "Hongtao Li (Coach)"
-            }
+              "zh-CN": "李洪涛",
+              "fallback": "Hongtao Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -18898,9 +18995,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘晓峰 (教练)",
-              "fallback": "Xiaofeng Liu (Coach)"
-            }
+              "zh-CN": "刘晓峰",
+              "fallback": "Xiaofeng Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19133,9 +19231,10 @@
           },
           {
             "name": {
-              "zh-CN": "孔晓明 (教练)",
-              "fallback": "Xiaoming Kong (Coach)"
-            }
+              "zh-CN": "孔晓明",
+              "fallback": "Xiaoming Kong"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19347,9 +19446,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘兰 (教练)",
-              "fallback": "Lan Liu (Coach)"
-            }
+              "zh-CN": "刘兰",
+              "fallback": "Lan Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19561,9 +19661,10 @@
           },
           {
             "name": {
-              "zh-CN": "车建华 (教练)",
-              "fallback": "Jianhua Che (Coach)"
-            }
+              "zh-CN": "车建华",
+              "fallback": "Jianhua Che"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -19789,9 +19890,10 @@
           },
           {
             "name": {
-              "zh-CN": "卢诚波 (教练)",
-              "fallback": "Chengbo Lu (Coach)"
-            }
+              "zh-CN": "卢诚波",
+              "fallback": "Chengbo Lu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20038,9 +20140,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘必雄 (教练)",
-              "fallback": "Bixiong Liu (Coach)"
-            }
+              "zh-CN": "刘必雄",
+              "fallback": "Bixiong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20274,9 +20377,10 @@
           },
           {
             "name": {
-              "zh-CN": "万德焕 (教练)",
-              "fallback": "Dehuan Wan (Coach)"
-            }
+              "zh-CN": "万德焕",
+              "fallback": "Dehuan Wan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20565,9 +20669,10 @@
           },
           {
             "name": {
-              "zh-CN": "曾怡 (教练)",
-              "fallback": "Yi Zeng (Coach)"
-            }
+              "zh-CN": "曾怡",
+              "fallback": "Yi Zeng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20723,9 +20828,10 @@
           },
           {
             "name": {
-              "zh-CN": "鹿文鹏 (教练)",
-              "fallback": "Wenpeng Lu (Coach)"
-            }
+              "zh-CN": "鹿文鹏",
+              "fallback": "Wenpeng Lu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -20891,9 +20997,10 @@
           },
           {
             "name": {
-              "zh-CN": "曾台盛 (教练)",
-              "fallback": "Taisheng Zeng (Coach)"
-            }
+              "zh-CN": "曾台盛",
+              "fallback": "Taisheng Zeng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21057,9 +21164,10 @@
           },
           {
             "name": {
-              "zh-CN": "荆树旭 (教练)",
-              "fallback": "Shuxu Jing (Coach)"
-            }
+              "zh-CN": "荆树旭",
+              "fallback": "Shuxu Jing"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21253,9 +21361,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈志 (教练)",
-              "fallback": "Zhi Chen (Coach)"
-            }
+              "zh-CN": "陈志",
+              "fallback": "Zhi Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21425,15 +21534,17 @@
           },
           {
             "name": {
-              "zh-CN": "戴平阳 (教练)",
-              "fallback": "Pingyang Dai (Coach)"
-            }
+              "zh-CN": "戴平阳",
+              "fallback": "Pingyang Dai"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "林文水 (教练)",
-              "fallback": "Wenshui Lin (Coach)"
-            }
+              "zh-CN": "林文水",
+              "fallback": "Wenshui Lin"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21604,9 +21715,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘喜平 (教练)",
-              "fallback": "Xiping Liu (Coach)"
-            }
+              "zh-CN": "刘喜平",
+              "fallback": "Xiping Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21800,9 +21912,10 @@
           },
           {
             "name": {
-              "zh-CN": "张锦祥 (教练)",
-              "fallback": "Jinxiang Zhang (Coach)"
-            }
+              "zh-CN": "张锦祥",
+              "fallback": "Jinxiang Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -21975,9 +22088,10 @@
           },
           {
             "name": {
-              "zh-CN": "李连民 (教练)",
-              "fallback": "Lianmin Li (Coach)"
-            }
+              "zh-CN": "李连民",
+              "fallback": "Lianmin Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22192,15 +22306,17 @@
           },
           {
             "name": {
-              "zh-CN": "舒筱浒 (教练)",
-              "fallback": "Xiaohu Shu (Coach)"
-            }
+              "zh-CN": "舒筱浒",
+              "fallback": "Xiaohu Shu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "苏尔敬 (教练)",
-              "fallback": "Erjing Su (Coach)"
-            }
+              "zh-CN": "苏尔敬",
+              "fallback": "Erjing Su"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22408,15 +22524,17 @@
           },
           {
             "name": {
-              "zh-CN": "丘凯伦 (教练)",
-              "fallback": "Kailun Qiu (Coach)"
-            }
+              "zh-CN": "丘凯伦",
+              "fallback": "Kailun Qiu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "赵睿 (教练)",
-              "fallback": "Rui Zhao (Coach)"
-            }
+              "zh-CN": "赵睿",
+              "fallback": "Rui Zhao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22610,9 +22728,10 @@
           },
           {
             "name": {
-              "zh-CN": "郭一晶 (教练)",
-              "fallback": "Yijing Guo (Coach)"
-            }
+              "zh-CN": "郭一晶",
+              "fallback": "Yijing Guo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -22856,15 +22975,17 @@
           },
           {
             "name": {
-              "zh-CN": "刘杰 (教练)",
-              "fallback": "Jie Liu (Coach)"
-            }
+              "zh-CN": "刘杰",
+              "fallback": "Jie Liu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "李晓昀 (教练)",
-              "fallback": "Xiaoyun Li (Coach)"
-            }
+              "zh-CN": "李晓昀",
+              "fallback": "Xiaoyun Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23100,15 +23221,17 @@
           },
           {
             "name": {
-              "zh-CN": "高雷亭 (教练)",
-              "fallback": "Leiting Gao (Coach)"
-            }
+              "zh-CN": "高雷亭",
+              "fallback": "Leiting Gao"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "郑春光 (教练)",
-              "fallback": "Chunguang Zheng (Coach)"
-            }
+              "zh-CN": "郑春光",
+              "fallback": "Chunguang Zheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23358,9 +23481,10 @@
           },
           {
             "name": {
-              "zh-CN": "王可 (教练)",
-              "fallback": "Ke Wang (Coach)"
-            }
+              "zh-CN": "王可",
+              "fallback": "Ke Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23537,9 +23661,10 @@
           },
           {
             "name": {
-              "zh-CN": "张庆生 (教练)",
-              "fallback": "Qingsheng Zhang (Coach)"
-            }
+              "zh-CN": "张庆生",
+              "fallback": "Qingsheng Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23760,9 +23885,10 @@
           },
           {
             "name": {
-              "zh-CN": "许雪林 (教练)",
-              "fallback": "Xuelin Xu (Coach)"
-            }
+              "zh-CN": "许雪林",
+              "fallback": "Xuelin Xu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23947,9 +24073,10 @@
           },
           {
             "name": {
-              "zh-CN": "王和兴 (教练)",
-              "fallback": "Hexing Wang (Coach)"
-            }
+              "zh-CN": "王和兴",
+              "fallback": "Hexing Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24126,9 +24253,10 @@
           },
           {
             "name": {
-              "zh-CN": "罗伟 (教练)",
-              "fallback": "Wei Luo (Coach)"
-            }
+              "zh-CN": "罗伟",
+              "fallback": "Wei Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24323,9 +24451,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘必雄 (教练)",
-              "fallback": "Bixiong Liu (Coach)"
-            }
+              "zh-CN": "刘必雄",
+              "fallback": "Bixiong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24489,15 +24618,17 @@
           },
           {
             "name": {
-              "zh-CN": "罗泽 (教练)",
-              "fallback": "Ze Luo (Coach)"
-            }
+              "zh-CN": "罗泽",
+              "fallback": "Ze Luo"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "刘新宇 (教练)",
-              "fallback": "Xinyu Liu (Coach)"
-            }
+              "zh-CN": "刘新宇",
+              "fallback": "Xinyu Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24684,9 +24815,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘文强 (教练)",
-              "fallback": "Wenqiang Liu (Coach)"
-            }
+              "zh-CN": "刘文强",
+              "fallback": "Wenqiang Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -24848,7 +24980,8 @@
             }
           },
           {
-            "name": "许雪林 (教练)"
+            "name": "许雪林",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25019,9 +25152,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈翔 (教练)",
-              "fallback": "Xiang Chen (Coach)"
-            }
+              "zh-CN": "陈翔",
+              "fallback": "Xiang Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25208,9 +25342,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨昌玉 (教练)",
-              "fallback": "Changyu Yang (Coach)"
-            }
+              "zh-CN": "杨昌玉",
+              "fallback": "Changyu Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25380,9 +25515,10 @@
           },
           {
             "name": {
-              "zh-CN": "张庆 (教练)",
-              "fallback": "Qing Zhang (Coach)"
-            }
+              "zh-CN": "张庆",
+              "fallback": "Qing Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25563,9 +25699,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈荣钦 (教练)",
-              "fallback": "Rongqin Chen (Coach)"
-            }
+              "zh-CN": "陈荣钦",
+              "fallback": "Rongqin Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25773,15 +25910,17 @@
           },
           {
             "name": {
-              "zh-CN": "于海雯 (教练)",
-              "fallback": "Haiwen Yu (Coach)"
-            }
+              "zh-CN": "于海雯",
+              "fallback": "Haiwen Yu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "张覃思 (教练)",
-              "fallback": "Tansi Zhang (Coach)"
-            }
+              "zh-CN": "张覃思",
+              "fallback": "Tansi Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -25944,9 +26083,10 @@
           },
           {
             "name": {
-              "zh-CN": "田小霞 (教练)",
-              "fallback": "Xiaoxia Tian (Coach)"
-            }
+              "zh-CN": "田小霞",
+              "fallback": "Xiaoxia Tian"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26102,9 +26242,10 @@
           },
           {
             "name": {
-              "zh-CN": "柯海丰 (教练)",
-              "fallback": "Haifeng Ke (Coach)"
-            }
+              "zh-CN": "柯海丰",
+              "fallback": "Haifeng Ke"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26305,9 +26446,10 @@
           },
           {
             "name": {
-              "zh-CN": "李文凤 (教练)",
-              "fallback": "Wenfeng Li (Coach)"
-            }
+              "zh-CN": "李文凤",
+              "fallback": "Wenfeng Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26484,9 +26626,10 @@
           },
           {
             "name": {
-              "zh-CN": "王磊 (教练)",
-              "fallback": "Lei Wang (Coach)"
-            }
+              "zh-CN": "王磊",
+              "fallback": "Lei Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -26681,9 +26824,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈琰宏 (教练)",
-              "fallback": "Yanhong Chen (Coach)"
-            }
+              "zh-CN": "陈琰宏",
+              "fallback": "Yanhong Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27003,9 +27147,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨磊 (教练)",
-              "fallback": "Lei Yang (Coach)"
-            }
+              "zh-CN": "杨磊",
+              "fallback": "Lei Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27182,9 +27327,10 @@
           },
           {
             "name": {
-              "zh-CN": "徐鹏 (教练)",
-              "fallback": "Peng Xu (Coach)"
-            }
+              "zh-CN": "徐鹏",
+              "fallback": "Peng Xu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27361,9 +27507,10 @@
           },
           {
             "name": {
-              "zh-CN": "丁盟 (教练)",
-              "fallback": "Meng Ding (Coach)"
-            }
+              "zh-CN": "丁盟",
+              "fallback": "Meng Ding"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27540,9 +27687,10 @@
           },
           {
             "name": {
-              "zh-CN": "李军 (教练)",
-              "fallback": "Jun Li (Coach)"
-            }
+              "zh-CN": "李军",
+              "fallback": "Jun Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27722,9 +27870,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27923,9 +28072,10 @@
           },
           {
             "name": {
-              "zh-CN": "柯叶鑫 (教练)",
-              "fallback": "Yexin Ke (Coach)"
-            }
+              "zh-CN": "柯叶鑫",
+              "fallback": "Yexin Ke"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28144,9 +28294,10 @@
           },
           {
             "name": {
-              "zh-CN": "罗文劼 (教练)",
-              "fallback": "Wenjie Luo (Coach)"
-            }
+              "zh-CN": "罗文劼",
+              "fallback": "Wenjie Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28382,9 +28533,10 @@
           },
           {
             "name": {
-              "zh-CN": "黄再祥 (教练)",
-              "fallback": "Zaixiang Huang (Coach)"
-            }
+              "zh-CN": "黄再祥",
+              "fallback": "Zaixiang Huang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28617,9 +28769,10 @@
           },
           {
             "name": {
-              "zh-CN": "周恺 (教练)",
-              "fallback": "Kai Zhou (Coach)"
-            }
+              "zh-CN": "周恺",
+              "fallback": "Kai Zhou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28817,9 +28970,10 @@
           },
           {
             "name": {
-              "zh-CN": "毕坤 (教练)",
-              "fallback": "Kun Bi (Coach)"
-            }
+              "zh-CN": "毕坤",
+              "fallback": "Kun Bi"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28996,9 +29150,10 @@
           },
           {
             "name": {
-              "zh-CN": "张自力 (教练)",
-              "fallback": "Zili Zhang (Coach)"
-            }
+              "zh-CN": "张自力",
+              "fallback": "Zili Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29175,15 +29330,17 @@
           },
           {
             "name": {
-              "zh-CN": "黄万丽 (教练)",
-              "fallback": "Wanli Huang (Coach)"
-            }
+              "zh-CN": "黄万丽",
+              "fallback": "Wanli Huang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "闫超 (教练)",
-              "fallback": "Chao Yan (Coach)"
-            }
+              "zh-CN": "闫超",
+              "fallback": "Chao Yan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29346,15 +29503,17 @@
           },
           {
             "name": {
-              "zh-CN": "罗泽 (教练)",
-              "fallback": "Ze Luo (Coach)"
-            }
+              "zh-CN": "罗泽",
+              "fallback": "Ze Luo"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "刘新宇 (教练)",
-              "fallback": "Xinyu Liu (Coach)"
-            }
+              "zh-CN": "刘新宇",
+              "fallback": "Xinyu Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29589,15 +29748,17 @@
           },
           {
             "name": {
-              "zh-CN": "刘卫平 (教练)",
-              "fallback": "Weiping Liu (Coach)"
-            }
+              "zh-CN": "刘卫平",
+              "fallback": "Weiping Liu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "侯睿 (教练)",
-              "fallback": "Rui Hou (Coach)"
-            }
+              "zh-CN": "侯睿",
+              "fallback": "Rui Hou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -29826,9 +29987,10 @@
           },
           {
             "name": {
-              "zh-CN": "崔波 (教练)",
-              "fallback": "Bo Cui (Coach)"
-            }
+              "zh-CN": "崔波",
+              "fallback": "Bo Cui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30033,9 +30195,10 @@
           },
           {
             "name": {
-              "zh-CN": "陆东城 (教练)",
-              "fallback": "Dongcheng Lu (Coach)"
-            }
+              "zh-CN": "陆东城",
+              "fallback": "Dongcheng Lu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30212,9 +30375,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘金卓 (教练)",
-              "fallback": "Jinzhuo Liu (Coach)"
-            }
+              "zh-CN": "刘金卓",
+              "fallback": "Jinzhuo Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30429,9 +30593,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30668,9 +30833,10 @@
           },
           {
             "name": {
-              "zh-CN": "郑炅 (教练)",
-              "fallback": "Jiong Zheng (Coach)"
-            }
+              "zh-CN": "郑炅",
+              "fallback": "Jiong Zheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -30868,9 +31034,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈志 (教练)",
-              "fallback": "Zhi Chen (Coach)"
-            }
+              "zh-CN": "陈志",
+              "fallback": "Zhi Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -31085,9 +31252,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -31289,9 +31457,10 @@
           },
           {
             "name": {
-              "zh-CN": "宋丽娟 (教练)",
-              "fallback": "Lijuan Song (Coach)"
-            }
+              "zh-CN": "宋丽娟",
+              "fallback": "Lijuan Song"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -31702,9 +31871,10 @@
           },
           {
             "name": {
-              "zh-CN": "梁浩 (教练)",
-              "fallback": "Allen Liang (Coach)"
-            }
+              "zh-CN": "梁浩",
+              "fallback": "Allen Liang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -31954,9 +32124,10 @@
           },
           {
             "name": {
-              "zh-CN": "黎才茂 (教练)",
-              "fallback": "Caimao Li (Coach)"
-            }
+              "zh-CN": "黎才茂",
+              "fallback": "Caimao Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32164,9 +32335,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32368,9 +32540,10 @@
           },
           {
             "name": {
-              "zh-CN": "高嘉伟 (教练)",
-              "fallback": "Jiawei Gao (Coach)"
-            }
+              "zh-CN": "高嘉伟",
+              "fallback": "Jiawei Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32561,9 +32734,10 @@
           },
           {
             "name": {
-              "zh-CN": "周恺 (教练)",
-              "fallback": "Kai Zhou (Coach)"
-            }
+              "zh-CN": "周恺",
+              "fallback": "Kai Zhou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32747,9 +32921,10 @@
           },
           {
             "name": {
-              "zh-CN": "肖如良 (教练)",
-              "fallback": "Ruliang Xiao (Coach)"
-            }
+              "zh-CN": "肖如良",
+              "fallback": "Ruliang Xiao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -32955,9 +33130,10 @@
           },
           {
             "name": {
-              "zh-CN": "郭一晶 (教练)",
-              "fallback": "Yijing Guo (Coach)"
-            }
+              "zh-CN": "郭一晶",
+              "fallback": "Yijing Guo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33166,9 +33342,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33374,9 +33551,10 @@
           },
           {
             "name": {
-              "zh-CN": "魏伟一 (教练)",
-              "fallback": "Weiyi Wei (Coach)"
-            }
+              "zh-CN": "魏伟一",
+              "fallback": "Weiyi Wei"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33609,9 +33787,10 @@
           },
           {
             "name": {
-              "zh-CN": "郑志勇 (教练)",
-              "fallback": "Zhiyong Zheng (Coach)"
-            }
+              "zh-CN": "郑志勇",
+              "fallback": "Zhiyong Zheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33781,9 +33960,10 @@
           },
           {
             "name": {
-              "zh-CN": "郭一晶 (教练)",
-              "fallback": "Yijing Guo (Coach)"
-            }
+              "zh-CN": "郭一晶",
+              "fallback": "Yijing Guo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34017,9 +34197,10 @@
           },
           {
             "name": {
-              "zh-CN": "黎秀 (教练)",
-              "fallback": "Xiu Li (Coach)"
-            }
+              "zh-CN": "黎秀",
+              "fallback": "Xiu Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34227,9 +34408,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34459,15 +34641,17 @@
           },
           {
             "name": {
-              "zh-CN": "刘晓芳 (教练)",
-              "fallback": "Xiaofang Liu (Coach)"
-            }
+              "zh-CN": "刘晓芳",
+              "fallback": "Xiaofang Liu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "李叶光 (教练)",
-              "fallback": "Yeguang Li (Coach)"
-            }
+              "zh-CN": "李叶光",
+              "fallback": "Yeguang Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34689,9 +34873,10 @@
           },
           {
             "name": {
-              "zh-CN": "李靖 (教练)",
-              "fallback": "Jing Li (Coach)"
-            }
+              "zh-CN": "李靖",
+              "fallback": "Jing Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34882,15 +35067,17 @@
           },
           {
             "name": {
-              "zh-CN": "张圣筛 (教练)",
-              "fallback": "Shengshai Zhang (Coach)"
-            }
+              "zh-CN": "张圣筛",
+              "fallback": "Shengshai Zhang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "阙程晟 (教练)",
-              "fallback": "Chengsheng Que (Coach)"
-            }
+              "zh-CN": "阙程晟",
+              "fallback": "Chengsheng Que"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35112,15 +35299,17 @@
           },
           {
             "name": {
-              "zh-CN": "李皞 (教练)",
-              "fallback": "Hao Li (Coach)"
-            }
+              "zh-CN": "李皞",
+              "fallback": "Hao Li"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "袁操 (教练)",
-              "fallback": "Cao Yuan (Coach)"
-            }
+              "zh-CN": "袁操",
+              "fallback": "Cao Yuan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35587,9 +35776,10 @@
           },
           {
             "name": {
-              "zh-CN": "肖如良 (教练)",
-              "fallback": "Ruliang Xiao (Coach)"
-            }
+              "zh-CN": "肖如良",
+              "fallback": "Ruliang Xiao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35861,9 +36051,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨丽芳 (教练)",
-              "fallback": "Lifang Yang (Coach)"
-            }
+              "zh-CN": "杨丽芳",
+              "fallback": "Lifang Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -36068,9 +36259,10 @@
           },
           {
             "name": {
-              "zh-CN": "肖如良 (教练)",
-              "fallback": "Ruliang Xiao (Coach)"
-            }
+              "zh-CN": "肖如良",
+              "fallback": "Ruliang Xiao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -36283,15 +36475,17 @@
           },
           {
             "name": {
-              "zh-CN": "赵迪 (教练)",
-              "fallback": "Di Zhao (Coach)"
-            }
+              "zh-CN": "赵迪",
+              "fallback": "Di Zhao"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "郑海旭 (教练)",
-              "fallback": "Haixu Zheng (Coach)"
-            }
+              "zh-CN": "郑海旭",
+              "fallback": "Haixu Zheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -36496,9 +36690,10 @@
           },
           {
             "name": {
-              "zh-CN": "柯海丰 (教练)",
-              "fallback": "Haifeng Ke (Coach)"
-            }
+              "zh-CN": "柯海丰",
+              "fallback": "Haifeng Ke"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -36722,9 +36917,10 @@
           },
           {
             "name": {
-              "zh-CN": "范业仙 (教练)",
-              "fallback": "Yexian Fan (Coach)"
-            }
+              "zh-CN": "范业仙",
+              "fallback": "Yexian Fan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37041,9 +37237,10 @@
           },
           {
             "name": {
-              "zh-CN": "唐晓平 (教练)",
-              "fallback": "Xiaoping Tang (Coach)"
-            }
+              "zh-CN": "唐晓平",
+              "fallback": "Xiaoping Tang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37304,15 +37501,17 @@
           },
           {
             "name": {
-              "zh-CN": "王婧 (教练)",
-              "fallback": "Jing Wang (Coach)"
-            }
+              "zh-CN": "王婧",
+              "fallback": "Jing Wang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "禹璐 (教练)",
-              "fallback": "Lu Yu (Coach)"
-            }
+              "zh-CN": "禹璐",
+              "fallback": "Lu Yu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37573,9 +37772,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘必雄 (教练)",
-              "fallback": "Bixiong Liu (Coach)"
-            }
+              "zh-CN": "刘必雄",
+              "fallback": "Bixiong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37830,9 +38030,10 @@
           },
           {
             "name": {
-              "zh-CN": "鞠训光 (教练)",
-              "fallback": "Xunguang Ju (Coach)"
-            }
+              "zh-CN": "鞠训光",
+              "fallback": "Xunguang Ju"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38079,9 +38280,10 @@
           },
           {
             "name": {
-              "zh-CN": "叶晨 (教练)",
-              "fallback": "Chen Ye (Coach)"
-            }
+              "zh-CN": "叶晨",
+              "fallback": "Chen Ye"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38324,9 +38526,10 @@
           },
           {
             "name": {
-              "zh-CN": "李鹤群 (教练)",
-              "fallback": "Hequn Li (Coach)"
-            }
+              "zh-CN": "李鹤群",
+              "fallback": "Hequn Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38544,9 +38747,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38779,9 +38983,10 @@
           },
           {
             "name": {
-              "zh-CN": "张鸿彦 (教练)",
-              "fallback": "Hongyan Zhang (Coach)"
-            }
+              "zh-CN": "张鸿彦",
+              "fallback": "Hongyan Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38971,15 +39176,17 @@
           },
           {
             "name": {
-              "zh-CN": "彭新怀 (教练)",
-              "fallback": "Xinhuai Peng (Coach)"
-            }
+              "zh-CN": "彭新怀",
+              "fallback": "Xinhuai Peng"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "肖捡花 (教练)",
-              "fallback": "Jianhua Xiao (Coach)"
-            }
+              "zh-CN": "肖捡花",
+              "fallback": "Jianhua Xiao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39159,9 +39366,10 @@
           },
           {
             "name": {
-              "zh-CN": "饶浩 (教练)",
-              "fallback": "Hao Rao (Coach)"
-            }
+              "zh-CN": "饶浩",
+              "fallback": "Hao Rao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39380,15 +39588,17 @@
           },
           {
             "name": {
-              "zh-CN": "章英 (教练)",
-              "fallback": "Ying Zhang (Coach)"
-            }
+              "zh-CN": "章英",
+              "fallback": "Ying Zhang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "汪毅 (教练)",
-              "fallback": "Yi Wang (Coach)"
-            }
+              "zh-CN": "汪毅",
+              "fallback": "Yi Wang"
+            },
+            "role": "coach"
           }
         ],
         "markers": [
@@ -39552,9 +39762,10 @@
           },
           {
             "name": {
-              "zh-CN": "王静 (教练)",
-              "fallback": "Jing Wang (Coach)"
-            }
+              "zh-CN": "王静",
+              "fallback": "Jing Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39741,9 +39952,10 @@
           },
           {
             "name": {
-              "zh-CN": "周桥桥 (教练)",
-              "fallback": "Qiaoqiao Zhou (Coach)"
-            }
+              "zh-CN": "周桥桥",
+              "fallback": "Qiaoqiao Zhou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39909,15 +40121,17 @@
           },
           {
             "name": {
-              "zh-CN": "秦晓慧 (教练)",
-              "fallback": "Xiaohui Qin (Coach)"
-            }
+              "zh-CN": "秦晓慧",
+              "fallback": "Xiaohui Qin"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "杨阳 (教练)",
-              "fallback": "Yang Yang (Coach)"
-            }
+              "zh-CN": "杨阳",
+              "fallback": "Yang Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40097,9 +40311,10 @@
           },
           {
             "name": {
-              "zh-CN": "张秀梅 (教练)",
-              "fallback": "Xiumei Zhang (Coach)"
-            }
+              "zh-CN": "张秀梅",
+              "fallback": "Xiumei Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40265,9 +40480,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨烈君 (教练)",
-              "fallback": "Liejun Yang (Coach)"
-            }
+              "zh-CN": "杨烈君",
+              "fallback": "Liejun Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40615,9 +40831,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨丽芳 (教练)",
-              "fallback": "Lifang Yang (Coach)"
-            }
+              "zh-CN": "杨丽芳",
+              "fallback": "Lifang Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40783,9 +41000,10 @@
           },
           {
             "name": {
-              "zh-CN": "柯海丰 (教练)",
-              "fallback": "Haifeng Ke (Coach)"
-            }
+              "zh-CN": "柯海丰",
+              "fallback": "Haifeng Ke"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40965,9 +41183,10 @@
           },
           {
             "name": {
-              "zh-CN": "罗伟 (教练)",
-              "fallback": "Wei Luo (Coach)"
-            }
+              "zh-CN": "罗伟",
+              "fallback": "Wei Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41124,9 +41343,10 @@
           },
           {
             "name": {
-              "zh-CN": "叶海荣 (教练)",
-              "fallback": "Hairong Ye (Coach)"
-            }
+              "zh-CN": "叶海荣",
+              "fallback": "Hairong Ye"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41303,9 +41523,10 @@
           },
           {
             "name": {
-              "zh-CN": "邓晓军 (教练)",
-              "fallback": "Xiaojun Deng (Coach)"
-            }
+              "zh-CN": "邓晓军",
+              "fallback": "Xiaojun Deng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41477,7 +41698,8 @@
             }
           },
           {
-            "name": "许雪林 (教练)"
+            "name": "许雪林",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41651,15 +41873,17 @@
           },
           {
             "name": {
-              "zh-CN": "杨建锋 (教练)",
-              "fallback": "Jianfeng Yang (Coach)"
-            }
+              "zh-CN": "杨建锋",
+              "fallback": "Jianfeng Yang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "刘阳洋 (教练)",
-              "fallback": "Yangyang Liu (Coach)"
-            }
+              "zh-CN": "刘阳洋",
+              "fallback": "Yangyang Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41815,9 +42039,10 @@
           },
           {
             "name": {
-              "zh-CN": "黄玮 (教练)",
-              "fallback": "Wei Huang (Coach)"
-            }
+              "zh-CN": "黄玮",
+              "fallback": "Wei Huang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42199,7 +42424,8 @@
             }
           },
           {
-            "name": "许雪林 (教练)"
+            "name": "许雪林",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42436,9 +42662,10 @@
           },
           {
             "name": {
-              "zh-CN": "叶海荣 (教练)",
-              "fallback": "Hairong Ye (Coach)"
-            }
+              "zh-CN": "叶海荣",
+              "fallback": "Hairong Ye"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42635,9 +42862,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42801,9 +43029,10 @@
           },
           {
             "name": {
-              "zh-CN": "王婧 (教练)",
-              "fallback": "Jing Wang (Coach)"
-            }
+              "zh-CN": "王婧",
+              "fallback": "Jing Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42973,9 +43202,10 @@
           },
           {
             "name": {
-              "zh-CN": "张庆 (教练)",
-              "fallback": "Qing Zhang (Coach)"
-            }
+              "zh-CN": "张庆",
+              "fallback": "Qing Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -43146,15 +43376,17 @@
           },
           {
             "name": {
-              "zh-CN": "张素兰 (教练)",
-              "fallback": "Sulan Zhang (Coach)"
-            }
+              "zh-CN": "张素兰",
+              "fallback": "Sulan Zhang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "陈滨 (教练)",
-              "fallback": "Bin Chen (Coach)"
-            }
+              "zh-CN": "陈滨",
+              "fallback": "Bin Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -43498,15 +43730,17 @@
           },
           {
             "name": {
-              "zh-CN": "黄健 (教练)",
-              "fallback": "Jian Huang (Coach)"
-            }
+              "zh-CN": "黄健",
+              "fallback": "Jian Huang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "任李娟 (教练)",
-              "fallback": "Lijuan Ren (Coach)"
-            }
+              "zh-CN": "任李娟",
+              "fallback": "Lijuan Ren"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -43714,9 +43948,10 @@
           },
           {
             "name": {
-              "zh-CN": "崔健 (教练)",
-              "fallback": "Jian Cui (Coach)"
-            }
+              "zh-CN": "崔健",
+              "fallback": "Jian Cui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -43903,9 +44138,10 @@
           },
           {
             "name": {
-              "zh-CN": "冉娟 (教练)",
-              "fallback": "Juan Ran (Coach)"
-            }
+              "zh-CN": "冉娟",
+              "fallback": "Juan Ran"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44127,9 +44363,10 @@
           },
           {
             "name": {
-              "zh-CN": "雷丽兰 (教练)",
-              "fallback": "Lilan Lei (Coach)"
-            }
+              "zh-CN": "雷丽兰",
+              "fallback": "Lilan Lei"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44316,9 +44553,10 @@
           },
           {
             "name": {
-              "zh-CN": "林福平 (教练)",
-              "fallback": "Fuping Lin (Coach)"
-            }
+              "zh-CN": "林福平",
+              "fallback": "Fuping Lin"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44487,7 +44725,8 @@
             }
           },
           {
-            "name": "高大利 (教练)"
+            "name": "高大利",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44651,9 +44890,10 @@
           },
           {
             "name": {
-              "zh-CN": "李晓明 (教练)",
-              "fallback": "Xiaoming Li (Coach)"
-            }
+              "zh-CN": "李晓明",
+              "fallback": "Xiaoming Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -44871,9 +45111,10 @@
           },
           {
             "name": {
-              "zh-CN": "袁灏 (教练)",
-              "fallback": "Hao Yuan (Coach)"
-            }
+              "zh-CN": "袁灏",
+              "fallback": "Hao Yuan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45036,15 +45277,17 @@
           },
           {
             "name": {
-              "zh-CN": "潘广贞 (教练)",
-              "fallback": "Guangzhen Pan (Coach)"
-            }
+              "zh-CN": "潘广贞",
+              "fallback": "Guangzhen Pan"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "李玉蓉 (教练)",
-              "fallback": "Yurong Li (Coach)"
-            }
+              "zh-CN": "李玉蓉",
+              "fallback": "Yurong Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45238,9 +45481,10 @@
           },
           {
             "name": {
-              "zh-CN": "丁盟 (教练)",
-              "fallback": "Meng Ding (Coach)"
-            }
+              "zh-CN": "丁盟",
+              "fallback": "Meng Ding"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45465,9 +45709,10 @@
           },
           {
             "name": {
-              "zh-CN": "许雪林 (教练)",
-              "fallback": "Xuelin Xu (Coach)"
-            }
+              "zh-CN": "许雪林",
+              "fallback": "Xuelin Xu"
+            },
+            "role": "coach"
           }
         ],
         "markers": [
@@ -45635,9 +45880,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘培顺 (教练)",
-              "fallback": "Peishun Liu (Coach)"
-            }
+              "zh-CN": "刘培顺",
+              "fallback": "Peishun Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45807,9 +46053,10 @@
           },
           {
             "name": {
-              "zh-CN": "贺冰琰 (教练)",
-              "fallback": "Bingyan He (Coach)"
-            }
+              "zh-CN": "贺冰琰",
+              "fallback": "Bingyan He"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -45994,9 +46241,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘必雄 (教练)",
-              "fallback": "Bixiong Liu (Coach)"
-            }
+              "zh-CN": "刘必雄",
+              "fallback": "Bixiong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46198,9 +46446,10 @@
           },
           {
             "name": {
-              "zh-CN": "杜瑞庆 (教练)",
-              "fallback": "Ruiqing Du (Coach)"
-            }
+              "zh-CN": "杜瑞庆",
+              "fallback": "Ruiqing Du"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46363,9 +46612,10 @@
           },
           {
             "name": {
-              "zh-CN": "廖枝平 (教练)",
-              "fallback": "Zhiping Liao (Coach)"
-            }
+              "zh-CN": "廖枝平",
+              "fallback": "Zhiping Liao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46601,9 +46851,10 @@
           },
           {
             "name": {
-              "zh-CN": "田小霞 (教练)",
-              "fallback": "Xiaoxia Tian (Coach)"
-            }
+              "zh-CN": "田小霞",
+              "fallback": "Xiaoxia Tian"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46759,15 +47010,17 @@
           },
           {
             "name": {
-              "zh-CN": "余小军 (教练)",
-              "fallback": "Xiaojun Yu (Coach)"
-            }
+              "zh-CN": "余小军",
+              "fallback": "Xiaojun Yu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "潘瑞娟 (教练)",
-              "fallback": "Ruijuan Pan (Coach)"
-            }
+              "zh-CN": "潘瑞娟",
+              "fallback": "Ruijuan Pan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -46968,9 +47221,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘必雄 (教练)",
-              "fallback": "Bixiong Liu (Coach)"
-            }
+              "zh-CN": "刘必雄",
+              "fallback": "Bixiong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47151,9 +47405,10 @@
           },
           {
             "name": {
-              "zh-CN": "崔晓松 (教练)",
-              "fallback": "Xiaosong Cui (Coach)"
-            }
+              "zh-CN": "崔晓松",
+              "fallback": "Xiaosong Cui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47337,9 +47592,10 @@
           },
           {
             "name": {
-              "zh-CN": "周刚 (教练)",
-              "fallback": "Gang Zhou (Coach)"
-            }
+              "zh-CN": "周刚",
+              "fallback": "Gang Zhou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47509,9 +47765,10 @@
           },
           {
             "name": {
-              "zh-CN": "朱强 (教练)",
-              "fallback": "Qiang Zhu (Coach)"
-            }
+              "zh-CN": "朱强",
+              "fallback": "Qiang Zhu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47690,7 +47947,8 @@
             }
           },
           {
-            "name": "童先群 (教练)"
+            "name": "童先群",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -47892,9 +48150,10 @@
           },
           {
             "name": {
-              "zh-CN": "曲大鹏 (教练)",
-              "fallback": "Dapeng Qu (Coach)"
-            }
+              "zh-CN": "曲大鹏",
+              "fallback": "Dapeng Qu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48101,7 +48360,8 @@
             }
           },
           {
-            "name": "许雪林 (教练)"
+            "name": "许雪林",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48265,9 +48525,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢晋 (教练)",
-              "fallback": "Jin Xie (Coach)"
-            }
+              "zh-CN": "谢晋",
+              "fallback": "Jin Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48430,9 +48691,10 @@
           },
           {
             "name": {
-              "zh-CN": "骆斯文 (教练)",
-              "fallback": "Siwen Luo (Coach)"
-            }
+              "zh-CN": "骆斯文",
+              "fallback": "Siwen Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true
@@ -48613,9 +48875,10 @@
           },
           {
             "name": {
-              "zh-CN": "孙小龙 (教练)",
-              "fallback": "Xiaolong Sun (Coach)"
-            }
+              "zh-CN": "孙小龙",
+              "fallback": "Xiaolong Sun"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48792,9 +49055,10 @@
           },
           {
             "name": {
-              "zh-CN": "张庆 (教练)",
-              "fallback": "Qing Zhang (Coach)"
-            }
+              "zh-CN": "张庆",
+              "fallback": "Qing Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -48958,15 +49222,17 @@
           },
           {
             "name": {
-              "zh-CN": "徐艳 (教练)",
-              "fallback": "Yan Xu (Coach)"
-            }
+              "zh-CN": "徐艳",
+              "fallback": "Yan Xu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "程丽华 (教练)",
-              "fallback": "Lihua Cheng (Coach)"
-            }
+              "zh-CN": "程丽华",
+              "fallback": "Lihua Cheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -49244,15 +49510,17 @@
           },
           {
             "name": {
-              "zh-CN": "徐林 (教练)",
-              "fallback": "Lin Xu (Coach)"
-            }
+              "zh-CN": "徐林",
+              "fallback": "Lin Xu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "高景菊 (教练)",
-              "fallback": "Jingju Gao (Coach)"
-            }
+              "zh-CN": "高景菊",
+              "fallback": "Jingju Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -49474,9 +49742,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -49647,9 +49916,10 @@
           },
           {
             "name": {
-              "zh-CN": "孟宪静 (教练)",
-              "fallback": "Xianjing Meng (Coach)"
-            }
+              "zh-CN": "孟宪静",
+              "fallback": "Xianjing Meng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -49833,9 +50103,10 @@
           },
           {
             "name": {
-              "zh-CN": "张小峰 (教练)",
-              "fallback": "Xiaofeng Zhang (Coach)"
-            }
+              "zh-CN": "张小峰",
+              "fallback": "Xiaofeng Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50026,9 +50297,10 @@
           },
           {
             "name": {
-              "zh-CN": "郭一晶 (教练)",
-              "fallback": "Yijing Guo (Coach)"
-            }
+              "zh-CN": "郭一晶",
+              "fallback": "Yijing Guo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50192,9 +50464,10 @@
           },
           {
             "name": {
-              "zh-CN": "王茂华 (教练)",
-              "fallback": "Maohua Wang (Coach)"
-            }
+              "zh-CN": "王茂华",
+              "fallback": "Maohua Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50371,15 +50644,17 @@
           },
           {
             "name": {
-              "zh-CN": "王柱 (教练)",
-              "fallback": "Zhu Wang (Coach)"
-            }
+              "zh-CN": "王柱",
+              "fallback": "Zhu Wang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "容振邦 (教练)",
-              "fallback": "Zhenbang Rong (Coach)"
-            }
+              "zh-CN": "容振邦",
+              "fallback": "Zhenbang Rong"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50566,9 +50841,10 @@
           },
           {
             "name": {
-              "zh-CN": "柴亚辉 (教练)",
-              "fallback": "Yahui Chai (Coach)"
-            }
+              "zh-CN": "柴亚辉",
+              "fallback": "Yahui Chai"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50790,9 +51066,10 @@
           },
           {
             "name": {
-              "zh-CN": "肖春芸 (教练)",
-              "fallback": "Chunyun Xiao (Coach)"
-            }
+              "zh-CN": "肖春芸",
+              "fallback": "Chunyun Xiao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -50964,7 +51241,8 @@
             }
           },
           {
-            "name": "许雪林 (教练)"
+            "name": "许雪林",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51128,9 +51406,10 @@
           },
           {
             "name": {
-              "zh-CN": "傅仰耿 (教练)",
-              "fallback": "Yanggeng Fu (Coach)"
-            }
+              "zh-CN": "傅仰耿",
+              "fallback": "Yanggeng Fu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51322,9 +51601,10 @@
           },
           {
             "name": {
-              "zh-CN": "王金艳 (教练)",
-              "fallback": "Jinyan Wang (Coach)"
-            }
+              "zh-CN": "王金艳",
+              "fallback": "Jinyan Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51540,9 +51820,10 @@
           },
           {
             "name": {
-              "zh-CN": "胡锦美 (教练)",
-              "fallback": "Jinmei Hu (Coach)"
-            }
+              "zh-CN": "胡锦美",
+              "fallback": "Jinmei Hu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -51744,9 +52025,10 @@
           },
           {
             "name": {
-              "zh-CN": "赵诚 (教练)",
-              "fallback": "Cheng Zhao (Coach)"
-            }
+              "zh-CN": "赵诚",
+              "fallback": "Cheng Zhao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52122,9 +52404,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈传祥 (教练)",
-              "fallback": "Chuanxiang Chen (Coach)"
-            }
+              "zh-CN": "陈传祥",
+              "fallback": "Chuanxiang Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52311,9 +52594,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴佩 (教练)",
-              "fallback": "Pei Wu (Coach)"
-            }
+              "zh-CN": "吴佩",
+              "fallback": "Pei Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52539,9 +52823,10 @@
           },
           {
             "name": {
-              "zh-CN": "叶海荣 (教练)",
-              "fallback": "Hairong Ye (Coach)"
-            }
+              "zh-CN": "叶海荣",
+              "fallback": "Hairong Ye"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52770,9 +53055,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢彦麒 (教练)",
-              "fallback": "Yanqi Xie (Coach)"
-            }
+              "zh-CN": "谢彦麒",
+              "fallback": "Yanqi Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -52992,15 +53278,17 @@
           },
           {
             "name": {
-              "zh-CN": "蒋昌猛 (教练)",
-              "fallback": "Changmeng Jiang (Coach)"
-            }
+              "zh-CN": "蒋昌猛",
+              "fallback": "Changmeng Jiang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "贾银锁 (教练)",
-              "fallback": "Yinsuo Jia (Coach)"
-            }
+              "zh-CN": "贾银锁",
+              "fallback": "Yinsuo Jia"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53142,9 +53430,10 @@
           },
           {
             "name": {
-              "zh-CN": "熊旭辉 (教练)",
-              "fallback": "Xuhui Xiong (Coach)"
-            }
+              "zh-CN": "熊旭辉",
+              "fallback": "Xuhui Xiong"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53328,9 +53617,10 @@
           },
           {
             "name": {
-              "zh-CN": "王静 (教练)",
-              "fallback": "Jing Wang (Coach)"
-            }
+              "zh-CN": "王静",
+              "fallback": "Jing Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53723,9 +54013,10 @@
           },
           {
             "name": {
-              "zh-CN": "高雷亭 (教练)",
-              "fallback": "Leiting Gao (Coach)"
-            }
+              "zh-CN": "高雷亭",
+              "fallback": "Leiting Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -53902,9 +54193,10 @@
           },
           {
             "name": {
-              "zh-CN": "高美春 (教练)",
-              "fallback": "Meichun Gao (Coach)"
-            }
+              "zh-CN": "高美春",
+              "fallback": "Meichun Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54110,9 +54402,10 @@
           },
           {
             "name": {
-              "zh-CN": "柴亚辉 (教练)",
-              "fallback": "Yahui Chai (Coach)"
-            }
+              "zh-CN": "柴亚辉",
+              "fallback": "Yahui Chai"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54296,9 +54589,10 @@
           },
           {
             "name": {
-              "zh-CN": "安兴亚 (教练)",
-              "fallback": "Xingya An (Coach)"
-            }
+              "zh-CN": "安兴亚",
+              "fallback": "Xingya An"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54514,15 +54808,17 @@
           },
           {
             "name": {
-              "zh-CN": "胡锦美 (教练)",
-              "fallback": "Jinmei Hu (Coach)"
-            }
+              "zh-CN": "胡锦美",
+              "fallback": "Jinmei Hu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "连至助 (教练)",
-              "fallback": "Zhizhu Lian (Coach)"
-            }
+              "zh-CN": "连至助",
+              "fallback": "Zhizhu Lian"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -54822,9 +55118,10 @@
           },
           {
             "name": {
-              "zh-CN": "郑继绍 (教练)",
-              "fallback": "Jishao Zheng (Coach)"
-            }
+              "zh-CN": "郑继绍",
+              "fallback": "Jishao Zheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55030,9 +55327,10 @@
           },
           {
             "name": {
-              "zh-CN": "赵传申 (教练)",
-              "fallback": "Chuanshen Zhao (Coach)"
-            }
+              "zh-CN": "赵传申",
+              "fallback": "Chuanshen Zhao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55209,9 +55507,10 @@
           },
           {
             "name": {
-              "zh-CN": "周治国 (教练)",
-              "fallback": "Zhiguo Zhou (Coach)"
-            }
+              "zh-CN": "周治国",
+              "fallback": "Zhiguo Zhou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55388,9 +55687,10 @@
           },
           {
             "name": {
-              "zh-CN": "周晓琳 (教练)",
-              "fallback": "Xiaolin Zhou (Coach)"
-            }
+              "zh-CN": "周晓琳",
+              "fallback": "Xiaolin Zhou"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55601,7 +55901,8 @@
             }
           },
           {
-            "name": "朱达欣 (教练)"
+            "name": "朱达欣",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55807,9 +56108,10 @@
           },
           {
             "name": {
-              "zh-CN": "鹿文鹏 (教练)",
-              "fallback": "Wenpeng Lu (Coach)"
-            }
+              "zh-CN": "鹿文鹏",
+              "fallback": "Wenpeng Lu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -55986,15 +56288,17 @@
           },
           {
             "name": {
-              "zh-CN": "孙娜 (教练)",
-              "fallback": "Na Sun (Coach)"
-            }
+              "zh-CN": "孙娜",
+              "fallback": "Na Sun"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "孙娜 (教练)",
-              "fallback": "Na Sun (Coach)"
-            }
+              "zh-CN": "孙娜",
+              "fallback": "Na Sun"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56283,9 +56587,10 @@
           },
           {
             "name": {
-              "zh-CN": "梁雅丽 (教练)",
-              "fallback": "Yali Liang (Coach)"
-            }
+              "zh-CN": "梁雅丽",
+              "fallback": "Yali Liang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56553,15 +56858,17 @@
           },
           {
             "name": {
-              "zh-CN": "聂盼红 (教练)",
-              "fallback": "Panhong Nie (Coach)"
-            }
+              "zh-CN": "聂盼红",
+              "fallback": "Panhong Nie"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "郑金龙 (教练)",
-              "fallback": "Jinlong Zheng (Coach)"
-            }
+              "zh-CN": "郑金龙",
+              "fallback": "Jinlong Zheng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56713,9 +57020,10 @@
           },
           {
             "name": {
-              "zh-CN": "许雪林 (教练)",
-              "fallback": "Xuelin Xu (Coach)"
-            }
+              "zh-CN": "许雪林",
+              "fallback": "Xuelin Xu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -56875,9 +57183,10 @@
           },
           {
             "name": {
-              "zh-CN": "范业仙 (教练)",
-              "fallback": "Yexian Fan (Coach)"
-            }
+              "zh-CN": "范业仙",
+              "fallback": "Yexian Fan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57036,7 +57345,8 @@
             }
           },
           {
-            "name": "王荣海 (教练)"
+            "name": "王荣海",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57189,9 +57499,10 @@
           },
           {
             "name": {
-              "zh-CN": "帅辉明 (教练)",
-              "fallback": "Huiming Shuai (Coach)"
-            }
+              "zh-CN": "帅辉明",
+              "fallback": "Huiming Shuai"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57343,9 +57654,10 @@
           },
           {
             "name": {
-              "zh-CN": "崔岩 (教练)",
-              "fallback": "Yan Cui (Coach)"
-            }
+              "zh-CN": "崔岩",
+              "fallback": "Yan Cui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57508,9 +57820,10 @@
           },
           {
             "name": {
-              "zh-CN": "姜春风 (教练)",
-              "fallback": "Chunfeng Jiang (Coach)"
-            }
+              "zh-CN": "姜春风",
+              "fallback": "Chunfeng Jiang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57697,9 +58010,10 @@
           },
           {
             "name": {
-              "zh-CN": "韩俊英 (教练)",
-              "fallback": "Junying Han (Coach)"
-            }
+              "zh-CN": "韩俊英",
+              "fallback": "Junying Han"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -57871,7 +58185,8 @@
             }
           },
           {
-            "name": "童先群 (教练)"
+            "name": "童先群",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58007,9 +58322,10 @@
           },
           {
             "name": {
-              "zh-CN": "崔岩 (教练)",
-              "fallback": "Yan Cui (Coach)"
-            }
+              "zh-CN": "崔岩",
+              "fallback": "Yan Cui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58151,9 +58467,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴敏敏 (教练)",
-              "fallback": "Minmin Wu (Coach)"
-            }
+              "zh-CN": "吴敏敏",
+              "fallback": "Minmin Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58487,9 +58804,10 @@
           },
           {
             "name": {
-              "zh-CN": "肖如良 (教练)",
-              "fallback": "Ruliang Xiao (Coach)"
-            }
+              "zh-CN": "肖如良",
+              "fallback": "Ruliang Xiao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58653,9 +58971,10 @@
           },
           {
             "name": {
-              "zh-CN": "李圣涛 (教练)",
-              "fallback": "Shengtao Li (Coach)"
-            }
+              "zh-CN": "李圣涛",
+              "fallback": "Shengtao Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58821,9 +59140,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴敏敏 (教练)",
-              "fallback": "Minmin Wu (Coach)"
-            }
+              "zh-CN": "吴敏敏",
+              "fallback": "Minmin Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -58980,9 +59300,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢彦麒 (教练)",
-              "fallback": "Yanqi Xie (Coach)"
-            }
+              "zh-CN": "谢彦麒",
+              "fallback": "Yanqi Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59281,9 +59602,10 @@
           },
           {
             "name": {
-              "zh-CN": "黄万丽 (教练)",
-              "fallback": "Wanli Huang (Coach)"
-            }
+              "zh-CN": "黄万丽",
+              "fallback": "Wanli Huang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59456,15 +59778,17 @@
           },
           {
             "name": {
-              "zh-CN": "章英 (教练)",
-              "fallback": "Ying Zhang (Coach)"
-            }
+              "zh-CN": "章英",
+              "fallback": "Ying Zhang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "王海燕 (教练)",
-              "fallback": "Haiyan Wang (Coach)"
-            }
+              "zh-CN": "王海燕",
+              "fallback": "Haiyan Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59627,9 +59951,10 @@
           },
           {
             "name": {
-              "zh-CN": "蒋彦 (教练)",
-              "fallback": "Yan Jiang (Coach)"
-            }
+              "zh-CN": "蒋彦",
+              "fallback": "Yan Jiang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -59872,15 +60197,17 @@
           },
           {
             "name": {
-              "zh-CN": "杨岚 (教练)",
-              "fallback": "Lan Yang (Coach)"
-            }
+              "zh-CN": "杨岚",
+              "fallback": "Lan Yang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "方圆 (教练)",
-              "fallback": "Yuan Fang (Coach)"
-            }
+              "zh-CN": "方圆",
+              "fallback": "Yuan Fang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60037,9 +60364,10 @@
           },
           {
             "name": {
-              "zh-CN": "吴敏敏 (教练)",
-              "fallback": "Minmin Wu (Coach)"
-            }
+              "zh-CN": "吴敏敏",
+              "fallback": "Minmin Wu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60213,9 +60541,10 @@
           },
           {
             "name": {
-              "zh-CN": "罗伟 (教练)",
-              "fallback": "Wei Luo (Coach)"
-            }
+              "zh-CN": "罗伟",
+              "fallback": "Wei Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60375,9 +60704,10 @@
           },
           {
             "name": {
-              "zh-CN": "胡春玲 (教练)",
-              "fallback": "Chunling Hu (Coach)"
-            }
+              "zh-CN": "胡春玲",
+              "fallback": "Chunling Hu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60547,9 +60877,10 @@
           },
           {
             "name": {
-              "zh-CN": "王凯 (教练)",
-              "fallback": "Kai Wang (Coach)"
-            }
+              "zh-CN": "王凯",
+              "fallback": "Kai Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60741,9 +61072,10 @@
           },
           {
             "name": {
-              "zh-CN": "范业仙 (教练)",
-              "fallback": "Yexian Fan (Coach)"
-            }
+              "zh-CN": "范业仙",
+              "fallback": "Yexian Fan"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -60907,9 +61239,10 @@
           },
           {
             "name": {
-              "zh-CN": "罗伟 (教练)",
-              "fallback": "Wei Luo (Coach)"
-            }
+              "zh-CN": "罗伟",
+              "fallback": "Wei Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61101,9 +61434,10 @@
           },
           {
             "name": {
-              "zh-CN": "黄再祥 (教练)",
-              "fallback": "Zaixiang Huang (Coach)"
-            }
+              "zh-CN": "黄再祥",
+              "fallback": "Zaixiang Huang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61347,15 +61681,17 @@
           },
           {
             "name": {
-              "zh-CN": "蒋昌猛 (教练)",
-              "fallback": "Changmeng Jiang (Coach)"
-            }
+              "zh-CN": "蒋昌猛",
+              "fallback": "Changmeng Jiang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "贾银锁 (教练)",
-              "fallback": "Yinsuo Jia (Coach)"
-            }
+              "zh-CN": "贾银锁",
+              "fallback": "Yinsuo Jia"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61521,9 +61857,10 @@
           },
           {
             "name": {
-              "zh-CN": "童孟军 (教练)",
-              "fallback": "Mengjun Tong (Coach)"
-            }
+              "zh-CN": "童孟军",
+              "fallback": "Mengjun Tong"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61710,9 +62047,10 @@
           },
           {
             "name": {
-              "zh-CN": "刘必雄 (教练)",
-              "fallback": "Bixiong Liu (Coach)"
-            }
+              "zh-CN": "刘必雄",
+              "fallback": "Bixiong Liu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -61928,9 +62266,10 @@
           },
           {
             "name": {
-              "zh-CN": "冯猛 (教练)",
-              "fallback": "Meng Feng (Coach)"
-            }
+              "zh-CN": "冯猛",
+              "fallback": "Meng Feng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -62086,9 +62425,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢彦麒 (教练)",
-              "fallback": "Yanqi Xie (Coach)"
-            }
+              "zh-CN": "谢彦麒",
+              "fallback": "Yanqi Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -62269,9 +62609,10 @@
           },
           {
             "name": {
-              "zh-CN": "蔡奕侨 (教练)",
-              "fallback": "Yiqiao Cai (Coach)"
-            }
+              "zh-CN": "蔡奕侨",
+              "fallback": "Yiqiao Cai"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -62491,15 +62832,17 @@
           },
           {
             "name": {
-              "zh-CN": "梁金梅 (教练)",
-              "fallback": "Jinmei Liang (Coach)"
-            }
+              "zh-CN": "梁金梅",
+              "fallback": "Jinmei Liang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "惠苗 (教练)",
-              "fallback": "Miao Hui (Coach)"
-            }
+              "zh-CN": "惠苗",
+              "fallback": "Miao Hui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -62760,9 +63103,10 @@
           },
           {
             "name": {
-              "zh-CN": "曾台盛 (教练)",
-              "fallback": "Taisheng Zeng (Coach)"
-            }
+              "zh-CN": "曾台盛",
+              "fallback": "Taisheng Zeng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -62968,15 +63312,17 @@
           },
           {
             "name": {
-              "zh-CN": "杨岚 (教练)",
-              "fallback": "Lan Yang (Coach)"
-            }
+              "zh-CN": "杨岚",
+              "fallback": "Lan Yang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "方圆 (教练)",
-              "fallback": "Yuan Fang (Coach)"
-            }
+              "zh-CN": "方圆",
+              "fallback": "Yuan Fang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -63199,9 +63545,10 @@
           },
           {
             "name": {
-              "zh-CN": "许雪林 (教练)",
-              "fallback": "Xuelin Xu (Coach)"
-            }
+              "zh-CN": "许雪林",
+              "fallback": "Xuelin Xu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -63437,7 +63784,8 @@
             }
           },
           {
-            "name": "高大利 (教练)"
+            "name": "高大利",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -63617,9 +63965,10 @@
           },
           {
             "name": {
-              "zh-CN": "王凯 (教练)",
-              "fallback": "Kai Wang (Coach)"
-            }
+              "zh-CN": "王凯",
+              "fallback": "Kai Wang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -63943,9 +64292,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢彦麒 (教练)",
-              "fallback": "Yanqi Xie (Coach)"
-            }
+              "zh-CN": "谢彦麒",
+              "fallback": "Yanqi Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -64200,9 +64550,10 @@
           },
           {
             "name": {
-              "zh-CN": "高美春 (教练)",
-              "fallback": "Meichun Gao (Coach)"
-            }
+              "zh-CN": "高美春",
+              "fallback": "Meichun Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -64464,9 +64815,10 @@
           },
           {
             "name": {
-              "zh-CN": "杨娜 (教练)",
-              "fallback": "Na Yang (Coach)"
-            }
+              "zh-CN": "杨娜",
+              "fallback": "Na Yang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -64691,9 +65043,10 @@
           },
           {
             "name": {
-              "zh-CN": "曾志宏 (教练)",
-              "fallback": "Zhihong Zeng (Coach)"
-            }
+              "zh-CN": "曾志宏",
+              "fallback": "Zhihong Zeng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -64944,15 +65297,17 @@
           },
           {
             "name": {
-              "zh-CN": "杨岚 (教练)",
-              "fallback": "Lan Yang (Coach)"
-            }
+              "zh-CN": "杨岚",
+              "fallback": "Lan Yang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "方圆 (教练)",
-              "fallback": "Yuan Fang (Coach)"
-            }
+              "zh-CN": "方圆",
+              "fallback": "Yuan Fang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -65199,9 +65554,10 @@
           },
           {
             "name": {
-              "zh-CN": "蔡奕侨 (教练)",
-              "fallback": "Yiqiao Cai (Coach)"
-            }
+              "zh-CN": "蔡奕侨",
+              "fallback": "Yiqiao Cai"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -65354,9 +65710,10 @@
           },
           {
             "name": {
-              "zh-CN": "李圣涛 (教练)",
-              "fallback": "Shengtao Li (Coach)"
-            }
+              "zh-CN": "李圣涛",
+              "fallback": "Shengtao Li"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -65522,9 +65879,10 @@
           },
           {
             "name": {
-              "zh-CN": "孙光灵 (教练)",
-              "fallback": "Guangling Sun (Coach)"
-            }
+              "zh-CN": "孙光灵",
+              "fallback": "Guangling Sun"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -65732,9 +66090,10 @@
           },
           {
             "name": {
-              "zh-CN": "张庆 (教练)",
-              "fallback": "Qing Zhang (Coach)"
-            }
+              "zh-CN": "张庆",
+              "fallback": "Qing Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -65873,9 +66232,10 @@
           },
           {
             "name": {
-              "zh-CN": "罗伟 (教练)",
-              "fallback": "Wei Luo (Coach)"
-            }
+              "zh-CN": "罗伟",
+              "fallback": "Wei Luo"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -66038,15 +66398,17 @@
           },
           {
             "name": {
-              "zh-CN": "杨岚 (教练)",
-              "fallback": "Lan Yang (Coach)"
-            }
+              "zh-CN": "杨岚",
+              "fallback": "Lan Yang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "方圆 (教练)",
-              "fallback": "Yuan Fang (Coach)"
-            }
+              "zh-CN": "方圆",
+              "fallback": "Yuan Fang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -66251,9 +66613,10 @@
           },
           {
             "name": {
-              "zh-CN": "黄再祥 (教练)",
-              "fallback": "Zaixiang Huang (Coach)"
-            }
+              "zh-CN": "黄再祥",
+              "fallback": "Zaixiang Huang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -66455,9 +66818,10 @@
           },
           {
             "name": {
-              "zh-CN": "蔡奕侨 (教练)",
-              "fallback": "Yiqiao Cai (Coach)"
-            }
+              "zh-CN": "蔡奕侨",
+              "fallback": "Yiqiao Cai"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -66666,9 +67030,10 @@
           },
           {
             "name": {
-              "zh-CN": "高美春 (教练)",
-              "fallback": "Meichun Gao (Coach)"
-            }
+              "zh-CN": "高美春",
+              "fallback": "Meichun Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -66787,9 +67152,10 @@
           },
           {
             "name": {
-              "zh-CN": "邱恒 (教练)",
-              "fallback": "Heng Qiu (Coach)"
-            }
+              "zh-CN": "邱恒",
+              "fallback": "Heng Qiu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -67005,9 +67371,10 @@
           },
           {
             "name": {
-              "zh-CN": "贺冰琰 (教练)",
-              "fallback": "Bingyan He (Coach)"
-            }
+              "zh-CN": "贺冰琰",
+              "fallback": "Bingyan He"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -67160,15 +67527,17 @@
           },
           {
             "name": {
-              "zh-CN": "柯杜芹 (教练)",
-              "fallback": "Duqin Ke (Coach)"
-            }
+              "zh-CN": "柯杜芹",
+              "fallback": "Duqin Ke"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "谢燕玲 (教练)",
-              "fallback": "Yanling Xie (Coach)"
-            }
+              "zh-CN": "谢燕玲",
+              "fallback": "Yanling Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -67370,9 +67739,10 @@
           },
           {
             "name": {
-              "zh-CN": "张华 (教练)",
-              "fallback": "Hua Zhang (Coach)"
-            }
+              "zh-CN": "张华",
+              "fallback": "Hua Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -67525,9 +67895,10 @@
           },
           {
             "name": {
-              "zh-CN": "陈坚强 (教练)",
-              "fallback": "Jianqiang Chen (Coach)"
-            }
+              "zh-CN": "陈坚强",
+              "fallback": "Jianqiang Chen"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -67791,15 +68162,17 @@
           },
           {
             "name": {
-              "zh-CN": "梁金梅 (教练)",
-              "fallback": "Jinmei Liang (Coach)"
-            }
+              "zh-CN": "梁金梅",
+              "fallback": "Jinmei Liang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "惠苗 (教练)",
-              "fallback": "Miao Hui (Coach)"
-            }
+              "zh-CN": "惠苗",
+              "fallback": "Miao Hui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -67980,15 +68353,17 @@
           },
           {
             "name": {
-              "zh-CN": "梁金梅 (教练)",
-              "fallback": "Jinmei Liang (Coach)"
-            }
+              "zh-CN": "梁金梅",
+              "fallback": "Jinmei Liang"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "惠苗 (教练)",
-              "fallback": "Miao Hui (Coach)"
-            }
+              "zh-CN": "惠苗",
+              "fallback": "Miao Hui"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -68131,9 +68506,10 @@
           },
           {
             "name": {
-              "zh-CN": "张玺 (教练)",
-              "fallback": "Xi Zhang (Coach)"
-            }
+              "zh-CN": "张玺",
+              "fallback": "Xi Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -68337,15 +68713,17 @@
           },
           {
             "name": {
-              "zh-CN": "邱祥庆 (教练)",
-              "fallback": "Xiangqing Qiu (Coach)"
-            }
+              "zh-CN": "邱祥庆",
+              "fallback": "Xiangqing Qiu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "高建清 (教练)",
-              "fallback": "Jianqing Gao (Coach)"
-            }
+              "zh-CN": "高建清",
+              "fallback": "Jianqing Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -68495,9 +68873,10 @@
           },
           {
             "name": {
-              "zh-CN": "谢彦麒 (教练)",
-              "fallback": "Yanqi Xie (Coach)"
-            }
+              "zh-CN": "谢彦麒",
+              "fallback": "Yanqi Xie"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -68709,9 +69088,10 @@
           },
           {
             "name": {
-              "zh-CN": "高美春 (教练)",
-              "fallback": "Meichun Gao (Coach)"
-            }
+              "zh-CN": "高美春",
+              "fallback": "Meichun Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -68920,9 +69300,10 @@
           },
           {
             "name": {
-              "zh-CN": "许雪林 (教练)",
-              "fallback": "Xuelin Xu (Coach)"
-            }
+              "zh-CN": "许雪林",
+              "fallback": "Xuelin Xu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -69183,9 +69564,10 @@
           },
           {
             "name": {
-              "zh-CN": "曾志宏 (教练)",
-              "fallback": "Zhihong Zeng (Coach)"
-            }
+              "zh-CN": "曾志宏",
+              "fallback": "Zhihong Zeng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -69408,9 +69790,10 @@
           },
           {
             "name": {
-              "zh-CN": "张翠萍 (教练)",
-              "fallback": "Cuiping Zhang (Coach)"
-            }
+              "zh-CN": "张翠萍",
+              "fallback": "Cuiping Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -69661,9 +70044,10 @@
           },
           {
             "name": {
-              "zh-CN": "贺冰琰 (教练)",
-              "fallback": "Bingyan He (Coach)"
-            }
+              "zh-CN": "贺冰琰",
+              "fallback": "Bingyan He"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -69858,9 +70242,10 @@
           },
           {
             "name": {
-              "zh-CN": "张翠萍 (教练)",
-              "fallback": "Cuiping Zhang (Coach)"
-            }
+              "zh-CN": "张翠萍",
+              "fallback": "Cuiping Zhang"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -69996,9 +70381,10 @@
           },
           {
             "name": {
-              "zh-CN": "胡锦美 (教练)",
-              "fallback": "Jinmei Hu (Coach)"
-            }
+              "zh-CN": "胡锦美",
+              "fallback": "Jinmei Hu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -70291,9 +70677,10 @@
           },
           {
             "name": {
-              "zh-CN": "任淑霞 (教练)",
-              "fallback": "Shuxia Ren (Coach)"
-            }
+              "zh-CN": "任淑霞",
+              "fallback": "Shuxia Ren"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -70462,15 +70849,17 @@
           },
           {
             "name": {
-              "zh-CN": "高建清 (教练)",
-              "fallback": "Jianqing Gao (Coach)"
-            }
+              "zh-CN": "高建清",
+              "fallback": "Jianqing Gao"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "赵杰 (教练)",
-              "fallback": "Jie Zhao (Coach)"
-            }
+              "zh-CN": "赵杰",
+              "fallback": "Jie Zhao"
+            },
+            "role": "coach"
           }
         ],
         "markers": [
@@ -70645,15 +71034,17 @@
           },
           {
             "name": {
-              "zh-CN": "邱祥庆 (教练)",
-              "fallback": "Xiangqing Qiu (Coach)"
-            }
+              "zh-CN": "邱祥庆",
+              "fallback": "Xiangqing Qiu"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "赵杰 (教练)",
-              "fallback": "Jie Zhao (Coach)"
-            }
+              "zh-CN": "赵杰",
+              "fallback": "Jie Zhao"
+            },
+            "role": "coach"
           }
         ],
         "markers": [
@@ -70776,15 +71167,17 @@
           },
           {
             "name": {
-              "zh-CN": "高建清 (教练)",
-              "fallback": "Jianqing Gao (Coach)"
-            }
+              "zh-CN": "高建清",
+              "fallback": "Jianqing Gao"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "邱祥庆 (教练)",
-              "fallback": "Xiangqing Qiu (Coach)"
-            }
+              "zh-CN": "邱祥庆",
+              "fallback": "Xiangqing Qiu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -70996,9 +71389,10 @@
           },
           {
             "name": {
-              "zh-CN": "曾志宏 (教练)",
-              "fallback": "Zhihong Zeng (Coach)"
-            }
+              "zh-CN": "曾志宏",
+              "fallback": "Zhihong Zeng"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -71144,15 +71538,17 @@
           },
           {
             "name": {
-              "zh-CN": "赵杰 (教练)",
-              "fallback": "Jie Zhao (Coach)"
-            }
+              "zh-CN": "赵杰",
+              "fallback": "Jie Zhao"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "高建清 (教练)",
-              "fallback": "Jianqing Gao (Coach)"
-            }
+              "zh-CN": "高建清",
+              "fallback": "Jianqing Gao"
+            },
+            "role": "coach"
           }
         ],
         "official": true,
@@ -71350,15 +71746,17 @@
           },
           {
             "name": {
-              "zh-CN": "赵杰 (教练)",
-              "fallback": "Jie Zhao (Coach)"
-            }
+              "zh-CN": "赵杰",
+              "fallback": "Jie Zhao"
+            },
+            "role": "coach"
           },
           {
             "name": {
-              "zh-CN": "邱祥庆 (教练)",
-              "fallback": "Xiangqing Qiu (Coach)"
-            }
+              "zh-CN": "邱祥庆",
+              "fallback": "Xiangqing Qiu"
+            },
+            "role": "coach"
           }
         ],
         "official": true,

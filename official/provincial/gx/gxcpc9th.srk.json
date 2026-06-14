@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.12",
+  "version": "0.3.13",
   "contest": {
     "title": {
       "zh-CN": "第九届广西大学生程序设计大赛暨2026中国-东盟国际大学生程序设计大赛",
@@ -317,7 +317,8 @@
             "name": "易子寒"
           },
           {
-            "name": "邓泽林 (教练)"
+            "name": "邓泽林",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -592,7 +593,8 @@
             "name": "曹轩鸣"
           },
           {
-            "name": "曹轩鸣 (教练)"
+            "name": "曹轩鸣",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -879,10 +881,12 @@
             "name": "刘力阁"
           },
           {
-            "name": "罗迅 (教练)"
+            "name": "罗迅",
+            "role": "coach"
           },
           {
-            "name": "瞿绍军 (教练)"
+            "name": "瞿绍军",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -1158,7 +1162,8 @@
             "name": "杨逸轩"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -1473,10 +1478,12 @@
             "name": "李永康"
           },
           {
-            "name": "蒋彦 (教练)"
+            "name": "蒋彦",
+            "role": "coach"
           },
           {
-            "name": "蔺永政 (教练)"
+            "name": "蔺永政",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -1812,7 +1819,8 @@
             "name": "李书纬"
           },
           {
-            "name": "董文永 (教练)"
+            "name": "董文永",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -2288,13 +2296,16 @@
             "name": "高子轩"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -2522,7 +2533,8 @@
             "name": "李伯阳"
           },
           {
-            "name": "刘君瑞 (教练)"
+            "name": "刘君瑞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -2816,10 +2828,12 @@
             "name": "范继青"
           },
           {
-            "name": "章英 (教练)"
+            "name": "章英",
+            "role": "coach"
           },
           {
-            "name": "赵良 (教练)"
+            "name": "赵良",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -3054,7 +3068,8 @@
             "name": "陆韦陶"
           },
           {
-            "name": "冼楚华 (教练)"
+            "name": "冼楚华",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -3282,7 +3297,8 @@
             "name": "罗俊升"
           },
           {
-            "name": "童孟军 (教练)"
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -3510,7 +3526,8 @@
             "name": "刘永斌"
           },
           {
-            "name": "王建林 (教练)"
+            "name": "王建林",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -3790,7 +3807,8 @@
             "name": "陈弈帆"
           },
           {
-            "name": "无 (教练)"
+            "name": "无",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -4067,7 +4085,8 @@
             "name": "黄乐天"
           },
           {
-            "name": "左劼 (教练)"
+            "name": "左劼",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -4437,13 +4456,16 @@
             "name": "陈俊伟"
           },
           {
-            "name": "桂欣 (教练)"
+            "name": "桂欣",
+            "role": "coach"
           },
           {
-            "name": "陈江媛 (教练)"
+            "name": "陈江媛",
+            "role": "coach"
           },
           {
-            "name": "韦若皓 (教练)"
+            "name": "韦若皓",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -4716,10 +4738,12 @@
             "name": "赵腾飞"
           },
           {
-            "name": "徐晓华 (教练)"
+            "name": "徐晓华",
+            "role": "coach"
           },
           {
-            "name": "何萍 (教练)"
+            "name": "何萍",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -4957,7 +4981,8 @@
             "name": "张炜"
           },
           {
-            "name": "孙宣东 (教练)"
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -5157,7 +5182,8 @@
             "name": "罗伟康"
           },
           {
-            "name": "林裕鹏 (教练)"
+            "name": "林裕鹏",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -5409,10 +5435,12 @@
             "name": "高雪峰"
           },
           {
-            "name": "余琛 (教练)"
+            "name": "余琛",
+            "role": "coach"
           },
           {
-            "name": "袁操 (教练)"
+            "name": "袁操",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -5720,7 +5748,8 @@
             "name": "郑怡飞"
           },
           {
-            "name": "李连民 (教练)"
+            "name": "李连民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -5913,7 +5942,8 @@
             "name": "索梓恒"
           },
           {
-            "name": "王涛 (教练)"
+            "name": "王涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -6172,7 +6202,8 @@
             "name": "杜永坤"
           },
           {
-            "name": "詹锋 (教练)"
+            "name": "詹锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -6403,7 +6434,8 @@
             "name": "孙家音"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -6655,13 +6687,16 @@
             "name": "彭偲博"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -6903,13 +6938,16 @@
             "name": "郭文韬"
           },
           {
-            "name": "韦若皓 (教练)"
+            "name": "韦若皓",
+            "role": "coach"
           },
           {
-            "name": "桂欣 (教练)"
+            "name": "桂欣",
+            "role": "coach"
           },
           {
-            "name": "陈江媛 (教练)"
+            "name": "陈江媛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -7147,7 +7185,8 @@
             "name": "万俊哲"
           },
           {
-            "name": "焦贤沛 (教练)"
+            "name": "焦贤沛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -7347,7 +7386,8 @@
             "name": "王翔"
           },
           {
-            "name": "骆斯文 (教练)"
+            "name": "骆斯文",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -7676,7 +7716,8 @@
             "name": "姚保富"
           },
           {
-            "name": "詹锋 (教练)"
+            "name": "詹锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -7876,7 +7917,8 @@
             "name": "姜雪峰"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -8132,7 +8174,8 @@
             "name": "焦子霖"
           },
           {
-            "name": "陶俊 (教练)"
+            "name": "陶俊",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -8384,7 +8427,8 @@
             "name": "周乐言"
           },
           {
-            "name": "戴青锋 (教练)"
+            "name": "戴青锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -8576,7 +8620,8 @@
             "name": "孟繁星"
           },
           {
-            "name": "孙宣东 (教练)"
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -8765,7 +8810,8 @@
             "name": "周彦钊"
           },
           {
-            "name": "黎才茂 (教练)"
+            "name": "黎才茂",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -8961,10 +9007,12 @@
             "name": "刘泽成"
           },
           {
-            "name": "章英 (教练)"
+            "name": "章英",
+            "role": "coach"
           },
           {
-            "name": "李嘉位 (教练)"
+            "name": "李嘉位",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -9261,7 +9309,8 @@
             "name": "曾佳宁"
           },
           {
-            "name": "詹锋 (教练)"
+            "name": "詹锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -9481,10 +9530,12 @@
             "name": "刘震轩"
           },
           {
-            "name": "郑金龙 (教练)"
+            "name": "郑金龙",
+            "role": "coach"
           },
           {
-            "name": "聂盼红 (教练)"
+            "name": "聂盼红",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -9656,7 +9707,8 @@
             "name": "田霁阳"
           },
           {
-            "name": "张庆生 (教练)"
+            "name": "张庆生",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -9908,7 +9960,8 @@
             "name": "张天诺"
           },
           {
-            "name": "詹锋 (教练)"
+            "name": "詹锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -10080,7 +10133,8 @@
             "name": "赵紫轩"
           },
           {
-            "name": "王涛 (教练)"
+            "name": "王涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -10342,7 +10396,8 @@
             "name": "马英硕"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -10664,10 +10719,12 @@
             "name": "蒋森铖"
           },
           {
-            "name": "薛峰 (教练)"
+            "name": "薛峰",
+            "role": "coach"
           },
           {
-            "name": "夏辉丽 (教练)"
+            "name": "夏辉丽",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -10919,7 +10976,8 @@
             "name": "孙天成"
           },
           {
-            "name": "陈爱国 (教练)"
+            "name": "陈爱国",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -11115,7 +11173,8 @@
             "name": "吴静轩"
           },
           {
-            "name": "熊青青 (教练)"
+            "name": "熊青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -11325,7 +11384,8 @@
             "name": "孟庆睿"
           },
           {
-            "name": "孟宪静 (教练)"
+            "name": "孟宪静",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -11535,7 +11595,8 @@
             "name": "王祺宇"
           },
           {
-            "name": "周桥桥 (教练)"
+            "name": "周桥桥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -11759,7 +11820,8 @@
             "name": "张祖豪"
           },
           {
-            "name": "孙宣东 (教练)"
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -12214,7 +12276,8 @@
             "name": "卢传恩"
           },
           {
-            "name": "潘杰 (教练)"
+            "name": "潘杰",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -12553,7 +12616,8 @@
             "name": "郭庆"
           },
           {
-            "name": "万德焕 (教练)"
+            "name": "万德焕",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -12763,10 +12827,12 @@
             "name": "吴穹宇"
           },
           {
-            "name": "陈爱国 (教练)"
+            "name": "陈爱国",
+            "role": "coach"
           },
           {
-            "name": "王颖 (教练)"
+            "name": "王颖",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -12945,7 +13011,8 @@
             "name": "张朝阳"
           },
           {
-            "name": "万双全 (教练)"
+            "name": "万双全",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -13211,7 +13278,8 @@
             "name": "邵瑞敏"
           },
           {
-            "name": "朱旭东 (教练)"
+            "name": "朱旭东",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -13470,7 +13538,8 @@
             "name": "赵晨曦"
           },
           {
-            "name": "熊青青 (教练)"
+            "name": "熊青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -13691,7 +13760,8 @@
             "name": "魏佳程"
           },
           {
-            "name": "张庆生 (教练)"
+            "name": "张庆生",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -13877,7 +13947,8 @@
             "name": "周铭鲜"
           },
           {
-            "name": "赵尔敦 (教练)"
+            "name": "赵尔敦",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -14122,7 +14193,8 @@
             "name": "黄智源"
           },
           {
-            "name": "陈坚强 (教练)"
+            "name": "陈坚强",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -14412,7 +14484,8 @@
             "name": "刘迅阁"
           },
           {
-            "name": "潘岩 (教练)"
+            "name": "潘岩",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -14650,7 +14723,8 @@
             "name": "许智翔"
           },
           {
-            "name": "肖如良 (教练)"
+            "name": "肖如良",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -14958,7 +15032,8 @@
             "name": "莫景羽"
           },
           {
-            "name": "杜育根 (教练)"
+            "name": "杜育根",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -15224,7 +15299,8 @@
             "name": "陈煜仕"
           },
           {
-            "name": "张勇 (教练)"
+            "name": "张勇",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -15406,10 +15482,12 @@
             "name": "刘璨"
           },
           {
-            "name": "章英 (教练)"
+            "name": "章英",
+            "role": "coach"
           },
           {
-            "name": "汪毅 (教练)"
+            "name": "汪毅",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -15703,10 +15781,12 @@
             "name": "黄恩豪"
           },
           {
-            "name": "刁洪祥 (教练)"
+            "name": "刁洪祥",
+            "role": "coach"
           },
           {
-            "name": "李伟 (教练)"
+            "name": "李伟",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -15884,13 +15964,16 @@
             "name": "司楷瑞"
           },
           {
-            "name": "黄云峰 (教练)"
+            "name": "黄云峰",
+            "role": "coach"
           },
           {
-            "name": "唐向荣 (教练)"
+            "name": "唐向荣",
+            "role": "coach"
           },
           {
-            "name": "曾能旭 (教练)"
+            "name": "曾能旭",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -16135,7 +16218,8 @@
             "name": "徐欢"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -16313,7 +16397,8 @@
             "name": "周俊鑫"
           },
           {
-            "name": "李文凤 (教练)"
+            "name": "李文凤",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -16516,7 +16601,8 @@
             "name": "黄天"
           },
           {
-            "name": "周龙 (教练)"
+            "name": "周龙",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -16743,10 +16829,12 @@
             "name": "张威"
           },
           {
-            "name": "郑金龙 (教练)"
+            "name": "郑金龙",
+            "role": "coach"
           },
           {
-            "name": "聂盼红 (教练)"
+            "name": "聂盼红",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -16935,7 +17023,8 @@
             "name": "詹炜翔"
           },
           {
-            "name": "王金艳 (教练)"
+            "name": "王金艳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -17117,7 +17206,8 @@
             "name": "苏麟"
           },
           {
-            "name": "李连民 (教练)"
+            "name": "李连民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -17320,7 +17410,8 @@
             "name": "陈炫宏"
           },
           {
-            "name": "黄震 (教练)"
+            "name": "黄震",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -17491,10 +17582,12 @@
             "name": "邓从权"
           },
           {
-            "name": "刁洪祥 (教练)"
+            "name": "刁洪祥",
+            "role": "coach"
           },
           {
-            "name": "乔波 (教练)"
+            "name": "乔波",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -17742,7 +17835,8 @@
             "name": "李润卓"
           },
           {
-            "name": "蒋剑 (教练)"
+            "name": "蒋剑",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -17948,7 +18042,8 @@
             "name": "周科城"
           },
           {
-            "name": "周刚 (教练)"
+            "name": "周刚",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -18161,7 +18256,8 @@
             "name": "钟文熙"
           },
           {
-            "name": "孙宣东 (教练)"
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -18336,10 +18432,12 @@
             "name": "张宇铭"
           },
           {
-            "name": "刘宇佳 (教练)"
+            "name": "刘宇佳",
+            "role": "coach"
           },
           {
-            "name": "潘晓琴 (教练)"
+            "name": "潘晓琴",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -18580,7 +18678,8 @@
             "name": "吴本墨"
           },
           {
-            "name": "黄震 (教练)"
+            "name": "黄震",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -18741,10 +18840,12 @@
             "name": "詹宇飞"
           },
           {
-            "name": "陈爱国 (教练)"
+            "name": "陈爱国",
+            "role": "coach"
           },
           {
-            "name": "王颖 (教练)"
+            "name": "王颖",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -18933,7 +19034,8 @@
             "name": "李昊泽"
           },
           {
-            "name": "王端 (教练)"
+            "name": "王端",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -19171,7 +19273,8 @@
             "name": "邓俊威"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -19388,10 +19491,12 @@
             "name": "姚思源"
           },
           {
-            "name": "韦璐 (教练)"
+            "name": "韦璐",
+            "role": "coach"
           },
           {
-            "name": "董艳梅 (教练)"
+            "name": "董艳梅",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -19587,7 +19692,8 @@
             "name": "吴艺莹"
           },
           {
-            "name": "王涛 (教练)"
+            "name": "王涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -19818,7 +19924,8 @@
             "name": "景银强"
           },
           {
-            "name": "杨建锋 (教练)"
+            "name": "杨建锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -20021,13 +20128,16 @@
             "name": "冯子航"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -20237,7 +20347,8 @@
             "name": "崔翔栋"
           },
           {
-            "name": "任淑霞 (教练)"
+            "name": "任淑霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -20402,7 +20513,8 @@
             "name": "解天蔚"
           },
           {
-            "name": "熊青青 (教练)"
+            "name": "熊青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -20570,10 +20682,12 @@
             "name": "吕航"
           },
           {
-            "name": "黄薇 (教练)"
+            "name": "黄薇",
+            "role": "coach"
           },
           {
-            "name": "李燕 (教练)"
+            "name": "李燕",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -20762,10 +20876,12 @@
             "name": "刘益宏"
           },
           {
-            "name": "郑金龙 (教练)"
+            "name": "郑金龙",
+            "role": "coach"
           },
           {
-            "name": "聂盼红 (教练)"
+            "name": "聂盼红",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -21010,10 +21126,12 @@
             "name": "曾智聪"
           },
           {
-            "name": "王柱 (教练)"
+            "name": "王柱",
+            "role": "coach"
           },
           {
-            "name": "容振邦 (教练)"
+            "name": "容振邦",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -21237,7 +21355,8 @@
             "name": "郭宇航"
           },
           {
-            "name": "党佳晨 (教练)"
+            "name": "党佳晨",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -21506,10 +21625,12 @@
             "name": "陶家军"
           },
           {
-            "name": "李洁 (教练)"
+            "name": "李洁",
+            "role": "coach"
           },
           {
-            "name": "余荣川 (教练)"
+            "name": "余荣川",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -21767,10 +21888,12 @@
             "name": "聂远杰"
           },
           {
-            "name": "李皞 (教练)"
+            "name": "李皞",
+            "role": "coach"
           },
           {
-            "name": "余琛 (教练)"
+            "name": "余琛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -21970,7 +22093,8 @@
             "name": "高筠豪"
           },
           {
-            "name": "车建华 (教练)"
+            "name": "车建华",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -22215,7 +22339,8 @@
             "name": "郭臣希"
           },
           {
-            "name": "余放 (教练)"
+            "name": "余放",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -22422,10 +22547,12 @@
             "name": "段国钰"
           },
           {
-            "name": "潘广贞 (教练)"
+            "name": "潘广贞",
+            "role": "coach"
           },
           {
-            "name": "李玉蓉 (教练)"
+            "name": "李玉蓉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -22611,13 +22738,16 @@
             "name": "徐谦益"
           },
           {
-            "name": "黄云峰 (教练)"
+            "name": "黄云峰",
+            "role": "coach"
           },
           {
-            "name": "李樱 (教练)"
+            "name": "李樱",
+            "role": "coach"
           },
           {
-            "name": "曾能旭 (教练)"
+            "name": "曾能旭",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -22872,7 +23002,8 @@
             "name": "陈思琪"
           },
           {
-            "name": "饶浩 (教练)"
+            "name": "饶浩",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -23106,7 +23237,8 @@
             "name": "王语晴"
           },
           {
-            "name": "杜育根 (教练)"
+            "name": "杜育根",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -23354,7 +23486,8 @@
             "name": "李领玉"
           },
           {
-            "name": "熊青青 (教练)"
+            "name": "熊青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -23561,7 +23694,8 @@
             "name": "刘益平"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -23900,10 +24034,12 @@
             "name": "钱宗耀"
           },
           {
-            "name": "马永强 (教练)"
+            "name": "马永强",
+            "role": "coach"
           },
           {
-            "name": "汤永利 (教练)"
+            "name": "汤永利",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -24232,10 +24368,12 @@
             "name": "叶丹"
           },
           {
-            "name": "董艳梅 (教练)"
+            "name": "董艳梅",
+            "role": "coach"
           },
           {
-            "name": "韦茜妤 (教练)"
+            "name": "韦茜妤",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -24600,7 +24738,8 @@
             "name": "史腾远"
           },
           {
-            "name": "罗泽 (教练)"
+            "name": "罗泽",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -24820,7 +24959,8 @@
             "name": "谢家平"
           },
           {
-            "name": "何可可 (教练)"
+            "name": "何可可",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -25009,7 +25149,8 @@
             "name": "范俊希"
           },
           {
-            "name": "帅知春 (教练)"
+            "name": "帅知春",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -25201,10 +25342,12 @@
             "name": "周丽欣"
           },
           {
-            "name": "尹今士 (教练)"
+            "name": "尹今士",
+            "role": "coach"
           },
           {
-            "name": "韦璐 (教练)"
+            "name": "韦璐",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -25445,7 +25588,8 @@
             "name": "蔡雯雯"
           },
           {
-            "name": "赵尔敦 (教练)"
+            "name": "赵尔敦",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -25700,7 +25844,8 @@
             "name": "聂嘉雄"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -25923,7 +26068,8 @@
             "name": "李明洋"
           },
           {
-            "name": "陈传祥 (教练)"
+            "name": "陈传祥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -26105,7 +26251,8 @@
             "name": "肖贤灿"
           },
           {
-            "name": "欧余韬 (教练)"
+            "name": "欧余韬",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -26255,10 +26402,12 @@
             "name": "谢博轩"
           },
           {
-            "name": "韦璐 (教练)"
+            "name": "韦璐",
+            "role": "coach"
           },
           {
-            "name": "董艳梅 (教练)"
+            "name": "董艳梅",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -26461,7 +26610,8 @@
             "name": "江佳培"
           },
           {
-            "name": "王子民 (教练)"
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -26636,7 +26786,8 @@
             "name": "李思甜"
           },
           {
-            "name": "万德焕 (教练)"
+            "name": "万德焕",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -26800,7 +26951,8 @@
             "name": "龚鹤峰"
           },
           {
-            "name": "邓晓军 (教练)"
+            "name": "邓晓军",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -26971,10 +27123,12 @@
             "name": "邓新豪"
           },
           {
-            "name": "黄天旭 (教练)"
+            "name": "黄天旭",
+            "role": "coach"
           },
           {
-            "name": "陈芊钰 (教练)"
+            "name": "陈芊钰",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -27131,7 +27285,8 @@
             "name": "李孝强"
           },
           {
-            "name": "詹锋 (教练)"
+            "name": "詹锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -27309,10 +27464,12 @@
             "name": "卢陈椅"
           },
           {
-            "name": "林泓全 (教练)"
+            "name": "林泓全",
+            "role": "coach"
           },
           {
-            "name": "曾庆湖 (教练)"
+            "name": "曾庆湖",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -27496,13 +27653,16 @@
             "name": "石弘源"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -27642,7 +27802,8 @@
             "name": "邹卓昂"
           },
           {
-            "name": "赵尔敦 (教练)"
+            "name": "赵尔敦",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -27956,7 +28117,8 @@
             "name": "朱佳伟"
           },
           {
-            "name": "张自力 (教练)"
+            "name": "张自力",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -28141,7 +28303,8 @@
             "name": "万涛涛"
           },
           {
-            "name": "刘喜平 (教练)"
+            "name": "刘喜平",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -28281,7 +28444,8 @@
             "name": "郑于威"
           },
           {
-            "name": "熊青青 (教练)"
+            "name": "熊青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -28522,10 +28686,12 @@
             "name": "张海洋"
           },
           {
-            "name": "董艳梅 (教练)"
+            "name": "董艳梅",
+            "role": "coach"
           },
           {
-            "name": "韦茜妤 (教练)"
+            "name": "韦茜妤",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -28969,7 +29135,8 @@
             "name": "郭明炜"
           },
           {
-            "name": "杨超 (教练)"
+            "name": "杨超",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -29154,10 +29321,12 @@
             "name": "黄达聪"
           },
           {
-            "name": "王柱 (教练)"
+            "name": "王柱",
+            "role": "coach"
           },
           {
-            "name": "容振邦 (教练)"
+            "name": "容振邦",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -29335,7 +29504,8 @@
             "name": "廖世毅"
           },
           {
-            "name": "陈广明 (教练)"
+            "name": "陈广明",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -29660,7 +29830,8 @@
             "name": "古思浪"
           },
           {
-            "name": "何金花 (教练)"
+            "name": "何金花",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -29898,7 +30069,8 @@
             "name": "李嘉怡"
           },
           {
-            "name": "戴成秋 (教练)"
+            "name": "戴成秋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -30052,7 +30224,8 @@
             "name": "曹政凯"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -30255,13 +30428,16 @@
             "name": "全羿寰"
           },
           {
-            "name": "陈江媛 (教练)"
+            "name": "陈江媛",
+            "role": "coach"
           },
           {
-            "name": "韦若皓 (教练)"
+            "name": "韦若皓",
+            "role": "coach"
           },
           {
-            "name": "桂欣 (教练)"
+            "name": "桂欣",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -30394,7 +30570,8 @@
             "name": "祈祷"
           },
           {
-            "name": "王子民 (教练)"
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -30518,7 +30695,8 @@
             "name": "蒋昊君"
           },
           {
-            "name": "潘凯锋 (教练)"
+            "name": "潘凯锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -30762,7 +30940,8 @@
             "name": "蔡宇鑫"
           },
           {
-            "name": "罗泽 (教练)"
+            "name": "罗泽",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -31010,10 +31189,12 @@
             "name": "房静"
           },
           {
-            "name": "王建芳 (教练)"
+            "name": "王建芳",
+            "role": "coach"
           },
           {
-            "name": "张建春 (教练)"
+            "name": "张建春",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -31324,7 +31505,8 @@
             "name": "张荣鑫"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -31551,7 +31733,8 @@
             "name": "肖宇轩"
           },
           {
-            "name": "孙小龙 (教练)"
+            "name": "孙小龙",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -31681,7 +31864,8 @@
             "name": "刘敬泽"
           },
           {
-            "name": "熊青青 (教练)"
+            "name": "熊青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -31859,7 +32043,8 @@
             "name": "吴炫"
           },
           {
-            "name": "童孟军 (教练)"
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -32065,7 +32250,8 @@
             "name": "伍健铭"
           },
           {
-            "name": "陈传祥 (教练)"
+            "name": "陈传祥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -32195,10 +32381,12 @@
             "name": "王豪"
           },
           {
-            "name": "罗泽 (教练)"
+            "name": "罗泽",
+            "role": "coach"
           },
           {
-            "name": "刘新宇 (教练)"
+            "name": "刘新宇",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -32376,7 +32564,8 @@
             "name": "刘晖"
           },
           {
-            "name": "刘培顺 (教练)"
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -32554,7 +32743,8 @@
             "name": "赵景林"
           },
           {
-            "name": "刘佳 (教练)"
+            "name": "刘佳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -32750,13 +32940,16 @@
             "name": "刘卓然"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -32965,7 +33158,8 @@
             "name": "蒋滔"
           },
           {
-            "name": "李季 (教练)"
+            "name": "李季",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -33290,7 +33484,8 @@
             "name": "陈锦鸿"
           },
           {
-            "name": "王涛 (教练)"
+            "name": "王涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -33517,7 +33712,8 @@
             "name": "张一鼎"
           },
           {
-            "name": "李文凤 (教练)"
+            "name": "李文凤",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -33692,7 +33888,8 @@
             "name": "吴松岩"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -33853,10 +34050,12 @@
             "name": "彭斌"
           },
           {
-            "name": "陈传祥 (教练)"
+            "name": "陈传祥",
+            "role": "coach"
           },
           {
-            "name": "陶铭 (教练)"
+            "name": "陶铭",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -34083,7 +34282,8 @@
             "name": "李悦豪"
           },
           {
-            "name": "欧阳佳 (教练)"
+            "name": "欧阳佳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -34313,13 +34513,16 @@
             "name": "宋之星"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -34553,7 +34756,8 @@
             "name": "钟文贤"
           },
           {
-            "name": "陈坚强 (教练)"
+            "name": "陈坚强",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -34756,10 +34960,12 @@
             "name": "兰斯宇"
           },
           {
-            "name": "葛丽娜 (教练)"
+            "name": "葛丽娜",
+            "role": "coach"
           },
           {
-            "name": "李熹 (教练)"
+            "name": "李熹",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -34996,7 +35202,8 @@
             "name": "关博仁"
           },
           {
-            "name": "李昌清 (教练)"
+            "name": "李昌清",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -35188,7 +35395,8 @@
             "name": "张曙光"
           },
           {
-            "name": "谢晓兰 (教练)"
+            "name": "谢晓兰",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -35342,7 +35550,8 @@
             "name": "付志远"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -35569,7 +35778,8 @@
             "name": "赵庆淇"
           },
           {
-            "name": "熊青青 (教练)"
+            "name": "熊青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -35789,7 +35999,8 @@
             "name": "张瑞雨"
           },
           {
-            "name": "潘岩 (教练)"
+            "name": "潘岩",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -36061,7 +36272,8 @@
             "name": "郑裕航"
           },
           {
-            "name": "周桥桥 (教练)"
+            "name": "周桥桥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -36257,7 +36469,8 @@
             "name": "于豪"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -36505,7 +36718,8 @@
             "name": "方淳铭"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -36733,7 +36947,8 @@
             "name": "黄禹霖"
           },
           {
-            "name": "党佳晨 (教练)"
+            "name": "党佳晨",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -37037,10 +37252,12 @@
             "name": "钟腾辉"
           },
           {
-            "name": "刘利 (教练)"
+            "name": "刘利",
+            "role": "coach"
           },
           {
-            "name": "杨雄 (教练)"
+            "name": "杨雄",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -37253,7 +37470,8 @@
             "name": "白树林"
           },
           {
-            "name": "王子民 (教练)"
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -37390,10 +37608,12 @@
             "name": "沈志炜"
           },
           {
-            "name": "谭玻 (教练)"
+            "name": "谭玻",
+            "role": "coach"
           },
           {
-            "name": "蒙峭缘 (教练)"
+            "name": "蒙峭缘",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -37564,10 +37784,12 @@
             "name": "胡瀟涵"
           },
           {
-            "name": "黄薇 (教练)"
+            "name": "黄薇",
+            "role": "coach"
           },
           {
-            "name": "胡雯 (教练)"
+            "name": "胡雯",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -37791,10 +38013,12 @@
             "name": "于滔"
           },
           {
-            "name": "陈文鹏 (教练)"
+            "name": "陈文鹏",
+            "role": "coach"
           },
           {
-            "name": "敬超 (教练)"
+            "name": "敬超",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -37962,7 +38186,8 @@
             "name": "张路杰"
           },
           {
-            "name": "王静 (教练)"
+            "name": "王静",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -38161,7 +38386,8 @@
             "name": "艾翰"
           },
           {
-            "name": "韩俊英 (教练)"
+            "name": "韩俊英",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -38451,7 +38677,8 @@
             "name": "黄万年"
           },
           {
-            "name": "陈传祥 (教练)"
+            "name": "陈传祥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -38636,7 +38863,8 @@
             "name": "张博晗"
           },
           {
-            "name": "林福平 (教练)"
+            "name": "林福平",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -38864,13 +39092,16 @@
             "name": "谢奕欣"
           },
           {
-            "name": "黄云峰 (教练)"
+            "name": "黄云峰",
+            "role": "coach"
           },
           {
-            "name": "黄斌 (教练)"
+            "name": "黄斌",
+            "role": "coach"
           },
           {
-            "name": "李樱 (教练)"
+            "name": "李樱",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -39118,7 +39349,8 @@
             "name": "郭程嘉"
           },
           {
-            "name": "党佳晨 (教练)"
+            "name": "党佳晨",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -39276,7 +39508,8 @@
             "name": "余政远"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -39531,10 +39764,12 @@
             "name": "陆贤辉"
           },
           {
-            "name": "王建芳 (教练)"
+            "name": "王建芳",
+            "role": "coach"
           },
           {
-            "name": "孙江峰 (教练)"
+            "name": "孙江峰",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -39685,10 +39920,12 @@
             "name": "王晗"
           },
           {
-            "name": "章英 (教练)"
+            "name": "章英",
+            "role": "coach"
           },
           {
-            "name": "赵良 (教练)"
+            "name": "赵良",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -39975,7 +40212,8 @@
             "name": "赖弈廷"
           },
           {
-            "name": "周刚 (教练)"
+            "name": "周刚",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -40192,7 +40430,8 @@
             "name": "胡畔然"
           },
           {
-            "name": "胡春玲 (教练)"
+            "name": "胡春玲",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -40374,10 +40613,12 @@
             "name": "马明丽"
           },
           {
-            "name": "林彬 (教练)"
+            "name": "林彬",
+            "role": "coach"
           },
           {
-            "name": "封全喜 (教练)"
+            "name": "封全喜",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -40590,7 +40831,8 @@
             "name": "夏浩阳"
           },
           {
-            "name": "詹锋 (教练)"
+            "name": "詹锋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -40838,7 +41080,8 @@
             "name": "舒浩明"
           },
           {
-            "name": "戴成秋 (教练)"
+            "name": "戴成秋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -41027,13 +41270,16 @@
             "name": "周天睿"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -41268,7 +41514,8 @@
             "name": "李伊晨"
           },
           {
-            "name": "唐振军 (教练)"
+            "name": "唐振军",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -41475,7 +41722,8 @@
             "name": "傅锦洋"
           },
           {
-            "name": "彭亚飞 (教练)"
+            "name": "彭亚飞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -41642,7 +41890,8 @@
             "name": "谢作鑫"
           },
           {
-            "name": "何金花 (教练)"
+            "name": "何金花",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -41935,10 +42184,12 @@
             "name": "冯智桀"
           },
           {
-            "name": "施运应 (教练)"
+            "name": "施运应",
+            "role": "coach"
           },
           {
-            "name": "梁志勋 (教练)"
+            "name": "梁志勋",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -42147,7 +42398,8 @@
             "name": "陈阳凤"
           },
           {
-            "name": "罗泽 (教练)"
+            "name": "罗泽",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -42339,7 +42591,8 @@
             "name": "罗渝川"
           },
           {
-            "name": "农京辉 (教练)"
+            "name": "农京辉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -42563,10 +42816,12 @@
             "name": "张汝洋"
           },
           {
-            "name": "张红军 (教练)"
+            "name": "张红军",
+            "role": "coach"
           },
           {
-            "name": "李佳佳 (教练)"
+            "name": "李佳佳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -42755,7 +43010,8 @@
             "name": "韦首一"
           },
           {
-            "name": "周龙 (教练)"
+            "name": "周龙",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -42933,7 +43189,8 @@
             "name": "李想"
           },
           {
-            "name": "陈传祥 (教练)"
+            "name": "陈传祥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -43083,7 +43340,8 @@
             "name": "余天顺"
           },
           {
-            "name": "李洪涛 (教练)"
+            "name": "李洪涛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -43264,7 +43522,8 @@
             "name": "郝乾琅"
           },
           {
-            "name": "周桥桥 (教练)"
+            "name": "周桥桥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -43463,7 +43722,8 @@
             "name": "区润基"
           },
           {
-            "name": "陈传祥 (教练)"
+            "name": "陈传祥",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -43596,7 +43856,8 @@
             "name": "郑鸿烨"
           },
           {
-            "name": "龙丹 (教练)"
+            "name": "龙丹",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -43736,7 +43997,8 @@
             "name": "覃嘉庆"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -43872,7 +44134,8 @@
             "name": "冯昊岚"
           },
           {
-            "name": "张鉴新 (教练)"
+            "name": "张鉴新",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -44326,13 +44589,16 @@
             "name": "张亦章"
           },
           {
-            "name": "黄云峰 (教练)"
+            "name": "黄云峰",
+            "role": "coach"
           },
           {
-            "name": "黄斌 (教练)"
+            "name": "黄斌",
+            "role": "coach"
           },
           {
-            "name": "曾能旭 (教练)"
+            "name": "曾能旭",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -44566,10 +44832,12 @@
             "name": "宋秉坤"
           },
           {
-            "name": "潘广贞 (教练)"
+            "name": "潘广贞",
+            "role": "coach"
           },
           {
-            "name": "李玉蓉 (教练)"
+            "name": "李玉蓉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -44733,10 +45001,12 @@
             "name": "林泽男"
           },
           {
-            "name": "覃春芳 (教练)"
+            "name": "覃春芳",
+            "role": "coach"
           },
           {
-            "name": "刘美玲 (教练)"
+            "name": "刘美玲",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -44918,7 +45188,8 @@
             "name": "朱培涵"
           },
           {
-            "name": "李文凤 (教练)"
+            "name": "李文凤",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -45044,7 +45315,8 @@
             "name": "颜子杰"
           },
           {
-            "name": "罗泽 (教练)"
+            "name": "罗泽",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -45323,7 +45595,8 @@
             "name": "贾玲洁"
           },
           {
-            "name": "罗许练 (教练)"
+            "name": "罗许练",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -45567,7 +45840,8 @@
             "name": "张佳晨"
           },
           {
-            "name": "童孟军 (教练)"
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -45790,10 +46064,12 @@
             "name": "苏时瀛"
           },
           {
-            "name": "覃春芳 (教练)"
+            "name": "覃春芳",
+            "role": "coach"
           },
           {
-            "name": "刘美玲 (教练)"
+            "name": "刘美玲",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -46094,7 +46370,8 @@
             "name": "周梓鸿"
           },
           {
-            "name": "童孟军 (教练)"
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -46262,7 +46539,8 @@
             "name": "王冬傲"
           },
           {
-            "name": "胡春玲 (教练)"
+            "name": "胡春玲",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -46489,7 +46767,8 @@
             "name": "钟祖浩"
           },
           {
-            "name": "徐僮谣 (教练)"
+            "name": "徐僮谣",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -46622,7 +46901,8 @@
             "name": "田景愿"
           },
           {
-            "name": "吴璟莉 (教练)"
+            "name": "吴璟莉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -46824,7 +47104,8 @@
             "name": "覃棕炫"
           },
           {
-            "name": "李志欣 (教练)"
+            "name": "李志欣",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -46964,7 +47245,8 @@
             "name": "姚古寅"
           },
           {
-            "name": "章杰鑫 (教练)"
+            "name": "章杰鑫",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -47125,7 +47407,8 @@
             "name": "段文睿"
           },
           {
-            "name": "韩雷刚 (教练)"
+            "name": "韩雷刚",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -47342,10 +47625,12 @@
             "name": "翁依婷"
           },
           {
-            "name": "张红军 (教练)"
+            "name": "张红军",
+            "role": "coach"
           },
           {
-            "name": "李佳佳 (教练)"
+            "name": "李佳佳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -47544,7 +47829,8 @@
             "name": "顾鑫"
           },
           {
-            "name": "潘岩 (教练)"
+            "name": "潘岩",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -47739,7 +48025,8 @@
             "name": "赵子轩"
           },
           {
-            "name": "吴克标 (教练)"
+            "name": "吴克标",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -47940,7 +48227,8 @@
             "name": "刘冠宇"
           },
           {
-            "name": "张庆生 (教练)"
+            "name": "张庆生",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -48125,7 +48413,8 @@
             "name": "裴红焕"
           },
           {
-            "name": "陆声链 (教练)"
+            "name": "陆声链",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -48336,7 +48625,8 @@
             "name": "石肖敏"
           },
           {
-            "name": "李剑维 (教练)"
+            "name": "李剑维",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -48598,10 +48888,12 @@
             "name": "余滨海"
           },
           {
-            "name": "唐鹏 (教练)"
+            "name": "唐鹏",
+            "role": "coach"
           },
           {
-            "name": "易云飞 (教练)"
+            "name": "易云飞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -48758,10 +49050,12 @@
             "name": "孙浩岚"
           },
           {
-            "name": "黄子坤 (教练)"
+            "name": "黄子坤",
+            "role": "coach"
           },
           {
-            "name": "杨嫘 (教练)"
+            "name": "杨嫘",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -48908,13 +49202,16 @@
             "name": "张哲奕"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -49116,10 +49413,12 @@
             "name": "杨骐荣"
           },
           {
-            "name": "吴娟 (教练)"
+            "name": "吴娟",
+            "role": "coach"
           },
           {
-            "name": "韦璐 (教练)"
+            "name": "韦璐",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -49346,13 +49645,16 @@
             "name": "刘梓柠"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -49506,7 +49808,8 @@
             "name": "陈安睿"
           },
           {
-            "name": "张慧敏 (教练)"
+            "name": "张慧敏",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -49723,10 +50026,12 @@
             "name": "王安东"
           },
           {
-            "name": "敬超 (教练)"
+            "name": "敬超",
+            "role": "coach"
           },
           {
-            "name": "邓酩 (教练)"
+            "name": "邓酩",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -49869,10 +50174,12 @@
             "name": "何杰升"
           },
           {
-            "name": "陈文鹏 (教练)"
+            "name": "陈文鹏",
+            "role": "coach"
           },
           {
-            "name": "邓昀 (教练)"
+            "name": "邓昀",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -50050,7 +50357,8 @@
             "name": "罗浩铭"
           },
           {
-            "name": "张庆生 (教练)"
+            "name": "张庆生",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -50322,7 +50630,8 @@
             "name": "陈逸洋"
           },
           {
-            "name": "欧余韬 (教练)"
+            "name": "欧余韬",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -50507,10 +50816,12 @@
             "name": "林丹"
           },
           {
-            "name": "韦茜妤 (教练)"
+            "name": "韦茜妤",
+            "role": "coach"
           },
           {
-            "name": "董艳梅 (教练)"
+            "name": "董艳梅",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -50663,13 +50974,16 @@
             "name": "周钲烨"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -50826,7 +51140,8 @@
             "name": "钟鉴球"
           },
           {
-            "name": "李剑维 (教练)"
+            "name": "李剑维",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -51263,10 +51578,12 @@
             "name": "陈壮志"
           },
           {
-            "name": "李文凤 (教练)"
+            "name": "李文凤",
+            "role": "coach"
           },
           {
-            "name": "王士斌 (教练)"
+            "name": "王士斌",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -51472,10 +51789,12 @@
             "name": "向本森"
           },
           {
-            "name": "韦茜妤 (教练)"
+            "name": "韦茜妤",
+            "role": "coach"
           },
           {
-            "name": "董艳梅 (教练)"
+            "name": "董艳梅",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -51646,7 +51965,8 @@
             "name": "陈浩锴"
           },
           {
-            "name": "刘兰 (教练)"
+            "name": "刘兰",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -51911,7 +52231,8 @@
             "name": "李健弘"
           },
           {
-            "name": "王子民 (教练)"
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -52085,13 +52406,16 @@
             "name": "王韬竣"
           },
           {
-            "name": "黄云峰 (教练)"
+            "name": "黄云峰",
+            "role": "coach"
           },
           {
-            "name": "唐向荣 (教练)"
+            "name": "唐向荣",
+            "role": "coach"
           },
           {
-            "name": "曾能旭 (教练)"
+            "name": "曾能旭",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -52238,10 +52562,12 @@
             "name": "林信琳"
           },
           {
-            "name": "余荣川 (教练)"
+            "name": "余荣川",
+            "role": "coach"
           },
           {
-            "name": "王晓亮 (教练)"
+            "name": "王晓亮",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -52412,7 +52738,8 @@
             "name": "吴苏杰"
           },
           {
-            "name": "黄斌 (教练)"
+            "name": "黄斌",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -52569,10 +52896,12 @@
             "name": "张国坚"
           },
           {
-            "name": "姜愉 (教练)"
+            "name": "姜愉",
+            "role": "coach"
           },
           {
-            "name": "王青青 (教练)"
+            "name": "王青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -52831,10 +53160,12 @@
             "name": "符琪"
           },
           {
-            "name": "李洁 (教练)"
+            "name": "李洁",
+            "role": "coach"
           },
           {
-            "name": "余荣川 (教练)"
+            "name": "余荣川",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -53029,7 +53360,8 @@
             "name": "黄铭翊"
           },
           {
-            "name": "周龙 (教练)"
+            "name": "周龙",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -53305,7 +53637,8 @@
             "name": "王名扬"
           },
           {
-            "name": "谢晓兰 (教练)"
+            "name": "谢晓兰",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -53525,7 +53858,8 @@
             "name": "罗宗耀"
           },
           {
-            "name": "李剑维 (教练)"
+            "name": "李剑维",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -53689,10 +54023,12 @@
             "name": "陈远键"
           },
           {
-            "name": "张桂芬 (教练)"
+            "name": "张桂芬",
+            "role": "coach"
           },
           {
-            "name": "孟华志 (教练)"
+            "name": "孟华志",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -53891,10 +54227,12 @@
             "name": "骆嘉怡"
           },
           {
-            "name": "黄子坤 (教练)"
+            "name": "黄子坤",
+            "role": "coach"
           },
           {
-            "name": "杨嫘 (教练)"
+            "name": "杨嫘",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -54017,7 +54355,8 @@
             "name": "凌浩然"
           },
           {
-            "name": "龙丹 (教练)"
+            "name": "龙丹",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -54185,7 +54524,8 @@
             "name": "徐泽坤"
           },
           {
-            "name": "王子民 (教练)"
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -54384,10 +54724,12 @@
             "name": "罗舜安"
           },
           {
-            "name": "尹今士 (教练)"
+            "name": "尹今士",
+            "role": "coach"
           },
           {
-            "name": "董艳梅 (教练)"
+            "name": "董艳梅",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -54562,7 +54904,8 @@
             "name": "李锦权"
           },
           {
-            "name": "何金花 (教练)"
+            "name": "何金花",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -54733,10 +55076,12 @@
             "name": "陈祖峰"
           },
           {
-            "name": "邓酩 (教练)"
+            "name": "邓酩",
+            "role": "coach"
           },
           {
-            "name": "王德成 (教练)"
+            "name": "王德成",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -54984,7 +55329,8 @@
             "name": "魏槿沂"
           },
           {
-            "name": "王子民 (教练)"
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -55138,7 +55484,8 @@
             "name": "丁语萱"
           },
           {
-            "name": "李文凤 (教练)"
+            "name": "李文凤",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -55344,7 +55691,8 @@
             "name": "王艺杰"
           },
           {
-            "name": "李昌清 (教练)"
+            "name": "李昌清",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -55547,10 +55895,12 @@
             "name": "侯辉"
           },
           {
-            "name": "张红军 (教练)"
+            "name": "张红军",
+            "role": "coach"
           },
           {
-            "name": "李佳佳 (教练)"
+            "name": "李佳佳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -55659,7 +56009,8 @@
             "name": "魏纪缨"
           },
           {
-            "name": "周龙 (教练)"
+            "name": "周龙",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -55886,7 +56237,8 @@
             "name": "朱泓霖"
           },
           {
-            "name": "李广湖 (教练)"
+            "name": "李广湖",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -56047,13 +56399,16 @@
             "name": "上官锦轩"
           },
           {
-            "name": "叶丽鹏 (教练)"
+            "name": "叶丽鹏",
+            "role": "coach"
           },
           {
-            "name": "李洪涌 (教练)"
+            "name": "李洪涌",
+            "role": "coach"
           },
           {
-            "name": "杨文献 (教练)"
+            "name": "杨文献",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -56287,10 +56642,12 @@
             "name": "岑德容"
           },
           {
-            "name": "黄子坤 (教练)"
+            "name": "黄子坤",
+            "role": "coach"
           },
           {
-            "name": "罗梦贞 (教练)"
+            "name": "罗梦贞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -56496,10 +56853,12 @@
             "name": "叶子煊"
           },
           {
-            "name": "邱斌 (教练)"
+            "name": "邱斌",
+            "role": "coach"
           },
           {
-            "name": "邓昀 (教练)"
+            "name": "邓昀",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -56681,10 +57040,12 @@
             "name": "吴鹃芳"
           },
           {
-            "name": "赵家祺 (教练)"
+            "name": "赵家祺",
+            "role": "coach"
           },
           {
-            "name": "段艳明 (教练)"
+            "name": "段艳明",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -56831,13 +57192,16 @@
             "name": "苏海辰"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -56963,13 +57327,16 @@
             "name": "韦依辰"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -57144,13 +57511,16 @@
             "name": "覃明曦"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -57353,10 +57723,12 @@
             "name": "郑志宏"
           },
           {
-            "name": "刘卫平 (教练)"
+            "name": "刘卫平",
+            "role": "coach"
           },
           {
-            "name": "侯睿 (教练)"
+            "name": "侯睿",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -57559,13 +57931,16 @@
             "name": "覃郁新"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -57729,13 +58104,16 @@
             "name": "贺纤壹"
           },
           {
-            "name": "李春波 (教练)"
+            "name": "李春波",
+            "role": "coach"
           },
           {
-            "name": "姚燕娇 (教练)"
+            "name": "姚燕娇",
+            "role": "coach"
           },
           {
-            "name": "赵宏毅 (教练)"
+            "name": "赵宏毅",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -58045,10 +58423,12 @@
             "name": "于昊东"
           },
           {
-            "name": "黄天旭 (教练)"
+            "name": "黄天旭",
+            "role": "coach"
           },
           {
-            "name": "陈芊钰 (教练)"
+            "name": "陈芊钰",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -58237,10 +58617,12 @@
             "name": "代万里"
           },
           {
-            "name": "邓昀 (教练)"
+            "name": "邓昀",
+            "role": "coach"
           },
           {
-            "name": "王德成 (教练)"
+            "name": "王德成",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -58415,10 +58797,12 @@
             "name": "刘莎铭"
           },
           {
-            "name": "徐僮谣 (教练)"
+            "name": "徐僮谣",
+            "role": "coach"
           },
           {
-            "name": "陈蓉蓉 (教练)"
+            "name": "陈蓉蓉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -58663,13 +59047,16 @@
             "name": "褚朗淳"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -58872,10 +59259,12 @@
             "name": "朱健"
           },
           {
-            "name": "孙庆庆 (教练)"
+            "name": "孙庆庆",
+            "role": "coach"
           },
           {
-            "name": "刘琼 (教练)"
+            "name": "刘琼",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -59029,7 +59418,8 @@
             "name": "张文曦"
           },
           {
-            "name": "万德焕 (教练)"
+            "name": "万德焕",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -59200,7 +59590,8 @@
             "name": "麦庆龙"
           },
           {
-            "name": "欧余韬 (教练)"
+            "name": "欧余韬",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -59361,7 +59752,8 @@
             "name": "廖隽仪"
           },
           {
-            "name": "曹校林 (教练)"
+            "name": "曹校林",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -59564,13 +59956,16 @@
             "name": "郑彦洵"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -59724,7 +60119,8 @@
             "name": "磨泓睿"
           },
           {
-            "name": "史哲卿 (教练)"
+            "name": "史哲卿",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -59906,7 +60302,8 @@
             "name": "曹向阳"
           },
           {
-            "name": "何金花 (教练)"
+            "name": "何金花",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -60098,10 +60495,12 @@
             "name": "李炫"
           },
           {
-            "name": "徐僮谣 (教练)"
+            "name": "徐僮谣",
+            "role": "coach"
           },
           {
-            "name": "陈蓉蓉 (教练)"
+            "name": "陈蓉蓉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -60269,10 +60668,12 @@
             "name": "高仕卿"
           },
           {
-            "name": "张桂芬 (教练)"
+            "name": "张桂芬",
+            "role": "coach"
           },
           {
-            "name": "孟华志 (教练)"
+            "name": "孟华志",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -60450,7 +60851,8 @@
             "name": "任逸菲"
           },
           {
-            "name": "尹红丽 (教练)"
+            "name": "尹红丽",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -60656,13 +61058,16 @@
             "name": "陈品均"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -60847,7 +61252,8 @@
             "name": "宋致远"
           },
           {
-            "name": "何金花 (教练)"
+            "name": "何金花",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -61032,10 +61438,12 @@
             "name": "刘月鸣"
           },
           {
-            "name": "蒙峭缘 (教练)"
+            "name": "蒙峭缘",
+            "role": "coach"
           },
           {
-            "name": "谭玻 (教练)"
+            "name": "谭玻",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -61158,13 +61566,16 @@
             "name": "赵弘泽"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -61486,13 +61897,16 @@
             "name": "莫文皓"
           },
           {
-            "name": "左家念 (教练)"
+            "name": "左家念",
+            "role": "coach"
           },
           {
-            "name": "韦冠杰 (教练)"
+            "name": "韦冠杰",
+            "role": "coach"
           },
           {
-            "name": "覃明芳 (教练)"
+            "name": "覃明芳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -61733,7 +62147,8 @@
             "name": "何穗希"
           },
           {
-            "name": "罗伟 (教练)"
+            "name": "罗伟",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -61904,13 +62319,16 @@
             "name": "莫慑核"
           },
           {
-            "name": "黄艳梅 (教练)"
+            "name": "黄艳梅",
+            "role": "coach"
           },
           {
-            "name": "兰雅 (教练)"
+            "name": "兰雅",
+            "role": "coach"
           },
           {
-            "name": "韦宁宁 (教练)"
+            "name": "韦宁宁",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -62165,7 +62583,8 @@
             "name": "吴炳烽"
           },
           {
-            "name": "章杰鑫 (教练)"
+            "name": "章杰鑫",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -62288,10 +62707,12 @@
             "name": "兰今宋"
           },
           {
-            "name": "姜愉 (教练)"
+            "name": "姜愉",
+            "role": "coach"
           },
           {
-            "name": "王青青 (教练)"
+            "name": "王青青",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -62428,10 +62849,12 @@
             "name": "覃海宁"
           },
           {
-            "name": "黄子坤 (教练)"
+            "name": "黄子坤",
+            "role": "coach"
           },
           {
-            "name": "廖媛媛 (教练)"
+            "name": "廖媛媛",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -62599,13 +63022,16 @@
             "name": "张相勋"
           },
           {
-            "name": "胡冬明 (教练)"
+            "name": "胡冬明",
+            "role": "coach"
           },
           {
-            "name": "黄长茂 (教练)"
+            "name": "黄长茂",
+            "role": "coach"
           },
           {
-            "name": "陆春酉 (教练)"
+            "name": "陆春酉",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -62815,7 +63241,8 @@
             "name": "贺文静"
           },
           {
-            "name": "章杰鑫 (教练)"
+            "name": "章杰鑫",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -62945,7 +63372,8 @@
             "name": "王鑫"
           },
           {
-            "name": "章杰鑫 (教练)"
+            "name": "章杰鑫",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -63200,10 +63628,12 @@
             "name": "翁毓佑"
           },
           {
-            "name": "黄子坤 (教练)"
+            "name": "黄子坤",
+            "role": "coach"
           },
           {
-            "name": "罗培中 (教练)"
+            "name": "罗培中",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -63361,13 +63791,16 @@
             "name": "卢冠之"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -63577,7 +64010,8 @@
             "name": "刘任航"
           },
           {
-            "name": "何金花 (教练)"
+            "name": "何金花",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -63766,7 +64200,8 @@
             "name": "谭烜佳"
           },
           {
-            "name": "秦川 (教练)"
+            "name": "秦川",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -63938,7 +64373,8 @@
             "name": "谭定"
           },
           {
-            "name": "王子民 (教练)"
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -64236,7 +64672,8 @@
             "name": "陈昱帆"
           },
           {
-            "name": "郑志材 (教练)"
+            "name": "郑志材",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -64414,13 +64851,16 @@
             "name": "杨梓艺"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -64577,13 +65017,16 @@
             "name": "易佳昀"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -64744,10 +65187,12 @@
             "name": "陈灵姝"
           },
           {
-            "name": "韦海清 (教练)"
+            "name": "韦海清",
+            "role": "coach"
           },
           {
-            "name": "朱家全 (教练)"
+            "name": "朱家全",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -64842,10 +65287,12 @@
             "name": "韩松余"
           },
           {
-            "name": "练佳熠 (教练)"
+            "name": "练佳熠",
+            "role": "coach"
           },
           {
-            "name": "唐子蛟 (教练)"
+            "name": "唐子蛟",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -64989,13 +65436,16 @@
             "name": "许皓钧"
           },
           {
-            "name": "叶丽鹏 (教练)"
+            "name": "叶丽鹏",
+            "role": "coach"
           },
           {
-            "name": "郑宇雯 (教练)"
+            "name": "郑宇雯",
+            "role": "coach"
           },
           {
-            "name": "杨永成 (教练)"
+            "name": "杨永成",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -65191,7 +65641,8 @@
             "name": "黄译可"
           },
           {
-            "name": "黄子荣 (教练)"
+            "name": "黄子荣",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -65551,10 +66002,12 @@
             "name": "陆子恒"
           },
           {
-            "name": "罗运贞 (教练)"
+            "name": "罗运贞",
+            "role": "coach"
           },
           {
-            "name": "阳琼芳 (教练)"
+            "name": "阳琼芳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -65813,10 +66266,12 @@
             "name": "黄宁"
           },
           {
-            "name": "农嘉 (教练)"
+            "name": "农嘉",
+            "role": "coach"
           },
           {
-            "name": "李居林 (教练)"
+            "name": "李居林",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -66068,13 +66523,16 @@
             "name": "龚雨辰"
           },
           {
-            "name": "左家念 (教练)"
+            "name": "左家念",
+            "role": "coach"
           },
           {
-            "name": "韦冠杰 (教练)"
+            "name": "韦冠杰",
+            "role": "coach"
           },
           {
-            "name": "覃明芳 (教练)"
+            "name": "覃明芳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -66186,13 +66644,16 @@
             "name": "张锦林"
           },
           {
-            "name": "叶植爽 (教练)"
+            "name": "叶植爽",
+            "role": "coach"
           },
           {
-            "name": "农晓 (教练)"
+            "name": "农晓",
+            "role": "coach"
           },
           {
-            "name": "周云霞 (教练)"
+            "name": "周云霞",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -66384,13 +66845,16 @@
             "name": "韦玉峰"
           },
           {
-            "name": "左家念 (教练)"
+            "name": "左家念",
+            "role": "coach"
           },
           {
-            "name": "韦冠杰 (教练)"
+            "name": "韦冠杰",
+            "role": "coach"
           },
           {
-            "name": "覃明芳 (教练)"
+            "name": "覃明芳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -66725,13 +67189,16 @@
             "name": "莫晨曦"
           },
           {
-            "name": "左家念 (教练)"
+            "name": "左家念",
+            "role": "coach"
           },
           {
-            "name": "韦冠杰 (教练)"
+            "name": "韦冠杰",
+            "role": "coach"
           },
           {
-            "name": "覃明芳 (教练)"
+            "name": "覃明芳",
+            "role": "coach"
           }
         ],
         "markers": [
@@ -66818,7 +67285,8 @@
             "name": "农小蕊"
           },
           {
-            "name": "秦川 (教练)"
+            "name": "秦川",
+            "role": "coach"
           }
         ],
         "markers": [

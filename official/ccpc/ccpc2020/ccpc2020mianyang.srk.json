@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.2",
+  "version": "0.3.13",
   "contributors": [
     "algoUX (https://algoux.org)",
     "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
@@ -232,9 +232,6 @@
         "organization": "北京大学",
         "teamMembers": [
           {
-            "name": "罗国杰(教练)"
-          },
-          {
             "name": "孔朝哲"
           },
           {
@@ -242,6 +239,10 @@
           },
           {
             "name": "潘骏跃"
+          },
+          {
+            "name": "罗国杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -359,9 +360,6 @@
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "邬晓钧(教练)"
-          },
-          {
             "name": "王思齐"
           },
           {
@@ -369,6 +367,10 @@
           },
           {
             "name": "房励行"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
         "official": true
@@ -486,9 +488,6 @@
         "organization": "浙江大学",
         "teamMembers": [
           {
-            "name": "王灿(教练)"
-          },
-          {
             "name": "唐嘉辰"
           },
           {
@@ -496,6 +495,10 @@
           },
           {
             "name": "黎伟诺"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -613,9 +616,6 @@
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "邬晓钧(教练)"
-          },
-          {
             "name": "朱震霆"
           },
           {
@@ -623,6 +623,10 @@
           },
           {
             "name": "王修涵"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
         "official": true
@@ -740,9 +744,6 @@
         "organization": "中山大学",
         "teamMembers": [
           {
-            "name": "郭嵩山(教练)"
-          },
-          {
             "name": "傅畅"
           },
           {
@@ -750,6 +751,10 @@
           },
           {
             "name": "刘宇轩"
+          },
+          {
+            "name": "郭嵩山",
+            "role": "coach"
           }
         ],
         "official": true
@@ -867,9 +872,6 @@
         "organization": "杭州电子科技大学",
         "teamMembers": [
           {
-            "name": "刘春英(教练)"
-          },
-          {
             "name": "祝之禺"
           },
           {
@@ -877,6 +879,10 @@
           },
           {
             "name": "顾奕臻"
+          },
+          {
+            "name": "刘春英",
+            "role": "coach"
           }
         ],
         "official": true
@@ -994,9 +1000,6 @@
         "organization": "复旦大学",
         "teamMembers": [
           {
-            "name": "孙未未(教练)"
-          },
-          {
             "name": "高庆麾"
           },
           {
@@ -1004,6 +1007,10 @@
           },
           {
             "name": "刘嘉辰"
+          },
+          {
+            "name": "孙未未",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1121,9 +1128,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "单启程"
           },
           {
@@ -1131,6 +1135,10 @@
           },
           {
             "name": "张扬播"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -1248,9 +1256,6 @@
         "organization": "浙江大学",
         "teamMembers": [
           {
-            "name": "王灿(教练)"
-          },
-          {
             "name": "卢旻昊"
           },
           {
@@ -1258,6 +1263,10 @@
           },
           {
             "name": "冯骁"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1375,9 +1384,6 @@
         "organization": "东南大学",
         "teamMembers": [
           {
-            "name": "倪庆剑(教练)"
-          },
-          {
             "name": "陈曦"
           },
           {
@@ -1385,6 +1391,10 @@
           },
           {
             "name": "韩数"
+          },
+          {
+            "name": "倪庆剑",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1502,9 +1512,6 @@
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "杨亚(教练)"
-          },
-          {
             "name": "梁昊骞"
           },
           {
@@ -1512,6 +1519,10 @@
           },
           {
             "name": "林麒"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
         "official": false
@@ -1629,9 +1640,6 @@
         "organization": "浙江师范大学",
         "teamMembers": [
           {
-            "name": "韩建民(教练)"
-          },
-          {
             "name": "周天辰"
           },
           {
@@ -1639,6 +1647,10 @@
           },
           {
             "name": "余知航"
+          },
+          {
+            "name": "韩建民",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1756,9 +1768,6 @@
         "organization": "北京大学",
         "teamMembers": [
           {
-            "name": "罗国杰(教练)"
-          },
-          {
             "name": "周易"
           },
           {
@@ -1766,6 +1775,10 @@
           },
           {
             "name": "王颖"
+          },
+          {
+            "name": "罗国杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1883,9 +1896,6 @@
         "organization": "华南理工大学",
         "teamMembers": [
           {
-            "name": "杜广龙(教练)"
-          },
-          {
             "name": "陈烔晖"
           },
           {
@@ -1893,6 +1903,10 @@
           },
           {
             "name": "周瑞东"
+          },
+          {
+            "name": "杜广龙",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2010,9 +2024,6 @@
         "organization": "浙江大学",
         "teamMembers": [
           {
-            "name": "王灿(教练)"
-          },
-          {
             "name": "詹哲远"
           },
           {
@@ -2020,6 +2031,10 @@
           },
           {
             "name": "陈逸"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2137,9 +2152,6 @@
         "organization": "华东师范大学",
         "teamMembers": [
           {
-            "name": "肖春芸(教练)"
-          },
-          {
             "name": "谢嘉东"
           },
           {
@@ -2147,6 +2159,10 @@
           },
           {
             "name": "朱桐"
+          },
+          {
+            "name": "肖春芸",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2264,9 +2280,6 @@
         "organization": "北京大学",
         "teamMembers": [
           {
-            "name": "罗国杰(教练)"
-          },
-          {
             "name": "汤云开"
           },
           {
@@ -2274,6 +2287,10 @@
           },
           {
             "name": "苏博文"
+          },
+          {
+            "name": "罗国杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2391,9 +2408,6 @@
         "organization": "上海交通大学",
         "teamMembers": [
           {
-            "name": "俞勇(教练)"
-          },
-          {
             "name": "王硕"
           },
           {
@@ -2401,6 +2415,10 @@
           },
           {
             "name": "赵启元"
+          },
+          {
+            "name": "俞勇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2518,9 +2536,6 @@
         "organization": "华东师范大学",
         "teamMembers": [
           {
-            "name": "肖春芸(教练)"
-          },
-          {
             "name": "王子涵"
           },
           {
@@ -2528,6 +2543,10 @@
           },
           {
             "name": "杨弘"
+          },
+          {
+            "name": "肖春芸",
+            "role": "coach"
           }
         ],
         "official": false
@@ -2645,9 +2664,6 @@
         "organization": "中南大学",
         "teamMembers": [
           {
-            "name": "陈再良(教练)"
-          },
-          {
             "name": "刘峰玮"
           },
           {
@@ -2655,6 +2671,10 @@
           },
           {
             "name": "黄文豪"
+          },
+          {
+            "name": "陈再良",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2772,9 +2792,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "陈政弛"
           },
           {
@@ -2782,6 +2799,10 @@
           },
           {
             "name": "刘响"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2899,9 +2920,6 @@
         "organization": "北京理工大学",
         "teamMembers": [
           {
-            "name": "林永钢(教练)"
-          },
-          {
             "name": "杨予宸"
           },
           {
@@ -2909,6 +2927,10 @@
           },
           {
             "name": "刘志丹"
+          },
+          {
+            "name": "林永钢",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3026,9 +3048,6 @@
         "organization": "上海交通大学",
         "teamMembers": [
           {
-            "name": "俞勇(教练)"
-          },
-          {
             "name": "董易昕"
           },
           {
@@ -3036,6 +3055,10 @@
           },
           {
             "name": "金凌啸"
+          },
+          {
+            "name": "俞勇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3153,9 +3176,6 @@
         "organization": "华东师范大学",
         "teamMembers": [
           {
-            "name": "肖春芸(教练)"
-          },
-          {
             "name": "朱张弛"
           },
           {
@@ -3163,6 +3183,10 @@
           },
           {
             "name": "汪子凡"
+          },
+          {
+            "name": "肖春芸",
+            "role": "coach"
           }
         ],
         "official": false
@@ -3280,9 +3304,6 @@
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "邬晓钧(教练)"
-          },
-          {
             "name": "曾致远"
           },
           {
@@ -3290,6 +3311,10 @@
           },
           {
             "name": "姜迅驰"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3407,9 +3432,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "姚嘉和"
           },
           {
@@ -3417,6 +3439,10 @@
           },
           {
             "name": "张浩宇"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -3534,9 +3560,6 @@
         "organization": "河南农业大学",
         "teamMembers": [
           {
-            "name": "尚俊平(教练)"
-          },
-          {
             "name": "温春阳"
           },
           {
@@ -3544,6 +3567,10 @@
           },
           {
             "name": "徐本奇"
+          },
+          {
+            "name": "尚俊平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3661,9 +3688,6 @@
         "organization": "北京航空航天大学",
         "teamMembers": [
           {
-            "name": "宋友(教练)"
-          },
-          {
             "name": "陈铭煊"
           },
           {
@@ -3671,6 +3695,10 @@
           },
           {
             "name": "龙鹏宇"
+          },
+          {
+            "name": "宋友",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3788,9 +3816,6 @@
         "organization": "哈尔滨工业大学",
         "teamMembers": [
           {
-            "name": "孙大烈(教练)"
-          },
-          {
             "name": "李成蹊"
           },
           {
@@ -3798,6 +3823,10 @@
           },
           {
             "name": "王晓亮"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3915,9 +3944,6 @@
         "organization": "复旦大学",
         "teamMembers": [
           {
-            "name": "孙未未(教练)"
-          },
-          {
             "name": "王韵哲"
           },
           {
@@ -3925,6 +3951,10 @@
           },
           {
             "name": "聂绍珩"
+          },
+          {
+            "name": "孙未未",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4042,9 +4072,6 @@
         "organization": "浙江工业大学",
         "teamMembers": [
           {
-            "name": "侯向辉(教练)"
-          },
-          {
             "name": "戚梦赞"
           },
           {
@@ -4052,6 +4079,10 @@
           },
           {
             "name": "周阳"
+          },
+          {
+            "name": "侯向辉",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4169,9 +4200,6 @@
         "organization": "广东外语外贸大学",
         "teamMembers": [
           {
-            "name": "郑琪(教练)"
-          },
-          {
             "name": "林冠权"
           },
           {
@@ -4179,6 +4207,10 @@
           },
           {
             "name": "汪鹏飞"
+          },
+          {
+            "name": "郑琪",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4296,9 +4328,6 @@
         "organization": "哈尔滨工程大学",
         "teamMembers": [
           {
-            "name": "国林(教练)"
-          },
-          {
             "name": "赵子琦"
           },
           {
@@ -4306,6 +4335,10 @@
           },
           {
             "name": "赵熠扬"
+          },
+          {
+            "name": "国林",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4423,9 +4456,6 @@
         "organization": "浙江农林大学",
         "teamMembers": [
           {
-            "name": "童孟军(教练)"
-          },
-          {
             "name": "王子超"
           },
           {
@@ -4433,6 +4463,10 @@
           },
           {
             "name": "顾博盛"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4550,9 +4584,6 @@
         "organization": "中山大学",
         "teamMembers": [
           {
-            "name": "张子臻(教练)"
-          },
-          {
             "name": "叶汇亘"
           },
           {
@@ -4560,6 +4591,10 @@
           },
           {
             "name": "牛彦栋"
+          },
+          {
+            "name": "张子臻",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4677,9 +4712,6 @@
         "organization": "南京航空航天大学",
         "teamMembers": [
           {
-            "name": "邹春然(教练)"
-          },
-          {
             "name": "沈凌翔"
           },
           {
@@ -4687,6 +4719,10 @@
           },
           {
             "name": "吴家庆"
+          },
+          {
+            "name": "邹春然",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4804,9 +4840,6 @@
         "organization": "四川大学",
         "teamMembers": [
           {
-            "name": "左劼(教练)"
-          },
-          {
             "name": "刘知源"
           },
           {
@@ -4814,6 +4847,10 @@
           },
           {
             "name": "廖浩深"
+          },
+          {
+            "name": "左劼",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4931,9 +4968,6 @@
         "organization": "江南大学",
         "teamMembers": [
           {
-            "name": "蒋敏(教练)"
-          },
-          {
             "name": "许轲"
           },
           {
@@ -4941,6 +4975,10 @@
           },
           {
             "name": "徐润天"
+          },
+          {
+            "name": "蒋敏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5058,9 +5096,6 @@
         "organization": "哈尔滨工业大学（威海）",
         "teamMembers": [
           {
-            "name": "韩希先(教练)"
-          },
-          {
             "name": "陈靖昌"
           },
           {
@@ -5068,6 +5103,10 @@
           },
           {
             "name": "唐泓煊"
+          },
+          {
+            "name": "韩希先",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5185,9 +5224,6 @@
         "organization": "华中师范大学",
         "teamMembers": [
           {
-            "name": "叶俊民(教练)"
-          },
-          {
             "name": "王毅"
           },
           {
@@ -5195,6 +5231,10 @@
           },
           {
             "name": "周于嵛"
+          },
+          {
+            "name": "叶俊民",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5312,9 +5352,6 @@
         "organization": "国防科技大学",
         "teamMembers": [
           {
-            "name": "尹良泽(教练)"
-          },
-          {
             "name": "邱纯硕"
           },
           {
@@ -5322,6 +5359,10 @@
           },
           {
             "name": "陈斯隆"
+          },
+          {
+            "name": "尹良泽",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5439,9 +5480,6 @@
         "organization": "杭州电子科技大学",
         "teamMembers": [
           {
-            "name": "刘春英(教练)"
-          },
-          {
             "name": "郑伊杰"
           },
           {
@@ -5449,6 +5487,10 @@
           },
           {
             "name": "万仞峰"
+          },
+          {
+            "name": "刘春英",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5566,9 +5608,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "朱宇博"
           },
           {
@@ -5576,6 +5615,10 @@
           },
           {
             "name": "史丰萁"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -5693,9 +5736,6 @@
         "organization": "浙江工业大学",
         "teamMembers": [
           {
-            "name": "王春平(教练)"
-          },
-          {
             "name": "方泽雨"
           },
           {
@@ -5703,6 +5743,10 @@
           },
           {
             "name": "陈志强"
+          },
+          {
+            "name": "王春平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5820,9 +5864,6 @@
         "organization": "北京化工大学",
         "teamMembers": [
           {
-            "name": "周晓琳(教练)"
-          },
-          {
             "name": "庄禹"
           },
           {
@@ -5830,6 +5871,10 @@
           },
           {
             "name": "花犇"
+          },
+          {
+            "name": "周晓琳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5947,9 +5992,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "朱景舟"
           },
           {
@@ -5957,6 +5999,10 @@
           },
           {
             "name": "王宇峣"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -6074,9 +6120,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "欧丰宁"
           },
           {
@@ -6084,6 +6127,10 @@
           },
           {
             "name": "陈晓"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -6201,9 +6248,6 @@
         "organization": "北京航空航天大学",
         "teamMembers": [
           {
-            "name": "宋友(教练)"
-          },
-          {
             "name": "姜一凡"
           },
           {
@@ -6211,6 +6255,10 @@
           },
           {
             "name": "蒋贤蒙"
+          },
+          {
+            "name": "宋友",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6328,9 +6376,6 @@
         "organization": "大连理工大学",
         "teamMembers": [
           {
-            "name": "梁冰(教练)"
-          },
-          {
             "name": "卢品仁"
           },
           {
@@ -6338,6 +6383,10 @@
           },
           {
             "name": "余澍莘"
+          },
+          {
+            "name": "梁冰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6455,9 +6504,6 @@
         "organization": "上海理工大学",
         "teamMembers": [
           {
-            "name": "周春樵(教练)"
-          },
-          {
             "name": "王必成"
           },
           {
@@ -6465,6 +6511,10 @@
           },
           {
             "name": "任灏贇"
+          },
+          {
+            "name": "周春樵",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6582,9 +6632,6 @@
         "organization": "武汉科技大学",
         "teamMembers": [
           {
-            "name": "王晓峰(教练)"
-          },
-          {
             "name": "孟钦宇"
           },
           {
@@ -6592,6 +6639,10 @@
           },
           {
             "name": "吴远坪"
+          },
+          {
+            "name": "王晓峰",
+            "role": "coach"
           }
         ],
         "official": false
@@ -6709,9 +6760,6 @@
         "organization": "浙大宁波理工学院",
         "teamMembers": [
           {
-            "name": "郭新友(教练)"
-          },
-          {
             "name": "刘东昕"
           },
           {
@@ -6719,6 +6767,10 @@
           },
           {
             "name": "余建赛"
+          },
+          {
+            "name": "郭新友",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6836,9 +6888,6 @@
         "organization": "西安电子科技大学",
         "teamMembers": [
           {
-            "name": "万波(教练)"
-          },
-          {
             "name": "张帆"
           },
           {
@@ -6846,6 +6895,10 @@
           },
           {
             "name": "柴东辰"
+          },
+          {
+            "name": "万波",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6963,9 +7016,6 @@
         "organization": "西南大学",
         "teamMembers": [
           {
-            "name": "王智(教练)"
-          },
-          {
             "name": "秦凯鑫"
           },
           {
@@ -6973,6 +7023,10 @@
           },
           {
             "name": "余少尉"
+          },
+          {
+            "name": "王智",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7090,9 +7144,6 @@
         "organization": "福州大学",
         "teamMembers": [
           {
-            "name": "傅仰耿(教练)"
-          },
-          {
             "name": "陈金杰"
           },
           {
@@ -7100,6 +7151,10 @@
           },
           {
             "name": "罗继鸿"
+          },
+          {
+            "name": "傅仰耿",
+            "role": "coach"
           }
         ],
         "official": false
@@ -7217,9 +7272,6 @@
         "organization": "华东师范大学",
         "teamMembers": [
           {
-            "name": "肖春芸(教练)"
-          },
-          {
             "name": "王鼎"
           },
           {
@@ -7227,6 +7279,10 @@
           },
           {
             "name": "朱睿诚"
+          },
+          {
+            "name": "肖春芸",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7344,9 +7400,6 @@
         "organization": "厦门大学",
         "teamMembers": [
           {
-            "name": "林文水(教练)"
-          },
-          {
             "name": "王炳森"
           },
           {
@@ -7354,6 +7407,10 @@
           },
           {
             "name": "赖睿朗"
+          },
+          {
+            "name": "林文水",
+            "role": "coach"
           }
         ],
         "official": false
@@ -7471,9 +7528,6 @@
         "organization": "山东大学",
         "teamMembers": [
           {
-            "name": "鹿旭东(教练)"
-          },
-          {
             "name": "卢子辰"
           },
           {
@@ -7481,6 +7535,10 @@
           },
           {
             "name": "侯冠立"
+          },
+          {
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7598,9 +7656,6 @@
         "organization": "同济大学",
         "teamMembers": [
           {
-            "name": "叶晨(教练)"
-          },
-          {
             "name": "姜梓恒"
           },
           {
@@ -7608,6 +7663,10 @@
           },
           {
             "name": "王宇其"
+          },
+          {
+            "name": "叶晨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7725,9 +7784,6 @@
         "organization": "郑州大学",
         "teamMembers": [
           {
-            "name": "吴云鹏(教练)"
-          },
-          {
             "name": "陈洋"
           },
           {
@@ -7735,6 +7791,10 @@
           },
           {
             "name": "蔡文川"
+          },
+          {
+            "name": "吴云鹏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -7852,9 +7912,6 @@
         "organization": "杭州电子科技大学",
         "teamMembers": [
           {
-            "name": "刘春英(教练)"
-          },
-          {
             "name": "蔡思林"
           },
           {
@@ -7862,6 +7919,10 @@
           },
           {
             "name": "俞天瑞"
+          },
+          {
+            "name": "刘春英",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7979,9 +8040,6 @@
         "organization": "上海科技大学",
         "teamMembers": [
           {
-            "name": "屠可伟(教练)"
-          },
-          {
             "name": "张龙文"
           },
           {
@@ -7989,6 +8047,10 @@
           },
           {
             "name": "逄白"
+          },
+          {
+            "name": "屠可伟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8106,9 +8168,6 @@
         "organization": "哈尔滨工程大学",
         "teamMembers": [
           {
-            "name": "国林(教练)"
-          },
-          {
             "name": "罗先镇"
           },
           {
@@ -8116,6 +8175,10 @@
           },
           {
             "name": "唐益"
+          },
+          {
+            "name": "国林",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8233,9 +8296,6 @@
         "organization": "郑州轻工业大学",
         "teamMembers": [
           {
-            "name": "李晔(教练)"
-          },
-          {
             "name": "庞浩天"
           },
           {
@@ -8243,6 +8303,10 @@
           },
           {
             "name": "高启"
+          },
+          {
+            "name": "李晔",
+            "role": "coach"
           }
         ],
         "official": false
@@ -8360,9 +8424,6 @@
         "organization": "东南大学",
         "teamMembers": [
           {
-            "name": "倪庆剑(教练)"
-          },
-          {
             "name": "唐宁远"
           },
           {
@@ -8370,6 +8431,10 @@
           },
           {
             "name": "陈哲斯"
+          },
+          {
+            "name": "倪庆剑",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8487,9 +8552,6 @@
         "organization": "齐鲁工业大学",
         "teamMembers": [
           {
-            "name": "鹿文鹏(教练)"
-          },
-          {
             "name": "马鸿儒"
           },
           {
@@ -8497,6 +8559,10 @@
           },
           {
             "name": "孙晨曦"
+          },
+          {
+            "name": "鹿文鹏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8614,9 +8680,6 @@
         "organization": "中国科学技术大学",
         "teamMembers": [
           {
-            "name": "孙广中(教练)"
-          },
-          {
             "name": "吕泽龙"
           },
           {
@@ -8624,6 +8687,10 @@
           },
           {
             "name": "周南翔"
+          },
+          {
+            "name": "孙广中",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8741,9 +8808,6 @@
         "organization": "浙江理工大学",
         "teamMembers": [
           {
-            "name": "叶海荣(教练)"
-          },
-          {
             "name": "蔡乐圆"
           },
           {
@@ -8751,6 +8815,10 @@
           },
           {
             "name": "汤丰炜"
+          },
+          {
+            "name": "叶海荣",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8868,9 +8936,6 @@
         "organization": "西北工业大学",
         "teamMembers": [
           {
-            "name": "刘君瑞(教练)"
-          },
-          {
             "name": "刘成文"
           },
           {
@@ -8878,6 +8943,10 @@
           },
           {
             "name": "黄凯勋"
+          },
+          {
+            "name": "刘君瑞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8995,9 +9064,6 @@
         "organization": "西北大学",
         "teamMembers": [
           {
-            "name": "王小凤(教练)"
-          },
-          {
             "name": "王丙伦"
           },
           {
@@ -9005,6 +9071,10 @@
           },
           {
             "name": "申屠源昊"
+          },
+          {
+            "name": "王小凤",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9122,9 +9192,6 @@
         "organization": "浙江农林大学",
         "teamMembers": [
           {
-            "name": "童孟军(教练)"
-          },
-          {
             "name": "张烨浩"
           },
           {
@@ -9132,6 +9199,10 @@
           },
           {
             "name": "陈志伟"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9249,9 +9320,6 @@
         "organization": "浙江师范大学",
         "teamMembers": [
           {
-            "name": "孙广华(教练)"
-          },
-          {
             "name": "丁宇洋"
           },
           {
@@ -9259,6 +9327,10 @@
           },
           {
             "name": "叶佳伟"
+          },
+          {
+            "name": "孙广华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9376,9 +9448,6 @@
         "organization": "江西财经大学",
         "teamMembers": [
           {
-            "name": "尹爱华(教练)"
-          },
-          {
             "name": "刘力溯"
           },
           {
@@ -9386,6 +9455,10 @@
           },
           {
             "name": "王安"
+          },
+          {
+            "name": "尹爱华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9503,9 +9576,6 @@
         "organization": "北京交通大学",
         "teamMembers": [
           {
-            "name": "黄华(教练)"
-          },
-          {
             "name": "姜家豪"
           },
           {
@@ -9513,6 +9583,10 @@
           },
           {
             "name": "文楷昂"
+          },
+          {
+            "name": "黄华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9630,9 +9704,6 @@
         "organization": "天津大学",
         "teamMembers": [
           {
-            "name": "喻梅(教练)"
-          },
-          {
             "name": "李雨寒"
           },
           {
@@ -9640,6 +9711,10 @@
           },
           {
             "name": "焦晓宇"
+          },
+          {
+            "name": "喻梅",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9757,9 +9832,6 @@
         "organization": "东北大学",
         "teamMembers": [
           {
-            "name": "刘小锋(教练)"
-          },
-          {
             "name": "李泽仁"
           },
           {
@@ -9767,6 +9839,10 @@
           },
           {
             "name": "张晋恺"
+          },
+          {
+            "name": "刘小锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9884,9 +9960,6 @@
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "杨亚(教练)"
-          },
-          {
             "name": "兴淑鹏"
           },
           {
@@ -9894,6 +9967,10 @@
           },
           {
             "name": "陈建帅"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10011,9 +10088,6 @@
         "organization": "西安电子科技大学",
         "teamMembers": [
           {
-            "name": "张淑平(教练)"
-          },
-          {
             "name": "席若尧"
           },
           {
@@ -10021,6 +10095,10 @@
           },
           {
             "name": "冯雪晴"
+          },
+          {
+            "name": "张淑平",
+            "role": "coach"
           }
         ],
         "official": false
@@ -10138,9 +10216,6 @@
         "organization": "北京林业大学",
         "teamMembers": [
           {
-            "name": "徐艳艳(教练)"
-          },
-          {
             "name": "李雨萱"
           },
           {
@@ -10148,6 +10223,10 @@
           },
           {
             "name": "陈浩翔"
+          },
+          {
+            "name": "徐艳艳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10265,9 +10344,6 @@
         "organization": "大连理工大学",
         "teamMembers": [
           {
-            "name": "陆坤(教练)"
-          },
-          {
             "name": "衣泽民"
           },
           {
@@ -10275,6 +10351,10 @@
           },
           {
             "name": "李冠霖"
+          },
+          {
+            "name": "陆坤",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10392,9 +10472,6 @@
         "organization": "苏州大学",
         "teamMembers": [
           {
-            "name": "赵雷(教练)"
-          },
-          {
             "name": "罗峰"
           },
           {
@@ -10402,6 +10479,10 @@
           },
           {
             "name": "丁誉洋"
+          },
+          {
+            "name": "赵雷",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10519,9 +10600,6 @@
         "organization": "武汉大学",
         "teamMembers": [
           {
-            "name": "董文永(教练)"
-          },
-          {
             "name": "向雅欣"
           },
           {
@@ -10529,6 +10607,10 @@
           },
           {
             "name": "杨之典"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10646,9 +10728,6 @@
         "organization": "福州大学",
         "teamMembers": [
           {
-            "name": "傅仰耿(教练)"
-          },
-          {
             "name": "赵镇"
           },
           {
@@ -10656,6 +10735,10 @@
           },
           {
             "name": "廖智炫"
+          },
+          {
+            "name": "傅仰耿",
+            "role": "coach"
           }
         ],
         "official": false
@@ -10773,9 +10856,6 @@
         "organization": "浙江财经大学",
         "teamMembers": [
           {
-            "name": "陈琰宏(教练)"
-          },
-          {
             "name": "周人豪"
           },
           {
@@ -10783,6 +10863,10 @@
           },
           {
             "name": "童沈阳"
+          },
+          {
+            "name": "陈琰宏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10900,9 +10984,6 @@
         "organization": "上海大学",
         "teamMembers": [
           {
-            "name": "沈俊(教练)"
-          },
-          {
             "name": "施焱"
           },
           {
@@ -10910,6 +10991,10 @@
           },
           {
             "name": "邱凯"
+          },
+          {
+            "name": "沈俊",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11027,9 +11112,6 @@
         "organization": "北京理工大学",
         "teamMembers": [
           {
-            "name": "史继筠(教练)"
-          },
-          {
             "name": "阳攀"
           },
           {
@@ -11037,6 +11119,10 @@
           },
           {
             "name": "范士琦"
+          },
+          {
+            "name": "史继筠",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11154,9 +11240,6 @@
         "organization": "南方科技大学",
         "teamMembers": [
           {
-            "name": "唐博(教练)"
-          },
-          {
             "name": "蔡于飞"
           },
           {
@@ -11164,6 +11247,10 @@
           },
           {
             "name": "何宗翰"
+          },
+          {
+            "name": "唐博",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11281,9 +11368,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "周子杰"
           },
           {
@@ -11291,6 +11375,10 @@
           },
           {
             "name": "黄新炜"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -11409,9 +11497,6 @@
         "organization": "武汉纺织大学",
         "teamMembers": [
           {
-            "name": "彭涛(教练)"
-          },
-          {
             "name": "阮志鹏"
           },
           {
@@ -11419,6 +11504,10 @@
           },
           {
             "name": "曾路"
+          },
+          {
+            "name": "彭涛",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11536,9 +11625,6 @@
         "organization": "郑州轻工业大学",
         "teamMembers": [
           {
-            "name": "李晔(教练)"
-          },
-          {
             "name": "黄瑞士"
           },
           {
@@ -11546,6 +11632,10 @@
           },
           {
             "name": "刘龙辉"
+          },
+          {
+            "name": "李晔",
+            "role": "coach"
           }
         ],
         "official": false
@@ -11663,9 +11753,6 @@
         "organization": "武汉大学",
         "teamMembers": [
           {
-            "name": "董文永(教练)"
-          },
-          {
             "name": "岳志澄"
           },
           {
@@ -11673,6 +11760,10 @@
           },
           {
             "name": "王忠涛"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11790,9 +11881,6 @@
         "organization": "重庆大学",
         "teamMembers": [
           {
-            "name": "兰鑫(教练)"
-          },
-          {
             "name": "张翀"
           },
           {
@@ -11800,6 +11888,10 @@
           },
           {
             "name": "罗晶"
+          },
+          {
+            "name": "兰鑫",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11917,9 +12009,6 @@
         "organization": "浙江师范大学",
         "teamMembers": [
           {
-            "name": "彭浩(教练)"
-          },
-          {
             "name": "陈泓江"
           },
           {
@@ -11927,6 +12016,10 @@
           },
           {
             "name": "杨晨"
+          },
+          {
+            "name": "彭浩",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12044,9 +12137,6 @@
         "organization": "南昌大学",
         "teamMembers": [
           {
-            "name": "于海雯(教练)"
-          },
-          {
             "name": "吴菲祺"
           },
           {
@@ -12054,6 +12144,10 @@
           },
           {
             "name": "陈雨菲"
+          },
+          {
+            "name": "于海雯",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12171,9 +12265,6 @@
         "organization": "浙江中医药大学",
         "teamMembers": [
           {
-            "name": "罗杰(教练)"
-          },
-          {
             "name": "张润涛"
           },
           {
@@ -12181,6 +12272,10 @@
           },
           {
             "name": "朱家伟"
+          },
+          {
+            "name": "罗杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12298,9 +12393,6 @@
         "organization": "江南大学",
         "teamMembers": [
           {
-            "name": "蒋敏(教练)"
-          },
-          {
             "name": "许扬"
           },
           {
@@ -12308,6 +12400,10 @@
           },
           {
             "name": "孙安"
+          },
+          {
+            "name": "蒋敏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12425,9 +12521,6 @@
         "organization": "中国计量大学",
         "teamMembers": [
           {
-            "name": "闻育(教练)"
-          },
-          {
             "name": "罗中天"
           },
           {
@@ -12435,6 +12528,10 @@
           },
           {
             "name": "张家豪"
+          },
+          {
+            "name": "闻育",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12552,9 +12649,6 @@
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "杨亚(教练)"
-          },
-          {
             "name": "马玉龙"
           },
           {
@@ -12562,6 +12656,10 @@
           },
           {
             "name": "佘俊达"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12679,9 +12777,6 @@
         "organization": "山东理工大学",
         "teamMembers": [
           {
-            "name": "曲志坚(教练)"
-          },
-          {
             "name": "林瑞泽"
           },
           {
@@ -12689,6 +12784,10 @@
           },
           {
             "name": "周煜浩"
+          },
+          {
+            "name": "曲志坚",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12806,9 +12905,6 @@
         "organization": "福州大学",
         "teamMembers": [
           {
-            "name": "傅仰耿(教练)"
-          },
-          {
             "name": "陈昊旸"
           },
           {
@@ -12816,6 +12912,10 @@
           },
           {
             "name": "邓宇凡"
+          },
+          {
+            "name": "傅仰耿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12933,9 +13033,6 @@
         "organization": "江苏科技大学",
         "teamMembers": [
           {
-            "name": "景国良(教练)"
-          },
-          {
             "name": "袁耀"
           },
           {
@@ -12943,6 +13040,10 @@
           },
           {
             "name": "夏易辰"
+          },
+          {
+            "name": "景国良",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13060,9 +13161,6 @@
         "organization": "长安大学",
         "teamMembers": [
           {
-            "name": "荆树旭(教练)"
-          },
-          {
             "name": "袁铭蔚"
           },
           {
@@ -13070,6 +13168,10 @@
           },
           {
             "name": "朱子怡"
+          },
+          {
+            "name": "荆树旭",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13187,9 +13289,6 @@
         "organization": "华南农业大学",
         "teamMembers": [
           {
-            "name": "张义青(教练)"
-          },
-          {
             "name": "傅传蓁"
           },
           {
@@ -13197,6 +13296,10 @@
           },
           {
             "name": "古镇豪"
+          },
+          {
+            "name": "张义青",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13314,9 +13417,6 @@
         "organization": "北京理工大学",
         "teamMembers": [
           {
-            "name": "史继筠(教练)"
-          },
-          {
             "name": "赵予唯"
           },
           {
@@ -13324,6 +13424,10 @@
           },
           {
             "name": "邓飞"
+          },
+          {
+            "name": "史继筠",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13441,9 +13545,6 @@
         "organization": "河南大学",
         "teamMembers": [
           {
-            "name": "王建林(教练)"
-          },
-          {
             "name": "徐孝康"
           },
           {
@@ -13451,6 +13552,10 @@
           },
           {
             "name": "杜开浩"
+          },
+          {
+            "name": "王建林",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13568,9 +13673,6 @@
         "organization": "湖南科技大学",
         "teamMembers": [
           {
-            "name": "向德生(教练)"
-          },
-          {
             "name": "张鹏"
           },
           {
@@ -13578,6 +13680,10 @@
           },
           {
             "name": "陈介东"
+          },
+          {
+            "name": "向德生",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13695,9 +13801,6 @@
         "organization": "山东大学",
         "teamMembers": [
           {
-            "name": "汪云海(教练)"
-          },
-          {
             "name": "郑得贤"
           },
           {
@@ -13705,6 +13808,10 @@
           },
           {
             "name": "周若淼"
+          },
+          {
+            "name": "汪云海",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13822,9 +13929,6 @@
         "organization": "浙江育英职业技术学院",
         "teamMembers": [
           {
-            "name": "张驰(教练)"
-          },
-          {
             "name": "叶铸远"
           },
           {
@@ -13832,6 +13936,10 @@
           },
           {
             "name": "郑浩宇"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13949,9 +14057,6 @@
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "杨亚(教练)"
-          },
-          {
             "name": "许子康"
           },
           {
@@ -13959,6 +14064,10 @@
           },
           {
             "name": "杨竹芩"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14076,9 +14185,6 @@
         "organization": "中南大学",
         "teamMembers": [
           {
-            "name": "余腊生(教练)"
-          },
-          {
             "name": "姜业鑫"
           },
           {
@@ -14086,6 +14192,10 @@
           },
           {
             "name": "连士熙"
+          },
+          {
+            "name": "余腊生",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14203,9 +14313,6 @@
         "organization": "中国石油大学（北京）",
         "teamMembers": [
           {
-            "name": "范江波(教练)"
-          },
-          {
             "name": "陈若朋"
           },
           {
@@ -14213,6 +14320,10 @@
           },
           {
             "name": "许思睿"
+          },
+          {
+            "name": "范江波",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14330,9 +14441,6 @@
         "organization": "浙大宁波理工学院",
         "teamMembers": [
           {
-            "name": "蔡明伦(教练)"
-          },
-          {
             "name": "王麒笙"
           },
           {
@@ -14340,6 +14448,10 @@
           },
           {
             "name": "陈炯烈"
+          },
+          {
+            "name": "蔡明伦",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14457,9 +14569,6 @@
         "organization": "中国地质大学（武汉）",
         "teamMembers": [
           {
-            "name": "张锋(教练)"
-          },
-          {
             "name": "雷宇辰"
           },
           {
@@ -14467,6 +14576,10 @@
           },
           {
             "name": "李光哲"
+          },
+          {
+            "name": "张锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14584,9 +14697,6 @@
         "organization": "华南理工大学",
         "teamMembers": [
           {
-            "name": "刘捷(教练)"
-          },
-          {
             "name": "刘泽森"
           },
           {
@@ -14594,6 +14704,10 @@
           },
           {
             "name": "许一多"
+          },
+          {
+            "name": "刘捷",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14711,9 +14825,6 @@
         "organization": "南昌航空大学",
         "teamMembers": [
           {
-            "name": "陈英(教练)"
-          },
-          {
             "name": "江智康"
           },
           {
@@ -14721,6 +14832,10 @@
           },
           {
             "name": "杨攀"
+          },
+          {
+            "name": "陈英",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14838,9 +14953,6 @@
         "organization": "四川农业大学",
         "teamMembers": [
           {
-            "name": "潘勇浩(教练)"
-          },
-          {
             "name": "何雨航"
           },
           {
@@ -14848,6 +14960,10 @@
           },
           {
             "name": "李豪"
+          },
+          {
+            "name": "潘勇浩",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14965,9 +15081,6 @@
         "organization": "华东师范大学",
         "teamMembers": [
           {
-            "name": "杜育根(教练)"
-          },
-          {
             "name": "包梁"
           },
           {
@@ -14975,6 +15088,10 @@
           },
           {
             "name": "郭晓博"
+          },
+          {
+            "name": "杜育根",
+            "role": "coach"
           }
         ],
         "official": false
@@ -15092,9 +15209,6 @@
         "organization": "宁波大学",
         "teamMembers": [
           {
-            "name": "陈叶芳(教练)"
-          },
-          {
             "name": "曾佳敏"
           },
           {
@@ -15102,6 +15216,10 @@
           },
           {
             "name": "俞智超"
+          },
+          {
+            "name": "陈叶芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15219,9 +15337,6 @@
         "organization": "吉林大学",
         "teamMembers": [
           {
-            "name": "郭东伟(教练)"
-          },
-          {
             "name": "郑熠焓"
           },
           {
@@ -15229,6 +15344,10 @@
           },
           {
             "name": "冯振杰"
+          },
+          {
+            "name": "郭东伟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15346,9 +15465,6 @@
         "organization": "哈尔滨工业大学",
         "teamMembers": [
           {
-            "name": "孙大烈(教练)"
-          },
-          {
             "name": "李东洋"
           },
           {
@@ -15356,6 +15472,10 @@
           },
           {
             "name": "安泊宁"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15473,9 +15593,6 @@
         "organization": "东北大学",
         "teamMembers": [
           {
-            "name": "李晓华(教练)"
-          },
-          {
             "name": "袁乾宸"
           },
           {
@@ -15483,6 +15600,10 @@
           },
           {
             "name": "徐士惠"
+          },
+          {
+            "name": "李晓华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15600,9 +15721,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "李博颖"
           },
           {
@@ -15610,6 +15728,10 @@
           },
           {
             "name": "熊丘桓"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15727,9 +15849,6 @@
         "organization": "天津大学",
         "teamMembers": [
           {
-            "name": "喻梅(教练)"
-          },
-          {
             "name": "王彦淞"
           },
           {
@@ -15737,6 +15856,10 @@
           },
           {
             "name": "刘睿"
+          },
+          {
+            "name": "喻梅",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15854,9 +15977,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "宋子辰"
           },
           {
@@ -15864,6 +15984,10 @@
           },
           {
             "name": "陈弘毅"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -15981,9 +16105,6 @@
         "organization": "浙江工业大学",
         "teamMembers": [
           {
-            "name": "楼柯辰(教练)"
-          },
-          {
             "name": "叶璇"
           },
           {
@@ -15991,6 +16112,10 @@
           },
           {
             "name": "黄嘉宜"
+          },
+          {
+            "name": "楼柯辰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16108,9 +16233,6 @@
         "organization": "哈尔滨工业大学（威海）",
         "teamMembers": [
           {
-            "name": "董开坤(教练)"
-          },
-          {
             "name": "和树繁"
           },
           {
@@ -16118,6 +16240,10 @@
           },
           {
             "name": "苑世豪"
+          },
+          {
+            "name": "董开坤",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16235,9 +16361,6 @@
         "organization": "南京理工大学",
         "teamMembers": [
           {
-            "name": "余立功(教练)"
-          },
-          {
             "name": "颜俊梁"
           },
           {
@@ -16245,6 +16368,10 @@
           },
           {
             "name": "徐杨世杰"
+          },
+          {
+            "name": "余立功",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16362,9 +16489,6 @@
         "organization": "中国计量大学",
         "teamMembers": [
           {
-            "name": "闻育(教练)"
-          },
-          {
             "name": "蔡佳伦"
           },
           {
@@ -16372,6 +16496,10 @@
           },
           {
             "name": "王龙欢"
+          },
+          {
+            "name": "闻育",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16489,9 +16617,6 @@
         "organization": "西南民族大学",
         "teamMembers": [
           {
-            "name": "周绪川(教练)"
-          },
-          {
             "name": "蒋弦峰"
           },
           {
@@ -16499,6 +16624,10 @@
           },
           {
             "name": "韦磊"
+          },
+          {
+            "name": "周绪川",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16616,9 +16745,6 @@
         "organization": "南昌大学",
         "teamMembers": [
           {
-            "name": "于海雯(教练)"
-          },
-          {
             "name": "徐梓豪"
           },
           {
@@ -16626,6 +16752,10 @@
           },
           {
             "name": "张看起"
+          },
+          {
+            "name": "于海雯",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16743,9 +16873,6 @@
         "organization": "四川大学",
         "teamMembers": [
           {
-            "name": "左劼(教练)"
-          },
-          {
             "name": "申城铭"
           },
           {
@@ -16753,6 +16880,10 @@
           },
           {
             "name": "张新"
+          },
+          {
+            "name": "左劼",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16870,9 +17001,6 @@
         "organization": "广东财经大学",
         "teamMembers": [
           {
-            "name": "高文宇(教练)"
-          },
-          {
             "name": "林梓康"
           },
           {
@@ -16880,6 +17008,10 @@
           },
           {
             "name": "马佳伟"
+          },
+          {
+            "name": "高文宇",
+            "role": "coach"
           }
         ],
         "official": false
@@ -16997,9 +17129,6 @@
         "organization": "吉首大学",
         "teamMembers": [
           {
-            "name": "黄伟(教练)"
-          },
-          {
             "name": "阳汝昭"
           },
           {
@@ -17007,6 +17136,10 @@
           },
           {
             "name": "曾灿斌"
+          },
+          {
+            "name": "黄伟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17124,9 +17257,6 @@
         "organization": "长春理工大学",
         "teamMembers": [
           {
-            "name": "李华(教练)"
-          },
-          {
             "name": "李龙"
           },
           {
@@ -17134,6 +17264,10 @@
           },
           {
             "name": "林永琪"
+          },
+          {
+            "name": "李华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17251,9 +17385,6 @@
         "organization": "长春理工大学",
         "teamMembers": [
           {
-            "name": "王睿(教练)"
-          },
-          {
             "name": "楼昌焘"
           },
           {
@@ -17261,6 +17392,10 @@
           },
           {
             "name": "周泊宇"
+          },
+          {
+            "name": "王睿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17378,9 +17513,6 @@
         "organization": "东北大学秦皇岛分校",
         "teamMembers": [
           {
-            "name": "王和兴(教练)"
-          },
-          {
             "name": "刘泽铭"
           },
           {
@@ -17388,6 +17520,10 @@
           },
           {
             "name": "项溢馨"
+          },
+          {
+            "name": "王和兴",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17505,9 +17641,6 @@
         "organization": "中北大学",
         "teamMembers": [
           {
-            "name": "张静(教练)"
-          },
-          {
             "name": "李跃龙"
           },
           {
@@ -17515,6 +17648,10 @@
           },
           {
             "name": "李东昆"
+          },
+          {
+            "name": "张静",
+            "role": "coach"
           }
         ],
         "official": false
@@ -17632,9 +17769,6 @@
         "organization": "南京理工大学",
         "teamMembers": [
           {
-            "name": "余立功(教练)"
-          },
-          {
             "name": "贾持恒"
           },
           {
@@ -17642,6 +17776,10 @@
           },
           {
             "name": "陶俊天"
+          },
+          {
+            "name": "余立功",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17759,9 +17897,6 @@
         "organization": "山东理工大学",
         "teamMembers": [
           {
-            "name": "张立红(教练)"
-          },
-          {
             "name": "彭子涵"
           },
           {
@@ -17769,6 +17904,10 @@
           },
           {
             "name": "王显超"
+          },
+          {
+            "name": "张立红",
+            "role": "coach"
           }
         ],
         "official": false
@@ -17886,9 +18025,6 @@
         "organization": "青岛大学",
         "teamMembers": [
           {
-            "name": "杜祥军(教练)"
-          },
-          {
             "name": "李斌"
           },
           {
@@ -17896,6 +18032,10 @@
           },
           {
             "name": "姬忠鲁"
+          },
+          {
+            "name": "杜祥军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18013,9 +18153,6 @@
         "organization": "哈尔滨工业大学（威海）",
         "teamMembers": [
           {
-            "name": "郭栗(教练)"
-          },
-          {
             "name": "陈柏羽"
           },
           {
@@ -18023,6 +18160,10 @@
           },
           {
             "name": "阮文哲"
+          },
+          {
+            "name": "郭栗",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18140,9 +18281,6 @@
         "organization": "清华大学",
         "teamMembers": [
           {
-            "name": "邬晓钧(教练)"
-          },
-          {
             "name": "谢兴宇"
           },
           {
@@ -18150,6 +18288,10 @@
           },
           {
             "name": "谭竣文"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18267,9 +18409,6 @@
         "organization": "中国矿业大学",
         "teamMembers": [
           {
-            "name": "毕方明(教练)"
-          },
-          {
             "name": "王孙逸融"
           },
           {
@@ -18277,6 +18416,10 @@
           },
           {
             "name": "李明阳"
+          },
+          {
+            "name": "毕方明",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18394,9 +18537,6 @@
         "organization": "长春理工大学",
         "teamMembers": [
           {
-            "name": "李华(教练)"
-          },
-          {
             "name": "张和阳"
           },
           {
@@ -18404,6 +18544,10 @@
           },
           {
             "name": "张晓成"
+          },
+          {
+            "name": "李华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18521,9 +18665,6 @@
         "organization": "江西师范大学",
         "teamMembers": [
           {
-            "name": "吴水秀(教练)"
-          },
-          {
             "name": "王慷"
           },
           {
@@ -18531,6 +18672,10 @@
           },
           {
             "name": "邱熠"
+          },
+          {
+            "name": "吴水秀",
+            "role": "coach"
           }
         ],
         "official": false
@@ -18648,9 +18793,6 @@
         "organization": "浙江机电职业技术学院",
         "teamMembers": [
           {
-            "name": "邹会来(教练)"
-          },
-          {
             "name": "杨世纪"
           },
           {
@@ -18658,6 +18800,10 @@
           },
           {
             "name": "周伟剑"
+          },
+          {
+            "name": "邹会来",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18775,9 +18921,6 @@
         "organization": "东北农业大学",
         "teamMembers": [
           {
-            "name": "李晓明(教练)"
-          },
-          {
             "name": "肖天顺"
           },
           {
@@ -18785,6 +18928,10 @@
           },
           {
             "name": "张国梁"
+          },
+          {
+            "name": "李晓明",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18902,9 +19049,6 @@
         "organization": "湖州师范学院",
         "teamMembers": [
           {
-            "name": "计培良(教练)"
-          },
-          {
             "name": "谢宇成"
           },
           {
@@ -18912,6 +19056,10 @@
           },
           {
             "name": "黄冲"
+          },
+          {
+            "name": "计培良",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19029,9 +19177,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "郑翰"
           },
           {
@@ -19039,6 +19184,10 @@
           },
           {
             "name": "曹云帆"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -19156,9 +19305,6 @@
         "organization": "郑州大学",
         "teamMembers": [
           {
-            "name": "吴云鹏(教练)"
-          },
-          {
             "name": "刘世纪"
           },
           {
@@ -19166,6 +19312,10 @@
           },
           {
             "name": "黄笑凡"
+          },
+          {
+            "name": "吴云鹏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -19283,9 +19433,6 @@
         "organization": "西南民族大学",
         "teamMembers": [
           {
-            "name": "周绪川(教练)"
-          },
-          {
             "name": "何佳文"
           },
           {
@@ -19293,6 +19440,10 @@
           },
           {
             "name": "张洋"
+          },
+          {
+            "name": "周绪川",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19410,9 +19561,6 @@
         "organization": "东北师范大学",
         "teamMembers": [
           {
-            "name": "罗娜(教练)"
-          },
-          {
             "name": "童浩龙"
           },
           {
@@ -19420,6 +19568,10 @@
           },
           {
             "name": "徐文浩"
+          },
+          {
+            "name": "罗娜",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19537,9 +19689,6 @@
         "organization": "广东工业大学",
         "teamMembers": [
           {
-            "name": "孙宣东(教练)"
-          },
-          {
             "name": "潘敏忠"
           },
           {
@@ -19547,6 +19696,10 @@
           },
           {
             "name": "钟智锋"
+          },
+          {
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19664,9 +19817,6 @@
         "organization": "闽南师范大学",
         "teamMembers": [
           {
-            "name": "童先群(教练)"
-          },
-          {
             "name": "郑咏津"
           },
           {
@@ -19674,6 +19824,10 @@
           },
           {
             "name": "李亚楠"
+          },
+          {
+            "name": "童先群",
+            "role": "coach"
           }
         ],
         "official": false
@@ -19791,9 +19945,6 @@
         "organization": "西南交通大学",
         "teamMembers": [
           {
-            "name": "喻琇瑛(教练)"
-          },
-          {
             "name": "江胤佐"
           },
           {
@@ -19801,6 +19952,10 @@
           },
           {
             "name": "宋毅飞"
+          },
+          {
+            "name": "喻琇瑛",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19918,9 +20073,6 @@
         "organization": "辽宁大学",
         "teamMembers": [
           {
-            "name": "曲大鹏(教练)"
-          },
-          {
             "name": "阎坷凡"
           },
           {
@@ -19928,6 +20080,10 @@
           },
           {
             "name": "雷震宇"
+          },
+          {
+            "name": "曲大鹏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -20045,9 +20201,6 @@
         "organization": "宁波大学",
         "teamMembers": [
           {
-            "name": "陈叶芳(教练)"
-          },
-          {
             "name": "赵文泽"
           },
           {
@@ -20055,6 +20208,10 @@
           },
           {
             "name": "陈宇杰"
+          },
+          {
+            "name": "陈叶芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20172,9 +20329,6 @@
         "organization": "厦门大学",
         "teamMembers": [
           {
-            "name": "林文水(教练)"
-          },
-          {
             "name": "颜集源"
           },
           {
@@ -20182,6 +20336,10 @@
           },
           {
             "name": "高言峰"
+          },
+          {
+            "name": "林文水",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20299,9 +20457,6 @@
         "organization": "北京航空航天大学",
         "teamMembers": [
           {
-            "name": "宋友(教练)"
-          },
-          {
             "name": "常容熇"
           },
           {
@@ -20309,6 +20464,10 @@
           },
           {
             "name": "王梓浔"
+          },
+          {
+            "name": "宋友",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20426,9 +20585,6 @@
         "organization": "重庆邮电大学",
         "teamMembers": [
           {
-            "name": "甘玲(教练)"
-          },
-          {
             "name": "盖中会"
           },
           {
@@ -20436,6 +20592,10 @@
           },
           {
             "name": "娄奚文炀"
+          },
+          {
+            "name": "甘玲",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20553,9 +20713,6 @@
         "organization": "长沙学院",
         "teamMembers": [
           {
-            "name": "黄娟(教练)"
-          },
-          {
             "name": "刘洋"
           },
           {
@@ -20563,6 +20720,10 @@
           },
           {
             "name": "龚朝瑞"
+          },
+          {
+            "name": "黄娟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20680,9 +20841,6 @@
         "organization": "深圳大学",
         "teamMembers": [
           {
-            "name": "张小健(教练)"
-          },
-          {
             "name": "许伟鑫"
           },
           {
@@ -20690,6 +20848,10 @@
           },
           {
             "name": "李宇良"
+          },
+          {
+            "name": "张小健",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20807,9 +20969,6 @@
         "organization": "南方科技大学",
         "teamMembers": [
           {
-            "name": "唐博(教练)"
-          },
-          {
             "name": "李昀镀"
           },
           {
@@ -20817,6 +20976,10 @@
           },
           {
             "name": "刘旭坤"
+          },
+          {
+            "name": "唐博",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20934,9 +21097,6 @@
         "organization": "河海大学",
         "teamMembers": [
           {
-            "name": "张雪洁(教练)"
-          },
-          {
             "name": "蒋子俊"
           },
           {
@@ -20944,6 +21104,10 @@
           },
           {
             "name": "邓伦"
+          },
+          {
+            "name": "张雪洁",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21061,9 +21225,6 @@
         "organization": "东北电力大学",
         "teamMembers": [
           {
-            "name": "王敬东(教练)"
-          },
-          {
             "name": "徐浩东"
           },
           {
@@ -21071,6 +21232,10 @@
           },
           {
             "name": "翁子晗"
+          },
+          {
+            "name": "王敬东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21188,9 +21353,6 @@
         "organization": "广西大学",
         "teamMembers": [
           {
-            "name": "詹锋(教练)"
-          },
-          {
             "name": "王利明"
           },
           {
@@ -21198,6 +21360,10 @@
           },
           {
             "name": "陈治成"
+          },
+          {
+            "name": "詹锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21315,9 +21481,6 @@
         "organization": "哈尔滨工业大学（深圳）",
         "teamMembers": [
           {
-            "name": "唐琳琳(教练)"
-          },
-          {
             "name": "杨博康"
           },
           {
@@ -21325,6 +21488,10 @@
           },
           {
             "name": "廖蕴杰"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21442,9 +21609,6 @@
         "organization": "华南师范大学",
         "teamMembers": [
           {
-            "name": "曹霑懋(教练)"
-          },
-          {
             "name": "陈德捷"
           },
           {
@@ -21452,6 +21616,10 @@
           },
           {
             "name": "王斯东"
+          },
+          {
+            "name": "曹霑懋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21569,9 +21737,6 @@
         "organization": "浙江农林大学",
         "teamMembers": [
           {
-            "name": "童孟军(教练)"
-          },
-          {
             "name": "戴振龙"
           },
           {
@@ -21579,6 +21744,10 @@
           },
           {
             "name": "盛洪涛"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21696,9 +21865,6 @@
         "organization": "重庆邮电大学",
         "teamMembers": [
           {
-            "name": "甘玲(教练)"
-          },
-          {
             "name": "何杨"
           },
           {
@@ -21706,6 +21872,10 @@
           },
           {
             "name": "荀泽梁"
+          },
+          {
+            "name": "甘玲",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21823,9 +21993,6 @@
         "organization": "南京信息工程大学",
         "teamMembers": [
           {
-            "name": "郑关胜(教练)"
-          },
-          {
             "name": "胡广"
           },
           {
@@ -21833,6 +22000,10 @@
           },
           {
             "name": "张兴洋"
+          },
+          {
+            "name": "郑关胜",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21950,9 +22121,6 @@
         "organization": "战略支援部队信息工程大学",
         "teamMembers": [
           {
-            "name": "周刚(教练)"
-          },
-          {
             "name": "兰天宇"
           },
           {
@@ -21960,6 +22128,10 @@
           },
           {
             "name": "林泽昊"
+          },
+          {
+            "name": "周刚",
+            "role": "coach"
           }
         ],
         "official": false
@@ -22077,9 +22249,6 @@
         "organization": "厦门大学",
         "teamMembers": [
           {
-            "name": "林文水(教练)"
-          },
-          {
             "name": "陈潇"
           },
           {
@@ -22087,6 +22256,10 @@
           },
           {
             "name": "赖彦丞"
+          },
+          {
+            "name": "林文水",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22204,9 +22377,6 @@
         "organization": "河南理工大学",
         "teamMembers": [
           {
-            "name": "陈艳丽(教练)"
-          },
-          {
             "name": "张乔然"
           },
           {
@@ -22214,6 +22384,10 @@
           },
           {
             "name": "胡定宇"
+          },
+          {
+            "name": "陈艳丽",
+            "role": "coach"
           }
         ],
         "official": false
@@ -22331,9 +22505,6 @@
         "organization": "桂林电子科技大学",
         "teamMembers": [
           {
-            "name": "王子民(教练)"
-          },
-          {
             "name": "李龙飞"
           },
           {
@@ -22341,6 +22512,10 @@
           },
           {
             "name": "王选文"
+          },
+          {
+            "name": "王子民",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22458,9 +22633,6 @@
         "organization": "浙江工业大学",
         "teamMembers": [
           {
-            "name": "韩姗姗(教练)"
-          },
-          {
             "name": "张宇翔"
           },
           {
@@ -22468,6 +22640,10 @@
           },
           {
             "name": "陈洁怡"
+          },
+          {
+            "name": "韩姗姗",
+            "role": "coach"
           }
         ],
         "official": false
@@ -22585,9 +22761,6 @@
         "organization": "华中科技大学",
         "teamMembers": [
           {
-            "name": "何琨(教练)"
-          },
-          {
             "name": "原圣聚"
           },
           {
@@ -22595,6 +22768,10 @@
           },
           {
             "name": "彭力"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
           }
         ],
         "official": false
@@ -22712,9 +22889,6 @@
         "organization": "长沙理工大学",
         "teamMembers": [
           {
-            "name": "邓广慧(教练)"
-          },
-          {
             "name": "易斯龙"
           },
           {
@@ -22722,6 +22896,10 @@
           },
           {
             "name": "刘帅"
+          },
+          {
+            "name": "邓广慧",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22839,9 +23017,6 @@
         "organization": "湖南大学",
         "teamMembers": [
           {
-            "name": "吴昊(教练)"
-          },
-          {
             "name": "欧阳建鸿"
           },
           {
@@ -22849,6 +23024,10 @@
           },
           {
             "name": "吴阶成"
+          },
+          {
+            "name": "吴昊",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22966,9 +23145,6 @@
         "organization": "同济大学",
         "teamMembers": [
           {
-            "name": "叶晨(教练)"
-          },
-          {
             "name": "张迪"
           },
           {
@@ -22976,6 +23152,10 @@
           },
           {
             "name": "庞鹏瞩"
+          },
+          {
+            "name": "叶晨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23093,9 +23273,6 @@
         "organization": "山东师范大学",
         "teamMembers": [
           {
-            "name": "李圣涛(教练)"
-          },
-          {
             "name": "李浩然"
           },
           {
@@ -23103,6 +23280,10 @@
           },
           {
             "name": "王欣"
+          },
+          {
+            "name": "李圣涛",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23220,9 +23401,6 @@
         "organization": "中国海洋大学",
         "teamMembers": [
           {
-            "name": "刘培顺(教练)"
-          },
-          {
             "name": "郑玉龙"
           },
           {
@@ -23230,6 +23408,10 @@
           },
           {
             "name": "于昊"
+          },
+          {
+            "name": "刘培顺",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23347,9 +23529,6 @@
         "organization": "河南理工大学",
         "teamMembers": [
           {
-            "name": "王建芳(教练)"
-          },
-          {
             "name": "吴怡龙"
           },
           {
@@ -23357,6 +23536,10 @@
           },
           {
             "name": "马晓文"
+          },
+          {
+            "name": "王建芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23474,9 +23657,6 @@
         "organization": "西安电子科技大学",
         "teamMembers": [
           {
-            "name": "孟广兰(教练)"
-          },
-          {
             "name": "王文煜"
           },
           {
@@ -23484,6 +23664,10 @@
           },
           {
             "name": "郭浩杰"
+          },
+          {
+            "name": "孟广兰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23601,9 +23785,6 @@
         "organization": "武汉科技大学",
         "teamMembers": [
           {
-            "name": "李顺新(教练)"
-          },
-          {
             "name": "韩承志"
           },
           {
@@ -23611,6 +23792,10 @@
           },
           {
             "name": "蒋士鹏"
+          },
+          {
+            "name": "李顺新",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23728,9 +23913,6 @@
         "organization": "东北农业大学",
         "teamMembers": [
           {
-            "name": "李晓明(教练)"
-          },
-          {
             "name": "杨坤"
           },
           {
@@ -23738,6 +23920,10 @@
           },
           {
             "name": "赵晨"
+          },
+          {
+            "name": "李晓明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -23856,9 +24042,6 @@
         "organization": "西南交通大学",
         "teamMembers": [
           {
-            "name": "廖革元(教练)"
-          },
-          {
             "name": "肖浩科"
           },
           {
@@ -23866,6 +24049,10 @@
           },
           {
             "name": "李远杰"
+          },
+          {
+            "name": "廖革元",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23983,9 +24170,6 @@
         "organization": "新疆大学",
         "teamMembers": [
           {
-            "name": "安海兵(教练)"
-          },
-          {
             "name": "王嘉琪"
           },
           {
@@ -23993,6 +24177,10 @@
           },
           {
             "name": "吕昂"
+          },
+          {
+            "name": "安海兵",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24110,9 +24298,6 @@
         "organization": "河南农业大学",
         "teamMembers": [
           {
-            "name": "尚俊平(教练)"
-          },
-          {
             "name": "巩皓昕"
           },
           {
@@ -24120,6 +24305,10 @@
           },
           {
             "name": "熊梦轩"
+          },
+          {
+            "name": "尚俊平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24237,9 +24426,6 @@
         "organization": "华中农业大学",
         "teamMembers": [
           {
-            "name": "章英(教练)"
-          },
-          {
             "name": "胡海川"
           },
           {
@@ -24247,6 +24433,10 @@
           },
           {
             "name": "赵钰"
+          },
+          {
+            "name": "章英",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24364,9 +24554,6 @@
         "organization": "广东工业大学",
         "teamMembers": [
           {
-            "name": "孙宣东(教练)"
-          },
-          {
             "name": "李东明"
           },
           {
@@ -24374,6 +24561,10 @@
           },
           {
             "name": "李坤清"
+          },
+          {
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24491,9 +24682,6 @@
         "organization": "湖南人文科技学院",
         "teamMembers": [
           {
-            "name": "肖敏雷(教练)"
-          },
-          {
             "name": "吕翱"
           },
           {
@@ -24501,6 +24689,10 @@
           },
           {
             "name": "彭方正"
+          },
+          {
+            "name": "肖敏雷",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24618,9 +24810,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "黄铭昊"
           },
           {
@@ -24628,6 +24817,10 @@
           },
           {
             "name": "何宇杭"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -24745,9 +24938,6 @@
         "organization": "浙大城市学院",
         "teamMembers": [
           {
-            "name": "柯海丰(教练)"
-          },
-          {
             "name": "颜智瑶"
           },
           {
@@ -24755,6 +24945,10 @@
           },
           {
             "name": "何勇杰"
+          },
+          {
+            "name": "柯海丰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24872,9 +25066,6 @@
         "organization": "哈尔滨工业大学（深圳）",
         "teamMembers": [
           {
-            "name": "唐琳琳(教练)"
-          },
-          {
             "name": "方邱旸"
           },
           {
@@ -24882,6 +25073,10 @@
           },
           {
             "name": "唐隆斌"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
           }
         ],
         "official": false
@@ -24999,9 +25194,6 @@
         "organization": "深圳大学",
         "teamMembers": [
           {
-            "name": "张小健(教练)"
-          },
-          {
             "name": "丁优龙"
           },
           {
@@ -25009,6 +25201,10 @@
           },
           {
             "name": "齐宇轩"
+          },
+          {
+            "name": "张小健",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25126,9 +25322,6 @@
         "organization": "杭州师范大学",
         "teamMembers": [
           {
-            "name": "单振宇(教练)"
-          },
-          {
             "name": "邱龙风"
           },
           {
@@ -25136,6 +25329,10 @@
           },
           {
             "name": "张传"
+          },
+          {
+            "name": "单振宇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25253,9 +25450,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "张天陵"
           },
           {
@@ -25263,6 +25457,10 @@
           },
           {
             "name": "倪锦涵"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25380,9 +25578,6 @@
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "杨亚(教练)"
-          },
-          {
             "name": "汤子唯"
           },
           {
@@ -25390,6 +25585,10 @@
           },
           {
             "name": "石映奇"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
         "official": false
@@ -25507,9 +25706,6 @@
         "organization": "乐山师范学院",
         "teamMembers": [
           {
-            "name": "杨骏(教练)"
-          },
-          {
             "name": "蔡悦益"
           },
           {
@@ -25517,6 +25713,10 @@
           },
           {
             "name": "杨国庆"
+          },
+          {
+            "name": "杨骏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25634,9 +25834,6 @@
         "organization": "温州大学",
         "teamMembers": [
           {
-            "name": "胡明晓(教练)"
-          },
-          {
             "name": "程煜"
           },
           {
@@ -25644,6 +25841,10 @@
           },
           {
             "name": "郑文尧"
+          },
+          {
+            "name": "胡明晓",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25761,9 +25962,6 @@
         "organization": "长春工业大学",
         "teamMembers": [
           {
-            "name": "潘超(教练)"
-          },
-          {
             "name": "于政文"
           },
           {
@@ -25771,6 +25969,10 @@
           },
           {
             "name": "李昊霖"
+          },
+          {
+            "name": "潘超",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25888,9 +26090,6 @@
         "organization": "北京师范大学",
         "teamMembers": [
           {
-            "name": "徐鹏飞(教练)"
-          },
-          {
             "name": "高艺炜"
           },
           {
@@ -25898,6 +26097,10 @@
           },
           {
             "name": "彭泊词"
+          },
+          {
+            "name": "徐鹏飞",
+            "role": "coach"
           }
         ],
         "official": false
@@ -26015,9 +26218,6 @@
         "organization": "中国石油大学（华东）",
         "teamMembers": [
           {
-            "name": "张学辉(教练)"
-          },
-          {
             "name": "徐乐"
           },
           {
@@ -26025,6 +26225,10 @@
           },
           {
             "name": "郭楠"
+          },
+          {
+            "name": "张学辉",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26142,9 +26346,6 @@
         "organization": "肇庆学院",
         "teamMembers": [
           {
-            "name": "钟鏸(教练)"
-          },
-          {
             "name": "马増鑫"
           },
           {
@@ -26152,6 +26353,10 @@
           },
           {
             "name": "李俊辉"
+          },
+          {
+            "name": "钟鏸",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26269,9 +26474,6 @@
         "organization": "东北师范大学",
         "teamMembers": [
           {
-            "name": "李宏博(教练)"
-          },
-          {
             "name": "程磊"
           },
           {
@@ -26279,6 +26481,10 @@
           },
           {
             "name": "韩巍"
+          },
+          {
+            "name": "李宏博",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26396,9 +26602,6 @@
         "organization": "中北大学",
         "teamMembers": [
           {
-            "name": "潘广贞(教练)"
-          },
-          {
             "name": "孙琪"
           },
           {
@@ -26406,6 +26609,10 @@
           },
           {
             "name": "裴端"
+          },
+          {
+            "name": "潘广贞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26523,9 +26730,6 @@
         "organization": "福州大学",
         "teamMembers": [
           {
-            "name": "傅仰耿(教练)"
-          },
-          {
             "name": "汪辉阳"
           },
           {
@@ -26533,6 +26737,10 @@
           },
           {
             "name": "蔡少杰"
+          },
+          {
+            "name": "傅仰耿",
+            "role": "coach"
           }
         ],
         "official": false
@@ -26650,9 +26858,6 @@
         "organization": "郑州轻工业大学",
         "teamMembers": [
           {
-            "name": "常化文(教练)"
-          },
-          {
             "name": "许启明"
           },
           {
@@ -26660,6 +26865,10 @@
           },
           {
             "name": "刘广城"
+          },
+          {
+            "name": "常化文",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26777,9 +26986,6 @@
         "organization": "上海大学",
         "teamMembers": [
           {
-            "name": "沈云付(教练)"
-          },
-          {
             "name": "李肖帆"
           },
           {
@@ -26787,6 +26993,10 @@
           },
           {
             "name": "许天励"
+          },
+          {
+            "name": "沈云付",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26904,9 +27114,6 @@
         "organization": "东北大学秦皇岛分校",
         "teamMembers": [
           {
-            "name": "王和兴(教练)"
-          },
-          {
             "name": "张烨槟"
           },
           {
@@ -26914,6 +27121,10 @@
           },
           {
             "name": "沈晓汐"
+          },
+          {
+            "name": "王和兴",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27031,9 +27242,6 @@
         "organization": "福建工程学院",
         "teamMembers": [
           {
-            "name": "陈义(教练)"
-          },
-          {
             "name": "黄森源"
           },
           {
@@ -27041,6 +27249,10 @@
           },
           {
             "name": "吴锐滨"
+          },
+          {
+            "name": "陈义",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27158,9 +27370,6 @@
         "organization": "中国地质大学（北京）",
         "teamMembers": [
           {
-            "name": "张玉清(教练)"
-          },
-          {
             "name": "任星韬"
           },
           {
@@ -27168,6 +27377,10 @@
           },
           {
             "name": "曹佳宁"
+          },
+          {
+            "name": "张玉清",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27285,9 +27498,6 @@
         "organization": "南昌理工学院",
         "teamMembers": [
           {
-            "name": "胡荣群(教练)"
-          },
-          {
             "name": "胡志宇"
           },
           {
@@ -27295,6 +27505,10 @@
           },
           {
             "name": "杨意飞"
+          },
+          {
+            "name": "胡荣群",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27412,9 +27626,6 @@
         "organization": "南阳理工学院",
         "teamMembers": [
           {
-            "name": "靳冰(教练)"
-          },
-          {
             "name": "胡英豪"
           },
           {
@@ -27422,6 +27633,10 @@
           },
           {
             "name": "徐斌磊"
+          },
+          {
+            "name": "靳冰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27539,9 +27754,6 @@
         "organization": "苏州大学",
         "teamMembers": [
           {
-            "name": "赵雷(教练)"
-          },
-          {
             "name": "郑悦薇"
           },
           {
@@ -27549,6 +27761,10 @@
           },
           {
             "name": "李舒淇"
+          },
+          {
+            "name": "赵雷",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -27667,9 +27883,6 @@
         "organization": "成都东软学院",
         "teamMembers": [
           {
-            "name": "田霖(教练)"
-          },
-          {
             "name": "李亚"
           },
           {
@@ -27677,6 +27890,10 @@
           },
           {
             "name": "杨海东"
+          },
+          {
+            "name": "田霖",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27794,9 +28011,6 @@
         "organization": "东北大学秦皇岛分校",
         "teamMembers": [
           {
-            "name": "王和兴(教练)"
-          },
-          {
             "name": "刘婉乔"
           },
           {
@@ -27804,6 +28018,10 @@
           },
           {
             "name": "邓楠"
+          },
+          {
+            "name": "王和兴",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27921,9 +28139,6 @@
         "organization": "南京信息工程大学",
         "teamMembers": [
           {
-            "name": "郑关胜(教练)"
-          },
-          {
             "name": "邹佳云"
           },
           {
@@ -27931,6 +28146,10 @@
           },
           {
             "name": "金舒文"
+          },
+          {
+            "name": "郑关胜",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -28049,9 +28268,6 @@
         "organization": "南京邮电大学",
         "teamMembers": [
           {
-            "name": "陈志(教练)"
-          },
-          {
             "name": "金益凡"
           },
           {
@@ -28059,6 +28275,10 @@
           },
           {
             "name": "王奕乾"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28176,9 +28396,6 @@
         "organization": "湖南工业大学",
         "teamMembers": [
           {
-            "name": "邓晓军(教练)"
-          },
-          {
             "name": "王俊"
           },
           {
@@ -28186,6 +28403,10 @@
           },
           {
             "name": "刘平涛"
+          },
+          {
+            "name": "邓晓军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28303,9 +28524,6 @@
         "organization": "闽南师范大学",
         "teamMembers": [
           {
-            "name": "童先群(教练)"
-          },
-          {
             "name": "林黎辉"
           },
           {
@@ -28313,6 +28531,10 @@
           },
           {
             "name": "杨成汉"
+          },
+          {
+            "name": "童先群",
+            "role": "coach"
           }
         ],
         "official": false
@@ -28430,9 +28652,6 @@
         "organization": "东北农业大学",
         "teamMembers": [
           {
-            "name": "李晓明(教练)"
-          },
-          {
             "name": "王鹂晴"
           },
           {
@@ -28440,6 +28659,10 @@
           },
           {
             "name": "王伟林"
+          },
+          {
+            "name": "李晓明",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28557,9 +28780,6 @@
         "organization": "常熟理工学院",
         "teamMembers": [
           {
-            "name": "聂盼红(教练)"
-          },
-          {
             "name": "咸翔"
           },
           {
@@ -28567,6 +28787,10 @@
           },
           {
             "name": "蔡德佳"
+          },
+          {
+            "name": "聂盼红",
+            "role": "coach"
           }
         ],
         "official": false
@@ -28684,9 +28908,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "水兵"
           },
           {
@@ -28694,6 +28915,10 @@
           },
           {
             "name": "蒋潇鹏"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -28811,9 +29036,6 @@
         "organization": "北京师范大学",
         "teamMembers": [
           {
-            "name": "徐鹏飞(教练)"
-          },
-          {
             "name": "王亚菁"
           },
           {
@@ -28821,6 +29043,10 @@
           },
           {
             "name": "郭轩宇"
+          },
+          {
+            "name": "徐鹏飞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28938,9 +29164,6 @@
         "organization": "华南理工大学",
         "teamMembers": [
           {
-            "name": "陈俊颖(教练)"
-          },
-          {
             "name": "吴梓柯"
           },
           {
@@ -28948,6 +29171,10 @@
           },
           {
             "name": "张逸松"
+          },
+          {
+            "name": "陈俊颖",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29065,9 +29292,6 @@
         "organization": "电子科技大学中山学院",
         "teamMembers": [
           {
-            "name": "李瑞芳(教练)"
-          },
-          {
             "name": "金志康"
           },
           {
@@ -29075,6 +29299,10 @@
           },
           {
             "name": "李旨轩"
+          },
+          {
+            "name": "李瑞芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29192,9 +29420,6 @@
         "organization": "大连海事大学",
         "teamMembers": [
           {
-            "name": "谢益武(教练)"
-          },
-          {
             "name": "孟浩然"
           },
           {
@@ -29202,6 +29427,10 @@
           },
           {
             "name": "郑宇濠"
+          },
+          {
+            "name": "谢益武",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29319,9 +29548,6 @@
         "organization": "福建师范大学",
         "teamMembers": [
           {
-            "name": "吴闻(教练)"
-          },
-          {
             "name": "胡天为"
           },
           {
@@ -29329,6 +29555,10 @@
           },
           {
             "name": "陈政霖"
+          },
+          {
+            "name": "吴闻",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29446,9 +29676,6 @@
         "organization": "浙大城市学院",
         "teamMembers": [
           {
-            "name": "柯海丰(教练)"
-          },
-          {
             "name": "金方永"
           },
           {
@@ -29456,6 +29683,10 @@
           },
           {
             "name": "潘岩"
+          },
+          {
+            "name": "柯海丰",
+            "role": "coach"
           }
         ],
         "official": false
@@ -29573,9 +29804,6 @@
         "organization": "西北工业大学",
         "teamMembers": [
           {
-            "name": "刘君瑞(教练)"
-          },
-          {
             "name": "李奕言"
           },
           {
@@ -29583,6 +29811,10 @@
           },
           {
             "name": "郭笑嫣"
+          },
+          {
+            "name": "刘君瑞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29700,9 +29932,6 @@
         "organization": "安徽大学",
         "teamMembers": [
           {
-            "name": "周健(教练)"
-          },
-          {
             "name": "王瀚平"
           },
           {
@@ -29710,6 +29939,10 @@
           },
           {
             "name": "杨晨静"
+          },
+          {
+            "name": "周健",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29827,9 +30060,6 @@
         "organization": "广东技术师范大学",
         "teamMembers": [
           {
-            "name": "刘兰(教练)"
-          },
-          {
             "name": "罗伟健"
           },
           {
@@ -29837,6 +30067,10 @@
           },
           {
             "name": "张杰"
+          },
+          {
+            "name": "刘兰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29954,9 +30188,6 @@
         "organization": "长春理工大学",
         "teamMembers": [
           {
-            "name": "赵建平(教练)"
-          },
-          {
             "name": "黄宏进"
           },
           {
@@ -29964,6 +30195,10 @@
           },
           {
             "name": "张佳浩"
+          },
+          {
+            "name": "赵建平",
+            "role": "coach"
           }
         ],
         "official": false
@@ -30081,9 +30316,6 @@
         "organization": "河海大学",
         "teamMembers": [
           {
-            "name": "朱云(教练)"
-          },
-          {
             "name": "钱霖奕"
           },
           {
@@ -30091,6 +30323,10 @@
           },
           {
             "name": "戴宇晗"
+          },
+          {
+            "name": "朱云",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30208,9 +30444,6 @@
         "organization": "燕山大学",
         "teamMembers": [
           {
-            "name": "穆运峰(教练)"
-          },
-          {
             "name": "戴昊"
           },
           {
@@ -30218,6 +30451,10 @@
           },
           {
             "name": "李曲铭"
+          },
+          {
+            "name": "穆运峰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30335,9 +30572,6 @@
         "organization": "山东大学（威海）",
         "teamMembers": [
           {
-            "name": "金长龙(教练)"
-          },
-          {
             "name": "李济帆"
           },
           {
@@ -30345,6 +30579,10 @@
           },
           {
             "name": "王筱童"
+          },
+          {
+            "name": "金长龙",
+            "role": "coach"
           }
         ],
         "official": false
@@ -30462,9 +30700,6 @@
         "organization": "中南民族大学",
         "teamMembers": [
           {
-            "name": "刘卫平(教练)"
-          },
-          {
             "name": "陆尹凯"
           },
           {
@@ -30472,6 +30707,10 @@
           },
           {
             "name": "程家威"
+          },
+          {
+            "name": "刘卫平",
+            "role": "coach"
           }
         ],
         "official": false
@@ -30589,9 +30828,6 @@
         "organization": "华南师范大学",
         "teamMembers": [
           {
-            "name": "梁军(教练)"
-          },
-          {
             "name": "容加林"
           },
           {
@@ -30599,6 +30835,10 @@
           },
           {
             "name": "罗志豪"
+          },
+          {
+            "name": "梁军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30716,9 +30956,6 @@
         "organization": "太原理工大学",
         "teamMembers": [
           {
-            "name": "林福平(教练)"
-          },
-          {
             "name": "孟子杰"
           },
           {
@@ -30726,6 +30963,10 @@
           },
           {
             "name": "赵云霄"
+          },
+          {
+            "name": "林福平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30843,9 +31084,6 @@
         "organization": "北京师范大学珠海分校",
         "teamMembers": [
           {
-            "name": "叶梦杰(教练)"
-          },
-          {
             "name": "郑皓洲"
           },
           {
@@ -30853,6 +31091,10 @@
           },
           {
             "name": "袁希岚"
+          },
+          {
+            "name": "叶梦杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30970,9 +31212,6 @@
         "organization": "河南理工大学",
         "teamMembers": [
           {
-            "name": "王建芳(教练)"
-          },
-          {
             "name": "李强"
           },
           {
@@ -30980,6 +31219,10 @@
           },
           {
             "name": "杨鹏伟"
+          },
+          {
+            "name": "王建芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31097,9 +31340,6 @@
         "organization": "山东大学（威海）",
         "teamMembers": [
           {
-            "name": "袁灏(教练)"
-          },
-          {
             "name": "刘文涵"
           },
           {
@@ -31107,6 +31347,10 @@
           },
           {
             "name": "付同有"
+          },
+          {
+            "name": "袁灏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -31224,9 +31468,6 @@
         "organization": "山东大学（威海）",
         "teamMembers": [
           {
-            "name": "袁灏(教练)"
-          },
-          {
             "name": "于帅聪"
           },
           {
@@ -31234,6 +31475,10 @@
           },
           {
             "name": "周鑫"
+          },
+          {
+            "name": "袁灏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31351,9 +31596,6 @@
         "organization": "青岛理工大学",
         "teamMembers": [
           {
-            "name": "吴万春(教练)"
-          },
-          {
             "name": "耿家浩"
           },
           {
@@ -31361,6 +31603,10 @@
           },
           {
             "name": "杨晓岐"
+          },
+          {
+            "name": "吴万春",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31478,9 +31724,6 @@
         "organization": "华东交通大学",
         "teamMembers": [
           {
-            "name": "李雄(教练)"
-          },
-          {
             "name": "刘作霖"
           },
           {
@@ -31488,6 +31731,10 @@
           },
           {
             "name": "谭威"
+          },
+          {
+            "name": "李雄",
+            "role": "coach"
           }
         ],
         "official": false
@@ -31605,9 +31852,6 @@
         "organization": "长沙学院",
         "teamMembers": [
           {
-            "name": "魏歌(教练)"
-          },
-          {
             "name": "曾宪根"
           },
           {
@@ -31615,6 +31859,10 @@
           },
           {
             "name": "谢涛"
+          },
+          {
+            "name": "魏歌",
+            "role": "coach"
           }
         ],
         "official": false
@@ -31732,9 +31980,6 @@
         "organization": "广州大学",
         "teamMembers": [
           {
-            "name": "丘凯伦(教练)"
-          },
-          {
             "name": "杨栋材"
           },
           {
@@ -31742,6 +31987,10 @@
           },
           {
             "name": "赵端浩"
+          },
+          {
+            "name": "丘凯伦",
+            "role": "coach"
           }
         ],
         "official": false
@@ -31859,9 +32108,6 @@
         "organization": "新疆大学",
         "teamMembers": [
           {
-            "name": "安海兵(教练)"
-          },
-          {
             "name": "杜衡"
           },
           {
@@ -31869,6 +32115,10 @@
           },
           {
             "name": "项涵之"
+          },
+          {
+            "name": "安海兵",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31986,9 +32236,6 @@
         "organization": "郑州大学",
         "teamMembers": [
           {
-            "name": "吴云鹏(教练)"
-          },
-          {
             "name": "李玺"
           },
           {
@@ -31996,6 +32243,10 @@
           },
           {
             "name": "葛厚钰"
+          },
+          {
+            "name": "吴云鹏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32113,9 +32364,6 @@
         "organization": "青岛大学",
         "teamMembers": [
           {
-            "name": "杜祥军(教练)"
-          },
-          {
             "name": "曹阳"
           },
           {
@@ -32123,6 +32371,10 @@
           },
           {
             "name": "牛平宪"
+          },
+          {
+            "name": "杜祥军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32240,9 +32492,6 @@
         "organization": "北京邮电大学",
         "teamMembers": [
           {
-            "name": "杨亚(教练)"
-          },
-          {
             "name": "王晓晖"
           },
           {
@@ -32250,6 +32499,10 @@
           },
           {
             "name": "王淇森"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
         "official": false
@@ -32367,9 +32620,6 @@
         "organization": "西南石油大学",
         "teamMembers": [
           {
-            "name": "谢季峰(教练)"
-          },
-          {
             "name": "万燚炜"
           },
           {
@@ -32377,6 +32627,10 @@
           },
           {
             "name": "邱海洋"
+          },
+          {
+            "name": "谢季峰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32494,9 +32748,6 @@
         "organization": "肇庆学院",
         "teamMembers": [
           {
-            "name": "钟鏸(教练)"
-          },
-          {
             "name": "黄立权"
           },
           {
@@ -32504,6 +32755,10 @@
           },
           {
             "name": "杨志杰"
+          },
+          {
+            "name": "钟鏸",
+            "role": "coach"
           }
         ],
         "official": false
@@ -32621,9 +32876,6 @@
         "organization": "哈尔滨工业大学（威海）",
         "teamMembers": [
           {
-            "name": "刘杨(教练)"
-          },
-          {
             "name": "苏世睿"
           },
           {
@@ -32631,6 +32883,10 @@
           },
           {
             "name": "王佩佩"
+          },
+          {
+            "name": "刘杨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32748,9 +33004,6 @@
         "organization": "浙江财经大学",
         "teamMembers": [
           {
-            "name": "陈琰宏(教练)"
-          },
-          {
             "name": "王靖淇"
           },
           {
@@ -32758,6 +33011,10 @@
           },
           {
             "name": "陈嘉俊"
+          },
+          {
+            "name": "陈琰宏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32875,9 +33132,6 @@
         "organization": "武汉理工大学",
         "teamMembers": [
           {
-            "name": "赵冬冬(教练)"
-          },
-          {
             "name": "王昱豪"
           },
           {
@@ -32885,6 +33139,10 @@
           },
           {
             "name": "吴宇航"
+          },
+          {
+            "name": "赵冬冬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33002,9 +33260,6 @@
         "organization": "东北大学秦皇岛分校",
         "teamMembers": [
           {
-            "name": "王和兴(教练)"
-          },
-          {
             "name": "张紫闻"
           },
           {
@@ -33012,6 +33267,10 @@
           },
           {
             "name": "吴羿霖"
+          },
+          {
+            "name": "王和兴",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33129,9 +33388,6 @@
         "organization": "武汉理工大学",
         "teamMembers": [
           {
-            "name": "赵广辉(教练)"
-          },
-          {
             "name": "楼旭辉"
           },
           {
@@ -33139,6 +33395,10 @@
           },
           {
             "name": "刘柏墉"
+          },
+          {
+            "name": "赵广辉",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33256,9 +33516,6 @@
         "organization": "山东大学（威海）",
         "teamMembers": [
           {
-            "name": "金长龙(教练)"
-          },
-          {
             "name": "陈龙泽"
           },
           {
@@ -33266,6 +33523,10 @@
           },
           {
             "name": "徐晏辰"
+          },
+          {
+            "name": "金长龙",
+            "role": "coach"
           }
         ],
         "official": false
@@ -33383,9 +33644,6 @@
         "organization": "绍兴文理学院",
         "teamMembers": [
           {
-            "name": "黄龙军(教练)"
-          },
-          {
             "name": "周建伟"
           },
           {
@@ -33393,6 +33651,10 @@
           },
           {
             "name": "江啸鹏"
+          },
+          {
+            "name": "黄龙军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33510,9 +33772,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "单博"
           },
           {
@@ -33520,6 +33779,10 @@
           },
           {
             "name": "刘子扬"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -33637,9 +33900,6 @@
         "organization": "广西师范大学",
         "teamMembers": [
           {
-            "name": "王金艳(教练)"
-          },
-          {
             "name": "黎启宇"
           },
           {
@@ -33647,6 +33907,10 @@
           },
           {
             "name": "谭宙"
+          },
+          {
+            "name": "王金艳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33764,9 +34028,6 @@
         "organization": "浙江万里学院",
         "teamMembers": [
           {
-            "name": "柴本成(教练)"
-          },
-          {
             "name": "朱梦涵"
           },
           {
@@ -33774,6 +34035,10 @@
           },
           {
             "name": "南柳茹"
+          },
+          {
+            "name": "柴本成",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -33892,9 +34157,6 @@
         "organization": "黑龙江大学",
         "teamMembers": [
           {
-            "name": "徐辉(教练)"
-          },
-          {
             "name": "许健炜"
           },
           {
@@ -33902,6 +34164,10 @@
           },
           {
             "name": "陆鹏艺"
+          },
+          {
+            "name": "徐辉",
+            "role": "coach"
           }
         ],
         "official": true
@@ -34019,9 +34285,6 @@
         "organization": "哈尔滨工业大学",
         "teamMembers": [
           {
-            "name": "孙大烈(教练)"
-          },
-          {
             "name": "庄舒漫"
           },
           {
@@ -34029,6 +34292,10 @@
           },
           {
             "name": "赖思颖"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
           }
         ],
         "official": false,
@@ -34147,9 +34414,6 @@
         "organization": "嘉应学院",
         "teamMembers": [
           {
-            "name": "陈广明(教练)"
-          },
-          {
             "name": "曾明霞"
           },
           {
@@ -34157,6 +34421,10 @@
           },
           {
             "name": "周凤宜"
+          },
+          {
+            "name": "陈广明",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -34275,9 +34543,6 @@
         "organization": "台州学院",
         "teamMembers": [
           {
-            "name": "陈荣钦(教练)"
-          },
-          {
             "name": "王非凡"
           },
           {
@@ -34285,6 +34550,10 @@
           },
           {
             "name": "张嘉铭"
+          },
+          {
+            "name": "陈荣钦",
+            "role": "coach"
           }
         ],
         "official": true
@@ -34402,9 +34671,6 @@
         "organization": "南阳师范学院",
         "teamMembers": [
           {
-            "name": "刘向娇(教练)"
-          },
-          {
             "name": "李国帅"
           },
           {
@@ -34412,6 +34678,10 @@
           },
           {
             "name": "范龙龙"
+          },
+          {
+            "name": "刘向娇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -34529,9 +34799,6 @@
         "organization": "郑州大学",
         "teamMembers": [
           {
-            "name": "吴云鹏(教练)"
-          },
-          {
             "name": "郭晓龙"
           },
           {
@@ -34539,6 +34806,10 @@
           },
           {
             "name": "李浩"
+          },
+          {
+            "name": "吴云鹏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -34656,9 +34927,6 @@
         "organization": "哈尔滨工业大学（深圳）",
         "teamMembers": [
           {
-            "name": "唐琳琳(教练)"
-          },
-          {
             "name": "董泽余"
           },
           {
@@ -34666,6 +34934,10 @@
           },
           {
             "name": "叶椅琦"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
           }
         ],
         "official": false
@@ -34783,9 +35055,6 @@
         "organization": "重庆邮电大学",
         "teamMembers": [
           {
-            "name": "甘玲(教练)"
-          },
-          {
             "name": "赖晓云"
           },
           {
@@ -34793,6 +35062,10 @@
           },
           {
             "name": "田哲宇"
+          },
+          {
+            "name": "甘玲",
+            "role": "coach"
           }
         ],
         "official": false
@@ -34910,9 +35183,6 @@
         "organization": "暨南大学",
         "teamMembers": [
           {
-            "name": "王传胜(教练)"
-          },
-          {
             "name": "张羡凡"
           },
           {
@@ -34920,6 +35190,10 @@
           },
           {
             "name": "蔡洁萍"
+          },
+          {
+            "name": "王传胜",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35038,9 +35312,6 @@
         "organization": "南京理工大学",
         "teamMembers": [
           {
-            "name": "余立功(教练)"
-          },
-          {
             "name": "陆宗泽"
           },
           {
@@ -35048,6 +35319,10 @@
           },
           {
             "name": "李广泽"
+          },
+          {
+            "name": "余立功",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35165,9 +35440,6 @@
         "organization": "东华理工大学",
         "teamMembers": [
           {
-            "name": "李祥(教练)"
-          },
-          {
             "name": "王奕涵"
           },
           {
@@ -35175,6 +35447,10 @@
           },
           {
             "name": "潘孙发"
+          },
+          {
+            "name": "李祥",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35292,9 +35568,6 @@
         "organization": "南京大学",
         "teamMembers": [
           {
-            "name": "马骏(教练)"
-          },
-          {
             "name": "王恺予"
           },
           {
@@ -35302,6 +35575,10 @@
           },
           {
             "name": "张乃仁"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35419,9 +35696,6 @@
         "organization": "绍兴文理学院元培学院",
         "teamMembers": [
           {
-            "name": "蔡尚真(教练)"
-          },
-          {
             "name": "张云"
           },
           {
@@ -35429,6 +35703,10 @@
           },
           {
             "name": "孙质方"
+          },
+          {
+            "name": "蔡尚真",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35546,9 +35824,6 @@
         "organization": "浙大宁波理工学院",
         "teamMembers": [
           {
-            "name": "郭新友(教练)"
-          },
-          {
             "name": "罗吟吟"
           },
           {
@@ -35556,6 +35831,10 @@
           },
           {
             "name": "林晶晶"
+          },
+          {
+            "name": "郭新友",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -35674,9 +35953,6 @@
         "organization": "国防科技大学",
         "teamMembers": [
           {
-            "name": "尹良泽(教练)"
-          },
-          {
             "name": "胡一帆"
           },
           {
@@ -35684,6 +35960,10 @@
           },
           {
             "name": "刘明宇"
+          },
+          {
+            "name": "尹良泽",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35801,9 +36081,6 @@
         "organization": "长春理工大学",
         "teamMembers": [
           {
-            "name": "王睿(教练)"
-          },
-          {
             "name": "王宁"
           },
           {
@@ -35811,6 +36088,10 @@
           },
           {
             "name": "唐依凡"
+          },
+          {
+            "name": "王睿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35928,9 +36209,6 @@
         "organization": "郑州大学",
         "teamMembers": [
           {
-            "name": "吴云鹏(教练)"
-          },
-          {
             "name": "刘泽"
           },
           {
@@ -35938,6 +36216,10 @@
           },
           {
             "name": "马少杰"
+          },
+          {
+            "name": "吴云鹏",
+            "role": "coach"
           }
         ],
         "official": false
@@ -36055,9 +36337,6 @@
         "organization": "西安理工大学",
         "teamMembers": [
           {
-            "name": "赵金伟(教练)"
-          },
-          {
             "name": "徐诚"
           },
           {
@@ -36065,6 +36344,10 @@
           },
           {
             "name": "赵佳俊"
+          },
+          {
+            "name": "赵金伟",
+            "role": "coach"
           }
         ],
         "official": false
@@ -36182,9 +36465,6 @@
         "organization": "北方工业大学",
         "teamMembers": [
           {
-            "name": "郭峰(教练)"
-          },
-          {
             "name": "乔铭宇"
           },
           {
@@ -36192,6 +36472,10 @@
           },
           {
             "name": "陈旻杰"
+          },
+          {
+            "name": "郭峰",
+            "role": "coach"
           }
         ],
         "official": false
@@ -36309,9 +36593,6 @@
         "organization": "成都理工大学",
         "teamMembers": [
           {
-            "name": "李军(教练)"
-          },
-          {
             "name": "邓雲中"
           },
           {
@@ -36319,6 +36600,10 @@
           },
           {
             "name": "徐顺"
+          },
+          {
+            "name": "李军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36436,9 +36721,6 @@
         "organization": "湖南理工学院",
         "teamMembers": [
           {
-            "name": "李文彬(教练)"
-          },
-          {
             "name": "彭浜"
           },
           {
@@ -36446,6 +36728,10 @@
           },
           {
             "name": "雷小东"
+          },
+          {
+            "name": "李文彬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36563,9 +36849,6 @@
         "organization": "浙江工业大学之江学院",
         "teamMembers": [
           {
-            "name": "郭伟青(教练)"
-          },
-          {
             "name": "季俊乐"
           },
           {
@@ -36573,6 +36856,10 @@
           },
           {
             "name": "毛泽峰"
+          },
+          {
+            "name": "郭伟青",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36690,9 +36977,6 @@
         "organization": "重庆大学",
         "teamMembers": [
           {
-            "name": "李佳(教练)"
-          },
-          {
             "name": "金凝"
           },
           {
@@ -36700,6 +36984,10 @@
           },
           {
             "name": "黄琦"
+          },
+          {
+            "name": "李佳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36817,9 +37105,6 @@
         "organization": "上海大学",
         "teamMembers": [
           {
-            "name": "李卫民(教练)"
-          },
-          {
             "name": "于舒阳 "
           },
           {
@@ -36827,6 +37112,10 @@
           },
           {
             "name": "陈紫怡"
+          },
+          {
+            "name": "李卫民",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -36945,9 +37234,6 @@
         "organization": "湖州师范学院",
         "teamMembers": [
           {
-            "name": "计培良(教练)"
-          },
-          {
             "name": "刘江玲"
           },
           {
@@ -36955,6 +37241,10 @@
           },
           {
             "name": "陶谦文"
+          },
+          {
+            "name": "计培良",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -37073,9 +37363,6 @@
         "organization": "西安理工大学",
         "teamMembers": [
           {
-            "name": "蔡欣华(教练)"
-          },
-          {
             "name": "雷唐龙"
           },
           {
@@ -37083,6 +37370,10 @@
           },
           {
             "name": "钱坤"
+          },
+          {
+            "name": "蔡欣华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37200,9 +37491,6 @@
         "organization": "西安理工大学",
         "teamMembers": [
           {
-            "name": "柳宇(教练)"
-          },
-          {
             "name": "李雄雄"
           },
           {
@@ -37210,6 +37498,10 @@
           },
           {
             "name": "周亚丹"
+          },
+          {
+            "name": "柳宇",
+            "role": "coach"
           }
         ],
         "official": false
@@ -37327,9 +37619,6 @@
         "organization": "青岛工学院",
         "teamMembers": [
           {
-            "name": "房正华(教练)"
-          },
-          {
             "name": "蔡林辉阳"
           },
           {
@@ -37337,6 +37626,10 @@
           },
           {
             "name": "孙金平"
+          },
+          {
+            "name": "房正华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37454,9 +37747,6 @@
         "organization": "深圳大学",
         "teamMembers": [
           {
-            "name": "张小健(教练)"
-          },
-          {
             "name": "尹玮璐"
           },
           {
@@ -37464,6 +37754,10 @@
           },
           {
             "name": "陈希哲"
+          },
+          {
+            "name": "张小健",
+            "role": "coach"
           }
         ],
         "official": false
@@ -37581,9 +37875,6 @@
         "organization": "华东理工大学",
         "teamMembers": [
           {
-            "name": "罗勇军(教练)"
-          },
-          {
             "name": "韩祎"
           },
           {
@@ -37591,6 +37882,10 @@
           },
           {
             "name": "郦文俊"
+          },
+          {
+            "name": "罗勇军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37708,9 +38003,6 @@
         "organization": "北京师范大学(珠海校区)",
         "teamMembers": [
           {
-            "name": "冯速(教练)"
-          },
-          {
             "name": "刘雨杭"
           },
           {
@@ -37718,6 +38010,10 @@
           },
           {
             "name": "陈天润"
+          },
+          {
+            "name": "冯速",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37835,9 +38131,6 @@
         "organization": "东南大学",
         "teamMembers": [
           {
-            "name": "倪庆剑(教练)"
-          },
-          {
             "name": "潘景瑞"
           },
           {
@@ -37845,6 +38138,10 @@
           },
           {
             "name": "李明洋"
+          },
+          {
+            "name": "倪庆剑",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37962,9 +38259,6 @@
         "organization": "哈尔滨理工大学",
         "teamMembers": [
           {
-            "name": "金恩海(教练)"
-          },
-          {
             "name": "黎晓蓓"
           },
           {
@@ -37972,6 +38266,10 @@
           },
           {
             "name": "贺思语"
+          },
+          {
+            "name": "金恩海",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38090,9 +38388,6 @@
         "organization": "湖北中医药大学",
         "teamMembers": [
           {
-            "name": "肖瑞(教练)"
-          },
-          {
             "name": "涂诺辛格"
           },
           {
@@ -38100,6 +38395,10 @@
           },
           {
             "name": "吴徵靖"
+          },
+          {
+            "name": "肖瑞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38217,9 +38516,6 @@
         "organization": "浙江农林大学",
         "teamMembers": [
           {
-            "name": "童孟军(教练)"
-          },
-          {
             "name": "夏周全"
           },
           {
@@ -38227,6 +38523,10 @@
           },
           {
             "name": "高俊"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "official": false
@@ -38344,9 +38644,6 @@
         "organization": "北方工业大学",
         "teamMembers": [
           {
-            "name": "孙晶(教练)"
-          },
-          {
             "name": "张荔姗"
           },
           {
@@ -38354,6 +38651,10 @@
           },
           {
             "name": "秦玮婧"
+          },
+          {
+            "name": "孙晶",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38472,9 +38773,6 @@
         "organization": "西北大学",
         "teamMembers": [
           {
-            "name": "张雨禾(教练)"
-          },
-          {
             "name": "龚涵涛"
           },
           {
@@ -38482,6 +38780,10 @@
           },
           {
             "name": "燕彤"
+          },
+          {
+            "name": "张雨禾",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38599,9 +38901,6 @@
         "organization": "西南民族大学",
         "teamMembers": [
           {
-            "name": "周绪川(教练)"
-          },
-          {
             "name": "康彤鹤"
           },
           {
@@ -38609,6 +38908,10 @@
           },
           {
             "name": "郑楠"
+          },
+          {
+            "name": "周绪川",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -38727,9 +39030,6 @@
         "organization": "常熟理工学院",
         "teamMembers": [
           {
-            "name": "聂盼红(教练)"
-          },
-          {
             "name": "詹智航"
           },
           {
@@ -38737,6 +39037,10 @@
           },
           {
             "name": "杨吉"
+          },
+          {
+            "name": "聂盼红",
+            "role": "coach"
           }
         ],
         "official": false
@@ -38854,9 +39158,6 @@
         "organization": "江苏科技大学",
         "teamMembers": [
           {
-            "name": "景国良(教练)"
-          },
-          {
             "name": "马肖岩"
           },
           {
@@ -38864,6 +39165,10 @@
           },
           {
             "name": "张宇飞"
+          },
+          {
+            "name": "景国良",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38981,9 +39286,6 @@
         "organization": "西北工业大学",
         "teamMembers": [
           {
-            "name": "刘君瑞(教练)"
-          },
-          {
             "name": "黄意雯"
           },
           {
@@ -38991,6 +39293,10 @@
           },
           {
             "name": "王士宁"
+          },
+          {
+            "name": "刘君瑞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39108,9 +39414,6 @@
         "organization": "中国矿业大学",
         "teamMembers": [
           {
-            "name": "杨文嘉(教练)"
-          },
-          {
             "name": "刘文涛"
           },
           {
@@ -39118,6 +39421,10 @@
           },
           {
             "name": "黄志伟"
+          },
+          {
+            "name": "杨文嘉",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39235,9 +39542,6 @@
         "organization": "南华大学",
         "teamMembers": [
           {
-            "name": "刘杰(教练)"
-          },
-          {
             "name": "李益行"
           },
           {
@@ -39245,6 +39549,10 @@
           },
           {
             "name": "李柏松"
+          },
+          {
+            "name": "刘杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39362,9 +39670,6 @@
         "organization": "浙江工商大学杭州商学院",
         "teamMembers": [
           {
-            "name": "李浩腾(教练)"
-          },
-          {
             "name": "陈婕"
           },
           {
@@ -39372,6 +39677,10 @@
           },
           {
             "name": "董琳燕"
+          },
+          {
+            "name": "李浩腾",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39490,9 +39799,6 @@
         "organization": "南京晓庄学院",
         "teamMembers": [
           {
-            "name": "周恺(教练)"
-          },
-          {
             "name": "郑雅玲"
           },
           {
@@ -39500,6 +39806,10 @@
           },
           {
             "name": "袁楚怡"
+          },
+          {
+            "name": "周恺",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39618,9 +39928,6 @@
         "organization": "成都理工大学",
         "teamMembers": [
           {
-            "name": "李军(教练)"
-          },
-          {
             "name": "税正菲"
           },
           {
@@ -39628,6 +39935,10 @@
           },
           {
             "name": "涂春雨"
+          },
+          {
+            "name": "李军",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -39746,9 +40057,6 @@
         "organization": "西藏民族大学",
         "teamMembers": [
           {
-            "name": "张晓煜(教练)"
-          },
-          {
             "name": "赵庆"
           },
           {
@@ -39756,6 +40064,10 @@
           },
           {
             "name": "刘璐"
+          },
+          {
+            "name": "张晓煜",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39873,9 +40185,6 @@
         "organization": "内蒙古师范大学",
         "teamMembers": [
           {
-            "name": "孟繁军(教练)"
-          },
-          {
             "name": "张泽兴"
           },
           {
@@ -39883,6 +40192,10 @@
           },
           {
             "name": "薛振宇"
+          },
+          {
+            "name": "孟繁军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -40000,9 +40313,6 @@
         "organization": "山东大学",
         "teamMembers": [
           {
-            "name": "鹿旭东(教练)"
-          },
-          {
             "name": "陈舜与"
           },
           {
@@ -40010,6 +40320,10 @@
           },
           {
             "name": "郭子健"
+          },
+          {
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": false
@@ -40127,9 +40441,6 @@
         "organization": "北京师范大学(珠海校区)",
         "teamMembers": [
           {
-            "name": "孙科(教练)"
-          },
-          {
             "name": "罗欣冉"
           },
           {
@@ -40137,6 +40448,10 @@
           },
           {
             "name": "孙宇祥"
+          },
+          {
+            "name": "孙科",
+            "role": "coach"
           }
         ],
         "official": false
@@ -40254,9 +40569,6 @@
         "organization": "南昌理工学院",
         "teamMembers": [
           {
-            "name": "赵欢(教练)"
-          },
-          {
             "name": "帅懿佳"
           },
           {
@@ -40264,6 +40576,10 @@
           },
           {
             "name": "陈佳妮"
+          },
+          {
+            "name": "赵欢",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -40382,9 +40698,6 @@
         "organization": "哈尔滨理工大学",
         "teamMembers": [
           {
-            "name": "于波(教练)"
-          },
-          {
             "name": "张皓淞"
           },
           {
@@ -40392,6 +40705,10 @@
           },
           {
             "name": "吴昊"
+          },
+          {
+            "name": "于波",
+            "role": "coach"
           }
         ],
         "official": false
@@ -40509,9 +40826,6 @@
         "organization": "河南农业大学",
         "teamMembers": [
           {
-            "name": "尚俊平(教练)"
-          },
-          {
             "name": "刘泽钰"
           },
           {
@@ -40519,6 +40833,10 @@
           },
           {
             "name": "宋勇胜"
+          },
+          {
+            "name": "尚俊平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -40636,9 +40954,6 @@
         "organization": "中国地质大学（武汉）",
         "teamMembers": [
           {
-            "name": "张锋(教练)"
-          },
-          {
             "name": "其木格"
           },
           {
@@ -40646,6 +40961,10 @@
           },
           {
             "name": "吴皓楠"
+          },
+          {
+            "name": "张锋",
+            "role": "coach"
           }
         ],
         "official": false
@@ -40763,9 +41082,6 @@
         "organization": "中国民航大学",
         "teamMembers": [
           {
-            "name": "张智(教练)"
-          },
-          {
             "name": "杨镇"
           },
           {
@@ -40773,6 +41089,10 @@
           },
           {
             "name": "曹宇"
+          },
+          {
+            "name": "张智",
+            "role": "coach"
           }
         ],
         "official": true
@@ -40890,9 +41210,6 @@
         "organization": "乐山师范学院",
         "teamMembers": [
           {
-            "name": "孙锐(教练)"
-          },
-          {
             "name": "赵泽柱"
           },
           {
@@ -40900,6 +41217,10 @@
           },
           {
             "name": "梁根银"
+          },
+          {
+            "name": "孙锐",
+            "role": "coach"
           }
         ],
         "official": false
@@ -41017,9 +41338,6 @@
         "organization": "成都东软学院",
         "teamMembers": [
           {
-            "name": "田霖(教练)"
-          },
-          {
             "name": "邹松宏"
           },
           {
@@ -41027,6 +41345,10 @@
           },
           {
             "name": "樊程"
+          },
+          {
+            "name": "田霖",
+            "role": "coach"
           }
         ],
         "official": true
@@ -41144,9 +41466,6 @@
         "organization": "浙江工商大学",
         "teamMembers": [
           {
-            "name": "孟实(教练)"
-          },
-          {
             "name": "陈旭东"
           },
           {
@@ -41154,6 +41473,10 @@
           },
           {
             "name": "王哲楠"
+          },
+          {
+            "name": "孟实",
+            "role": "coach"
           }
         ],
         "official": true
@@ -41271,9 +41594,6 @@
         "organization": "长春理工大学",
         "teamMembers": [
           {
-            "name": "赵建平(教练)"
-          },
-          {
             "name": "薛端威"
           },
           {
@@ -41281,6 +41601,10 @@
           },
           {
             "name": "郝良友"
+          },
+          {
+            "name": "赵建平",
+            "role": "coach"
           }
         ],
         "official": false
@@ -41398,9 +41722,6 @@
         "organization": "河北师范大学",
         "teamMembers": [
           {
-            "name": "丁盟(教练)"
-          },
-          {
             "name": "毛俊杰"
           },
           {
@@ -41408,6 +41729,10 @@
           },
           {
             "name": "刘金帅"
+          },
+          {
+            "name": "丁盟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -41525,9 +41850,6 @@
         "organization": "南京邮电大学",
         "teamMembers": [
           {
-            "name": "陈志(教练)"
-          },
-          {
             "name": "马文浩"
           },
           {
@@ -41535,6 +41857,10 @@
           },
           {
             "name": "潘飞宇"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -41652,9 +41978,6 @@
         "organization": "中南民族大学",
         "teamMembers": [
           {
-            "name": "刘卫平(教练)"
-          },
-          {
             "name": "李斌"
           },
           {
@@ -41662,6 +41985,10 @@
           },
           {
             "name": "汪余意"
+          },
+          {
+            "name": "刘卫平",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -41780,9 +42107,6 @@
         "organization": "华北理工大学",
         "teamMembers": [
           {
-            "name": "谷建涛(教练)"
-          },
-          {
             "name": "郭晨"
           },
           {
@@ -41790,6 +42114,10 @@
           },
           {
             "name": "牛嘉洋"
+          },
+          {
+            "name": "谷建涛",
+            "role": "coach"
           }
         ],
         "official": false
@@ -41907,9 +42235,6 @@
         "organization": "湖北第二师范学院",
         "teamMembers": [
           {
-            "name": "王海军(教练)"
-          },
-          {
             "name": "余佳豪"
           },
           {
@@ -41917,6 +42242,10 @@
           },
           {
             "name": "陈路迪"
+          },
+          {
+            "name": "王海军",
+            "role": "coach"
           }
         ],
         "official": false
@@ -42034,9 +42363,6 @@
         "organization": "安阳工学院",
         "teamMembers": [
           {
-            "name": "孙高飞(教练)"
-          },
-          {
             "name": "李平"
           },
           {
@@ -42044,6 +42370,10 @@
           },
           {
             "name": "高意哲"
+          },
+          {
+            "name": "孙高飞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -42161,9 +42491,6 @@
         "organization": "合肥学院",
         "teamMembers": [
           {
-            "name": "胡春玲(教练)"
-          },
-          {
             "name": "赵慧林"
           },
           {
@@ -42171,6 +42498,10 @@
           },
           {
             "name": "叶萍"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42289,9 +42620,6 @@
         "organization": "湖北工业大学",
         "teamMembers": [
           {
-            "name": "徐承志(教练)"
-          },
-          {
             "name": "曹瑞辰"
           },
           {
@@ -42299,6 +42627,10 @@
           },
           {
             "name": "石奕轲"
+          },
+          {
+            "name": "徐承志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -42416,9 +42748,6 @@
         "organization": "西藏民族大学",
         "teamMembers": [
           {
-            "name": "张晓煜(教练)"
-          },
-          {
             "name": "李莹莹"
           },
           {
@@ -42426,6 +42755,10 @@
           },
           {
             "name": "王康"
+          },
+          {
+            "name": "张晓煜",
+            "role": "coach"
           }
         ],
         "official": false
@@ -42543,9 +42876,6 @@
         "organization": "南阳理工学院",
         "teamMembers": [
           {
-            "name": "靳冰(教练)"
-          },
-          {
             "name": "岑国玉"
           },
           {
@@ -42553,6 +42883,10 @@
           },
           {
             "name": "杜襄珑"
+          },
+          {
+            "name": "靳冰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -42670,9 +43004,6 @@
         "organization": "上海电机学院",
         "teamMembers": [
           {
-            "name": "吉顺如(教练)"
-          },
-          {
             "name": "白苗渊"
           },
           {
@@ -42680,6 +43011,10 @@
           },
           {
             "name": "尹佳怡"
+          },
+          {
+            "name": "吉顺如",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42798,9 +43133,6 @@
         "organization": "西南财经大学",
         "teamMembers": [
           {
-            "name": "陈智(教练)"
-          },
-          {
             "name": "杨蕴琛"
           },
           {
@@ -42808,6 +43140,10 @@
           },
           {
             "name": "徐嘉璐"
+          },
+          {
+            "name": "陈智",
+            "role": "coach"
           }
         ],
         "official": true,
@@ -42926,9 +43262,6 @@
         "organization": "湖北第二师范学院",
         "teamMembers": [
           {
-            "name": "王海军(教练)"
-          },
-          {
             "name": "柯志超"
           },
           {
@@ -42936,6 +43269,10 @@
           },
           {
             "name": "夏心哲"
+          },
+          {
+            "name": "王海军",
+            "role": "coach"
           }
         ],
         "official": false
@@ -43053,9 +43390,6 @@
         "organization": "中国传媒大学",
         "teamMembers": [
           {
-            "name": "陈小森(教练)"
-          },
-          {
             "name": "亓泽鲁"
           },
           {
@@ -43063,6 +43397,10 @@
           },
           {
             "name": "赵润泽"
+          },
+          {
+            "name": "陈小森",
+            "role": "coach"
           }
         ],
         "official": true
@@ -43180,9 +43518,6 @@
         "organization": "浙江农林大学",
         "teamMembers": [
           {
-            "name": "童孟军(教练)"
-          },
-          {
             "name": "周凌杰"
           },
           {
@@ -43190,6 +43525,10 @@
           },
           {
             "name": "夏佳斌"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "official": false
@@ -43307,9 +43646,6 @@
         "organization": "西北农林科技大学",
         "teamMembers": [
           {
-            "name": "耿耀君(教练)"
-          },
-          {
             "name": "何宜家"
           },
           {
@@ -43317,6 +43653,10 @@
           },
           {
             "name": "史颖涵"
+          },
+          {
+            "name": "耿耀君",
+            "role": "coach"
           }
         ],
         "official": true,
