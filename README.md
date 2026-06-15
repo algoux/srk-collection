@@ -45,4 +45,4 @@ official/
 
 ### 方式二：提交 Issue
 
-如果你不熟悉 git 操作，或者只是想提供手头的补充数据资料，欢迎提交 [Issue](https://github.com/algoux/srk-collection/issues/new)，我们会尽快回复并完成数据收录和更新。
+如果你不熟悉 git 操作，或者只是想提供手头的资料，欢迎提交 [Issue](https://github.com/algoux/srk-collection/issues/new)，我们会尽快回复并完成数据收录和更新。
