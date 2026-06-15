@@ -735,6 +735,9 @@ root:
         - path: ln
           name: 辽宁省赛
           children:
+            - path: lncpc6th
+              format: srk.json
+              name: 2025-11-15 第六届
             - path: lncpc5th
               format: srk.json
               name: 2024-11-03 第五届
