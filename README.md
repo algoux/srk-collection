@@ -1,6 +1,6 @@
 # srk-collection
 
-这个仓库是 algoUX 官方维护的[榜单合集](https://rl.algoux.cn/collection/official)。
+这个仓库是 algoUX 官方维护的 [榜单合集](https://rl.algoux.cn/collection/official)。
 
 如果你持有我们缺失的榜单数据，欢迎参与贡献！
 
