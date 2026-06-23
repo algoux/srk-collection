@@ -198,6 +198,12 @@ root:
         - path: icpc2020
           name: ICPC 2020 (45th)
           children:
+            - path: icpc2020preliminary-xiaomi-1
+              format: srk.json
+              name: 2020-10-25 小米网络赛第一场
+            - path: icpc2020preliminary-xiaomi-2
+              format: srk.json
+              name: 2020-10-31 小米网络赛第二场
             - path: icpc2020invitational-xiaomi
               format: srk.json
               name: 2020-11-22 小米邀请赛
@@ -288,6 +294,15 @@ root:
         - path: icpc2016
           name: ICPC 2016 (41st)
           children:
+            - path: icpc2016preliminary-dalian
+              format: srk.json
+              name: 2016-09-10 大连赛区网络赛
+            - path: icpc2016preliminary-qingdao
+              format: srk.json
+              name: 2016-09-17 青岛赛区网络赛
+            - path: icpc2016preliminary-shenyang
+              format: srk.json
+              name: 2016-09-18 沈阳赛区网络赛
             - path: icpc2016harbin
               format: srk.json
               name: 2016-??-?? 哈尔滨站
@@ -312,6 +327,21 @@ root:
         - path: icpc2015
           name: ICPC 2015 (40th)
           children:
+            - path: icpc2015preliminary-changchun
+              format: srk.json
+              name: 2015-09-13 长春赛区网络赛
+            - path: icpc2015preliminary-shenyang
+              format: srk.json
+              name: 2015-09-19 沈阳赛区网络赛
+            - path: icpc2015preliminary-beijing
+              format: srk.json
+              name: 2015-09-20 北京赛区网络赛
+            - path: icpc2015preliminary-shanghai
+              format: srk.json
+              name: 2015-09-26 上海赛区网络赛
+            - path: icpc2015preliminary-hefei
+              format: srk.json
+              name: 2015-09-27 合肥赛区网络赛
             - path: icpc2015changchun
               format: srk.json
               name: 2015-10-18 长春站
@@ -333,6 +363,24 @@ root:
         - path: icpc2014
           name: ICPC 2014 (39th)
           children:
+            - path: icpc2014preliminary-mudanjiang
+              format: srk.json
+              name: 2014-09-07 牡丹江赛区网络赛
+            - path: icpc2014preliminary-anshan
+              format: srk.json
+              name: 2014-09-13 鞍山赛区网络赛
+            - path: icpc2014preliminary-xi_an
+              format: srk.json
+              name: 2014-09-14 西安赛区网络赛
+            - path: icpc2014preliminary-guangzhou
+              format: srk.json
+              name: 2014-09-20 广州赛区网络赛
+            - path: icpc2014preliminary-beijing
+              format: srk.json
+              name: 2014-09-21 北京赛区网络赛
+            - path: icpc2014preliminary-shanghai
+              format: srk.json
+              name: 2014-09-27 上海赛区网络赛
             - path: icpc2014mudanjiang
               format: srk.json
               name: 2014-10-12 牡丹江站
@@ -354,6 +402,21 @@ root:
         - path: icpc2013
           name: ICPC 2013 (38th)
           children:
+            - path: icpc2013preliminary-chengdu
+              format: srk.json
+              name: 2013-09-14 成都赛区网络赛
+            - path: icpc2013preliminary-hangzhou
+              format: srk.json
+              name: 2013-09-15 杭州赛区网络赛
+            - path: icpc2013preliminary-nanjing
+              format: srk.json
+              name: 2013-09-21 南京赛区网络赛
+            - path: icpc2013preliminary-changsha
+              format: srk.json
+              name: 2013-09-22 长沙赛区网络赛
+            - path: icpc2013preliminary-changchun
+              format: srk.json
+              name: 2013-09-28 长春赛区网络赛
             - path: icpc2013chengdu
               format: srk.json
               name: 2013-10-20 成都站
@@ -372,6 +435,21 @@ root:
         - path: icpc2012
           name: ICPC 2012 (37th)
           children:
+            - path: icpc2012preliminary-changchun
+              format: srk.json
+              name: 2012-09-08 长春赛区网络赛
+            - path: icpc2012preliminary-tianjin
+              format: srk.json
+              name: 2012-09-09 天津赛区网络赛
+            - path: icpc2012preliminary-chengdu
+              format: srk.json
+              name: 2012-09-16 成都赛区网络赛
+            - path: icpc2012preliminary-jinhua
+              format: srk.json
+              name: 2012-09-22 金华赛区网络赛
+            - path: icpc2012preliminary-hangzhou
+              format: srk.json
+              name: 2012-09-23 杭州赛区网络赛
             - path: icpc2012changchun
               format: srk.json
               name: 2012-10-14 长春站
@@ -390,9 +468,24 @@ root:
         - path: icpc2011
           name: ICPC 2011 (36th)
           children:
+            - path: icpc2011preliminary-dalian
+              format: srk.json
+              name: 2011-09-03 大连赛区网络赛
+            - path: icpc2011preliminary-shanghai
+              format: srk.json
+              name: 2011-09-10 上海赛区网络赛
+            - path: icpc2011preliminary-chengdu
+              format: srk.json
+              name: 2011-09-11 成都赛区网络赛
+            - path: icpc2011preliminary-beijing
+              format: srk.json
+              name: 2011-09-18 北京赛区网络赛
             - path: icpc2011dalian
               format: srk.json
               name: 2011-09-25 大连站
+            - path: icpc2011preliminary-fuzhou
+              format: srk.json
+              name: 2011-10-07 福州赛区网络赛
             - path: icpc2011shanghai
               format: srk.json
               name: 2011-10-16 上海站
@@ -408,9 +501,24 @@ root:
         - path: icpc2010
           name: ICPC 2010 (35th)
           children:
+            - path: icpc2010preliminary-harbin
+              format: srk.json
+              name: 2010-09-11 哈尔滨赛区网络赛
+            - path: icpc2010preliminary-tianjin
+              format: srk.json
+              name: 2010-09-12 天津赛区网络赛
+            - path: icpc2010preliminary-chengdu
+              format: srk.json
+              name: 2010-09-18 成都赛区网络赛
+            - path: icpc2010preliminary-hangzhou
+              format: srk.json
+              name: 2010-09-19 杭州赛区网络赛
             - path: icpc2010harbin
               format: srk.json
               name: 2010-09-26 哈尔滨站
+            - path: icpc2010preliminary-fuzhou
+              format: srk.json
+              name: 2010-10-10 福州赛区网络赛
             - path: icpc2010tianjin
               format: srk.json
               name: 2010-10-17 天津站
@@ -426,6 +534,21 @@ root:
         - path: icpc2009
           name: ICPC 2009 (34th)
           children:
+            - path: icpc2009preliminary-shanghai
+              format: srk.json
+              name: 2009-09-11 上海赛区网络赛
+            - path: icpc2009preliminary-harbin
+              format: srk.json
+              name: 2009-09-11 哈尔滨赛区网络赛
+            - path: icpc2009preliminary-ningbo
+              format: srk.json
+              name: 2009-09-11 宁波赛区网络赛
+            - path: icpc2009preliminary-hefei
+              format: srk.json
+              name: 2009-09-11 合肥赛区网络赛
+            - path: icpc2009preliminary-wuhan
+              format: srk.json
+              name: 2009-09-11 武汉赛区网络赛
             - path: icpc2009wuhan
               format: srk.json
               name: 2009-09-11 武汉站
@@ -498,6 +621,9 @@ root:
             - path: ccpc2024invitational-jinan
               format: srk.json
               name: 2024-05-26 济南邀请赛
+            - path: ccpc2024preliminary
+              format: srk.json
+              name: 2024-09-08 网络赛
             - path: ccpc2024harbin
               format: srk.json
               name: 2024-10-20 哈尔滨站
@@ -525,6 +651,9 @@ root:
             - path: ccpc2023invitational-xiangtan
               format: srk.json
               name: 2023-05-28 湘潭邀请赛
+            - path: ccpc2023preliminary
+              format: srk.json
+              name: 2023-08-20 网络赛
             - path: ccpc2023qinhuangdao
               format: srk.json
               name: 2023-10-15 秦皇岛站
@@ -549,6 +678,9 @@ root:
         - path: ccpc2022
           name: CCPC 2022 (8th)
           children:
+            - path: ccpc2022preliminary
+              format: srk.json
+              name: 2022-09-11 网络赛
             - path: ccpc2022hv
               format: srk.json
               name: 2022-10-23 高职专场
