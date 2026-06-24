@@ -1,0 +1,6391 @@
+{
+  "type": "general",
+  "version": "0.3.13",
+  "contest": {
+    "title": {
+      "zh-CN": "2019 ICPC 国际大学生程序设计竞赛中国邀请赛（南昌）暨国际丝绸之路程序设计竞赛（江西师范大学）",
+      "fallback": "2019 ICPC China Invitational Contest (Nanchang) and International Silk Road Programming Contest (Jiangxi Normal University)"
+    },
+    "startAt": "2019-06-01T09:00:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ],
+    "frozenDuration": [
+      1,
+      "h"
+    ]
+  },
+  "contributors": [
+    "SDUTACM (https://acm.sdut.edu.cn)",
+    "algoUX (https://algoux.org)"
+  ],
+  "remarks": {
+    "zh-CN": "这个榜单缺失提交数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks submissions. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  },
+  "markers": [
+    {
+      "id": "female",
+      "label": "女队",
+      "style": "pink"
+    }
+  ],
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "title": "Gold Medalist",
+          "style": "gold"
+        },
+        {
+          "title": "Silver Medalist",
+          "style": "silver"
+        },
+        {
+          "title": "Bronze Medalist",
+          "style": "bronze"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              31,
+              61,
+              91
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "min"
+    }
+  },
+  "problems": [],
+  "rows": [
+    {
+      "user": {
+        "id": "team001",
+        "name": {
+          "zh-CN": "无毁的湖光",
+          "fallback": "Aroundight"
+        },
+        "organization": "山东大学",
+        "official": true
+      },
+      "score": {
+        "value": 10,
+        "time": [
+          1116,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team002",
+        "name": {
+          "zh-CN": "UESTC_Trimen",
+          "fallback": "UESTC_trimen"
+        },
+        "organization": "电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 10,
+        "time": [
+          1203,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team003",
+        "name": {
+          "zh-CN": "计蒜客三队",
+          "fallback": "Jisuanke Team 3"
+        },
+        "organization": "计蒜客",
+        "official": false
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          914,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team004",
+        "name": {
+          "zh-CN": "假面骑士",
+          "fallback": "Kamen Rider"
+        },
+        "organization": "北京邮电大学",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1180,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team005",
+        "name": {
+          "zh-CN": "知楠而上",
+          "fallback": "PhotiniAAAAAAAAAAA"
+        },
+        "organization": "上海交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1438,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team006",
+        "name": {
+          "zh-CN": "小熊软糖",
+          "fallback": "GummyBear"
+        },
+        "organization": "福州大学",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1447,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team007",
+        "name": {
+          "zh-CN": "眼大鸟2.0",
+          "fallback": "EyeBigBird2"
+        },
+        "organization": "浙江工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          818,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team008",
+        "name": {
+          "zh-CN": "NULL",
+          "fallback": "NULL"
+        },
+        "organization": "华东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          974,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team009",
+        "name": {
+          "zh-CN": "跃迁引擎",
+          "fallback": "Transition Engine"
+        },
+        "organization": "南京理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1046,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team010",
+        "name": {
+          "zh-CN": "Motorcode114",
+          "fallback": "Motorcade114"
+        },
+        "organization": "北京航空航天大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1151,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team011",
+        "name": {
+          "zh-CN": "OneDayInNanChang",
+          "fallback": "OneDayInNanChang"
+        },
+        "organization": "华南农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 8,
+        "time": [
+          1450,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team012",
+        "name": {
+          "zh-CN": "从零开始",
+          "fallback": "NJUPT_Re:0++"
+        },
+        "organization": "南京邮电大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          673,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team013",
+        "name": {
+          "zh-CN": "打完这仗回校养老",
+          "fallback": "cly up up up"
+        },
+        "organization": "浙江理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          719,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team014",
+        "name": {
+          "zh-CN": "I solved it",
+          "fallback": "I solved it"
+        },
+        "organization": "郑州大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          773,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team015",
+        "name": {
+          "zh-CN": "宁静致远",
+          "fallback": "NingJingZhiYuan"
+        },
+        "organization": "浙江大学宁波理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          809,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team016",
+        "name": {
+          "zh-CN": "钻石羊",
+          "fallback": "Diamond sheep"
+        },
+        "organization": "浙江理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          834,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team017",
+        "name": {
+          "zh-CN": "我活了我好了",
+          "fallback": "team382"
+        },
+        "organization": "华南理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          841,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team018",
+        "name": {
+          "zh-CN": "恭喜以上获奖队伍",
+          "fallback": "Congratulations to the Winning Teams Above"
+        },
+        "organization": "中国人民大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          861,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team019",
+        "name": {
+          "zh-CN": "杭电一队",
+          "fallback": "HDU-Team1"
+        },
+        "organization": "杭州电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          883,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team020",
+        "name": {
+          "zh-CN": "艾斯易悠-都行",
+          "fallback": "SEU-Accepted_all"
+        },
+        "organization": "东南大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          952,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team021",
+        "name": {
+          "zh-CN": "发现号",
+          "fallback": "SKD1031 Discovery"
+        },
+        "organization": "山东科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1195,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team022",
+        "name": {
+          "zh-CN": "完美谢幕 2.0",
+          "fallback": "XTU_Perfect Ending 2.0"
+        },
+        "organization": "湘潭大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          363,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team023",
+        "name": {
+          "zh-CN": "QYQ的大冒险",
+          "fallback": "QYQ's Great Adventure II"
+        },
+        "organization": "山东理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          425,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team024",
+        "name": {
+          "zh-CN": "BrainsJetTU",
+          "fallback": "BrainsJetTU"
+        },
+        "organization": "北京交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          461,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team025",
+        "name": {
+          "zh-CN": "I want to eat McDonald's",
+          "fallback": "I want to eat McDonald's"
+        },
+        "organization": "广州大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          531,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team026",
+        "name": {
+          "zh-CN": "贝奥兰迪",
+          "fallback": "Biollante"
+        },
+        "organization": "北京理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          535,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team027",
+        "name": {
+          "zh-CN": "一只人赢两只败犬",
+          "fallback": "loli zkp! awsl"
+        },
+        "organization": "华南理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          536,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team028",
+        "name": {
+          "zh-CN": "凛冬将至",
+          "fallback": "ComWin"
+        },
+        "organization": "东北师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          537,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team029",
+        "name": {
+          "zh-CN": "键盘冒拿铁",
+          "fallback": "Keyboard Milk"
+        },
+        "organization": "苏州大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          537,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team030",
+        "name": {
+          "zh-CN": "ALPC_Thanos",
+          "fallback": "ALPC_Thanos"
+        },
+        "organization": "国防科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          539,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team031",
+        "name": {
+          "zh-CN": "不是我说不是就是不是",
+          "fallback": "Xing"
+        },
+        "organization": "西北大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          541,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team032",
+        "name": {
+          "zh-CN": "喜欢唱，跳，rap，写代码",
+          "fallback": "you are beautiful"
+        },
+        "organization": "东南大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          567,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team033",
+        "name": {
+          "zh-CN": "则式长号",
+          "fallback": "NEU_RegularTrombone"
+        },
+        "organization": "东北大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          572,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team034",
+        "name": {
+          "zh-CN": "绿豆糕",
+          "fallback": "Bean paste cake"
+        },
+        "organization": "山东大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          633,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team035",
+        "name": {
+          "zh-CN": "索然无味",
+          "fallback": "I'm good."
+        },
+        "organization": "暨南大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          647,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team036",
+        "name": {
+          "zh-CN": "UESTC_Dove",
+          "fallback": "UESTC_Dove"
+        },
+        "organization": "电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          652,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team037",
+        "name": {
+          "zh-CN": "乌拉乌",
+          "fallback": "BNU01"
+        },
+        "organization": "北京师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          674,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team038",
+        "name": {
+          "zh-CN": "黑色切鸽者",
+          "fallback": "The Black Pigeon-Killer"
+        },
+        "organization": "华中科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          682,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team039",
+        "name": {
+          "zh-CN": "黄金矿工",
+          "fallback": "Gold miner"
+        },
+        "organization": "中国矿业大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          689,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team040",
+        "name": {
+          "zh-CN": "求求你让我过个题吧",
+          "fallback": "NEU_One more problem,please"
+        },
+        "organization": "东北大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          690,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team041",
+        "name": {
+          "zh-CN": "魔菜队",
+          "fallback": "Magic Vegetable"
+        },
+        "organization": "上海大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          766,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team042",
+        "name": {
+          "zh-CN": "铸铁成金",
+          "fallback": "79Fe(26)+Effort→26Au(79)"
+        },
+        "organization": "西北工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          776,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team043",
+        "name": {
+          "zh-CN": "No CE in 6",
+          "fallback": "No CE in 6"
+        },
+        "organization": "北京航空航天大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          832,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team044",
+        "name": {
+          "zh-CN": "呀哈哈",
+          "fallback": "Eureka"
+        },
+        "organization": "福州大学",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          888,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team045",
+        "name": {
+          "zh-CN": "趁热",
+          "fallback": "Trinity"
+        },
+        "organization": "厦门大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          202,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team046",
+        "name": {
+          "zh-CN": "简单的快乐",
+          "fallback": "Simple_Pleasures"
+        },
+        "organization": "哈尔滨工程大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          217,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team047",
+        "name": {
+          "zh-CN": "亮剑",
+          "fallback": "usic forever"
+        },
+        "organization": "华东理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          228,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team048",
+        "name": {
+          "zh-CN": "临走记得关电源",
+          "fallback": "OvO"
+        },
+        "organization": "山东大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          252,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team049",
+        "name": {
+          "zh-CN": "全体起立",
+          "fallback": "All Rise"
+        },
+        "organization": "南京晓庄学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          254,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team050",
+        "name": {
+          "zh-CN": "杭电二队",
+          "fallback": "HDU-Team2"
+        },
+        "organization": "杭州电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          273,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team051",
+        "name": {
+          "zh-CN": "光谷老实人",
+          "fallback": "Veracity"
+        },
+        "organization": "中国地质大学（武汉）",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          277,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team052",
+        "name": {
+          "zh-CN": "木木扶贫小分队",
+          "fallback": "Too Many Binary Woods"
+        },
+        "organization": "太原理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          290,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team053",
+        "name": {
+          "zh-CN": "起风了",
+          "fallback": "Yakimochi"
+        },
+        "organization": "北京邮电大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          300,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team054",
+        "name": {
+          "zh-CN": "今天的早饭是什么",
+          "fallback": "Middle school students"
+        },
+        "organization": "江西师范大学附属中学&九江市第一中学",
+        "official": false
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          302,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team055",
+        "name": {
+          "zh-CN": "你喊那么大声干什么嘛",
+          "fallback": "Why so loud?"
+        },
+        "organization": "长春理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          307,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team056",
+        "name": {
+          "zh-CN": "忘记写return 0是不可能忘记的了",
+          "fallback": "about:blank"
+        },
+        "organization": "北京理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          320,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team057",
+        "name": {
+          "zh-CN": "404",
+          "fallback": "404"
+        },
+        "organization": "南京航空航天大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          322,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team058",
+        "name": {
+          "zh-CN": "北理工人",
+          "fallback": "BITworker"
+        },
+        "organization": "北京理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          334,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team059",
+        "name": {
+          "zh-CN": "给我也整一个",
+          "fallback": "i_want_all"
+        },
+        "organization": "中南大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          336,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team060",
+        "name": {
+          "zh-CN": "柠檬味的嘤嘤怪",
+          "fallback": "wsuanl"
+        },
+        "organization": "青岛大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          338,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team061",
+        "name": {
+          "zh-CN": "进击的巨噬细胞",
+          "fallback": "Macrophage&SSS"
+        },
+        "organization": "东南大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          338,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team062",
+        "name": {
+          "zh-CN": "是你从未体验的船新版本",
+          "fallback": "ECJTU1"
+        },
+        "organization": "华东交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          346,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team063",
+        "name": {
+          "zh-CN": "我永远喜欢由比滨结衣",
+          "fallback": "Yuigahama Yui"
+        },
+        "organization": "河海大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          349,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team064",
+        "name": {
+          "zh-CN": "TI1050",
+          "fallback": "TI1050"
+        },
+        "organization": "杭州师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          350,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team065",
+        "name": {
+          "zh-CN": "no submit no wa",
+          "fallback": "no submit no wa"
+        },
+        "organization": "长沙理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          352,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team066",
+        "name": {
+          "zh-CN": "牛顿的烈焰激光剑",
+          "fallback": "The Flaming Laser Sword"
+        },
+        "organization": "宁波工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          352,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team067",
+        "name": {
+          "zh-CN": "无人艇",
+          "fallback": "Unmanned ship"
+        },
+        "organization": "上海大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          352,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team068",
+        "name": {
+          "zh-CN": "头号玩家",
+          "fallback": "GDUT_ Ready_Player_One"
+        },
+        "organization": "广东工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          353,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team069",
+        "name": {
+          "zh-CN": "白昼之光",
+          "fallback": "Daylight"
+        },
+        "organization": "浙江农林大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          358,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team070",
+        "name": {
+          "zh-CN": "WA自动机fail树上乱序维护B树",
+          "fallback": "Null B-Tree Exception"
+        },
+        "organization": "河海大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          361,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team071",
+        "name": {
+          "zh-CN": "Hail Hydra",
+          "fallback": "Hail Hydra"
+        },
+        "organization": "华东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          362,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team072",
+        "name": {
+          "zh-CN": "穿越火线",
+          "fallback": "closs fire"
+        },
+        "organization": "东北林业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          363,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team073",
+        "name": {
+          "zh-CN": "胜天半子",
+          "fallback": "Beyond Victory"
+        },
+        "organization": "中国地质大学（武汉）",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          383,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team074",
+        "name": {
+          "zh-CN": "Hrbust2",
+          "fallback": "Hrbust2"
+        },
+        "organization": "哈尔滨理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          383,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team075",
+        "name": {
+          "zh-CN": "温大阿尔法队",
+          "fallback": "WZU Alpha"
+        },
+        "organization": "温州大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          383,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team076",
+        "name": {
+          "zh-CN": "擅长唱、跳、rap、篮球",
+          "fallback": "Practiced for 2.5 Years"
+        },
+        "organization": "四川大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          385,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team077",
+        "name": {
+          "zh-CN": "Hrbust1",
+          "fallback": "Hrbust1"
+        },
+        "organization": "哈尔滨理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          386,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team078",
+        "name": {
+          "zh-CN": "儿童节快乐",
+          "fallback": "Happy children's day"
+        },
+        "organization": "湖南科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          386,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team079",
+        "name": {
+          "zh-CN": "队列",
+          "fallback": "FIFO"
+        },
+        "organization": "湖南大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          389,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team080",
+        "name": {
+          "zh-CN": "DayDream",
+          "fallback": "DayDream"
+        },
+        "organization": "南昌航空大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          392,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team081",
+        "name": {
+          "zh-CN": "Fat Nerd Really Happy",
+          "fallback": "Fat Nerd Really Happy"
+        },
+        "organization": "浙江工商大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          392,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team082",
+        "name": {
+          "zh-CN": "自古英雄秃少年",
+          "fallback": "Bald Hero"
+        },
+        "organization": "中国矿业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          394,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team083",
+        "name": {
+          "zh-CN": "匡匡最可爱",
+          "fallback": "kk is very lovely"
+        },
+        "organization": "湖南工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          394,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team084",
+        "name": {
+          "zh-CN": "AC++rp++",
+          "fallback": "AC++rp++"
+        },
+        "organization": "山东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          401,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team085",
+        "name": {
+          "zh-CN": "TToughy",
+          "fallback": "TToughy"
+        },
+        "organization": "大连理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          404,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team086",
+        "name": {
+          "zh-CN": "long bench,wide pole",
+          "fallback": "long bench,wide pole"
+        },
+        "organization": "华东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          405,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team087",
+        "name": {
+          "zh-CN": "老年菜鸡",
+          "fallback": "old laji"
+        },
+        "organization": "华南理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          407,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team088",
+        "name": {
+          "zh-CN": "ZCMU-我们是来抓小龙虾的",
+          "fallback": "ZCMU-STR-NC1"
+        },
+        "organization": "浙江中医药大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          407,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team089",
+        "name": {
+          "zh-CN": "骑骆驼来写代码",
+          "fallback": "write code on camel"
+        },
+        "organization": "兰州大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          408,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team090",
+        "name": {
+          "zh-CN": "扬帆起航",
+          "fallback": "XTU_New Beginning"
+        },
+        "organization": "湘潭大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          409,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team091",
+        "name": {
+          "zh-CN": "Paprika",
+          "fallback": "Paprika"
+        },
+        "organization": "浙江大学城市学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          409,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team092",
+        "name": {
+          "zh-CN": "CUMTB",
+          "fallback": "CUMTB"
+        },
+        "organization": "中国矿业大学（北京）",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          415,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team093",
+        "name": {
+          "zh-CN": "欧阿二",
+          "fallback": "Oooooooor2"
+        },
+        "organization": "西安电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          422,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team094",
+        "name": {
+          "zh-CN": "So Like Coding? You Baldy",
+          "fallback": "So Like Coding? You Baldy"
+        },
+        "organization": "武汉科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          434,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team095",
+        "name": {
+          "zh-CN": "刷题五分钟水群两小时",
+          "fallback": "Trainning five minutes and water group two hours"
+        },
+        "organization": "长沙学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          435,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team096",
+        "name": {
+          "zh-CN": "酸菜鱼",
+          "fallback": "Pickled fish"
+        },
+        "organization": "鲁东大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          439,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team097",
+        "name": {
+          "zh-CN": "锦",
+          "fallback": "Jin"
+        },
+        "organization": "长春工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          442,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team098",
+        "name": {
+          "zh-CN": "SUSTech_Emmeloord",
+          "fallback": "SUSTech_Emmeloord"
+        },
+        "organization": "南方科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          442,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team099",
+        "name": {
+          "zh-CN": "走回重庆",
+          "fallback": "WA you three thousand times"
+        },
+        "organization": "重庆大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          445,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team100",
+        "name": {
+          "zh-CN": "嘤有尽有",
+          "fallback": "yingyingying"
+        },
+        "organization": "长沙理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          453,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team101",
+        "name": {
+          "zh-CN": "练习时长一年半的练习生们",
+          "fallback": "We like singing, dancing, rap and basketball"
+        },
+        "organization": "中国人民大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          456,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team102",
+        "name": {
+          "zh-CN": "ShadowTrack",
+          "fallback": "ShadowTrack"
+        },
+        "organization": "南京航空航天大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          458,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team103",
+        "name": {
+          "zh-CN": "镍",
+          "fallback": "Ni"
+        },
+        "organization": "长春工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          464,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team104",
+        "name": {
+          "zh-CN": "同期选手已成神仙",
+          "fallback": "PlusFatCat"
+        },
+        "organization": "合肥学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          464,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team105",
+        "name": {
+          "zh-CN": "Shaped Duck Can't DP",
+          "fallback": "Shaped Duck Can't DP"
+        },
+        "organization": "华中农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          466,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team106",
+        "name": {
+          "zh-CN": "看，你又懂了？",
+          "fallback": "see you see"
+        },
+        "organization": "中国传媒大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          467,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team107",
+        "name": {
+          "zh-CN": "喵喵喵",
+          "fallback": "MiaoMiaoMiao"
+        },
+        "organization": "太原理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          467,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team108",
+        "name": {
+          "zh-CN": "Murphy's Law",
+          "fallback": "Murphy's Law"
+        },
+        "organization": "山东工商学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          470,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team109",
+        "name": {
+          "zh-CN": "白给",
+          "fallback": "white PC"
+        },
+        "organization": "西南交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          471,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team110",
+        "name": {
+          "zh-CN": "育英六队",
+          "fallback": "YY team6"
+        },
+        "organization": "浙江育英职业技术学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          473,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team111",
+        "name": {
+          "zh-CN": "村里最好的键盘",
+          "fallback": "The Best Keyboard In The Village"
+        },
+        "organization": "浙江师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          474,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team112",
+        "name": {
+          "zh-CN": "感谢相遇",
+          "fallback": "Thanks for meeting"
+        },
+        "organization": "江西理工大学南昌校区",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          475,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team113",
+        "name": {
+          "zh-CN": "快乐打铁",
+          "fallback": "happy strike iron"
+        },
+        "organization": "北京化工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          478,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team114",
+        "name": {
+          "zh-CN": "刷题五分钟复读两小时",
+          "fallback": "solved problem five minutes and echoing \"tql wsl\" two huors"
+        },
+        "organization": "长沙学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          481,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team115",
+        "name": {
+          "zh-CN": "复联四真好看",
+          "fallback": "please don’t be WA"
+        },
+        "organization": "南京工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          483,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team116",
+        "name": {
+          "zh-CN": "麦克米伦探险队",
+          "fallback": "Innocent"
+        },
+        "organization": "山东大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          483,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team117",
+        "name": {
+          "zh-CN": "Long Long Long",
+          "fallback": "Long Long Long"
+        },
+        "organization": "大连理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          487,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team118",
+        "name": {
+          "zh-CN": "CDZSC_犹豫就会WA",
+          "fallback": "CDZSC_team1"
+        },
+        "organization": "电子科技大学中山学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          488,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team119",
+        "name": {
+          "zh-CN": "或许有一度春风不负微草枯荣",
+          "fallback": "Autumn of a leaf"
+        },
+        "organization": "山东理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          490,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team120",
+        "name": {
+          "zh-CN": "青青草原",
+          "fallback": "Grass Land"
+        },
+        "organization": "吉林大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          492,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team121",
+        "name": {
+          "zh-CN": "一个学妹两个学长",
+          "fallback": "good boys good girl"
+        },
+        "organization": "青岛大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          495,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team122",
+        "name": {
+          "zh-CN": "playf",
+          "fallback": "playf"
+        },
+        "organization": "湖南大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          498,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team123",
+        "name": {
+          "zh-CN": "明镜止水",
+          "fallback": "MingJingZhiShui"
+        },
+        "organization": "浙江大学宁波理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          500,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team124",
+        "name": {
+          "zh-CN": "Everest",
+          "fallback": "First handsome in the universe"
+        },
+        "organization": "华东交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          504,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team125",
+        "name": {
+          "zh-CN": "2019yxc4",
+          "fallback": "2019yxc4"
+        },
+        "organization": "宁波大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          506,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team126",
+        "name": {
+          "zh-CN": "最大牛",
+          "fallback": "max cow"
+        },
+        "organization": "台州学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          509,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team127",
+        "name": {
+          "zh-CN": "万物静默如谜",
+          "fallback": "Everything is silent as a mystery"
+        },
+        "organization": "四川农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          511,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team128",
+        "name": {
+          "zh-CN": "Condillac",
+          "fallback": "Condillac"
+        },
+        "organization": "浙江师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          517,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team129",
+        "name": {
+          "zh-CN": "大豪哥最帅",
+          "fallback": "JXNU4"
+        },
+        "organization": "江西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          518,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team130",
+        "name": {
+          "zh-CN": "一切都是命运石之门的选择",
+          "fallback": "GDUT_Grooming"
+        },
+        "organization": "广东工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          523,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team131",
+        "name": {
+          "zh-CN": "雨中听打铁子唱吴歌",
+          "fallback": "FirstFe"
+        },
+        "organization": "合肥学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          532,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team132",
+        "name": {
+          "zh-CN": "打铁还需自身硬",
+          "fallback": "Forger"
+        },
+        "organization": "西安电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          538,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team133",
+        "name": {
+          "zh-CN": "金字招牌",
+          "fallback": "Gold Medal"
+        },
+        "organization": "暨南大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          549,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team134",
+        "name": {
+          "zh-CN": "AC不动机",
+          "fallback": "AC no motivation"
+        },
+        "organization": "安阳工学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          553,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team135",
+        "name": {
+          "zh-CN": "Supernova",
+          "fallback": "Supernova"
+        },
+        "organization": "南昌大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          555,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team136",
+        "name": {
+          "zh-CN": "你要啥给你啥",
+          "fallback": "I can give you everything"
+        },
+        "organization": "南阳理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          557,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team137",
+        "name": {
+          "zh-CN": "WA了再改",
+          "fallback": "WaThenCorrect"
+        },
+        "organization": "浙江大学宁波理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          566,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team138",
+        "name": {
+          "zh-CN": "出来看神仙看神仙看神仙",
+          "fallback": "Come out to see dalao see dalao see dalao"
+        },
+        "organization": "天津工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          574,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team139",
+        "name": {
+          "zh-CN": "monster",
+          "fallback": "monster"
+        },
+        "organization": "武汉科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          578,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team140",
+        "name": {
+          "zh-CN": "你好，南昌",
+          "fallback": "Hello, Nanchang"
+        },
+        "organization": "山东理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          580,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team141",
+        "name": {
+          "zh-CN": "Living in the dream",
+          "fallback": "Living in the dream"
+        },
+        "organization": "西北大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          581,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team142",
+        "name": {
+          "zh-CN": "世界你好",
+          "fallback": "Hello world"
+        },
+        "organization": "南昌航空大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          583,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team143",
+        "name": {
+          "zh-CN": "桂花糕",
+          "fallback": "VnEpCxmR"
+        },
+        "organization": "厦门大学嘉庚学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          587,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team144",
+        "name": {
+          "zh-CN": "ZJUT14",
+          "fallback": "ZJUT14"
+        },
+        "organization": "浙江工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          587,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team145",
+        "name": {
+          "zh-CN": "SAND SCULPTURE TEAMMATE",
+          "fallback": "SAND SCULPUTER TEAMMATE"
+        },
+        "organization": "江西理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          590,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team146",
+        "name": {
+          "zh-CN": "刃鸣近月，千恋万花",
+          "fallback": "Nanudesu"
+        },
+        "organization": "浙江工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          604,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team147",
+        "name": {
+          "zh-CN": "来瓶阿萨姆",
+          "fallback": "suibian"
+        },
+        "organization": "华东交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          606,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team148",
+        "name": {
+          "zh-CN": "小熊骑士",
+          "fallback": "Kuma Rider"
+        },
+        "organization": "杭州师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          617,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team149",
+        "name": {
+          "zh-CN": "TJU_team1",
+          "fallback": "TJU_team1"
+        },
+        "organization": "天津大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          617,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team150",
+        "name": {
+          "zh-CN": "2019yxc3",
+          "fallback": "2019yxc3"
+        },
+        "organization": "宁波大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          619,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team151",
+        "name": {
+          "zh-CN": "CodingForFun",
+          "fallback": "Qhu-Team1"
+        },
+        "organization": "青海大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          624,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team152",
+        "name": {
+          "zh-CN": "既对也不对_SCNU",
+          "fallback": "WA&AC==True_SCNU"
+        },
+        "organization": "华南师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          629,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team153",
+        "name": {
+          "zh-CN": "wa一次喝一瓶水",
+          "fallback": "wfu01"
+        },
+        "organization": "潍坊学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          633,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team154",
+        "name": {
+          "zh-CN": "杭电三队",
+          "fallback": "HDU-Team3"
+        },
+        "organization": "杭州电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          640,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team155",
+        "name": {
+          "zh-CN": "我们想一想",
+          "fallback": "we are thinking"
+        },
+        "organization": "山东大学（威海）",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          642,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team156",
+        "name": {
+          "zh-CN": "华南师大一队_SCNU",
+          "fallback": "Team1_SCNU"
+        },
+        "organization": "华南师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          642,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team157",
+        "name": {
+          "zh-CN": "浙科梦",
+          "fallback": "Team_Nanchang"
+        },
+        "organization": "浙江科技学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          642,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team158",
+        "name": {
+          "zh-CN": "冰雕",
+          "fallback": "Ice sculpture"
+        },
+        "organization": "中北大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          648,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team159",
+        "name": {
+          "zh-CN": "SuperStar",
+          "fallback": "SuperStar"
+        },
+        "organization": "南昌大学",
+        "official": false
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          651,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team160",
+        "name": {
+          "zh-CN": "blue white",
+          "fallback": "blue white"
+        },
+        "organization": "南昌航空大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          653,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team161",
+        "name": {
+          "zh-CN": "Anti_Stereotype",
+          "fallback": "Anti_Stereotype"
+        },
+        "organization": "安徽大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          654,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team162",
+        "name": {
+          "zh-CN": "Final exam is coming",
+          "fallback": "Final exam is coming"
+        },
+        "organization": "郑州大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          661,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team163",
+        "name": {
+          "zh-CN": "UESTC_Ycuf",
+          "fallback": "UESTC_ycuf"
+        },
+        "organization": "电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          663,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team164",
+        "name": {
+          "zh-CN": "面具人",
+          "fallback": "infinity+1.0"
+        },
+        "organization": "徐州工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          664,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team165",
+        "name": {
+          "zh-CN": "巧乐兹",
+          "fallback": "Chocolates"
+        },
+        "organization": "北京师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          669,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team166",
+        "name": {
+          "zh-CN": "Change Our Destiny",
+          "fallback": "Change Our Destiny"
+        },
+        "organization": "哈尔滨工业大学（深圳）",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          673,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team167",
+        "name": {
+          "zh-CN": "快把浴霸关上",
+          "fallback": "daisuke☆~"
+        },
+        "organization": "华中科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          674,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team168",
+        "name": {
+          "zh-CN": "段幺九",
+          "fallback": "hziee"
+        },
+        "organization": "杭州电子科技大学信息工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          674,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team169",
+        "name": {
+          "zh-CN": "中南林科大1队",
+          "fallback": "NC_CSUFT"
+        },
+        "organization": "中南林业科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          679,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team170",
+        "name": {
+          "zh-CN": "教练去哪儿",
+          "fallback": "Triple Killed"
+        },
+        "organization": "常州大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          689,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team171",
+        "name": {
+          "zh-CN": "Hard_To_Name",
+          "fallback": "Hard_To_Name"
+        },
+        "organization": "北京航空航天大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          692,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team172",
+        "name": {
+          "zh-CN": "LLC",
+          "fallback": "LLC"
+        },
+        "organization": "成功大學",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          698,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team173",
+        "name": {
+          "zh-CN": "温大贝塔队",
+          "fallback": "WZU Beta"
+        },
+        "organization": "温州大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          699,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team174",
+        "name": {
+          "zh-CN": "三缺一",
+          "fallback": "Three Missing One"
+        },
+        "organization": "安徽工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          702,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team175",
+        "name": {
+          "zh-CN": "「小小青蛙不输风雨」",
+          "fallback": "Moriya Suwako"
+        },
+        "organization": "河南大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          703,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team176",
+        "name": {
+          "zh-CN": "玛珈山飙车党",
+          "fallback": "SpeedingCar"
+        },
+        "organization": "山东大学（威海）",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          719,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team177",
+        "name": {
+          "zh-CN": "会写代码和打篮球",
+          "fallback": "program super man"
+        },
+        "organization": "黑龙江工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          723,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team178",
+        "name": {
+          "zh-CN": "Orz_Godhuo",
+          "fallback": "Orz_Godhuo"
+        },
+        "organization": "大连理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          741,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team179",
+        "name": {
+          "zh-CN": "SingDanceRap",
+          "fallback": "SingDanceRap"
+        },
+        "organization": "浙江工商大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          742,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team180",
+        "name": {
+          "zh-CN": "三只冷酷的鸽子",
+          "fallback": "Three callous pigeon"
+        },
+        "organization": "集美大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          746,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team181",
+        "name": {
+          "zh-CN": "WA-TLE两开花",
+          "fallback": "WA-TLE two blossoms"
+        },
+        "organization": "江西财经大学(软件学院)",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          758,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team182",
+        "name": {
+          "zh-CN": "久久溜点哀思铯铀",
+          "fallback": "996.scu"
+        },
+        "organization": "四川大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          772,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team183",
+        "name": {
+          "zh-CN": "AK自动机",
+          "fallback": "AK_automaton"
+        },
+        "organization": "中国计量大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          774,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team184",
+        "name": {
+          "zh-CN": "比楼上少一题",
+          "fallback": "One less problem than upstairs"
+        },
+        "organization": "江西财经大学(软件学院)",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          778,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team185",
+        "name": {
+          "zh-CN": "莫比乌斯",
+          "fallback": "Mobius"
+        },
+        "organization": "哈尔滨工程大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          834,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team186",
+        "name": {
+          "zh-CN": "两个黄鹂鸣翠柳",
+          "fallback": "two birds ming cuiliu"
+        },
+        "organization": "东北林业大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          838,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team187",
+        "name": {
+          "zh-CN": "幽兰不拿铁",
+          "fallback": "I want Rk1"
+        },
+        "organization": "长沙理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          860,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team188",
+        "name": {
+          "zh-CN": "我觉得我写的每一行代码都是诗",
+          "fallback": "Even if they are wa"
+        },
+        "organization": "南通大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          860,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team189",
+        "name": {
+          "zh-CN": "114514",
+          "fallback": "1145141919"
+        },
+        "organization": "湖南工学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          867,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team190",
+        "name": {
+          "zh-CN": "举火燎天",
+          "fallback": "Nuit_Fire the sky"
+        },
+        "organization": "广东东软学院",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          904,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team191",
+        "name": {
+          "zh-CN": "HNUCM-好多cxk",
+          "fallback": "HNUCM-Many cxk"
+        },
+        "organization": "湖南中医药大学",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          936,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team192",
+        "name": {
+          "zh-CN": "小星光",
+          "fallback": "Little Starlight"
+        },
+        "organization": "浙江财经大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          174,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team193",
+        "name": {
+          "zh-CN": "犹豫，就会败北",
+          "fallback": "Hesitation is defeat"
+        },
+        "organization": "福州大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          180,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team194",
+        "name": {
+          "zh-CN": "赏金猎人",
+          "fallback": "NEU_Bounty hunter"
+        },
+        "organization": "东北大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          201,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team195",
+        "name": {
+          "zh-CN": "这题我往键盘上撒把米，鸡都能啄",
+          "fallback": "LOVE mo li turn quan quan"
+        },
+        "organization": "河南农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          205,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team196",
+        "name": {
+          "zh-CN": "米缸保护协会",
+          "fallback": "mikonmikon"
+        },
+        "organization": "长春理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          212,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team197",
+        "name": {
+          "zh-CN": "邪王真眼是最强的！",
+          "fallback": "Dark Flame Master"
+        },
+        "organization": "江西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          226,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team198",
+        "name": {
+          "zh-CN": "时光蒸汽喵",
+          "fallback": "Time Cat"
+        },
+        "organization": "南京信息工程大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          231,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team199",
+        "name": {
+          "zh-CN": "请你吃糖",
+          "fallback": "Treat you sugar"
+        },
+        "organization": "重庆大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          238,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team200",
+        "name": {
+          "zh-CN": "Looking Ahead",
+          "fallback": "Looking Ahead"
+        },
+        "organization": "南昌航空大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          250,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team201",
+        "name": {
+          "zh-CN": "同济大学_济鹉",
+          "fallback": "Parrot of Tongji"
+        },
+        "organization": "同济大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          254,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team202",
+        "name": {
+          "zh-CN": "奥利奥小甜心",
+          "fallback": "Oreo Sweetheart"
+        },
+        "organization": "江西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          266,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team203",
+        "name": {
+          "zh-CN": "荣耀献给C.C.",
+          "fallback": "cc_code"
+        },
+        "organization": "江西财经大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          267,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team204",
+        "name": {
+          "zh-CN": "Team Defy",
+          "fallback": "Team Defy"
+        },
+        "organization": "东北大学秦皇岛分校",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          271,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team205",
+        "name": {
+          "zh-CN": "不屈的小强",
+          "fallback": "An undead strong"
+        },
+        "organization": "东华理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          277,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team206",
+        "name": {
+          "zh-CN": "三个代码匠",
+          "fallback": "Light_kiss"
+        },
+        "organization": "青岛大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          283,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team207",
+        "name": {
+          "zh-CN": "拿牌就女装领奖",
+          "fallback": "if(!honourable) yingyingying"
+        },
+        "organization": "山东师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          296,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team208",
+        "name": {
+          "zh-CN": "coming soon",
+          "fallback": "coming soon"
+        },
+        "organization": "南京信息工程大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          304,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team209",
+        "name": {
+          "zh-CN": "南工喷壶",
+          "fallback": "NJTech Watering Cans"
+        },
+        "organization": "南京工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          314,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team210",
+        "name": {
+          "zh-CN": "江西中医",
+          "fallback": "jxutcm Grass coral"
+        },
+        "organization": "江西中医药大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          320,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team211",
+        "name": {
+          "zh-CN": "1557104714",
+          "fallback": "1557104714"
+        },
+        "organization": "西南交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          342,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team212",
+        "name": {
+          "zh-CN": "奶牛战士",
+          "fallback": "mikyknight"
+        },
+        "organization": "湖北工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          345,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team213",
+        "name": {
+          "zh-CN": "小球球",
+          "fallback": "Small.Qiu.Qiu!"
+        },
+        "organization": "天津大学仁爱学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          348,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team214",
+        "name": {
+          "zh-CN": "自动鸡",
+          "fallback": "automatic chicken"
+        },
+        "organization": "大连海事大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          359,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team215",
+        "name": {
+          "zh-CN": "无惧号",
+          "fallback": "SKD14598 Fearless"
+        },
+        "organization": "山东科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          359,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team216",
+        "name": {
+          "zh-CN": "江湖夜雨十年WA",
+          "fallback": "We A Nothing"
+        },
+        "organization": "武汉工程大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          360,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team217",
+        "name": {
+          "zh-CN": "春天还会远吗",
+          "fallback": "Winter is coming"
+        },
+        "organization": "江南大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          362,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team218",
+        "name": {
+          "zh-CN": "炖八爪鱼",
+          "fallback": "AC&&AK"
+        },
+        "organization": "河北师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          368,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team219",
+        "name": {
+          "zh-CN": "Sudoku",
+          "fallback": "Sudoku"
+        },
+        "organization": "成都理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          381,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team220",
+        "name": {
+          "zh-CN": "无名之辈",
+          "fallback": "Nameless generation"
+        },
+        "organization": "河南大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          384,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team221",
+        "name": {
+          "zh-CN": "山高路远",
+          "fallback": "High Mountains And Long Roads"
+        },
+        "organization": "江西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          386,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team222",
+        "name": {
+          "zh-CN": "线性加速器",
+          "fallback": "linear accelerator"
+        },
+        "organization": "中南大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          392,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team223",
+        "name": {
+          "zh-CN": "你敲的样子像cxk",
+          "fallback": "Coding like ikun"
+        },
+        "organization": "浙江万里学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          398,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team224",
+        "name": {
+          "zh-CN": "不擅长想名字",
+          "fallback": "JXNU3"
+        },
+        "organization": "江西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          404,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team225",
+        "name": {
+          "zh-CN": "QVQ",
+          "fallback": "JXNU1"
+        },
+        "organization": "江西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          427,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team226",
+        "name": {
+          "zh-CN": "用力Coding",
+          "fallback": "cugb2_nanchang"
+        },
+        "organization": "中国地质大学（北京）",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          431,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team227",
+        "name": {
+          "zh-CN": "面向ACM编程",
+          "fallback": "RNG"
+        },
+        "organization": "南昌航空大学",
+        "official": false
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          441,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team228",
+        "name": {
+          "zh-CN": "达拉崩吧斑得贝迪卜多比鲁翁",
+          "fallback": "Darabun banda bedib dobiroun"
+        },
+        "organization": "福建师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          452,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team229",
+        "name": {
+          "zh-CN": "提交给我T起来",
+          "fallback": "give me tle"
+        },
+        "organization": "深圳大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          455,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team230",
+        "name": {
+          "zh-CN": "你AC的样子像蔡徐坤",
+          "fallback": "cugb1_nanchang"
+        },
+        "organization": "中国地质大学（北京）",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          459,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team231",
+        "name": {
+          "zh-CN": "从打铁开始",
+          "fallback": "NYTDC2019Team01"
+        },
+        "organization": "南京邮电大学通达学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          461,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team232",
+        "name": {
+          "zh-CN": "SDAUJX",
+          "fallback": "SDAUJX"
+        },
+        "organization": "山东农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          464,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team233",
+        "name": {
+          "zh-CN": "挑战者号",
+          "fallback": "SKD2032 Challenger"
+        },
+        "organization": "山东科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          476,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team234",
+        "name": {
+          "zh-CN": "不负AC不负卿",
+          "fallback": "AhoCorasick"
+        },
+        "organization": "沈阳航空航天大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          478,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team235",
+        "name": {
+          "zh-CN": "WIN THE MEDAL WIN THE MEDAL",
+          "fallback": "WIN THE MEDAL WIN THE MEDAL"
+        },
+        "organization": "江西理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          485,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team236",
+        "name": {
+          "zh-CN": "我可以喜欢他吗",
+          "fallback": "Amazing"
+        },
+        "organization": "河南农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          490,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team237",
+        "name": {
+          "zh-CN": "East Palace",
+          "fallback": "East Palace"
+        },
+        "organization": "长安大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          492,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team238",
+        "name": {
+          "zh-CN": "巧克力盒子蛋糕",
+          "fallback": "san ge shi ke lan"
+        },
+        "organization": "吉首大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          508,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team239",
+        "name": {
+          "zh-CN": "练习敲代码时长两年半的算法练习生",
+          "fallback": "JXNU2"
+        },
+        "organization": "江西师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          514,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team240",
+        "name": {
+          "zh-CN": "雷达一号",
+          "fallback": "Leida01"
+        },
+        "organization": "宜春学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          516,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team241",
+        "name": {
+          "zh-CN": "就这个，我喜欢这个",
+          "fallback": "That\\'s it, I like this."
+        },
+        "organization": "华东交通大学",
+        "official": false
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          519,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team242",
+        "name": {
+          "zh-CN": "红鲤鱼与绿鲤鱼与捋捋驴",
+          "fallback": "Red Carp && Green Carp && LL Donkey"
+        },
+        "organization": "中国矿业大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          524,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team243",
+        "name": {
+          "zh-CN": "顶不住了",
+          "fallback": "Team_Nanchang2"
+        },
+        "organization": "浙江科技学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          524,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team244",
+        "name": {
+          "zh-CN": "雷达二号",
+          "fallback": "Leida02"
+        },
+        "organization": "宜春学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          532,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team245",
+        "name": {
+          "zh-CN": "东软之星",
+          "fallback": "Nuit_Star"
+        },
+        "organization": "广东东软学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          543,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team246",
+        "name": {
+          "zh-CN": "I_Love_Fubuki_Forever.jpg",
+          "fallback": "I_Love_Fubuki_Forever.jpg"
+        },
+        "organization": "广西大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          544,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team247",
+        "name": {
+          "zh-CN": "犹豫_就会败北",
+          "fallback": "Rewind"
+        },
+        "organization": "信息工程大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          546,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team248",
+        "name": {
+          "zh-CN": "可乐鸡",
+          "fallback": "Cola Chicken"
+        },
+        "organization": "哈尔滨学院",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          551,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team249",
+        "name": {
+          "zh-CN": "至诚至博",
+          "fallback": "SUST_2019_1"
+        },
+        "organization": "陕西科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          579,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team250",
+        "name": {
+          "zh-CN": "今天队友到齐了吗",
+          "fallback": "Here we are"
+        },
+        "organization": "华南理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          650,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team251",
+        "name": {
+          "zh-CN": "练习时长两年半",
+          "fallback": "waDD"
+        },
+        "organization": "华东交通大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          655,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team252",
+        "name": {
+          "zh-CN": "保护好奖牌",
+          "fallback": "SUST_2019_2"
+        },
+        "organization": "陕西科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          699,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team253",
+        "name": {
+          "zh-CN": "夏色祭单推所有队",
+          "fallback": "Matsuri tanoshi all Vtubers"
+        },
+        "organization": "杭州师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          709,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team254",
+        "name": {
+          "zh-CN": "王玨",
+          "fallback": "WangJue"
+        },
+        "organization": "上海第二工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          171,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team255",
+        "name": {
+          "zh-CN": "想带着奖牌去滕王阁前唱歌跳舞",
+          "fallback": "Roses all the way"
+        },
+        "organization": "信息工程大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          188,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team256",
+        "name": {
+          "zh-CN": "AC 女孩",
+          "fallback": "AC girl"
+        },
+        "organization": "江西财经大学",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          189,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team257",
+        "name": {
+          "zh-CN": "皮卡丘的百万伏特",
+          "fallback": "Pikachu's million volts"
+        },
+        "organization": "南阳理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          193,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team258",
+        "name": {
+          "zh-CN": "汝何着品如裳？",
+          "fallback": "neau4"
+        },
+        "organization": "东北农业大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          198,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team259",
+        "name": {
+          "zh-CN": "ZCMU-杰哥又双叒叕放学弟鸽子了",
+          "fallback": "ZCMU-STR-NC2"
+        },
+        "organization": "浙江中医药大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          203,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team260",
+        "name": {
+          "zh-CN": "HBMZU",
+          "fallback": "HBMZU"
+        },
+        "organization": "湖北民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          205,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team261",
+        "name": {
+          "zh-CN": "我想静静",
+          "fallback": "Miss quiet"
+        },
+        "organization": "南昌航空大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          213,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team262",
+        "name": {
+          "zh-CN": "把大奖给我们",
+          "fallback": "Avengers"
+        },
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          233,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team263",
+        "name": {
+          "zh-CN": "乖巧",
+          "fallback": "fantasy"
+        },
+        "organization": "北方工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          237,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team264",
+        "name": {
+          "zh-CN": "南昌蹭饭队",
+          "fallback": "Nanchang free rice team"
+        },
+        "organization": "贵州大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          245,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team265",
+        "name": {
+          "zh-CN": "共和之辉",
+          "fallback": "Brilliance of Republicanism"
+        },
+        "organization": "西北工业大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          248,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team266",
+        "name": {
+          "zh-CN": "楼上排名作废",
+          "fallback": "call police"
+        },
+        "organization": "吉首大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          256,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team267",
+        "name": {
+          "zh-CN": "让我们荡起双桨",
+          "fallback": "Let's paddle together"
+        },
+        "organization": "中南民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          273,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team268",
+        "name": {
+          "zh-CN": "日隐青霞",
+          "fallback": "Sun Below Rosy Dawn"
+        },
+        "organization": "河北师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          276,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team269",
+        "name": {
+          "zh-CN": "我觉得我的代码有点队",
+          "fallback": "I think my code is a bit right"
+        },
+        "organization": "浙江师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          284,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team270",
+        "name": {
+          "zh-CN": "TJU_team2",
+          "fallback": "TJU_team2"
+        },
+        "organization": "天津大学",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          291,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team271",
+        "name": {
+          "zh-CN": "希斯托利亚",
+          "fallback": "NJUPT_Historia"
+        },
+        "organization": "南京邮电大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          293,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team272",
+        "name": {
+          "zh-CN": "独孤孤独咕噜噜咕噜犊子将军",
+          "fallback": "Dreaming about the things that we could be"
+        },
+        "organization": "哈尔滨商业大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          298,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team273",
+        "name": {
+          "zh-CN": "还没有账号？立即注册",
+          "fallback": "team1"
+        },
+        "organization": "北京电子科技学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          308,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team274",
+        "name": {
+          "zh-CN": "我也不会读",
+          "fallback": "difransz"
+        },
+        "organization": "西安电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          322,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team275",
+        "name": {
+          "zh-CN": "咕咕咕",
+          "fallback": "GUGUGU"
+        },
+        "organization": "石河子大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          325,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team276",
+        "name": {
+          "zh-CN": "小奶狗",
+          "fallback": "puppy"
+        },
+        "organization": "天津大学仁爱学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          332,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team277",
+        "name": {
+          "zh-CN": "lut‘s team",
+          "fallback": "lut‘s team"
+        },
+        "organization": "兰州理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          337,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team278",
+        "name": {
+          "zh-CN": "我们是打铁的",
+          "fallback": "i am iron man"
+        },
+        "organization": "泉州师范学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          354,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team279",
+        "name": {
+          "zh-CN": "辉耀Radiance",
+          "fallback": "Radiance"
+        },
+        "organization": "南昌理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          356,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team280",
+        "name": {
+          "zh-CN": "NCEPU freshmen",
+          "fallback": "NCEPU freshmen"
+        },
+        "organization": "华北电力大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          375,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team281",
+        "name": {
+          "zh-CN": "广中E队",
+          "fallback": "Guang Zhong E Team"
+        },
+        "organization": "广州中医药大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          389,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team282",
+        "name": {
+          "zh-CN": "派大星的菠萝屋",
+          "fallback": "FBI WARNING"
+        },
+        "organization": "西安邮电大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          393,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team283",
+        "name": {
+          "zh-CN": "小丑在笑你",
+          "fallback": "CLAY"
+        },
+        "organization": "中南民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          396,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team284",
+        "name": {
+          "zh-CN": "小脑斧",
+          "fallback": "Happy Small tiger"
+        },
+        "organization": "天津大学仁爱学院",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          414,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team285",
+        "name": {
+          "zh-CN": "机器视觉",
+          "fallback": "Machine vision"
+        },
+        "organization": "江西财经大学现代经济管理学院",
+        "official": false
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          501,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team286",
+        "name": {
+          "zh-CN": "TODAY IS CHILDREN DAY",
+          "fallback": "TODAY IS CHILDREN DAY"
+        },
+        "organization": "江西理工大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          18,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team287",
+        "name": {
+          "zh-CN": "return ac",
+          "fallback": "return ac"
+        },
+        "organization": "南昌航空大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          33,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team288",
+        "name": {
+          "zh-CN": "我一定会回来的",
+          "fallback": "I will come back"
+        },
+        "organization": "湖北工业大学",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          47,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team289",
+        "name": {
+          "zh-CN": "到此一游",
+          "fallback": "A visit"
+        },
+        "organization": "江西理工大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          47,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team290",
+        "name": {
+          "zh-CN": "小黄鸭姐弟",
+          "fallback": "Small yellow duck and her sisters"
+        },
+        "organization": "西南民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          47,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team291",
+        "name": {
+          "zh-CN": "ctgu01",
+          "fallback": "ctgu01"
+        },
+        "organization": "三峡大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          50,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team292",
+        "name": {
+          "zh-CN": "HCXY",
+          "fallback": "HCXY"
+        },
+        "organization": "河池学院",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          65,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team293",
+        "name": {
+          "zh-CN": "对堆队",
+          "fallback": "no ng team"
+        },
+        "organization": "南昌航空大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          73,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team294",
+        "name": {
+          "zh-CN": "大家找到女朋友了吗",
+          "fallback": "Did you find your girlfriend"
+        },
+        "organization": "桂林电子科技大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          74,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team295",
+        "name": {
+          "zh-CN": "淘气文",
+          "fallback": "naughty wen"
+        },
+        "organization": "江西中医药大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          101,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team296",
+        "name": {
+          "zh-CN": "小学生队",
+          "fallback": "primary school"
+        },
+        "organization": "小学生联合队",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          161,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team297",
+        "name": {
+          "zh-CN": "逐梦者",
+          "fallback": "Miracle"
+        },
+        "organization": "南京中医药大学",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          174,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team298",
+        "name": {
+          "zh-CN": "星星在的地方",
+          "fallback": "Tsia"
+        },
+        "organization": "南昌理工学院",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          197,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team299",
+        "name": {
+          "zh-CN": "南湖挖掘机",
+          "fallback": "NanHu digger"
+        },
+        "organization": "中南民族大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          197,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team300",
+        "name": {
+          "zh-CN": "雷达三号",
+          "fallback": "Leida03"
+        },
+        "organization": "宜春学院",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          197,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team301",
+        "name": {
+          "zh-CN": "佩奇一家ThePaigeFamily",
+          "fallback": "The Paige Family"
+        },
+        "organization": "南昌理工学院",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          207,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team302",
+        "name": {
+          "zh-CN": "不抛弃不放弃",
+          "fallback": "Do not abandon or give up"
+        },
+        "organization": "江西工程学院",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          229,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team303",
+        "name": {
+          "zh-CN": "神鹿",
+          "fallback": "JJU2"
+        },
+        "organization": "九江学院",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          251,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team304",
+        "name": {
+          "zh-CN": "信誓旦旦",
+          "fallback": "life is fantastic"
+        },
+        "organization": "南昌航空大学",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          260,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team305",
+        "name": {
+          "zh-CN": "温大欧米伽队",
+          "fallback": "WZU Omega Team"
+        },
+        "organization": "温州大学",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          261,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team306",
+        "name": {
+          "zh-CN": "幸运兔尾巴",
+          "fallback": "Rabbit Tail"
+        },
+        "organization": "南昌航空大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          287,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team307",
+        "name": {
+          "zh-CN": "imnu1",
+          "fallback": "imnu1"
+        },
+        "organization": "内蒙古师范大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          301,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team308",
+        "name": {
+          "zh-CN": "发际线总是在和我作队",
+          "fallback": "Hairline Love Me Again"
+        },
+        "organization": "江西科技学院",
+        "official": false
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          390,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team309",
+        "name": {
+          "zh-CN": "华师女队_SCNU",
+          "fallback": "BloomingFlowers_SCNU"
+        },
+        "organization": "华南师范大学",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          391,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team310",
+        "name": {
+          "zh-CN": "天堂制造",
+          "fallback": "Made in Heaven"
+        },
+        "organization": "苏州大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          420,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team311",
+        "name": {
+          "zh-CN": "CUBIC",
+          "fallback": "CUBIC"
+        },
+        "organization": "河北经贸大学",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          646,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team312",
+        "name": {
+          "zh-CN": "OUHK_AC>0",
+          "fallback": "OUHK_AC>0"
+        },
+        "organization": "香港公開大學",
+        "official": true
+      },
+      "score": {
+        "value": 2,
+        "time": [
+          975,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team313",
+        "name": {
+          "zh-CN": "吴彦祖保佑不wa",
+          "fallback": "cxknowa"
+        },
+        "organization": "北京电子科技学院",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          1,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team314",
+        "name": {
+          "zh-CN": "从未停步",
+          "fallback": "never stopped"
+        },
+        "organization": "南昌师范学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          1,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team315",
+        "name": {
+          "zh-CN": "想做就做",
+          "fallback": "Just do it!"
+        },
+        "organization": "东华理工大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          3,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team316",
+        "name": {
+          "zh-CN": "我来了",
+          "fallback": "IHC"
+        },
+        "organization": "南昌大学共青学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          4,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team317",
+        "name": {
+          "zh-CN": "口晒恩",
+          "fallback": "cosx"
+        },
+        "organization": "南昌航空大学科技学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          4,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team318",
+        "name": {
+          "zh-CN": "趣多多",
+          "fallback": "team2"
+        },
+        "organization": "北京电子科技学院",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          6,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team319",
+        "name": {
+          "zh-CN": "你说酱油是你打还是我打",
+          "fallback": "Except me who else"
+        },
+        "organization": "南昌工学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          6,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team320",
+        "name": {
+          "zh-CN": "糖醋排骨SweetAndSour",
+          "fallback": "Sweet And Sour"
+        },
+        "organization": "南昌理工学院",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          7,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team321",
+        "name": {
+          "zh-CN": "小海豚",
+          "fallback": "little dolphin"
+        },
+        "organization": "景德镇学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          10,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team322",
+        "name": {
+          "zh-CN": "ABC_dog_bit_pig",
+          "fallback": "ABC_dog_bit_pig"
+        },
+        "organization": "中華大學",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          22,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team323",
+        "name": {
+          "zh-CN": "CF连麦开黑",
+          "fallback": "CF gang up!"
+        },
+        "organization": "江西财经大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          23,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team324",
+        "name": {
+          "zh-CN": "ICPC-NIT-NC-01",
+          "fallback": "ICPC-NIT-NC-01"
+        },
+        "organization": "南昌工程学院",
+        "official": true
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          23,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team325",
+        "name": {
+          "zh-CN": "WYS",
+          "fallback": "WYS"
+        },
+        "organization": "兰州理工大学",
+        "official": true,
+        "markers": [
+          "female"
+        ]
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          29,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team326",
+        "name": {
+          "zh-CN": "蓝帆船",
+          "fallback": "blue_sailboat"
+        },
+        "organization": "景德镇陶瓷大学科技艺术学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          41,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team327",
+        "name": {
+          "zh-CN": "奋斗之心",
+          "fallback": "struggling stars"
+        },
+        "organization": "南昌大学科学技术学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          49,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team328",
+        "name": {
+          "zh-CN": "这里没有程序员",
+          "fallback": "There are no programmers here."
+        },
+        "organization": "江西应用科技学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          64,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team329",
+        "name": {
+          "zh-CN": "蛇队",
+          "fallback": "snake team"
+        },
+        "organization": "井冈山大学",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          166,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "team330",
+        "name": {
+          "zh-CN": "曾记蟹黄堡",
+          "fallback": "SpongeBob"
+        },
+        "organization": "九江学院",
+        "official": false
+      },
+      "score": {
+        "value": 1,
+        "time": [
+          212,
+          "min"
+        ]
+      },
+      "statuses": []
+    }
+  ]
+}
