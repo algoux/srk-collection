@@ -852,6 +852,9 @@ root:
         - path: jx
           name: 江西省赛
           children:
+            - path: jxccpc3rd
+              format: srk.json
+              name: 2026-05-24 第三届 CCPC
             - path: jxcpc2026
               format: srk.json
               name: 2026-05-17 2026
