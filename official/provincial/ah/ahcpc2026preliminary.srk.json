@@ -8486,13 +8486,7 @@
     }
   ],
   "sorter": {
-    "algorithm": "ICPC",
-    "config": {
-      "penalty": [
-        20,
-        "min"
-      ],
-      "timePrecision": "min"
-    }
+    "algorithm": "score",
+    "config": {}
   }
 }
