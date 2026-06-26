@@ -1,0 +1,174 @@
+name: Diagnose
+
+on:
+  push:
+    branches:
+      - master
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+permissions:
+  actions: read
+  contents: read
+  issues: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name == 'pull_request_target' && github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  diagnose:
+    name: diagnose
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pushed commit
+        if: github.event_name == 'push'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout trusted base
+        if: github.event_name == 'pull_request_target'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install trusted dependencies
+        run: npm ci --omit=dev --ignore-scripts
+
+      - name: Checkout pull request data
+        if: github.event_name == 'pull_request_target'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Fetch pull request base
+        if: github.event_name == 'pull_request_target'
+        working-directory: pr
+        env:
+          BASE_REPOSITORY: ${{ github.repository }}
+          BASE_REF: ${{ github.event.pull_request.base.ref }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git remote add upstream "https://github.com/${BASE_REPOSITORY}.git"
+          git fetch --no-tags upstream "+refs/heads/${BASE_REF}:refs/remotes/upstream/${BASE_REF}"
+          if ! git cat-file -e "${BASE_SHA}^{commit}"; then
+            git fetch --no-tags upstream "${BASE_SHA}"
+          fi
+          git rev-parse --verify "${BASE_SHA}^{commit}"
+
+      - name: Diagnose changed SRK files
+        if: github.event_name == 'push'
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          HEAD_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          BASE_SHA="$BEFORE_SHA"
+          if [[ "$BASE_SHA" =~ ^0+$ ]]; then
+            BASE_SHA="$(git hash-object -t tree /dev/null)"
+          elif ! git cat-file -e "${BASE_SHA}^{commit}"; then
+            git fetch --no-tags origin "${BASE_SHA}"
+          fi
+          node scripts/run-srk-diff-command.js \
+            --command diagnose \
+            --base "$BASE_SHA" \
+            --head "$HEAD_SHA" \
+            --allow-command-failures
+
+      - name: Diagnose changed SRK files
+        id: diagnose-pr
+        if: github.event_name == 'pull_request_target'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          node scripts/run-srk-diff-command.js \
+            --command diagnose \
+            --base "$BASE_SHA" \
+            --head "$HEAD_SHA" \
+            --worktree pr \
+            --allow-command-failures
+
+      - name: Resolve diagnose job URL
+        id: job-url
+        if: github.event_name == 'pull_request_target'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const jobs = await github.paginate(github.rest.actions.listJobsForWorkflowRun, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: context.runId,
+              per_page: 100,
+            });
+            const diagnoseJob = jobs.find((job) => job.name === 'diagnose');
+            core.setOutput('url', diagnoseJob?.html_url || runUrl);
+
+      - name: Comment diagnose log link
+        if: github.event_name == 'pull_request_target'
+        uses: actions/github-script@v7
+        env:
+          DIAGNOSE_JOB_URL: ${{ steps.job-url.outputs.url }}
+          DIAGNOSE_FILE_COUNT: ${{ steps.diagnose-pr.outputs.file_count }}
+          DIAGNOSE_FAILURE_COUNT: ${{ steps.diagnose-pr.outputs.failure_count }}
+        with:
+          script: |
+            const marker = '<!-- srk-diagnose-log -->';
+            const fileCount = process.env.DIAGNOSE_FILE_COUNT || '0';
+            const failureCount = process.env.DIAGNOSE_FAILURE_COUNT || '0';
+            const jobUrl = process.env.DIAGNOSE_JOB_URL;
+            const details =
+              failureCount === '0'
+                ? 'The full diagnose output is available in the Actions log.'
+                : `Diagnose command failures were recorded for ${failureCount} file(s); inspect the Actions log for details.`;
+            const body = [
+              marker,
+              '### SRK diagnose log',
+              '',
+              `Diagnose ran for ${fileCount} changed \`.srk.json\` file(s). ${details}`,
+              '',
+              `[Open diagnose job log](${jobUrl})`,
+            ].join('\n');
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.pull_request.number,
+              per_page: 100,
+            });
+            const existing = comments.find(
+              (comment) => comment.user.type === 'Bot' && comment.body.includes(marker),
+            );
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+              return;
+            }
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.pull_request.number,
+              body,
+            });
