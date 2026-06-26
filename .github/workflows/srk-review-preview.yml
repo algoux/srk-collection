@@ -25,11 +25,9 @@ jobs:
         run: mkdir -p "$RUNNER_TEMP/srk-review-site"
 
       - name: Checkout trusted base
-        if: github.event.action != 'closed'
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.base.sha }}
-          path: base
           persist-credentials: false
 
       - name: Setup Node
@@ -38,11 +36,10 @@ jobs:
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: base/package-lock.json
+          cache-dependency-path: package-lock.json
 
       - name: Install trusted dependencies
         if: github.event.action != 'closed'
-        working-directory: base
         run: npm ci --omit=dev --ignore-scripts
 
       - name: Checkout pull request data
@@ -78,7 +75,7 @@ jobs:
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           PR_URL: ${{ github.event.pull_request.html_url }}
         run: |
-          ../base/node_modules/.bin/srk render \
+          ../node_modules/.bin/srk render \
             -o "$RUNNER_TEMP/srk-review-site" \
             --git-diff-base "$BASE_SHA" \
             --git-diff-head "$HEAD_SHA" \
