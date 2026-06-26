@@ -72,6 +72,12 @@ root:
             - path: icpc2024srni
               format: srk.json
               name: 2024-06-09 丝绸之路邀请赛
+            - path: icpc2024preliminary-1
+              format: srk.json
+              name: 2024-09-15 网络赛第一场
+            - path: icpc2024preliminary-2
+              format: srk.json
+              name: 2024-09-21 网络赛第二场
             - path: icpc2024chengdu
               format: srk.json
               name: 2024-10-27 成都站
@@ -108,6 +114,12 @@ root:
             - path: icpc2023srni
               format: srk.json
               name: 2023-06-04 丝绸之路邀请赛
+            - path: icpc2023preliminary-1
+              format: srk.json
+              name: 2023-09-17 网络赛第一场
+            - path: icpc2023preliminary-2
+              format: srk.json
+              name: 2023-09-23 网络赛第二场
             - path: icpc2023xi_an
               format: srk.json
               name: 2023-10-22 西安站
@@ -138,6 +150,12 @@ root:
         - path: icpc2022
           name: ICPC 2022 (47th)
           children:
+            - path: icpc2022preliminary-1
+              format: srk.json
+              name: 2022-09-17 网络赛第一场
+            - path: icpc2022preliminary-2
+              format: srk.json
+              name: 2022-09-25 网络赛第二场
             - path: icpc2022shenyang
               format: srk.json
               name: 2022-11-06 沈阳站
@@ -294,6 +312,9 @@ root:
         - path: icpc2016
           name: ICPC 2016 (41st)
           children:
+            - path: icpc2016preliminary-cuhk
+              format: srk.json
+              name: 2016-09-01 CUHK 网络赛
             - path: icpc2016preliminary-dalian
               format: srk.json
               name: 2016-09-10 大连赛区网络赛
@@ -435,6 +456,9 @@ root:
         - path: icpc2012
           name: ICPC 2012 (37th)
           children:
+            - path: icpc2012preliminary-ccniit
+              format: srk.json
+              name: 2012-09-01 CCNIIT 网络赛
             - path: icpc2012preliminary-changchun
               format: srk.json
               name: 2012-09-08 长春赛区网络赛
@@ -798,6 +822,9 @@ root:
         - path: ccpc2016
           name: CCPC 2016 (2nd)
           children:
+            - path: ccpc2016preliminary-cuhk
+              format: srk.json
+              name: 2016-09-01 CUHK 网络赛
             - path: ccpc2016hongkong
               format: srk.json
               name: 2016-??-?? 香港
