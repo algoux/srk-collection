@@ -1,0 +1,96 @@
+name: SRK PR Review Preview
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  review-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Prepare preview output directory
+        run: mkdir -p "$RUNNER_TEMP/srk-review-site"
+
+      - name: Checkout trusted base
+        if: github.event.action != 'closed'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: base
+          persist-credentials: false
+
+      - name: Setup Node
+        if: github.event.action != 'closed'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: base/package-lock.json
+
+      - name: Install trusted dependencies
+        if: github.event.action != 'closed'
+        working-directory: base
+        run: npm ci --omit=dev --ignore-scripts
+
+      - name: Checkout pull request data
+        if: github.event.action != 'closed'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Fetch base history
+        if: github.event.action != 'closed'
+        working-directory: pr
+        env:
+          BASE_REPOSITORY: ${{ github.repository }}
+          BASE_REF: ${{ github.event.pull_request.base.ref }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git remote add upstream "https://github.com/${BASE_REPOSITORY}.git"
+          git fetch --no-tags upstream "+refs/heads/${BASE_REF}:refs/remotes/upstream/${BASE_REF}"
+          if ! git cat-file -e "${BASE_SHA}^{commit}"; then
+            git fetch --no-tags upstream "${BASE_SHA}"
+          fi
+          git rev-parse --verify "${BASE_SHA}^{commit}"
+
+      - name: Render SRK review site
+        if: github.event.action != 'closed'
+        working-directory: pr
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+        run: |
+          ../base/node_modules/.bin/srk render \
+            -o "$RUNNER_TEMP/srk-review-site" \
+            --git-diff-base "$BASE_SHA" \
+            --git-diff-head "$HEAD_SHA" \
+            --pr-url "$PR_URL" \
+            official
+
+      - name: Publish PR preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ${{ runner.temp }}/srk-review-site
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          action: auto
+          wait-for-pages-deployment: true
+          qr-code: false
