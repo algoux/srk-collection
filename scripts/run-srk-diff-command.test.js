@@ -65,7 +65,7 @@ test('extractDiagnoseSummary reads the Issues line from diagnose text', () => {
   assert.strictEqual(summary, 'Issues: 4 (error 0, warning 1, info 3)');
 });
 
-test('renderDiagnoseComment creates a collapsed block per file with full escaped output', () => {
+test('renderDiagnoseComment creates collapsed code-only details per file', () => {
   const comment = renderDiagnoseComment({
     jobUrl: 'https://github.com/algoux/srk-collection/actions/runs/1/job/2',
     fileCount: 2,
@@ -90,7 +90,7 @@ test('renderDiagnoseComment creates a collapsed block per file with full escaped
   assert(comment.includes('<summary><code>official/a.srk.json</code> - Issues: 4'));
   assert(comment.includes('<summary><code>official/b.srk.json</code> - Issues: unknown'));
   assert(comment.includes('&lt;raw&gt;'));
-  assert(comment.includes('Command result: failed (exit code 2)'));
+  assert(!comment.includes('Command result:'));
   assert.strictEqual((comment.match(/<details>/g) || []).length, 2);
 });
 
