@@ -307,7 +307,6 @@ function renderDiagnoseComment({ jobUrl, fileCount, failureCount, results }) {
   }
 
   for (const result of results) {
-    const commandResult = result.ok ? 'passed' : `failed (${result.failure})`;
     const output = result.output || '(no output)';
     lines.push(
       '<details>',
@@ -315,10 +314,8 @@ function renderDiagnoseComment({ jobUrl, fileCount, failureCount, results }) {
         extractDiagnoseSummary(result.output),
       )}</summary>`,
       '',
-      `Command result: ${commandResult}`,
-      '',
       '<pre><code>',
-      escapeHtml(output).replace(/\s+$/, ''),
+      escapeHtml(output).replace(/\s+$/, '').trim(),
       '</code></pre>',
       '',
       '</details>',
