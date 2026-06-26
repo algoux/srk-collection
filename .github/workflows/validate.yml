@@ -1,0 +1,98 @@
+name: Validate
+
+on:
+  push:
+    branches:
+      - master
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name == 'pull_request_target' && github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pushed commit
+        if: github.event_name == 'push'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout trusted base
+        if: github.event_name == 'pull_request_target'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install trusted dependencies
+        run: npm ci --omit=dev --ignore-scripts
+
+      - name: Checkout pull request data
+        if: github.event_name == 'pull_request_target'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Fetch pull request base
+        if: github.event_name == 'pull_request_target'
+        working-directory: pr
+        env:
+          BASE_REPOSITORY: ${{ github.repository }}
+          BASE_REF: ${{ github.event.pull_request.base.ref }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git remote add upstream "https://github.com/${BASE_REPOSITORY}.git"
+          git fetch --no-tags upstream "+refs/heads/${BASE_REF}:refs/remotes/upstream/${BASE_REF}"
+          if ! git cat-file -e "${BASE_SHA}^{commit}"; then
+            git fetch --no-tags upstream "${BASE_SHA}"
+          fi
+          git rev-parse --verify "${BASE_SHA}^{commit}"
+
+      - name: Validate changed SRK files
+        if: github.event_name == 'push'
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          HEAD_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          BASE_SHA="$BEFORE_SHA"
+          if [[ "$BASE_SHA" =~ ^0+$ ]]; then
+            BASE_SHA="$(git hash-object -t tree /dev/null)"
+          elif ! git cat-file -e "${BASE_SHA}^{commit}"; then
+            git fetch --no-tags origin "${BASE_SHA}"
+          fi
+          node scripts/run-srk-diff-command.js --command validate --base "$BASE_SHA" --head "$HEAD_SHA"
+
+      - name: Validate changed SRK files
+        if: github.event_name == 'pull_request_target'
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          node scripts/run-srk-diff-command.js \
+            --command validate \
+            --base "$BASE_SHA" \
+            --head "$HEAD_SHA" \
+            --worktree pr
