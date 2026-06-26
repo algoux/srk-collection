@@ -13,6 +13,8 @@ function usage() {
     'Options:',
     '  --worktree <path>              git worktree to inspect (default: current directory)',
     '  --srk-bin <path>               srk executable path (default: ./node_modules/.bin/srk)',
+    '  --comment-markdown <path>      write a diagnose PR comment body to this path',
+    '  --comment-job-url <url>        Actions log URL to include in the diagnose PR comment',
     '  --allow-command-failures       continue and exit 0 even when srk commands fail',
     '  -h, --help                     print this help',
   ].join('\n');
@@ -42,6 +44,12 @@ function parseArgs(argv) {
         break;
       case '--srk-bin':
         options.srkBin = argv[(i += 1)];
+        break;
+      case '--comment-markdown':
+        options.commentMarkdown = argv[(i += 1)];
+        break;
+      case '--comment-job-url':
+        options.commentJobUrl = argv[(i += 1)];
         break;
       case '--allow-command-failures':
         options.allowCommandFailures = true;
@@ -169,6 +177,14 @@ function formatCommandFailure(result) {
   return `exit code ${result.status}`;
 }
 
+function combineCommandOutput(result) {
+  if (result.stdout && result.stderr) {
+    return `${result.stdout.replace(/\s*$/, '\n')}${result.stderr}`;
+  }
+
+  return result.stdout || result.stderr || '';
+}
+
 function runSrkCommand({ command, filePath, srkBin, worktree }) {
   startGroup(`srk ${command} ${filePath}`);
   const result = childProcess.spawnSync(srkBin, [command, filePath], {
@@ -188,7 +204,10 @@ function runSrkCommand({ command, filePath, srkBin, worktree }) {
 
   endGroup();
 
-  return result;
+  return {
+    ...result,
+    output: combineCommandOutput(result),
+  };
 }
 
 function appendGitHubOutputs(outputs) {
@@ -247,6 +266,86 @@ function reportValidateFailure(filePath, failure) {
   );
 }
 
+function extractDiagnoseSummary(output) {
+  const match = String(output || '').match(
+    /^Issues:\s+\d+\s+\(error\s+\d+,\s+warning\s+\d+,\s+info\s+\d+\)$/m,
+  );
+  return match ? match[0] : 'Issues: unknown';
+}
+
+function escapeHtml(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function renderDiagnoseComment({ jobUrl, fileCount, failureCount, results }) {
+  const lines = [
+    '<!-- srk-diagnose-log -->',
+    '### SRK diagnose report',
+    '',
+    `Diagnose ran for ${fileCount} changed \`.srk.json\` file(s).`,
+    '',
+  ];
+
+  if (failureCount > 0) {
+    lines.push(
+      `Diagnose command failures were recorded for ${failureCount} file(s); inspect the details below and the Actions log.`,
+      '',
+    );
+  }
+
+  if (jobUrl) {
+    lines.push(`[Open diagnose job log](${jobUrl})`, '');
+  }
+
+  if (results.length === 0) {
+    lines.push('No changed `.srk.json` files were found.');
+    return lines.join('\n');
+  }
+
+  for (const result of results) {
+    const commandResult = result.ok ? 'passed' : `failed (${result.failure})`;
+    const output = result.output || '(no output)';
+    lines.push(
+      '<details>',
+      `<summary><code>${escapeHtml(result.filePath)}</code> - ${escapeHtml(
+        extractDiagnoseSummary(result.output),
+      )}</summary>`,
+      '',
+      `Command result: ${commandResult}`,
+      '',
+      '<pre><code>',
+      escapeHtml(output).replace(/\s+$/, ''),
+      '</code></pre>',
+      '',
+      '</details>',
+      '',
+    );
+  }
+
+  return lines.join('\n').replace(/\n+$/, '\n');
+}
+
+function writeDiagnoseComment({ filePath, jobUrl, files, results }) {
+  if (!filePath) {
+    return;
+  }
+
+  const failures = results.filter((result) => !result.ok);
+  fs.writeFileSync(
+    filePath,
+    renderDiagnoseComment({
+      jobUrl,
+      fileCount: files.length,
+      failureCount: failures.length,
+      results,
+    }),
+  );
+}
+
 function run(options) {
   const rootDir = process.cwd();
   const worktree = path.resolve(rootDir, options.worktree);
@@ -274,6 +373,14 @@ function run(options) {
       results: [],
       allowCommandFailures: options.allowCommandFailures,
     });
+    if (options.command === 'diagnose') {
+      writeDiagnoseComment({
+        filePath: options.commentMarkdown,
+        jobUrl: options.commentJobUrl,
+        files,
+        results: [],
+      });
+    }
     return 0;
   }
 
@@ -301,6 +408,7 @@ function run(options) {
       filePath,
       ok,
       failure,
+      output: result.output,
     });
   }
 
@@ -321,6 +429,14 @@ function run(options) {
     results,
     allowCommandFailures: options.allowCommandFailures,
   });
+  if (options.command === 'diagnose') {
+    writeDiagnoseComment({
+      filePath: options.commentMarkdown,
+      jobUrl: options.commentJobUrl,
+      files,
+      results,
+    });
+  }
 
   if (failures.length > 0 && !options.allowCommandFailures) {
     return 1;
@@ -351,8 +467,10 @@ if (require.main === module) {
 }
 
 module.exports = {
+  extractDiagnoseSummary,
   getChangedSrkFiles,
   parseArgs,
   parseNameStatusDiffZ,
+  renderDiagnoseComment,
   run,
 };
