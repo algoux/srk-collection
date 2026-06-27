@@ -825,9 +825,6 @@ root:
         - path: ccpc2016
           name: CCPC 2016 (2nd)
           children:
-            - path: ccpc2016preliminary-cuhk
-              format: srk.json
-              name: 2016-09-01 CUHK 网络赛
             - path: ccpc2016hongkong
               format: srk.json
               name: 2016-??-?? 香港
