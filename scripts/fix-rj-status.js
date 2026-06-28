@@ -1,3 +1,7 @@
+/**
+ * 批量修复 RJ with 0 tries 这类情况，将 RJ 置为 null
+ */
+
 const fs = require('fs');
 const path = require('path');
 
