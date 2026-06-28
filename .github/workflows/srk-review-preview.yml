@@ -72,6 +72,7 @@ jobs:
         working-directory: pr
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_REPOSITORY: ${{ github.event.pull_request.head.repo.full_name }}
           HEAD_SHA: ${{ github.event.pull_request.head.sha }}
           PR_URL: ${{ github.event.pull_request.html_url }}
         run: |
@@ -79,6 +80,7 @@ jobs:
             -o "$RUNNER_TEMP/srk-review-site" \
             --git-diff-base "$BASE_SHA" \
             --git-diff-head "$HEAD_SHA" \
+            --static-data-root-url "https://raw.githubusercontent.com/${HEAD_REPOSITORY}/${HEAD_SHA}/official" \
             --pr-url "$PR_URL" \
             official
 
