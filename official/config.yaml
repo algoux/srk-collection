@@ -563,19 +563,19 @@ root:
           children:
             - path: icpc2009preliminary-shanghai
               format: srk.json
-              name: 2009-09-11 上海赛区网络赛
+              name: 2009-??-?? 上海赛区网络赛
             - path: icpc2009preliminary-harbin
               format: srk.json
-              name: 2009-09-11 哈尔滨赛区网络赛
+              name: 2009-??-?? 哈尔滨赛区网络赛
             - path: icpc2009preliminary-ningbo
               format: srk.json
-              name: 2009-09-11 宁波赛区网络赛
+              name: 2009-??-?? 宁波赛区网络赛
             - path: icpc2009preliminary-hefei
               format: srk.json
-              name: 2009-09-11 合肥赛区网络赛
+              name: 2009-??-?? 合肥赛区网络赛
             - path: icpc2009preliminary-wuhan
               format: srk.json
-              name: 2009-09-11 武汉赛区网络赛
+              name: 2009-??-?? 武汉赛区网络赛
             - path: icpc2009wuhan
               format: srk.json
               name: 2009-09-11 武汉站
