@@ -849,6 +849,9 @@ root:
             - path: ccpc2016hangzhou
               format: srk.json
               name: 2016-10-16 杭州站
+            - path: ccpc2016final
+              format: srk.json
+              name: 2016-11-27 Final
         - path: ccpc2015
           name: CCPC 2015 (1st)
           children:
