@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.4",
+  "version": "0.3.13",
   "contest": {
     "title": {
       "zh-CN": "第 9 届 CCPC 中国大学生程序设计竞赛女生专场",
@@ -14,6 +14,15 @@
     "frozenDuration": [
       1,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/ccpc2023ladies"
+      }
     ]
   },
   "problems": [
@@ -24,8 +33,7 @@
         "submitted": 335
       },
       "style": {
-        "backgroundColor": "rgba(189, 14, 14, 0.7)",
-        "textColor": "#fff"
+        "backgroundColor": "rgba(189, 14, 14, 0.7)"
       }
     },
     {
@@ -35,8 +43,7 @@
         "submitted": 207
       },
       "style": {
-        "backgroundColor": "rgba(149, 31, 217, 0.7)",
-        "textColor": "#fff"
+        "backgroundColor": "rgba(149, 31, 217, 0.7)"
       }
     },
     {
@@ -46,8 +53,7 @@
         "submitted": 2
       },
       "style": {
-        "backgroundColor": "rgba(16, 32, 96, 0.7)",
-        "textColor": "#fff"
+        "backgroundColor": "rgba(16, 32, 96, 0.7)"
       }
     },
     {
@@ -79,8 +85,7 @@
         "submitted": 557
       },
       "style": {
-        "backgroundColor": "rgba(243, 88, 20, 0.7)",
-        "textColor": "#fff"
+        "backgroundColor": "rgba(243, 88, 20, 0.7)"
       }
     },
     {
@@ -90,8 +95,7 @@
         "submitted": 413
       },
       "style": {
-        "backgroundColor": "rgba(12, 76, 138, 0.7)",
-        "textColor": "#fff"
+        "backgroundColor": "rgba(12, 76, 138, 0.7)"
       }
     },
     {
@@ -123,8 +127,7 @@
         "submitted": 3
       },
       "style": {
-        "backgroundColor": "rgba(159, 19, 236, 0.7)",
-        "textColor": "#fff"
+        "backgroundColor": "rgba(159, 19, 236, 0.7)"
       }
     },
     {
@@ -145,8 +148,7 @@
         "submitted": 264
       },
       "style": {
-        "backgroundColor": "rgba(142, 56, 54, 0.7)",
-        "textColor": "#fff"
+        "backgroundColor": "rgba(142, 56, 54, 0.7)"
       }
     }
   ],
@@ -173,8 +175,8 @@
           "count": {
             "value": [
               19,
-              38,
-              57
+              37,
+              55
             ]
           }
         }
@@ -212,6 +214,10 @@
           },
           {
             "name": "陈璐瑶"
+          },
+          {
+            "name": "唐博",
+            "role": "coach"
           }
         ],
         "official": true
@@ -524,6 +530,10 @@
           },
           {
             "name": "蔡欣然"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
         "official": true
@@ -826,6 +836,10 @@
           },
           {
             "name": "楼沁霈"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1108,6 +1122,10 @@
           },
           {
             "name": "董一凡"
+          },
+          {
+            "name": "张勤健",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1376,6 +1394,10 @@
           },
           {
             "name": "郭歆雨"
+          },
+          {
+            "name": "韩姗姗",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1644,6 +1666,10 @@
           },
           {
             "name": "张王美誉"
+          },
+          {
+            "name": "马晨昊",
+            "role": "coach"
           }
         ],
         "official": true
@@ -1898,6 +1924,10 @@
           },
           {
             "name": "黄晓蓝"
+          },
+          {
+            "name": "张子臻",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2143,6 +2173,10 @@
           },
           {
             "name": "陈玉千"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2458,6 +2492,10 @@
           },
           {
             "name": "黄子君"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2696,6 +2734,10 @@
           },
           {
             "name": "陈顾漪"
+          },
+          {
+            "name": "朱晓旭",
+            "role": "coach"
           }
         ],
         "official": true
@@ -2918,6 +2960,10 @@
           },
           {
             "name": "陶旦华"
+          },
+          {
+            "name": "倪庆剑",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3140,6 +3186,10 @@
           },
           {
             "name": "王文京"
+          },
+          {
+            "name": "左劼",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3341,6 +3391,10 @@
           },
           {
             "name": "郭艳敏"
+          },
+          {
+            "name": "杜祥军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3547,6 +3601,10 @@
           },
           {
             "name": "魏佳蕾"
+          },
+          {
+            "name": "罗迅",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3746,6 +3804,10 @@
           },
           {
             "name": "陈程"
+          },
+          {
+            "name": "叶俊民",
+            "role": "coach"
           }
         ],
         "official": true
@@ -3961,6 +4023,10 @@
           },
           {
             "name": "洪语涵"
+          },
+          {
+            "name": "傅仰耿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4143,6 +4209,10 @@
           },
           {
             "name": "王紫漩"
+          },
+          {
+            "name": "唐博",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4372,6 +4442,10 @@
           },
           {
             "name": "韩雅慧"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4587,6 +4661,10 @@
           },
           {
             "name": "陶璐"
+          },
+          {
+            "name": "邓芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -4793,6 +4871,10 @@
           },
           {
             "name": "鲁诗雨"
+          },
+          {
+            "name": "吴昊",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5059,6 +5141,10 @@
           },
           {
             "name": "陈珍"
+          },
+          {
+            "name": "刘卫平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5279,6 +5365,10 @@
           },
           {
             "name": "汤可娴"
+          },
+          {
+            "name": "江楠",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5478,6 +5568,10 @@
           },
           {
             "name": "陈姿颖"
+          },
+          {
+            "name": "黄彬彬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5679,6 +5773,10 @@
           },
           {
             "name": "邓亦珊"
+          },
+          {
+            "name": "张淑平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -5943,6 +6041,10 @@
           },
           {
             "name": "裘雨彤"
+          },
+          {
+            "name": "叶海荣",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6200,6 +6302,10 @@
           },
           {
             "name": "杨悦"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6413,6 +6519,10 @@
           },
           {
             "name": "陈婷"
+          },
+          {
+            "name": "秦建斌",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6647,6 +6757,10 @@
           },
           {
             "name": "黎锦阳"
+          },
+          {
+            "name": "刁洪祥",
+            "role": "coach"
           }
         ],
         "official": true
@@ -6823,6 +6937,10 @@
           },
           {
             "name": "蔡依珂"
+          },
+          {
+            "name": "林旭东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7057,6 +7175,10 @@
           },
           {
             "name": "郭霖蓉"
+          },
+          {
+            "name": "陈寅",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7278,6 +7400,10 @@
         "teamMembers": [
           {
             "name": "罗持"
+          },
+          {
+            "name": "肖春芸",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7470,6 +7596,10 @@
           },
           {
             "name": "雷雨田"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7767,6 +7897,10 @@
           },
           {
             "name": "李欣雨"
+          },
+          {
+            "name": "杨建锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -7952,6 +8086,10 @@
           },
           {
             "name": "高梦彤"
+          },
+          {
+            "name": "汪云海",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8165,6 +8303,10 @@
           },
           {
             "name": "李钰"
+          },
+          {
+            "name": "李圣涛",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8334,6 +8476,10 @@
           },
           {
             "name": "马依涵"
+          },
+          {
+            "name": "郭云镝",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8533,6 +8679,10 @@
           },
           {
             "name": "袁嘉"
+          },
+          {
+            "name": "朱旭东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8716,6 +8866,10 @@
           },
           {
             "name": "王蓉"
+          },
+          {
+            "name": "林文水",
+            "role": "coach"
           }
         ],
         "official": true
@@ -8936,6 +9090,10 @@
           },
           {
             "name": "陈泆君"
+          },
+          {
+            "name": "李佳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9413,6 +9571,10 @@
           },
           {
             "name": "邵茹怡"
+          },
+          {
+            "name": "单振宇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9647,6 +9809,10 @@
           },
           {
             "name": "郑鑫蕊"
+          },
+          {
+            "name": "徐辉",
+            "role": "coach"
           }
         ],
         "official": true
@@ -9855,6 +10021,10 @@
           },
           {
             "name": "邱若昕"
+          },
+          {
+            "name": "刘勇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10024,6 +10194,10 @@
           },
           {
             "name": "陈至之"
+          },
+          {
+            "name": "柯海丰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10228,6 +10402,10 @@
           },
           {
             "name": "黄韵桐"
+          },
+          {
+            "name": "黄永锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10413,6 +10591,10 @@
           },
           {
             "name": "黄梅颖"
+          },
+          {
+            "name": "许雪林",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10646,6 +10828,10 @@
           },
           {
             "name": "范茜茜"
+          },
+          {
+            "name": "曲志坚",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10829,6 +11015,10 @@
           },
           {
             "name": "郭明珠"
+          },
+          {
+            "name": "汪云海",
+            "role": "coach"
           }
         ],
         "official": true
@@ -10998,6 +11188,10 @@
           },
           {
             "name": "王娅婷"
+          },
+          {
+            "name": "黄永锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11197,6 +11391,10 @@
           },
           {
             "name": "陈忆宁"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11396,6 +11594,10 @@
           },
           {
             "name": "王妍"
+          },
+          {
+            "name": "周晓琳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11565,6 +11767,10 @@
           },
           {
             "name": "徐婧怡"
+          },
+          {
+            "name": "陈灯",
+            "role": "coach"
           }
         ],
         "official": true
@@ -11734,6 +11940,10 @@
           },
           {
             "name": "程诗雪"
+          },
+          {
+            "name": "张雪洁",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12010,6 +12220,10 @@
           },
           {
             "name": "陈怡杉"
+          },
+          {
+            "name": "李晔",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12223,6 +12437,10 @@
           },
           {
             "name": "马佳瑶"
+          },
+          {
+            "name": "林文水",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12436,6 +12654,10 @@
           },
           {
             "name": "陈诗琪"
+          },
+          {
+            "name": "梁军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12612,6 +12834,10 @@
           },
           {
             "name": "黄莉雯"
+          },
+          {
+            "name": "陈凯",
+            "role": "coach"
           }
         ],
         "official": true
@@ -12809,6 +13035,10 @@
           },
           {
             "name": "赵慧敏"
+          },
+          {
+            "name": "李华",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13008,6 +13238,10 @@
           },
           {
             "name": "陈阳"
+          },
+          {
+            "name": "侯睿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13198,6 +13432,10 @@
           },
           {
             "name": "黄青怡"
+          },
+          {
+            "name": "王金艳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13411,6 +13649,10 @@
           },
           {
             "name": "陈依玲"
+          },
+          {
+            "name": "张淑平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13638,6 +13880,10 @@
           },
           {
             "name": "齐喆圆"
+          },
+          {
+            "name": "黄彬彬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -13846,6 +14092,10 @@
           },
           {
             "name": "赵佳欣"
+          },
+          {
+            "name": "徐承志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14029,6 +14279,10 @@
           },
           {
             "name": "陈双"
+          },
+          {
+            "name": "申玮",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14228,6 +14482,10 @@
           },
           {
             "name": "高秀咏"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14441,6 +14699,10 @@
           },
           {
             "name": "莫雯琦"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14703,6 +14965,10 @@
           },
           {
             "name": "鲍欣楠"
+          },
+          {
+            "name": "陈琰宏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -14944,6 +15210,10 @@
           },
           {
             "name": "贺奥运"
+          },
+          {
+            "name": "陈翔",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15141,6 +15411,10 @@
           },
           {
             "name": "陈瑾"
+          },
+          {
+            "name": "陈智",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15331,6 +15605,10 @@
           },
           {
             "name": "谭诗雨"
+          },
+          {
+            "name": "徐义春",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15523,6 +15801,10 @@
           },
           {
             "name": "方雨程"
+          },
+          {
+            "name": "彭冰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15715,6 +15997,10 @@
           },
           {
             "name": "魏小菲"
+          },
+          {
+            "name": "林连南",
+            "role": "coach"
           }
         ],
         "official": true
@@ -15951,6 +16237,10 @@
           },
           {
             "name": "陈诗雅"
+          },
+          {
+            "name": "徐勇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16157,6 +16447,10 @@
           },
           {
             "name": "贺佳"
+          },
+          {
+            "name": "罗杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16391,6 +16685,10 @@
           },
           {
             "name": "韩煜泽"
+          },
+          {
+            "name": "毛玉萃",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16662,6 +16960,10 @@
           },
           {
             "name": "黄馨月"
+          },
+          {
+            "name": "杨梅",
+            "role": "coach"
           }
         ],
         "official": true
@@ -16903,6 +17205,10 @@
           },
           {
             "name": "牟红坤"
+          },
+          {
+            "name": "李作主",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17121,6 +17427,10 @@
           },
           {
             "name": "刘超"
+          },
+          {
+            "name": "黄娟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17353,6 +17663,10 @@
           },
           {
             "name": "高宁"
+          },
+          {
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17564,6 +17878,10 @@
           },
           {
             "name": "林慧燕"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -17747,6 +18065,10 @@
           },
           {
             "name": "邬雪菲"
+          },
+          {
+            "name": "陈凯",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18002,6 +18324,10 @@
           },
           {
             "name": "曾妮"
+          },
+          {
+            "name": "杜育根",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18227,6 +18553,10 @@
           },
           {
             "name": "赵新宇"
+          },
+          {
+            "name": "王烨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18445,6 +18775,10 @@
           },
           {
             "name": "马孜藤"
+          },
+          {
+            "name": "黄健",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18679,6 +19013,10 @@
           },
           {
             "name": "顾紫瀚"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -18890,6 +19228,10 @@
           },
           {
             "name": "谭婷婷"
+          },
+          {
+            "name": "叶俊民",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19115,6 +19457,10 @@
           },
           {
             "name": "黄硕"
+          },
+          {
+            "name": "徐艳艳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19384,6 +19730,10 @@
           },
           {
             "name": "陈静"
+          },
+          {
+            "name": "罗娜",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19609,6 +19959,10 @@
           },
           {
             "name": "雷静宜"
+          },
+          {
+            "name": "毕方明",
+            "role": "coach"
           }
         ],
         "official": true
@@ -19827,6 +20181,10 @@
           },
           {
             "name": "黄秋雨"
+          },
+          {
+            "name": "项炜",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20038,6 +20396,10 @@
           },
           {
             "name": "罗浩月"
+          },
+          {
+            "name": "蒋敏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20270,6 +20632,10 @@
           },
           {
             "name": "高琪淼"
+          },
+          {
+            "name": "潘超",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20481,6 +20847,10 @@
           },
           {
             "name": "江舒婷"
+          },
+          {
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20671,6 +21041,10 @@
           },
           {
             "name": "韦慧欣"
+          },
+          {
+            "name": "王琳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -20896,6 +21270,10 @@
           },
           {
             "name": "郭芊橙"
+          },
+          {
+            "name": "周治国",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21427,6 +21805,10 @@
           },
           {
             "name": "魏亚婷"
+          },
+          {
+            "name": "尚俊平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21610,6 +21992,10 @@
           },
           {
             "name": "陈娜"
+          },
+          {
+            "name": "李文彬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -21874,6 +22260,10 @@
           },
           {
             "name": "陈玥如"
+          },
+          {
+            "name": "胡晓杰",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22120,6 +22510,10 @@
           },
           {
             "name": "饶雁"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22331,6 +22725,10 @@
           },
           {
             "name": "蔡雨薇"
+          },
+          {
+            "name": "杨丽芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22598,6 +22996,10 @@
           },
           {
             "name": "钟舒晴"
+          },
+          {
+            "name": "计培良",
+            "role": "coach"
           }
         ],
         "official": true
@@ -22858,6 +23260,10 @@
           },
           {
             "name": "童欣宇"
+          },
+          {
+            "name": "单振宇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23090,6 +23496,10 @@
           },
           {
             "name": "王圆圆"
+          },
+          {
+            "name": "胡晨曼",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23280,6 +23690,10 @@
           },
           {
             "name": "音乐乐"
+          },
+          {
+            "name": "王和兴",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23519,6 +23933,10 @@
           },
           {
             "name": "陈筱筱"
+          },
+          {
+            "name": "赵冬冬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -23786,6 +24204,10 @@
           },
           {
             "name": "沈欣悦"
+          },
+          {
+            "name": "周健",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24039,6 +24461,10 @@
           },
           {
             "name": "邝子文"
+          },
+          {
+            "name": "闻育",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24271,6 +24697,10 @@
           },
           {
             "name": "黄语琴"
+          },
+          {
+            "name": "李小霞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24496,6 +24926,10 @@
           },
           {
             "name": "陈君玲"
+          },
+          {
+            "name": "许雪林",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24749,6 +25183,10 @@
           },
           {
             "name": "熊苡萱"
+          },
+          {
+            "name": "杨春明",
+            "role": "coach"
           }
         ],
         "official": true
@@ -24995,6 +25433,10 @@
           },
           {
             "name": "杨琇婷"
+          },
+          {
+            "name": "陈广明",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25199,6 +25641,10 @@
           },
           {
             "name": "柳可人"
+          },
+          {
+            "name": "李文凤",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25452,6 +25898,10 @@
           },
           {
             "name": "郭蓬佳"
+          },
+          {
+            "name": "吴桐",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25698,6 +26148,10 @@
           },
           {
             "name": "杨颜僖"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -25923,6 +26377,10 @@
           },
           {
             "name": "石梓茜"
+          },
+          {
+            "name": "任淑霞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26104,6 +26562,10 @@
           },
           {
             "name": "林思琪"
+          },
+          {
+            "name": "饶浩",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26294,6 +26756,10 @@
           },
           {
             "name": "蔡美佳"
+          },
+          {
+            "name": "黄健",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26540,6 +27006,10 @@
           },
           {
             "name": "袁语欣"
+          },
+          {
+            "name": "曾宪琨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26758,6 +27228,10 @@
           },
           {
             "name": "柯诺祈"
+          },
+          {
+            "name": "陈琰宏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -26983,6 +27457,10 @@
           },
           {
             "name": "闫采慧"
+          },
+          {
+            "name": "黄玮",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27243,6 +27721,10 @@
           },
           {
             "name": "邓丽婷"
+          },
+          {
+            "name": "谢勇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27438,6 +27920,10 @@
           },
           {
             "name": "郑惠云"
+          },
+          {
+            "name": "王建林",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27626,6 +28112,10 @@
           },
           {
             "name": "顾子妍"
+          },
+          {
+            "name": "周恺",
+            "role": "coach"
           }
         ],
         "official": true
@@ -27807,6 +28297,10 @@
           },
           {
             "name": "李目笑"
+          },
+          {
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28004,6 +28498,10 @@
           },
           {
             "name": "高跃铭"
+          },
+          {
+            "name": "刘小锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28280,6 +28778,10 @@
           },
           {
             "name": "李佳璐"
+          },
+          {
+            "name": "唐远新",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28447,6 +28949,10 @@
           },
           {
             "name": "陈谦益"
+          },
+          {
+            "name": "田霖",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28684,6 +29190,10 @@
           },
           {
             "name": "董孜欣"
+          },
+          {
+            "name": "杨思蓓",
+            "role": "coach"
           }
         ],
         "official": true
@@ -28858,6 +29368,10 @@
           },
           {
             "name": "黄静珊"
+          },
+          {
+            "name": "肖如良",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29032,6 +29546,10 @@
           },
           {
             "name": "许梦婷"
+          },
+          {
+            "name": "杨超",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29283,6 +29801,10 @@
           },
           {
             "name": "魏征"
+          },
+          {
+            "name": "刘伟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29443,6 +29965,10 @@
           },
           {
             "name": "宋茹静"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29666,6 +30192,10 @@
           },
           {
             "name": "王紫璇"
+          },
+          {
+            "name": "张锋",
+            "role": "coach"
           }
         ],
         "official": true
@@ -29882,6 +30412,10 @@
           },
           {
             "name": "陈知会"
+          },
+          {
+            "name": "陈爱国",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30070,6 +30604,10 @@
           },
           {
             "name": "高嘉欣"
+          },
+          {
+            "name": "林国新",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30235,6 +30773,10 @@
           },
           {
             "name": "陈诗曼"
+          },
+          {
+            "name": "陈可",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30465,6 +31007,10 @@
           },
           {
             "name": "陈妤婕"
+          },
+          {
+            "name": "周丽娟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -30653,6 +31199,10 @@
           },
           {
             "name": "赵一钒"
+          },
+          {
+            "name": "黄万丽",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31008,6 +31558,10 @@
           },
           {
             "name": "雷娅捷"
+          },
+          {
+            "name": "陈寅",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31173,6 +31727,10 @@
           },
           {
             "name": "龚科宇"
+          },
+          {
+            "name": "周绪川",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31377,6 +31935,10 @@
           },
           {
             "name": "李明雯"
+          },
+          {
+            "name": "安海兵",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31572,6 +32134,10 @@
           },
           {
             "name": "陈沅妍"
+          },
+          {
+            "name": "李文彬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31816,6 +32382,10 @@
           },
           {
             "name": "杨经纬"
+          },
+          {
+            "name": "李泓澍",
+            "role": "coach"
           }
         ],
         "official": true
@@ -31997,6 +32567,10 @@
           },
           {
             "name": "郭靖宜"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32276,6 +32850,10 @@
           },
           {
             "name": "黄靖"
+          },
+          {
+            "name": "王睿",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32469,6 +33047,10 @@
           },
           {
             "name": "郭婧宇"
+          },
+          {
+            "name": "张宇昕",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32648,6 +33230,10 @@
           },
           {
             "name": "王雅楠"
+          },
+          {
+            "name": "王琳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -32871,6 +33457,10 @@
           },
           {
             "name": "黄虹樱"
+          },
+          {
+            "name": "张修军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33052,6 +33642,10 @@
           },
           {
             "name": "黎雪"
+          },
+          {
+            "name": "梁军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33231,6 +33825,10 @@
           },
           {
             "name": "齐静扬"
+          },
+          {
+            "name": "江楠",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33405,6 +34003,10 @@
           },
           {
             "name": "杨莹"
+          },
+          {
+            "name": "李平",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33593,6 +34195,10 @@
           },
           {
             "name": "洪韵颖"
+          },
+          {
+            "name": "徐星",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33800,6 +34406,10 @@
           },
           {
             "name": "杜金晶"
+          },
+          {
+            "name": "杨骏",
+            "role": "coach"
           }
         ],
         "official": true
@@ -33967,6 +34577,10 @@
           },
           {
             "name": "雒雪萌"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -34399,6 +35013,10 @@
           },
           {
             "name": "杨春晖"
+          },
+          {
+            "name": "潘广贞",
+            "role": "coach"
           }
         ],
         "official": true
@@ -34922,6 +35540,10 @@
           },
           {
             "name": "王轩"
+          },
+          {
+            "name": "刘小玲",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35201,6 +35823,10 @@
           },
           {
             "name": "韩金怡"
+          },
+          {
+            "name": "柳宇",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35405,6 +36031,10 @@
           },
           {
             "name": "邵雨忻"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35642,6 +36272,10 @@
           },
           {
             "name": "黄语芹"
+          },
+          {
+            "name": "肖如良",
+            "role": "coach"
           }
         ],
         "official": true
@@ -35835,6 +36469,10 @@
           },
           {
             "name": "黄雨欣"
+          },
+          {
+            "name": "秦建斌",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36000,6 +36638,10 @@
           },
           {
             "name": "尚碧筠"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36163,6 +36805,10 @@
           },
           {
             "name": "袁佳钰"
+          },
+          {
+            "name": "于海雯",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36377,6 +37023,10 @@
           },
           {
             "name": "邓霖"
+          },
+          {
+            "name": "王军",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36565,6 +37215,10 @@
           },
           {
             "name": "袁润荟"
+          },
+          {
+            "name": "丁盟",
+            "role": "coach"
           }
         ],
         "official": true
@@ -36853,6 +37507,10 @@
           },
           {
             "name": "邱睿涵"
+          },
+          {
+            "name": "张天伍",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37016,6 +37674,10 @@
           },
           {
             "name": "范诗瑜"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37174,6 +37836,10 @@
           },
           {
             "name": "魏子瑾"
+          },
+          {
+            "name": "张磊",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37367,6 +38033,10 @@
           },
           {
             "name": "黄越"
+          },
+          {
+            "name": "田霖",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37637,6 +38307,10 @@
           },
           {
             "name": "黄弈"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37800,6 +38474,10 @@
           },
           {
             "name": "门文雪"
+          },
+          {
+            "name": "李源",
+            "role": "coach"
           }
         ],
         "official": true
@@ -37988,6 +38666,10 @@
           },
           {
             "name": "李婉麒"
+          },
+          {
+            "name": "李丹",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38209,6 +38891,10 @@
           },
           {
             "name": "叶静"
+          },
+          {
+            "name": "张雷",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38395,6 +39081,10 @@
           },
           {
             "name": "陈施燃"
+          },
+          {
+            "name": "杜芳",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38528,6 +39218,10 @@
           },
           {
             "name": "秦孟璇"
+          },
+          {
+            "name": "汪云海",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38661,6 +39355,10 @@
           },
           {
             "name": "谭铃"
+          },
+          {
+            "name": "陈彬",
+            "role": "coach"
           }
         ],
         "official": true
@@ -38824,6 +39522,10 @@
           },
           {
             "name": "陈海燕"
+          },
+          {
+            "name": "刘利",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39003,6 +39705,10 @@
           },
           {
             "name": "高艺芮"
+          },
+          {
+            "name": "张鸿彦",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39154,6 +39860,10 @@
           },
           {
             "name": "陈菲洋"
+          },
+          {
+            "name": "陈佳星",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39296,6 +40006,10 @@
           },
           {
             "name": "韩瑜菲"
+          },
+          {
+            "name": "林俊逸",
+            "role": "coach"
           }
         ],
         "official": true
@@ -39438,6 +40152,10 @@
           },
           {
             "name": "黄舒娴"
+          },
+          {
+            "name": "陈智",
+            "role": "coach"
           }
         ],
         "official": true
@@ -40129,13 +40847,6 @@
       "timeRounding": "floor"
     }
   },
-  "markers": [
-    {
-      "id": "female",
-      "label": "女队",
-      "style": "pink"
-    }
-  ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
     "algoUX (https://algoux.org)"
