@@ -14,6 +14,15 @@
     "frozenDuration": [
       1,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/ccpc2022hv"
+      }
     ]
   },
   "problems": [
@@ -124,9 +133,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              7,
+              14,
+              22
             ]
           }
         }
@@ -639,7 +648,7 @@
       },
       "statuses": [
         {
-          "result": "FB",
+          "result": "AC",
           "time": [
             60,
             "s"
@@ -647,7 +656,7 @@
           "tries": 1,
           "solutions": [
             {
-              "result": "FB",
+              "result": "AC",
               "time": [
                 60,
                 "s"
@@ -2357,7 +2366,7 @@
       },
       "statuses": [
         {
-          "result": "FB",
+          "result": "AC",
           "time": [
             60,
             "s"
@@ -2365,7 +2374,7 @@
           "tries": 1,
           "solutions": [
             {
-              "result": "FB",
+              "result": "AC",
               "time": [
                 60,
                 "s"
@@ -3342,7 +3351,7 @@
           "tries": 2,
           "solutions": [
             {
-              "result": "FB",
+              "result": "RJ",
               "time": [
                 60,
                 "s"
@@ -13723,7 +13732,7 @@
       },
       "statuses": [
         {
-          "result": "FB",
+          "result": "AC",
           "time": [
             60,
             "s"
@@ -13731,7 +13740,7 @@
           "tries": 1,
           "solutions": [
             {
-              "result": "FB",
+              "result": "AC",
               "time": [
                 60,
                 "s"
@@ -22110,9 +22119,5 @@
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
     "algoUX (https://algoux.org)"
-  ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  }
+  ]
 }
