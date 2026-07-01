@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.2",
+  "version": "0.3.13",
   "contest": {
     "title": {
       "zh-CN": "第七届中国大学生程序设计竞赛总决赛",
@@ -23,6 +23,13 @@
           "fallback": "Reproduced Contest"
         },
         "link": "https://codeforces.com/gym/103860"
+      },
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/ccpc2021final"
       }
     ]
   },
@@ -134,9 +141,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              12,
+              21,
+              35
             ]
           }
         }
