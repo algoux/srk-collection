@@ -19,6 +19,13 @@
       {
         "link": "https://pintia.cn/rankings/1851178571429322752",
         "title": "原始榜单"
+      },
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/ccpc2024hv"
       }
     ]
   },
@@ -90,7 +97,6 @@
       "rankingTimePrecision": "min"
     }
   },
-  "markers": [],
   "problems": [
     {
       "alias": "A",
@@ -228,10 +234,11 @@
           },
           {
             "name": "陈俊宇"
+          },
+          {
+            "name": "邱郑宜人",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -445,10 +452,11 @@
           },
           {
             "name": "王泽宇"
+          },
+          {
+            "name": "赵宝奇",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -746,10 +754,11 @@
           },
           {
             "name": "谭振鹏"
+          },
+          {
+            "name": "邹会来",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -918,10 +927,11 @@
           },
           {
             "name": "朱津宏"
+          },
+          {
+            "name": "陈磊",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -1114,10 +1124,11 @@
           },
           {
             "name": "陈仁宁"
+          },
+          {
+            "name": "楼满芳",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -1385,10 +1396,11 @@
           },
           {
             "name": "张杨晨昱"
+          },
+          {
+            "name": "李向东",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -1675,10 +1687,11 @@
           },
           {
             "name": "梁展鹏"
+          },
+          {
+            "name": "邱维阳",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -1927,10 +1940,11 @@
           },
           {
             "name": "周益锋"
+          },
+          {
+            "name": "陈暄",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -2273,10 +2287,11 @@
           },
           {
             "name": "陈子轩"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -2469,10 +2484,11 @@
           },
           {
             "name": "薛骏诚"
+          },
+          {
+            "name": "李清平",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -2759,10 +2775,11 @@
           },
           {
             "name": "郑宇圣"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -2938,10 +2955,11 @@
           },
           {
             "name": "沈芸"
+          },
+          {
+            "name": "邹会来",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -3096,10 +3114,11 @@
           },
           {
             "name": "吴郑雨"
+          },
+          {
+            "name": "章雁宁",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -3261,10 +3280,11 @@
           },
           {
             "name": "赵应琦"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -3467,10 +3487,11 @@
           },
           {
             "name": "袁逢聪"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -3625,10 +3646,11 @@
           },
           {
             "name": "施世泽"
+          },
+          {
+            "name": "陈暄",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -3853,10 +3875,11 @@
           },
           {
             "name": "岳高远"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -4053,10 +4076,11 @@
           },
           {
             "name": "倪彦杰"
+          },
+          {
+            "name": "徐丹",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -4389,10 +4413,11 @@
           },
           {
             "name": "孙明轩"
+          },
+          {
+            "name": "吴薇薇",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -4721,10 +4746,11 @@
           },
           {
             "name": "陈濛濛"
+          },
+          {
+            "name": "莫淦清",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -4914,10 +4940,11 @@
           },
           {
             "name": "包鑫远"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -5158,10 +5185,11 @@
           },
           {
             "name": "曾熊辉"
+          },
+          {
+            "name": "陈明行",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -5365,10 +5393,11 @@
           },
           {
             "name": "高鑫"
+          },
+          {
+            "name": "叶倩兰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -5645,10 +5674,11 @@
           },
           {
             "name": "柯铭炜"
+          },
+          {
+            "name": "周军强",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -5859,10 +5889,11 @@
           },
           {
             "name": "邱景宇"
+          },
+          {
+            "name": "汪黎杰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -6104,10 +6135,11 @@
           },
           {
             "name": "黄勇文"
+          },
+          {
+            "name": "王梅",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -6311,10 +6343,11 @@
           },
           {
             "name": "金能益"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -6637,10 +6670,11 @@
           },
           {
             "name": "王广仁"
+          },
+          {
+            "name": "孙中兵",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -6889,10 +6923,11 @@
           },
           {
             "name": "徐冬海"
+          },
+          {
+            "name": "钱丽丹",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -7057,10 +7092,11 @@
           },
           {
             "name": "彭杨博"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -7225,10 +7261,11 @@
           },
           {
             "name": "朱佳辉"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -7466,10 +7503,11 @@
           },
           {
             "name": "梁廷炳"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -7672,10 +7710,11 @@
           },
           {
             "name": "蔡杍晨"
+          },
+          {
+            "name": "邹会来",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -7966,10 +8005,11 @@
           },
           {
             "name": "朱仟涛"
+          },
+          {
+            "name": "杨晨",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -8183,10 +8223,11 @@
           },
           {
             "name": "王子玄"
+          },
+          {
+            "name": "陈铭",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -8379,10 +8420,11 @@
           },
           {
             "name": "颜靖"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -8554,10 +8596,11 @@
           },
           {
             "name": "陈如慧"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -8792,10 +8835,11 @@
           },
           {
             "name": "毕琬莹"
+          },
+          {
+            "name": "邱郑宜人",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -8981,10 +9025,11 @@
           },
           {
             "name": "王玺乐"
+          },
+          {
+            "name": "李超燕",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -9177,10 +9222,11 @@
           },
           {
             "name": "蒋蕾"
+          },
+          {
+            "name": "张俊晖",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -9394,10 +9440,11 @@
           },
           {
             "name": "吕俊毅"
+          },
+          {
+            "name": "张宪乐",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -9618,10 +9665,11 @@
           },
           {
             "name": "吴松"
+          },
+          {
+            "name": "何颂颂",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -9853,10 +9901,11 @@
           },
           {
             "name": "陈锦仁"
+          },
+          {
+            "name": "王秋月",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -10087,10 +10136,11 @@
           },
           {
             "name": "黄斯绪"
+          },
+          {
+            "name": "张俊晖",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -10241,10 +10291,11 @@
           },
           {
             "name": "倪文佳"
+          },
+          {
+            "name": "黄洋",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -10461,10 +10512,11 @@
           },
           {
             "name": "丁鼎立"
+          },
+          {
+            "name": "邱郑宜人",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -10695,10 +10747,11 @@
           },
           {
             "name": "张兴日"
+          },
+          {
+            "name": "张宪乐",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -10846,10 +10899,11 @@
           },
           {
             "name": "胡艺轩"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -11076,10 +11130,11 @@
           },
           {
             "name": "陈朱凯"
+          },
+          {
+            "name": "邱郑宜人",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -11275,10 +11330,11 @@
           },
           {
             "name": "朱佳慧"
+          },
+          {
+            "name": "郭文静",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -11488,10 +11544,11 @@
           },
           {
             "name": "熊悦童"
+          },
+          {
+            "name": "何彬",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -11677,10 +11734,11 @@
           },
           {
             "name": "唐怡凯"
+          },
+          {
+            "name": "汪磊",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -11897,10 +11955,11 @@
           },
           {
             "name": "邹涛"
+          },
+          {
+            "name": "张新华",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -12131,10 +12190,11 @@
           },
           {
             "name": "曹海宁"
+          },
+          {
+            "name": "赵强",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -12341,10 +12401,11 @@
           },
           {
             "name": "崔露莹"
+          },
+          {
+            "name": "赵强",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -12520,10 +12581,11 @@
           },
           {
             "name": "任董"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -12720,10 +12782,11 @@
           },
           {
             "name": "黄峻峰"
+          },
+          {
+            "name": "骆哲",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -13059,10 +13122,11 @@
           },
           {
             "name": "张耀文"
+          },
+          {
+            "name": "刘晓芳",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -13254,10 +13318,11 @@
           },
           {
             "name": "成鑫兴"
+          },
+          {
+            "name": "楼满芳",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -13453,10 +13518,11 @@
           },
           {
             "name": "巫方贤"
+          },
+          {
+            "name": "廖江福",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -13656,10 +13722,11 @@
           },
           {
             "name": "陈豪鹏"
+          },
+          {
+            "name": "徐志烽",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -13985,10 +14052,11 @@
           },
           {
             "name": "应孔晨"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14181,10 +14249,11 @@
           },
           {
             "name": "李勇强"
+          },
+          {
+            "name": "何金花",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14335,10 +14404,11 @@
           },
           {
             "name": "胡辰卉"
+          },
+          {
+            "name": "李正举",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14555,10 +14625,11 @@
           },
           {
             "name": "刘豪风"
+          },
+          {
+            "name": "李正举",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14671,10 +14742,11 @@
           },
           {
             "name": "许逸民"
+          },
+          {
+            "name": "徐文祥",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14832,10 +14904,11 @@
           },
           {
             "name": "韩潇鹏"
+          },
+          {
+            "name": "范世超",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -14993,10 +15066,11 @@
           },
           {
             "name": "赵雄畅"
+          },
+          {
+            "name": "袁梅冷",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -15238,10 +15312,11 @@
           },
           {
             "name": "吕海星"
+          },
+          {
+            "name": "张莉",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -15448,10 +15523,11 @@
           },
           {
             "name": "蔡昇鸿"
+          },
+          {
+            "name": "徐志烽",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -15669,9 +15745,6 @@
           {
             "name": "水清华"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -15948,10 +16021,11 @@
           },
           {
             "name": "阮汉宙"
+          },
+          {
+            "name": "孙祥赟",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -16171,10 +16245,11 @@
           },
           {
             "name": "张启宇"
+          },
+          {
+            "name": "潘华成",
+            "role": "coach"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
@@ -16441,9 +16516,6 @@
             "name": "钟浩智"
           }
         ],
-        "markers": [
-          "1"
-        ],
         "official": true
       },
       "score": {
@@ -16586,9 +16658,6 @@
           {
             "name": "刘冰杰"
           }
-        ],
-        "markers": [
-          "1"
         ],
         "official": true
       },
