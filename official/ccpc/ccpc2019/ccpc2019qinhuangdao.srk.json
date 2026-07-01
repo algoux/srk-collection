@@ -8,16 +8,27 @@
   ],
   "contest": {
     "title": {
-      "zh-CN": "2019年中国大学生程序设计竞赛 秦皇岛站-东北大学秦皇岛分校",
-      "en": "2019 China Collegiate Programming Contest Qinhuangdao Site",
-      "fallback": "2019 China Collegiate Programming Contest Qinhuangdao Site"
+      "zh-CN": "2019年中国大学生程序设计竞赛 秦皇岛站 （东北大学秦皇岛分校）",
+      "en": "2019 China Collegiate Programming Contest Qinhuangdao Site (Northeastern University at Qinhuangdao)",
+      "fallback": "2019 China Collegiate Programming Contest Qinhuangdao Site (Northeastern University at Qinhuangdao)"
     },
     "startAt": "2019-09-22T09:00:00+08:00",
     "duration": [
       5,
       "h"
     ],
+    "frozenDuration": [
+      1,
+      "h"
+    ],
     "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/ccpc2019qinhuangdao"
+      },
       {
         "title": {
           "zh-CN": "赛题重现",
@@ -183,7 +194,22 @@
         "id": "H04",
         "name": "三人齐心，坐断钢筋",
         "organization": "北京大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "洪华敦"
+          },
+          {
+            "name": "丁力煌"
+          },
+          {
+            "name": "吉如一"
+          },
+          {
+            "name": "罗国杰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 11,
@@ -289,7 +315,7 @@
     {
       "user": {
         "id": "G12",
-        "name": "*PoorVin",
+        "name": "PoorVin",
         "organization": "CCPC-Wannafly训练营",
         "official": false
       },
@@ -399,7 +425,22 @@
         "id": "D16",
         "name": "三演一鸽",
         "organization": "清华大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨天祺"
+          },
+          {
+            "name": "吴作同"
+          },
+          {
+            "name": "范致远"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -493,7 +534,22 @@
         "id": "A14",
         "name": "好丽友派",
         "organization": "北京大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杭心语"
+          },
+          {
+            "name": "刘俊豪"
+          },
+          {
+            "name": "曾言"
+          },
+          {
+            "name": "罗国杰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -576,7 +632,7 @@
     {
       "user": {
         "id": "E09",
-        "name": "*UESTC_Trimen",
+        "name": "UESTC_Trimen",
         "organization": "电子科技大学",
         "official": false
       },
@@ -663,7 +719,22 @@
         "id": "I21",
         "name": "十六夜",
         "organization": "山东大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "霍瑜"
+          },
+          {
+            "name": "李双乐"
+          },
+          {
+            "name": "刘京升"
+          },
+          {
+            "name": "汪云海",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -747,7 +818,22 @@
         "id": "D13",
         "name": "中山大学_午餐不见了",
         "organization": "中山大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "傅畅"
+          },
+          {
+            "name": "黄途亮"
+          },
+          {
+            "name": "刘瀚之"
+          },
+          {
+            "name": "郭嵩山",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -831,7 +917,22 @@
         "id": "F13",
         "name": "黄金矿工",
         "organization": "中国矿业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蒋理文"
+          },
+          {
+            "name": "范艺杰"
+          },
+          {
+            "name": "蒋宇"
+          },
+          {
+            "name": "杨文嘉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -915,7 +1016,22 @@
         "id": "E19",
         "name": "UESTC_Default",
         "organization": "电子科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "胡秋豪"
+          },
+          {
+            "name": "张志斌"
+          },
+          {
+            "name": "周泊帆"
+          },
+          {
+            "name": "杨鹏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -999,7 +1115,22 @@
         "id": "H13",
         "name": "业余门槛",
         "organization": "浙江大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈靖邦"
+          },
+          {
+            "name": "叶梓成"
+          },
+          {
+            "name": "刘明锐"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1083,7 +1214,22 @@
         "id": "K02",
         "name": "国士无双",
         "organization": "上海交通大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "朱玮昊"
+          },
+          {
+            "name": "郑皓天"
+          },
+          {
+            "name": "何泓豪"
+          },
+          {
+            "name": "俞勇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1167,7 +1313,22 @@
         "id": "H20",
         "name": "宁静致远",
         "organization": "浙江大学宁波理工学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张逸凡"
+          },
+          {
+            "name": "潘肖磊"
+          },
+          {
+            "name": "林鑫淼"
+          },
+          {
+            "name": "郭新友",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1250,7 +1411,22 @@
         "id": "E18",
         "name": "Runespoor",
         "organization": "浙江大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李彦奎"
+          },
+          {
+            "name": "张清棋"
+          },
+          {
+            "name": "吕耀维"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1335,7 +1511,22 @@
         "id": "D05",
         "name": "acm.ecnu.edu.cn:1001",
         "organization": "华东师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林方欣"
+          },
+          {
+            "name": "周亦然"
+          },
+          {
+            "name": "张羽戈"
+          },
+          {
+            "name": "肖春芸",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1419,7 +1610,22 @@
         "id": "D24",
         "name": "我们都有光明的前途",
         "organization": "哈尔滨工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孔佑康"
+          },
+          {
+            "name": "邓俊辰"
+          },
+          {
+            "name": "董希尧"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1503,7 +1709,22 @@
         "id": "G21",
         "name": "听党指挥",
         "organization": "国防科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "邱昊中"
+          },
+          {
+            "name": "宋澎玉"
+          },
+          {
+            "name": "张珂豪"
+          },
+          {
+            "name": "尹良泽",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1584,7 +1805,7 @@
     {
       "user": {
         "id": "I09",
-        "name": "*友谊是魔法",
+        "name": "友谊是魔法",
         "organization": "赞助单位",
         "official": false
       },
@@ -1670,7 +1891,22 @@
         "id": "E14",
         "name": "汤姆熊猫",
         "organization": "浙江工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郑卓男"
+          },
+          {
+            "name": "侯潇扬"
+          },
+          {
+            "name": "刘海丰"
+          },
+          {
+            "name": "韩姗姗",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1753,7 +1989,22 @@
         "id": "K08",
         "name": "古手羽入",
         "organization": "北京师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吴剑荣"
+          },
+          {
+            "name": "吴松原"
+          },
+          {
+            "name": "李鼎懋"
+          },
+          {
+            "name": "冯速",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1836,7 +2087,22 @@
         "id": "C12",
         "name": "中山大学_职业鸽手",
         "organization": "中山大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王程钥"
+          },
+          {
+            "name": "谢立辉"
+          },
+          {
+            "name": "徐达烽"
+          },
+          {
+            "name": "林瀚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -1915,7 +2181,22 @@
         "id": "G04",
         "name": "No Response",
         "organization": "南京大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "宋子辰"
+          },
+          {
+            "name": "张天陵"
+          },
+          {
+            "name": "王予曦"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -1994,7 +2275,22 @@
         "id": "E05",
         "name": "键盘冒奶",
         "organization": "苏州大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王浩"
+          },
+          {
+            "name": "诸葛子英"
+          },
+          {
+            "name": "李天镜"
+          },
+          {
+            "name": "朱晓旭",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2070,7 +2366,7 @@
     {
       "user": {
         "id": "F23",
-        "name": "*柠檬跳动",
+        "name": "柠檬跳动",
         "organization": "浙江大学",
         "official": false
       },
@@ -2151,7 +2447,22 @@
         "id": "I06",
         "name": "思睿男孩",
         "organization": "浙江理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘智慧"
+          },
+          {
+            "name": "陈可行"
+          },
+          {
+            "name": "杨子俊"
+          },
+          {
+            "name": "叶海荣",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2230,7 +2541,22 @@
         "id": "A12",
         "name": "唯我心",
         "organization": "山东大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "马旭阳"
+          },
+          {
+            "name": "黄敏聪"
+          },
+          {
+            "name": "魏秀颖"
+          },
+          {
+            "name": "何萌",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2308,7 +2634,22 @@
         "id": "G05",
         "name": "假面骑士",
         "organization": "北京邮电大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄岳嘉"
+          },
+          {
+            "name": "杨铁智"
+          },
+          {
+            "name": "郑铎"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2387,7 +2728,22 @@
         "id": "C08",
         "name": "白银体验",
         "organization": "北京师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "高健扬"
+          },
+          {
+            "name": "卢炜文"
+          },
+          {
+            "name": "高艺炜"
+          },
+          {
+            "name": "孙科",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2466,7 +2822,22 @@
         "id": "D04",
         "name": "???",
         "organization": "浙江师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "周鹗荐"
+          },
+          {
+            "name": "周天辰"
+          },
+          {
+            "name": "段忠杰"
+          },
+          {
+            "name": "韩建民",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2546,7 +2917,22 @@
         "id": "H11",
         "name": "则式长号",
         "organization": "东北大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "武嘉鑫"
+          },
+          {
+            "name": "陈久健"
+          },
+          {
+            "name": "邱而沐"
+          },
+          {
+            "name": "鲍玉斌",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2625,7 +3011,22 @@
         "id": "H23",
         "name": "大脑喷射",
         "organization": "北京交通大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "金睿琦"
+          },
+          {
+            "name": "胡雨轩"
+          },
+          {
+            "name": "蔡伟斌"
+          },
+          {
+            "name": "黄华",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2704,7 +3105,22 @@
         "id": "A03",
         "name": "UESTC_POP",
         "organization": "电子科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "彭俊强"
+          },
+          {
+            "name": "欧阳韬"
+          },
+          {
+            "name": "潘训涛"
+          },
+          {
+            "name": "杨鹏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2783,7 +3199,22 @@
         "id": "F24",
         "name": "中山大学_瓢",
         "organization": "中山大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "赵俊威"
+          },
+          {
+            "name": "刘宇轩"
+          },
+          {
+            "name": "梁济凡"
+          },
+          {
+            "name": "林瀚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2863,7 +3294,24 @@
         "name": "星尘",
         "organization": "上海交通大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "石昕怡"
+          },
+          {
+            "name": "林春茹"
+          },
+          {
+            "name": "徐若凡"
+          },
+          {
+            "name": "俞勇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -2942,7 +3390,22 @@
         "id": "I23",
         "name": "空白",
         "organization": "四川大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "游宇杰"
+          },
+          {
+            "name": "张雷"
+          },
+          {
+            "name": "伍斯思"
+          },
+          {
+            "name": "左劼",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3021,7 +3484,22 @@
         "id": "F14",
         "name": "杭电二队",
         "organization": "杭州电子科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王淳洋"
+          },
+          {
+            "name": "徐景滨"
+          },
+          {
+            "name": "张时嘉"
+          },
+          {
+            "name": "刘春英",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3102,7 +3580,22 @@
         "id": "I13",
         "name": "铲伙食小分队",
         "organization": "清华大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "罗崚骁"
+          },
+          {
+            "name": "徐奥淳"
+          },
+          {
+            "name": "宋香君"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3181,7 +3674,22 @@
         "id": "H06",
         "name": "我一个名字也想不出来了",
         "organization": "东南大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李超磊"
+          },
+          {
+            "name": "闻深博"
+          },
+          {
+            "name": "孙毅远"
+          },
+          {
+            "name": "倪庆剑",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3260,7 +3768,22 @@
         "id": "C15",
         "name": "最大瘤",
         "organization": "广东工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郑重"
+          },
+          {
+            "name": "陈震东"
+          },
+          {
+            "name": "康泽楠"
+          },
+          {
+            "name": "孙宣东",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3339,7 +3862,22 @@
         "id": "F04",
         "name": "我是火车王",
         "organization": "南京大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "柴致远"
+          },
+          {
+            "name": "朱景舟"
+          },
+          {
+            "name": "丁保荣"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3417,7 +3955,22 @@
         "id": "I11",
         "name": "胜天半子",
         "organization": "中国地质大学（武汉）",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "尹港"
+          },
+          {
+            "name": "汪圣翔"
+          },
+          {
+            "name": "周伟国"
+          },
+          {
+            "name": "张锋",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3495,7 +4048,22 @@
         "id": "H24",
         "name": "赏金猎人",
         "organization": "东北大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "袁乾宸"
+          },
+          {
+            "name": "杨博"
+          },
+          {
+            "name": "王惟"
+          },
+          {
+            "name": "冷芳玲",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3574,7 +4142,22 @@
         "id": "J13",
         "name": "爆零",
         "organization": "深圳大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "何嘉键"
+          },
+          {
+            "name": "陈培豪"
+          },
+          {
+            "name": "廖竞"
+          },
+          {
+            "name": "张小健",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3653,7 +4236,22 @@
         "id": "C10",
         "name": "发现号",
         "organization": "山东科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "梁天心"
+          },
+          {
+            "name": "邱鹏"
+          },
+          {
+            "name": "上官祥正"
+          },
+          {
+            "name": "吴振寰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3733,7 +4331,24 @@
         "name": "三个演员",
         "organization": "哈尔滨工业大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "于新蕊"
+          },
+          {
+            "name": "曹舒淇"
+          },
+          {
+            "name": "林琦慧"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3811,7 +4426,22 @@
         "id": "I17",
         "name": "社会佩奇",
         "organization": "北京理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "何金岷"
+          },
+          {
+            "name": "马泽航"
+          },
+          {
+            "name": "周琪森"
+          },
+          {
+            "name": "林永钢",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3890,7 +4520,22 @@
         "id": "J24",
         "name": "一个顶俩",
         "organization": "成都信息工程大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林湖龙"
+          },
+          {
+            "name": "彭莉萍"
+          },
+          {
+            "name": "谭秋月"
+          },
+          {
+            "name": "黄健",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3968,7 +4613,22 @@
         "id": "D18",
         "name": "木瓜同学",
         "organization": "湘潭大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "雷智凯"
+          },
+          {
+            "name": "袁泽"
+          },
+          {
+            "name": "贺强"
+          },
+          {
+            "name": "谢勇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4048,7 +4708,22 @@
         "id": "G22",
         "name": "咕咕咕",
         "organization": "南京信息工程大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "施博文"
+          },
+          {
+            "name": "沈逸凡"
+          },
+          {
+            "name": "陈靖宇"
+          },
+          {
+            "name": "郑关胜",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4127,7 +4802,22 @@
         "id": "H03",
         "name": "吃啥都不加香菜",
         "organization": "哈尔滨工业大学(深圳)",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "彭博濠"
+          },
+          {
+            "name": "亚梦溪"
+          },
+          {
+            "name": "毛志东"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4206,7 +4896,22 @@
         "id": "A04",
         "name": "塔斯丁苟",
         "organization": "福州大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈华能"
+          },
+          {
+            "name": "罗继鸿"
+          },
+          {
+            "name": "郑学贵"
+          },
+          {
+            "name": "傅仰耿",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4285,7 +4990,22 @@
         "id": "G15",
         "name": "SCUT_星辰闪耀",
         "organization": "华南理工大学计算机学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "潘伟健"
+          },
+          {
+            "name": "王一帆"
+          },
+          {
+            "name": "郑炜城"
+          },
+          {
+            "name": "冼楚华",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4364,7 +5084,22 @@
         "id": "K12",
         "name": "小南瓜",
         "organization": "华南理工大学软件学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孙宇鹏"
+          },
+          {
+            "name": "王络"
+          },
+          {
+            "name": "章子寅"
+          },
+          {
+            "name": "陈俊颖",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4443,7 +5178,22 @@
         "id": "H10",
         "name": "肥宅真的好快乐",
         "organization": "浙江工商大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "缪佩翰"
+          },
+          {
+            "name": "沈彤"
+          },
+          {
+            "name": "王龙"
+          },
+          {
+            "name": "孟实",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4521,7 +5271,22 @@
         "id": "I02",
         "name": "荠鸽",
         "organization": "同济大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "叶茂尧"
+          },
+          {
+            "name": "李昊龙"
+          },
+          {
+            "name": "黄颖"
+          },
+          {
+            "name": "叶晨",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4599,7 +5364,22 @@
         "id": "D22",
         "name": "newgate txdy",
         "organization": "安阳工学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "韩韦凡"
+          },
+          {
+            "name": "张丁韦"
+          },
+          {
+            "name": "马鹏源"
+          },
+          {
+            "name": "王瑞平",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4677,7 +5457,22 @@
         "id": "D06",
         "name": "对未知用战斗演算",
         "organization": "华中科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王际豪"
+          },
+          {
+            "name": "程思哲"
+          },
+          {
+            "name": "师天硕"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -4752,7 +5547,22 @@
         "id": "D09",
         "name": "我钟意食烧鸡翼",
         "organization": "广州大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卢浩宇"
+          },
+          {
+            "name": "余梓宁"
+          },
+          {
+            "name": "陈浩珲"
+          },
+          {
+            "name": "张为",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -4827,7 +5637,22 @@
         "id": "F05",
         "name": "队友倒写强联通",
         "organization": "郑州大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈洋"
+          },
+          {
+            "name": "黄中源"
+          },
+          {
+            "name": "苏同"
+          },
+          {
+            "name": "吴云鹏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -4902,7 +5727,22 @@
         "id": "K21",
         "name": "白昼之光",
         "organization": "浙江农林大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄磊"
+          },
+          {
+            "name": "顾博盛"
+          },
+          {
+            "name": "章朝哲"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -4976,7 +5816,22 @@
         "id": "E22",
         "name": "背着队友偷偷WA",
         "organization": "天津大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "范一隆"
+          },
+          {
+            "name": "施浩森"
+          },
+          {
+            "name": "王艺达"
+          },
+          {
+            "name": "喻梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5050,7 +5905,22 @@
         "id": "G03",
         "name": "亮剑",
         "organization": "华东理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "付成瑜"
+          },
+          {
+            "name": "傅志凌"
+          },
+          {
+            "name": "彭博"
+          },
+          {
+            "name": "罗勇军",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5124,7 +5994,22 @@
         "id": "E12",
         "name": "QYQ的大冒险",
         "organization": "山东理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "亓玉宁"
+          },
+          {
+            "name": "亓世恒"
+          },
+          {
+            "name": "杨丰磊"
+          },
+          {
+            "name": "曲志坚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5199,7 +6084,22 @@
         "id": "C02",
         "name": "或许有一度春风不负微草枯荣",
         "organization": "山东理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "贾辉"
+          },
+          {
+            "name": "李绪伟"
+          },
+          {
+            "name": "郑延亮"
+          },
+          {
+            "name": "刘晓红",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5273,7 +6173,22 @@
         "id": "E06",
         "name": "魔菜队",
         "organization": "上海大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "罗哲焱"
+          },
+          {
+            "name": "林世铨"
+          },
+          {
+            "name": "董昱"
+          },
+          {
+            "name": "沈云付",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5347,7 +6262,22 @@
         "id": "I14",
         "name": "纸上牧羊",
         "organization": "广东外语外贸大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林冠权"
+          },
+          {
+            "name": "邝江洲"
+          },
+          {
+            "name": "曾迪鸿"
+          },
+          {
+            "name": "郑琪",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5421,7 +6351,22 @@
         "id": "G16",
         "name": "线性加速器",
         "organization": "中南大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "姜业鑫"
+          },
+          {
+            "name": "黄文豪"
+          },
+          {
+            "name": "连士熙"
+          },
+          {
+            "name": "陈再良",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5494,7 +6439,22 @@
         "id": "B09",
         "name": "我先放一盒卫生纸在这",
         "organization": "浙江理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "胡成一"
+          },
+          {
+            "name": "金奇"
+          },
+          {
+            "name": "何光赋"
+          },
+          {
+            "name": "叶海荣",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5568,7 +6528,22 @@
         "id": "L08",
         "name": "看看你们花里胡哨的队名",
         "organization": "暨南大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "彭勇"
+          },
+          {
+            "name": "史磊"
+          },
+          {
+            "name": "曾晓灿"
+          },
+          {
+            "name": "王传胜",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5642,7 +6617,22 @@
         "id": "A24",
         "name": "江南壹队",
         "organization": "江南大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈朝潮"
+          },
+          {
+            "name": "许轲"
+          },
+          {
+            "name": "卢涵"
+          },
+          {
+            "name": "蒋敏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5716,7 +6706,22 @@
         "id": "A22",
         "name": "no submit no wa",
         "organization": "长沙理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李行"
+          },
+          {
+            "name": "李良伟"
+          },
+          {
+            "name": "晏政"
+          },
+          {
+            "name": "邓泽林",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5790,7 +6795,22 @@
         "id": "I07",
         "name": "楼上等等我",
         "organization": "哈尔滨工程大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "赵子琦"
+          },
+          {
+            "name": "李健楠"
+          },
+          {
+            "name": "赵熠扬"
+          },
+          {
+            "name": "国林",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5864,7 +6884,22 @@
         "id": "H18",
         "name": "宇宙世界无敌",
         "organization": "东华大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "施杰"
+          },
+          {
+            "name": "吴迪"
+          },
+          {
+            "name": "郁宙"
+          },
+          {
+            "name": "黄永锋",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5938,7 +6973,22 @@
         "id": "D08",
         "name": "我裂开了",
         "organization": "北京航空航天大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "丁元杰"
+          },
+          {
+            "name": "肖思炀"
+          },
+          {
+            "name": "郑耀彦"
+          },
+          {
+            "name": "宋友",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6012,7 +7062,22 @@
         "id": "J11",
         "name": "L",
         "organization": "大连理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吕嘉庆"
+          },
+          {
+            "name": "刘易铖"
+          },
+          {
+            "name": "梁家豪"
+          },
+          {
+            "name": "梁冰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6086,7 +7151,22 @@
         "id": "F18",
         "name": "天津第二妇幼保健院",
         "organization": "天津大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李睿智"
+          },
+          {
+            "name": "王健宇"
+          },
+          {
+            "name": "刘坤鑫"
+          },
+          {
+            "name": "喻梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6160,7 +7240,22 @@
         "id": "J23",
         "name": "anti-sterotype",
         "organization": "安徽大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "洪敏峰"
+          },
+          {
+            "name": "郭有涛"
+          },
+          {
+            "name": "冯炳熠"
+          },
+          {
+            "name": "周健",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6233,7 +7328,22 @@
         "id": "I20",
         "name": "宽厚实",
         "organization": "湖北工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘子文"
+          },
+          {
+            "name": "马超强"
+          },
+          {
+            "name": "张莉苹"
+          },
+          {
+            "name": "徐承志",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6304,7 +7414,7 @@
     {
       "user": {
         "id": "C16",
-        "name": "*北境强者cch粉丝群",
+        "name": "北境强者cch粉丝群",
         "organization": "哈尔滨工程大学",
         "official": false
       },
@@ -6381,7 +7491,22 @@
         "id": "E11",
         "name": "Thunder AC",
         "organization": "四川大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曾梓云"
+          },
+          {
+            "name": "唐逸伦"
+          },
+          {
+            "name": "雷舜"
+          },
+          {
+            "name": "左劼",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6456,7 +7581,24 @@
         "name": "对对队",
         "organization": "上海大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "孙慧玥"
+          },
+          {
+            "name": "王如嫣"
+          },
+          {
+            "name": "胡亚琪"
+          },
+          {
+            "name": "沈俊",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6529,7 +7671,22 @@
         "id": "H22",
         "name": "村里最好的键盘",
         "organization": "浙江师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "万昱君"
+          },
+          {
+            "name": "苏丁力"
+          },
+          {
+            "name": "黄正结"
+          },
+          {
+            "name": "韩建民",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6602,7 +7759,22 @@
         "id": "A10",
         "name": "要喵内不要打篮球",
         "organization": "东北林业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "葛言琭"
+          },
+          {
+            "name": "张澎"
+          },
+          {
+            "name": "孙杰"
+          },
+          {
+            "name": "陈宇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6678,7 +7850,22 @@
         "id": "K11",
         "name": "拿了金牌就去吃鸡",
         "organization": "浙江大学城市学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陶汀"
+          },
+          {
+            "name": "孙华阳"
+          },
+          {
+            "name": "庄博伟"
+          },
+          {
+            "name": "柯海丰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6753,7 +7940,24 @@
         "name": "那女孩对我说说我是一个小偷",
         "organization": "浙江师范大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "凌静"
+          },
+          {
+            "name": "张忆莲"
+          },
+          {
+            "name": "余慧"
+          },
+          {
+            "name": "韩建民",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6827,7 +8031,22 @@
         "id": "G01",
         "name": "TI1050",
         "organization": "杭州师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "薛鸿涛"
+          },
+          {
+            "name": "潘律旨"
+          },
+          {
+            "name": "罗天松"
+          },
+          {
+            "name": "单振宇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6901,7 +8120,22 @@
         "id": "H09",
         "name": "起风了",
         "organization": "北京邮电大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "金浩男"
+          },
+          {
+            "name": "张逸群"
+          },
+          {
+            "name": "路已人"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6976,7 +8210,22 @@
         "id": "B12",
         "name": "分头寻找较为复杂",
         "organization": "东北林业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张嘉文"
+          },
+          {
+            "name": "冯天祥"
+          },
+          {
+            "name": "方震"
+          },
+          {
+            "name": "陈宇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7053,7 +8302,22 @@
         "id": "J19",
         "name": "浅度学习",
         "organization": "河海大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "樊云翔"
+          },
+          {
+            "name": "王祯霖"
+          },
+          {
+            "name": "张宇杰"
+          },
+          {
+            "name": "张雪洁",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7128,7 +8392,22 @@
         "id": "D23",
         "name": "圆环之理",
         "organization": "重庆邮电大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘茜"
+          },
+          {
+            "name": "何杨"
+          },
+          {
+            "name": "周星宇"
+          },
+          {
+            "name": "甘玲",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7201,7 +8480,22 @@
         "id": "J08",
         "name": "Keyb0ardInterrupt",
         "organization": "哈尔滨工业大学(威海)",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈靖昌"
+          },
+          {
+            "name": "唐泓煊"
+          },
+          {
+            "name": "吴家铭"
+          },
+          {
+            "name": "张岩",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7276,7 +8570,22 @@
         "id": "B06",
         "name": "杭电四队",
         "organization": "杭州电子科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "金济众"
+          },
+          {
+            "name": "莫利杰"
+          },
+          {
+            "name": "王铮"
+          },
+          {
+            "name": "刘春英",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7348,7 +8657,7 @@
     {
       "user": {
         "id": "J02",
-        "name": "*愉快地自闭队",
+        "name": "愉快地自闭队",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -7426,7 +8735,22 @@
         "id": "C03",
         "name": "哆啦美的救赎",
         "organization": "河南大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "晁佳豪"
+          },
+          {
+            "name": "李豪"
+          },
+          {
+            "name": "唐源民"
+          },
+          {
+            "name": "王建林",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7498,7 +8822,7 @@
     {
       "user": {
         "id": "K19",
-        "name": "*农民划水队",
+        "name": "农民划水队",
         "organization": "成都树德中学",
         "official": false
       },
@@ -7573,7 +8897,22 @@
         "id": "H12",
         "name": "能吃能睡带不动",
         "organization": "武汉大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘瑾俐"
+          },
+          {
+            "name": "蔡柏华"
+          },
+          {
+            "name": "杨翔云"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7647,7 +8986,22 @@
         "id": "F16",
         "name": "SMU01",
         "organization": "西南民族大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘金宗"
+          },
+          {
+            "name": "王朝鹏"
+          },
+          {
+            "name": "严嘉豪"
+          },
+          {
+            "name": "周绪川",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7721,7 +9075,22 @@
         "id": "F15",
         "name": "挨奶一声山水绿",
         "organization": "郑州大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈炜超"
+          },
+          {
+            "name": "李辉"
+          },
+          {
+            "name": "王昕瑜"
+          },
+          {
+            "name": "吴云鹏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7794,7 +9163,22 @@
         "id": "B24",
         "name": "白给",
         "organization": "西南交通大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吕元庶"
+          },
+          {
+            "name": "曾逸"
+          },
+          {
+            "name": "蒋欣洋"
+          },
+          {
+            "name": "喻琇瑛",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7868,7 +9252,22 @@
         "id": "C09",
         "name": "17发你能AC？",
         "organization": "厦门大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "邱宇航"
+          },
+          {
+            "name": "赖彦丞"
+          },
+          {
+            "name": "陈潇"
+          },
+          {
+            "name": "林文水",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7940,7 +9339,7 @@
     {
       "user": {
         "id": "F03",
-        "name": "*涅槃",
+        "name": "涅槃",
         "organization": "浙江工业大学",
         "official": false
       },
@@ -8016,7 +9415,22 @@
         "id": "F09",
         "name": "我觉得不行",
         "organization": "湘潭大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王首勋"
+          },
+          {
+            "name": "刘伟舟"
+          },
+          {
+            "name": "邝彬"
+          },
+          {
+            "name": "谢勇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8090,7 +9504,22 @@
         "id": "B15",
         "name": "队友让我AC，我只能当灯泡",
         "organization": "华中师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "朱有为"
+          },
+          {
+            "name": "刘亭玉"
+          },
+          {
+            "name": "刘一泓"
+          },
+          {
+            "name": "叶俊民",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8164,7 +9593,22 @@
         "id": "A07",
         "name": "随机星",
         "organization": "长安大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "韩耀东"
+          },
+          {
+            "name": "王瑀治"
+          },
+          {
+            "name": "李蔚青"
+          },
+          {
+            "name": "荆树旭",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8239,7 +9683,22 @@
         "id": "K24",
         "name": "橘势算法敲不队",
         "organization": "太原理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "秦逸轩"
+          },
+          {
+            "name": "盛光彪"
+          },
+          {
+            "name": "李正豪"
+          },
+          {
+            "name": "孙静宇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8313,7 +9772,22 @@
         "id": "A05",
         "name": "EndGame",
         "organization": "合肥工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "成岱"
+          },
+          {
+            "name": "陆达明"
+          },
+          {
+            "name": "单林敏"
+          },
+          {
+            "name": "徐本柱",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8386,7 +9860,22 @@
         "id": "K23",
         "name": "喷火龙",
         "organization": "浙江科技学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "沈春杰"
+          },
+          {
+            "name": "陆江涛"
+          },
+          {
+            "name": "龙旭"
+          },
+          {
+            "name": "林志洁",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8462,7 +9951,24 @@
         "name": "听说名字长长的软壳才能涨的筛凝艾慕",
         "organization": "南京大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "戴若石"
+          },
+          {
+            "name": "周心瑜"
+          },
+          {
+            "name": "徐婷"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8536,7 +10042,22 @@
         "id": "G23",
         "name": "克雷斯克",
         "organization": "东北林业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李燕虎"
+          },
+          {
+            "name": "张乾龙"
+          },
+          {
+            "name": "王清泓"
+          },
+          {
+            "name": "陈宇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8610,7 +10131,22 @@
         "id": "C11",
         "name": "To Be Human beings_SCNU_CS",
         "organization": "华南师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林瑞儿"
+          },
+          {
+            "name": "李采月"
+          },
+          {
+            "name": "黄涛"
+          },
+          {
+            "name": "曹霑懋",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8683,7 +10219,22 @@
         "id": "G24",
         "name": "ZJUT11",
         "organization": "浙江工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "莫清宇"
+          },
+          {
+            "name": "董烨"
+          },
+          {
+            "name": "杨存远"
+          },
+          {
+            "name": "王春平",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8757,7 +10308,22 @@
         "id": "D21",
         "name": "先占个位置",
         "organization": "长春工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "冯湛文"
+          },
+          {
+            "name": "马昂扬"
+          },
+          {
+            "name": "苗娟涓"
+          },
+          {
+            "name": "周丽娟",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8828,7 +10394,7 @@
     {
       "user": {
         "id": "K10",
-        "name": "*三只猪猪",
+        "name": "三只猪猪",
         "organization": "成都树德中学",
         "official": false
       },
@@ -8902,7 +10468,7 @@
     {
       "user": {
         "id": "A09",
-        "name": "*Thursday",
+        "name": "Thursday",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -8978,7 +10544,22 @@
         "id": "B08",
         "name": "你要啥给你啥",
         "organization": "南阳理工学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "朱成锐"
+          },
+          {
+            "name": "卓华寅"
+          },
+          {
+            "name": "何世全"
+          },
+          {
+            "name": "靳冰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9051,7 +10632,22 @@
         "id": "J07",
         "name": "你故你思在",
         "organization": "北华大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林子勇"
+          },
+          {
+            "name": "金美"
+          },
+          {
+            "name": "张丰"
+          },
+          {
+            "name": "鲁静轩",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9124,7 +10720,22 @@
         "id": "F17",
         "name": "他来了他来了",
         "organization": "北京林业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曲锦涛"
+          },
+          {
+            "name": "罗京"
+          },
+          {
+            "name": "于雨航"
+          },
+          {
+            "name": "徐艳艳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9197,7 +10808,22 @@
         "id": "A02",
         "name": "Peccadet",
         "organization": "浙江大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卢旻昊"
+          },
+          {
+            "name": "李昌栋"
+          },
+          {
+            "name": "詹哲远"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9269,7 +10895,7 @@
     {
       "user": {
         "id": "H01",
-        "name": "*Team Defy",
+        "name": "Team Defy",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -9345,7 +10971,24 @@
         "name": "惊蛰",
         "organization": "北京邮电大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "李玉慧"
+          },
+          {
+            "name": "杨澜"
+          },
+          {
+            "name": "董佳澜"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9418,7 +11061,22 @@
         "id": "E10",
         "name": "我永远喜欢职业门槛QCT",
         "organization": "深圳大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黎鑫"
+          },
+          {
+            "name": "吴俊生"
+          },
+          {
+            "name": "王玉峰"
+          },
+          {
+            "name": "张小健",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9492,7 +11150,22 @@
         "id": "K09",
         "name": "队友又黑又胖",
         "organization": "武汉科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈吉林"
+          },
+          {
+            "name": "杜鹏程"
+          },
+          {
+            "name": "周胜迪"
+          },
+          {
+            "name": "李顺新",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9565,7 +11238,22 @@
         "id": "L06",
         "name": "自动wa掘机",
         "organization": "西安电子科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张帆"
+          },
+          {
+            "name": "黄睿之"
+          },
+          {
+            "name": "买志斌"
+          },
+          {
+            "name": "张淑平",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9639,7 +11327,22 @@
         "id": "J21",
         "name": "螺丝掉进主板了",
         "organization": "广州大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卢鑫洌"
+          },
+          {
+            "name": "覃浩"
+          },
+          {
+            "name": "周伟章"
+          },
+          {
+            "name": "张为",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9710,7 +11413,7 @@
     {
       "user": {
         "id": "A19",
-        "name": "*开局一套板，AC全靠蒙",
+        "name": "开局一套板，AC全靠蒙",
         "organization": "北京邮电大学",
         "official": false
       },
@@ -9786,7 +11489,22 @@
         "id": "C07",
         "name": "艾瑞莉娅",
         "organization": "辽宁大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "周孟磊"
+          },
+          {
+            "name": "龚元枫"
+          },
+          {
+            "name": "何勇"
+          },
+          {
+            "name": "曲大鹏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -9855,7 +11573,22 @@
         "id": "C22",
         "name": "南工喷壶",
         "organization": "南京工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李旭"
+          },
+          {
+            "name": "贺梦杰"
+          },
+          {
+            "name": "仇智寅"
+          },
+          {
+            "name": "刘斌",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -9923,7 +11656,22 @@
         "id": "D02",
         "name": "黑糖珍珠圣代",
         "organization": "华中科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘言"
+          },
+          {
+            "name": "万才学"
+          },
+          {
+            "name": "朱子鸿"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -9993,7 +11741,22 @@
         "id": "D01",
         "name": "南方科技大学_叙斯特伦",
         "organization": "南方科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪泱泱"
+          },
+          {
+            "name": "尹沛骐"
+          },
+          {
+            "name": "龙瀚"
+          },
+          {
+            "name": "唐博",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10062,7 +11825,22 @@
         "id": "F10",
         "name": "纯正九莲宝灯",
         "organization": "北京交通大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "骆艺元"
+          },
+          {
+            "name": "栗明磊"
+          },
+          {
+            "name": "郑栩僮"
+          },
+          {
+            "name": "黄华",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10130,7 +11908,7 @@
     {
       "user": {
         "id": "F12",
-        "name": "*来自星星的代码手",
+        "name": "来自星星的代码手",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -10201,7 +11979,22 @@
         "id": "G13",
         "name": "应用回归分析",
         "organization": "河北工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李明佳"
+          },
+          {
+            "name": "艾煜斌"
+          },
+          {
+            "name": "吴冠男"
+          },
+          {
+            "name": "石陆魁",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10270,7 +12063,22 @@
         "id": "C13",
         "name": "荠菜",
         "organization": "同济大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王宇其"
+          },
+          {
+            "name": "王佳雯"
+          },
+          {
+            "name": "迟承道"
+          },
+          {
+            "name": "叶晨",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10339,7 +12147,22 @@
         "id": "G18",
         "name": "ZCMU-秦皇岛外打渔船",
         "organization": "浙江中医药大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄哲"
+          },
+          {
+            "name": "韩敏杰"
+          },
+          {
+            "name": "罗苗苗"
+          },
+          {
+            "name": "罗杰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10408,7 +12231,22 @@
         "id": "K05",
         "name": "欣然",
         "organization": "武汉大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "余欣然"
+          },
+          {
+            "name": "向雅欣"
+          },
+          {
+            "name": "逄博"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10476,7 +12314,7 @@
     {
       "user": {
         "id": "K01",
-        "name": "*devdev",
+        "name": "devdev",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -10548,7 +12386,22 @@
         "id": "L05",
         "name": "线性鸭",
         "organization": "华中农业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "詹晔康"
+          },
+          {
+            "name": "赵钰"
+          },
+          {
+            "name": "胡海川"
+          },
+          {
+            "name": "章英",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10617,7 +12470,22 @@
         "id": "L02",
         "name": "幽兰不拿铁",
         "organization": "长沙理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "龙佳"
+          },
+          {
+            "name": "易斯龙"
+          },
+          {
+            "name": "潘成"
+          },
+          {
+            "name": "邓广慧",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10687,7 +12555,22 @@
         "id": "K18",
         "name": "格鲁特",
         "organization": "哈尔滨工业大学(深圳)",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张致远"
+          },
+          {
+            "name": "吴俊达"
+          },
+          {
+            "name": "邱建盛"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10756,7 +12639,22 @@
         "id": "G06",
         "name": "一发玄学试试水 全靠暴力出奇迹",
         "organization": "中国石油大学（华东）",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "赵广旬"
+          },
+          {
+            "name": "柳泉旭"
+          },
+          {
+            "name": "李博"
+          },
+          {
+            "name": "张学辉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10826,7 +12724,22 @@
         "id": "K22",
         "name": "咆哮的土拨鼠",
         "organization": "哈尔滨工程大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "武朝晖"
+          },
+          {
+            "name": "韩尚君"
+          },
+          {
+            "name": "鲍志伟"
+          },
+          {
+            "name": "国林",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10896,7 +12809,22 @@
         "id": "B07",
         "name": "花生开门",
         "organization": "山东财经大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孙一丹"
+          },
+          {
+            "name": "肖子安"
+          },
+          {
+            "name": "刘晓康"
+          },
+          {
+            "name": "李恒武",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -10965,7 +12893,22 @@
         "id": "A01",
         "name": "单皮奶",
         "organization": "青岛大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王佳艺"
+          },
+          {
+            "name": "穆明坤"
+          },
+          {
+            "name": "潘武杰"
+          },
+          {
+            "name": "张志梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11034,7 +12977,22 @@
         "id": "E15",
         "name": "红橙作伴",
         "organization": "西安理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孔荣荣"
+          },
+          {
+            "name": "刘文洁"
+          },
+          {
+            "name": "王震"
+          },
+          {
+            "name": "梁莉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11102,7 +13060,22 @@
         "id": "L04",
         "name": "我们取这个这么长的队名...",
         "organization": "中国传媒大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘宗鑫"
+          },
+          {
+            "name": "揭青莹"
+          },
+          {
+            "name": "吕九洋"
+          },
+          {
+            "name": "杨丽芳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11170,7 +13143,22 @@
         "id": "B14",
         "name": "你吼那么大声干什么嘛？",
         "organization": "长春理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈俊超"
+          },
+          {
+            "name": "王宁"
+          },
+          {
+            "name": "谭睿翔"
+          },
+          {
+            "name": "李华",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11239,7 +13227,22 @@
         "id": "H19",
         "name": "xju1",
         "organization": "新疆大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "韩昊伸"
+          },
+          {
+            "name": "胡浩"
+          },
+          {
+            "name": "王嘉琪"
+          },
+          {
+            "name": "安海兵",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11307,7 +13310,22 @@
         "id": "K15",
         "name": "键盘侠",
         "organization": "河南大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘阳"
+          },
+          {
+            "name": "邓宏亮"
+          },
+          {
+            "name": "袁昊"
+          },
+          {
+            "name": "王震",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11376,7 +13394,22 @@
         "id": "E24",
         "name": "请把气球插在这里谢谢",
         "organization": "吉林大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "冯振杰"
+          },
+          {
+            "name": "范元涛"
+          },
+          {
+            "name": "雷育琦"
+          },
+          {
+            "name": "刘淼",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11445,7 +13478,22 @@
         "id": "F21",
         "name": "AK自动机",
         "organization": "中国计量大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "罗中天"
+          },
+          {
+            "name": "张家豪"
+          },
+          {
+            "name": "余鸿皓"
+          },
+          {
+            "name": "赵承业",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11515,7 +13563,24 @@
         "name": "SMU02",
         "organization": "西南民族大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨玉婷"
+          },
+          {
+            "name": "郑楠"
+          },
+          {
+            "name": "丁浩楠"
+          },
+          {
+            "name": "周绪川",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11583,7 +13648,22 @@
         "id": "D10",
         "name": "铁匠世家",
         "organization": "重庆大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蔡祥文"
+          },
+          {
+            "name": "蒋云豪"
+          },
+          {
+            "name": "余康"
+          },
+          {
+            "name": "李佳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11650,7 +13730,7 @@
     {
       "user": {
         "id": "K14",
-        "name": "*请输入队名",
+        "name": "请输入队名",
         "organization": "吉林大学",
         "official": false
       },
@@ -11724,7 +13804,22 @@
         "id": "B22",
         "name": "晨曦的光",
         "organization": "广东工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "梁烨荣"
+          },
+          {
+            "name": "问永琦"
+          },
+          {
+            "name": "蔡诚杰"
+          },
+          {
+            "name": "孙宣东",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11793,7 +13888,22 @@
         "id": "I05",
         "name": "SCAU_单身自动机",
         "organization": "华南农业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄君瑜"
+          },
+          {
+            "name": "苏富宝"
+          },
+          {
+            "name": "王俊朗"
+          },
+          {
+            "name": "陈湘骥",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11862,7 +13972,22 @@
         "id": "G10",
         "name": "wr自动机",
         "organization": "郑州轻工业学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "徐昌鹏"
+          },
+          {
+            "name": "庞浩天"
+          },
+          {
+            "name": "韩家康"
+          },
+          {
+            "name": "朱会东",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -11931,7 +14056,22 @@
         "id": "H17",
         "name": "爱吃冰淇淋",
         "organization": "天津大学仁爱学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄艳平"
+          },
+          {
+            "name": "张家辉"
+          },
+          {
+            "name": "郭洁"
+          },
+          {
+            "name": "冉娟",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12000,7 +14140,22 @@
         "id": "D07",
         "name": "以爱之名，与坤同行",
         "organization": "重庆邮电大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林华东"
+          },
+          {
+            "name": "夏宇阳"
+          },
+          {
+            "name": "张子旋"
+          },
+          {
+            "name": "甘玲",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12069,7 +14224,22 @@
         "id": "I22",
         "name": "我要我觉得✓",
         "organization": "国防科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "邱纯硕"
+          },
+          {
+            "name": "陈斯隆"
+          },
+          {
+            "name": "郭春希"
+          },
+          {
+            "name": "尹良泽",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12138,7 +14308,22 @@
         "id": "E01",
         "name": "V1JCO",
         "organization": "南京理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "董平"
+          },
+          {
+            "name": "章馨月"
+          },
+          {
+            "name": "赵震"
+          },
+          {
+            "name": "余立功",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12206,7 +14391,22 @@
         "id": "C01",
         "name": "小奶狗",
         "organization": "天津大学仁爱学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "徐佳鑫"
+          },
+          {
+            "name": "李世超"
+          },
+          {
+            "name": "高铭泽"
+          },
+          {
+            "name": "冉娟",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12274,7 +14474,22 @@
         "id": "A08",
         "name": "守护全世界最好的凯妹",
         "organization": "哈尔滨工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "范天泷"
+          },
+          {
+            "name": "刘青林"
+          },
+          {
+            "name": "展宇宏"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12342,7 +14557,22 @@
         "id": "I03",
         "name": "%连银铜铁金清",
         "organization": "哈尔滨学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈灿华"
+          },
+          {
+            "name": "金勤超"
+          },
+          {
+            "name": "张海伦"
+          },
+          {
+            "name": "王克朝",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12410,7 +14640,22 @@
         "id": "L03",
         "name": "全体起立",
         "organization": "南京晓庄学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蒋俊杰"
+          },
+          {
+            "name": "陈安婕"
+          },
+          {
+            "name": "刘翔昊"
+          },
+          {
+            "name": "周恺",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12478,7 +14723,22 @@
         "id": "E04",
         "name": "确定性有限状态自闭机",
         "organization": "河南理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "赵猛"
+          },
+          {
+            "name": "王志承"
+          },
+          {
+            "name": "代艳凯"
+          },
+          {
+            "name": "王建芳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12546,7 +14806,22 @@
         "id": "E03",
         "name": "我的队友也有点暴躁",
         "organization": "长春理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "商怀朋"
+          },
+          {
+            "name": "朱磊业"
+          },
+          {
+            "name": "唐依凡"
+          },
+          {
+            "name": "王睿",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12614,7 +14889,22 @@
         "id": "G14",
         "name": "谁家过年不AK个网络赛？",
         "organization": "东北农业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孙昊昱"
+          },
+          {
+            "name": "王禹"
+          },
+          {
+            "name": "赵晨"
+          },
+          {
+            "name": "李晓明",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12682,7 +14972,22 @@
         "id": "J22",
         "name": "青雉",
         "organization": "大连海事大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李潭林"
+          },
+          {
+            "name": "沈楠"
+          },
+          {
+            "name": "王泓凯"
+          },
+          {
+            "name": "谢益武",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12751,7 +15056,22 @@
         "id": "C19",
         "name": "道知不也我啥叫",
         "organization": "河北工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "叶靖"
+          },
+          {
+            "name": "赵遵涵"
+          },
+          {
+            "name": "李志"
+          },
+          {
+            "name": "侯向丹",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12820,7 +15140,22 @@
         "id": "H14",
         "name": "给出题人倒杯茶",
         "organization": "东北农业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张国梁"
+          },
+          {
+            "name": "朱振滔"
+          },
+          {
+            "name": "李泽林"
+          },
+          {
+            "name": "李晓明",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -12886,7 +15221,7 @@
     {
       "user": {
         "id": "J03",
-        "name": "*韬神之光",
+        "name": "韬神之光",
         "organization": "中北大学",
         "official": false
       },
@@ -12954,7 +15289,7 @@
     {
       "user": {
         "id": "I04",
-        "name": "*NOIP取消了所以我们参加CCPC",
+        "name": "NOIP取消了所以我们参加CCPC",
         "organization": "成都树德中学",
         "official": false
       },
@@ -13025,7 +15360,22 @@
         "id": "H05",
         "name": "不大的山",
         "organization": "青海大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "夏子勋"
+          },
+          {
+            "name": "向泽南"
+          },
+          {
+            "name": "凌龙"
+          },
+          {
+            "name": "谢永",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13089,7 +15439,22 @@
         "id": "D12",
         "name": "九章算树",
         "organization": "太原理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王宇轩"
+          },
+          {
+            "name": "钱皓晟"
+          },
+          {
+            "name": "孟子杰"
+          },
+          {
+            "name": "林福平",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13151,7 +15516,7 @@
     {
       "user": {
         "id": "B02",
-        "name": "*面向bug编程",
+        "name": "面向bug编程",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -13217,7 +15582,22 @@
         "id": "K13",
         "name": "我单抽出货啦",
         "organization": "西南科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "程柯菡"
+          },
+          {
+            "name": "刘心怡"
+          },
+          {
+            "name": "郑伟伟"
+          },
+          {
+            "name": "杨春明",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13281,7 +15661,22 @@
         "id": "C20",
         "name": "一分钟想个队名队",
         "organization": "北京理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "何鹏"
+          },
+          {
+            "name": "刘振"
+          },
+          {
+            "name": "李翰杰"
+          },
+          {
+            "name": "林永钢",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13346,7 +15741,22 @@
         "id": "D11",
         "name": "请来三套鼠标键盘",
         "organization": "中原工学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘勇"
+          },
+          {
+            "name": "吴志阳"
+          },
+          {
+            "name": "孙艺苹"
+          },
+          {
+            "name": "吴志刚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13411,7 +15821,24 @@
         "name": "哈哈哈",
         "organization": "浙江工商大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "周楠馨"
+          },
+          {
+            "name": "周知乐"
+          },
+          {
+            "name": "俞晓雯"
+          },
+          {
+            "name": "孟实",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13475,7 +15902,22 @@
         "id": "F01",
         "name": "jxustccpc2019",
         "organization": "江西理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪云飞"
+          },
+          {
+            "name": "李铮"
+          },
+          {
+            "name": "景依航"
+          },
+          {
+            "name": "管希东",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13539,7 +15981,22 @@
         "id": "K20",
         "name": "哈理工2019秋20",
         "organization": "哈尔滨理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李金澎"
+          },
+          {
+            "name": "魏敦豪"
+          },
+          {
+            "name": "葛潮东"
+          },
+          {
+            "name": "金恩海",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13603,7 +16060,22 @@
         "id": "H08",
         "name": "来晚了没名字",
         "organization": "湖南大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吴剑兵"
+          },
+          {
+            "name": "王哲"
+          },
+          {
+            "name": "欧健"
+          },
+          {
+            "name": "吴昊",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13667,7 +16139,22 @@
         "id": "C05",
         "name": "1566528385",
         "organization": "西南交通大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "康梦瑶"
+          },
+          {
+            "name": "许沂聪"
+          },
+          {
+            "name": "霍雨佳"
+          },
+          {
+            "name": "喻琇瑛",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13732,7 +16219,22 @@
         "id": "I24",
         "name": "熊猫头",
         "organization": "滁州学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "董智健"
+          },
+          {
+            "name": "訾崇崇"
+          },
+          {
+            "name": "丁涛"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13796,7 +16298,22 @@
         "id": "B23",
         "name": "出去长见识",
         "organization": "中国石油大学（华东）",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "高一鸣"
+          },
+          {
+            "name": "李天宝"
+          },
+          {
+            "name": "林晨"
+          },
+          {
+            "name": "张学辉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13859,7 +16376,22 @@
         "id": "J04",
         "name": "Lucky",
         "organization": "吉首大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "雷亮"
+          },
+          {
+            "name": "彭昊"
+          },
+          {
+            "name": "廖嘉琪"
+          },
+          {
+            "name": "石俊萍",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13923,7 +16455,22 @@
         "id": "B01",
         "name": "哈理工2019秋12",
         "organization": "哈尔滨理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郭留阳"
+          },
+          {
+            "name": "李皓丞"
+          },
+          {
+            "name": "蒲巍"
+          },
+          {
+            "name": "金恩海",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -13986,7 +16533,7 @@
     {
       "user": {
         "id": "K17",
-        "name": "*小汤河畔处处WA",
+        "name": "小汤河畔处处WA",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -14053,7 +16600,22 @@
         "id": "J05",
         "name": "扎铁了老心",
         "organization": "中国人民解放军信息工程大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "芦笑瑜"
+          },
+          {
+            "name": "程思鹏"
+          },
+          {
+            "name": "李沅锴"
+          },
+          {
+            "name": "王婧",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14117,7 +16679,22 @@
         "id": "I08",
         "name": "罗小黑战队",
         "organization": "桂林电子科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陆光湖"
+          },
+          {
+            "name": "陈丹阳"
+          },
+          {
+            "name": "吴希贤"
+          },
+          {
+            "name": "刘振丙",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14180,7 +16757,22 @@
         "id": "B20",
         "name": "我们想到一个绝妙的队名，可惜这里太小，写不下",
         "organization": "河南工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李维航"
+          },
+          {
+            "name": "计宝"
+          },
+          {
+            "name": "张伟涛"
+          },
+          {
+            "name": "程立",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14244,7 +16836,22 @@
         "id": "A16",
         "name": "搞搞搞",
         "organization": "南阳师范学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张峻溥"
+          },
+          {
+            "name": "卫洪宇"
+          },
+          {
+            "name": "刘振兴"
+          },
+          {
+            "name": "梁晶晶",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14307,7 +16914,22 @@
         "id": "H16",
         "name": "我思故我在",
         "organization": "北华大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "欧阳隆"
+          },
+          {
+            "name": "林倩"
+          },
+          {
+            "name": "秦鹏"
+          },
+          {
+            "name": "鲁静轩",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14370,7 +16992,22 @@
         "id": "G11",
         "name": "一A不WA",
         "organization": "桂林电子科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郑元昆"
+          },
+          {
+            "name": "张婷玉"
+          },
+          {
+            "name": "龚俊名"
+          },
+          {
+            "name": "王子民",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14434,7 +17071,22 @@
         "id": "D20",
         "name": "急着回家玩剑盾",
         "organization": "河海大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "颜小涵"
+          },
+          {
+            "name": "何瑾雨"
+          },
+          {
+            "name": "王竞同"
+          },
+          {
+            "name": "张雪洁",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14498,7 +17150,22 @@
         "id": "A17",
         "name": "夕山林寸",
         "organization": "北京林业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "康旭"
+          },
+          {
+            "name": "万诗龙"
+          },
+          {
+            "name": "黄奕超"
+          },
+          {
+            "name": "徐艳艳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14561,7 +17228,22 @@
         "id": "G02",
         "name": "想个队名8",
         "organization": "北京化工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "熊东东"
+          },
+          {
+            "name": "庄禹"
+          },
+          {
+            "name": "陈聘之"
+          },
+          {
+            "name": "尤枫",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14626,7 +17308,24 @@
         "name": "喵喵鹅",
         "organization": "杭州师范大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "谭洁"
+          },
+          {
+            "name": "金峥卉"
+          },
+          {
+            "name": "彭敬畏"
+          },
+          {
+            "name": "单振宇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14690,7 +17389,22 @@
         "id": "F11",
         "name": "队友骗我写假算法",
         "organization": "福建工程学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蔡宇航"
+          },
+          {
+            "name": "魏惠新"
+          },
+          {
+            "name": "汪礼俊"
+          },
+          {
+            "name": "陈义",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14754,7 +17468,22 @@
         "id": "F20",
         "name": "58岁的颜值选手",
         "organization": "合肥工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "周运沛"
+          },
+          {
+            "name": "杨家林"
+          },
+          {
+            "name": "李智"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14819,7 +17548,22 @@
         "id": "I18",
         "name": "兄弟齐心，五百来斤",
         "organization": "山东农业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王秉义"
+          },
+          {
+            "name": "徐文瞳"
+          },
+          {
+            "name": "管伟鸿"
+          },
+          {
+            "name": "费玉奎",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14883,7 +17627,22 @@
         "id": "B10",
         "name": "试一发，AC就好",
         "organization": "燕山大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "戴昊"
+          },
+          {
+            "name": "赵科森"
+          },
+          {
+            "name": "万孝国"
+          },
+          {
+            "name": "穆运峰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -14947,7 +17706,22 @@
         "id": "E17",
         "name": "全部ac不要问我几个",
         "organization": "南开大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "戚晓睿"
+          },
+          {
+            "name": "孙一丁"
+          },
+          {
+            "name": "董佳霖"
+          },
+          {
+            "name": "刘晓光",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15010,7 +17784,22 @@
         "id": "I16",
         "name": "打铁自动鸡",
         "organization": "福建师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "朱蔚钦"
+          },
+          {
+            "name": "胡天为"
+          },
+          {
+            "name": "陈政霖"
+          },
+          {
+            "name": "吴闻",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15074,7 +17863,22 @@
         "id": "C24",
         "name": "震惊！三名大学生打acm竟然发生了这种事......",
         "organization": "中国传媒大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "荆薇"
+          },
+          {
+            "name": "李晨曦"
+          },
+          {
+            "name": "陈仕柏"
+          },
+          {
+            "name": "杨丽芳",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15137,7 +17941,22 @@
         "id": "L07",
         "name": "顾氏姐妹",
         "organization": "安阳工学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "娄志垚"
+          },
+          {
+            "name": "吴军广"
+          },
+          {
+            "name": "毕志永"
+          },
+          {
+            "name": "王瑞平",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15201,7 +18020,22 @@
         "id": "G20",
         "name": "一个老学弟和两个小学长队",
         "organization": "青岛大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王聪"
+          },
+          {
+            "name": "李斌"
+          },
+          {
+            "name": "姬忠鲁"
+          },
+          {
+            "name": "张志梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15263,7 +18097,7 @@
     {
       "user": {
         "id": "I01",
-        "name": "*地基维护协会",
+        "name": "地基维护协会",
         "organization": "成都树德中学",
         "official": false
       },
@@ -15329,7 +18163,22 @@
         "id": "E07",
         "name": "涅槃",
         "organization": "北京信息科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吴礼尉"
+          },
+          {
+            "name": "潘博雅"
+          },
+          {
+            "name": "司马晨"
+          },
+          {
+            "name": "牟永敏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15393,7 +18242,22 @@
         "id": "K07",
         "name": "气球扎不爆怎么办",
         "organization": "中北大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "谢明君"
+          },
+          {
+            "name": "谢思杰"
+          },
+          {
+            "name": "伞俊霖"
+          },
+          {
+            "name": "潘广贞",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -15457,7 +18321,22 @@
         "id": "B19",
         "name": "过不了安检的铁憨憨",
         "organization": "浙江财经大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "丁一凡"
+          },
+          {
+            "name": "朱智凯"
+          },
+          {
+            "name": "徐俊楠"
+          },
+          {
+            "name": "陈琰宏",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15517,7 +18396,22 @@
         "id": "C23",
         "name": "发际线",
         "organization": "哈尔滨学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "冯小芸"
+          },
+          {
+            "name": "李瞻哲"
+          },
+          {
+            "name": "李柏松"
+          },
+          {
+            "name": "王克朝",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15578,7 +18472,22 @@
         "id": "F02",
         "name": "稳住我们能银",
         "organization": "石家庄铁道大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卢昊洋"
+          },
+          {
+            "name": "宁宇"
+          },
+          {
+            "name": "蒲煜凡"
+          },
+          {
+            "name": "沙金",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15637,7 +18546,22 @@
         "id": "J14",
         "name": "一时不好想队名",
         "organization": "南京理工大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "何家奇"
+          },
+          {
+            "name": "何政禹"
+          },
+          {
+            "name": "李佳胜"
+          },
+          {
+            "name": "余立功",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15697,7 +18621,22 @@
         "id": "F19",
         "name": "断幺九",
         "organization": "杭州电子科技大学信息工程学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蒋柯"
+          },
+          {
+            "name": "洪昕妍"
+          },
+          {
+            "name": "朱佳斌"
+          },
+          {
+            "name": "李钧",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15758,7 +18697,24 @@
         "name": "奈特沃克流",
         "organization": "北京交通大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘星雨"
+          },
+          {
+            "name": "邓修齐"
+          },
+          {
+            "name": "刘珏鸿"
+          },
+          {
+            "name": "黄华",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15817,7 +18773,22 @@
         "id": "E02",
         "name": "大草原",
         "organization": "南京邮电大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李一雄"
+          },
+          {
+            "name": "陈煜阳"
+          },
+          {
+            "name": "李昊宇"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15877,7 +18848,22 @@
         "id": "G08",
         "name": "流浪气球",
         "organization": "吉林大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "金昊邦"
+          },
+          {
+            "name": "杨浩宇"
+          },
+          {
+            "name": "刘济尘"
+          },
+          {
+            "name": "刘淼",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15937,7 +18923,22 @@
         "id": "A21",
         "name": "差不多就好",
         "organization": "江西财经大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "游心"
+          },
+          {
+            "name": "肖熠"
+          },
+          {
+            "name": "郭鹏"
+          },
+          {
+            "name": "骆斯文",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -15996,7 +18997,22 @@
         "id": "L01",
         "name": "Team1_CCPC_SCNU_SE",
         "organization": "华南师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王虹"
+          },
+          {
+            "name": "何智聪"
+          },
+          {
+            "name": "江浚哲"
+          },
+          {
+            "name": "苏海",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16055,7 +19071,22 @@
         "id": "K04",
         "name": "安师小队",
         "organization": "安阳师范学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "岳阳"
+          },
+          {
+            "name": "姜兴轮"
+          },
+          {
+            "name": "程钰杰"
+          },
+          {
+            "name": "刘凌霞",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16115,7 +19146,22 @@
         "id": "B04",
         "name": "哈撒给",
         "organization": "北京农学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "宋玉兵"
+          },
+          {
+            "name": "邓琰"
+          },
+          {
+            "name": "孙远远"
+          },
+          {
+            "name": "张仁龙",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16175,7 +19221,22 @@
         "id": "K03",
         "name": "BTTC-AC过滤器",
         "organization": "内蒙古科技大学包头师范学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "白崴"
+          },
+          {
+            "name": "于洋"
+          },
+          {
+            "name": "智浩天"
+          },
+          {
+            "name": "张久杰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16234,7 +19295,22 @@
         "id": "A06",
         "name": "算法弱者",
         "organization": "商丘学院应用科技学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈铱啸"
+          },
+          {
+            "name": "邓越"
+          },
+          {
+            "name": "王振华"
+          },
+          {
+            "name": "赵晓华",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16293,7 +19369,22 @@
         "id": "H07",
         "name": "内电子",
         "organization": "内蒙古电子信息职业技术学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张熙"
+          },
+          {
+            "name": "闫欣"
+          },
+          {
+            "name": "张浩"
+          },
+          {
+            "name": "哈里白",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16353,7 +19444,24 @@
         "name": "东林观摩团",
         "organization": "东北林业大学",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "田丁筱菲"
+          },
+          {
+            "name": "赵雪"
+          },
+          {
+            "name": "吴雨思"
+          },
+          {
+            "name": "陈宇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16412,7 +19520,22 @@
         "id": "J18",
         "name": "我们无法一起学习",
         "organization": "华东交通大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘舒蕾"
+          },
+          {
+            "name": "吴晟阳"
+          },
+          {
+            "name": "田蓥"
+          },
+          {
+            "name": "张红斌",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16471,7 +19594,22 @@
         "id": "A15",
         "name": "唯沁学姐的全球粉丝后援会",
         "organization": "山东师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王欣"
+          },
+          {
+            "name": "田健"
+          },
+          {
+            "name": "浦秋龙"
+          },
+          {
+            "name": "刘小梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16530,7 +19668,22 @@
         "id": "I19",
         "name": "燕儿飞",
         "organization": "燕山大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "邢浩哲"
+          },
+          {
+            "name": "申昊帅"
+          },
+          {
+            "name": "陈一铭"
+          },
+          {
+            "name": "赵逢达",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16587,7 +19740,7 @@
     {
       "user": {
         "id": "A23",
-        "name": "*小竹签烤肉",
+        "name": "小竹签烤肉",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -16649,7 +19802,22 @@
         "id": "C04",
         "name": "你想吃啥",
         "organization": "河北师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "赵昱森"
+          },
+          {
+            "name": "陶家欢"
+          },
+          {
+            "name": "惠晨钰"
+          },
+          {
+            "name": "张培欣",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16708,7 +19876,22 @@
         "id": "E13",
         "name": "WELCOME_to_轻大",
         "organization": "郑州轻工业学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈卓"
+          },
+          {
+            "name": "高启"
+          },
+          {
+            "name": "武成林"
+          },
+          {
+            "name": "李晔",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16768,7 +19951,22 @@
         "id": "L09",
         "name": "安财胜羽",
         "organization": "安徽财贸职业学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "祝炜曈"
+          },
+          {
+            "name": "罗瑞靖"
+          },
+          {
+            "name": "李丽娟"
+          },
+          {
+            "name": "霍卓群",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16825,7 +20023,7 @@
     {
       "user": {
         "id": "H21",
-        "name": "*听取WA声一片",
+        "name": "听取WA声一片",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -16886,7 +20084,22 @@
         "id": "I10",
         "name": "窝窝头一块钱四个",
         "organization": "西南民族大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王帅"
+          },
+          {
+            "name": "韦磊"
+          },
+          {
+            "name": "刘韩君"
+          },
+          {
+            "name": "周绪川",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -16945,7 +20158,22 @@
         "id": "J16",
         "name": "学习强国",
         "organization": "中国人民解放军信息工程大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "董煜"
+          },
+          {
+            "name": "宋智辉"
+          },
+          {
+            "name": "刘昊晖"
+          },
+          {
+            "name": "周刚",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17003,7 +20231,22 @@
         "id": "D14",
         "name": "thnu_acmer_01",
         "organization": "通化师范学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黎洋洋"
+          },
+          {
+            "name": "任佳宇"
+          },
+          {
+            "name": "杨双鸿"
+          },
+          {
+            "name": "纪洪波",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17062,7 +20305,22 @@
         "id": "F07",
         "name": "幼儿园班车",
         "organization": "曲阜师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卞振伟"
+          },
+          {
+            "name": "于涛"
+          },
+          {
+            "name": "张宇"
+          },
+          {
+            "name": "公冶小燕",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17122,7 +20380,22 @@
         "id": "J10",
         "name": "IMU-感到鸭力",
         "organization": "内蒙古大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "周萌"
+          },
+          {
+            "name": "秦海祺"
+          },
+          {
+            "name": "王金宁"
+          },
+          {
+            "name": "魏宏喜",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17181,7 +20454,22 @@
         "id": "B03",
         "name": "恶魔卖萌喵喵喵",
         "organization": "上海电机学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "潘嘉杰"
+          },
+          {
+            "name": "刘晓鹏"
+          },
+          {
+            "name": "许欢"
+          },
+          {
+            "name": "吉顺如",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17241,7 +20529,22 @@
         "id": "B16",
         "name": "IMUST-不想TLE",
         "organization": "内蒙古科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李浩"
+          },
+          {
+            "name": "王剑波"
+          },
+          {
+            "name": "曹以诚"
+          },
+          {
+            "name": "兰孝文",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17300,7 +20603,22 @@
         "id": "B13",
         "name": "霖之子至",
         "organization": "东莞理工学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林钾钒"
+          },
+          {
+            "name": "韦至韬"
+          },
+          {
+            "name": "杜子聪"
+          },
+          {
+            "name": "陈传祥",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17359,7 +20677,22 @@
         "id": "I15",
         "name": "别打cf",
         "organization": "天津工业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "朱斌扬"
+          },
+          {
+            "name": "张旭"
+          },
+          {
+            "name": "周邱涵"
+          },
+          {
+            "name": "任淑霞",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17418,7 +20751,22 @@
         "id": "J17",
         "name": "国家级打铁队",
         "organization": "河北农业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王斌成"
+          },
+          {
+            "name": "方虎成"
+          },
+          {
+            "name": "吴亮"
+          },
+          {
+            "name": "周桂红",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17478,7 +20826,22 @@
         "id": "D15",
         "name": "师大一队",
         "organization": "内蒙古师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘兴民"
+          },
+          {
+            "name": "张泽兴"
+          },
+          {
+            "name": "张志鹏"
+          },
+          {
+            "name": "孟繁军",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17537,7 +20900,22 @@
         "id": "D03",
         "name": "跳跃龙门",
         "organization": "河南科技大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘健"
+          },
+          {
+            "name": "王涛"
+          },
+          {
+            "name": "李家祥"
+          },
+          {
+            "name": "李连民",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17596,7 +20974,22 @@
         "id": "J20",
         "name": "航天救火大队",
         "organization": "北华航天工业学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "毛经伦"
+          },
+          {
+            "name": "宋耀东"
+          },
+          {
+            "name": "丁梓峻"
+          },
+          {
+            "name": "斯庆巴拉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17655,7 +21048,22 @@
         "id": "G09",
         "name": "答案",
         "organization": "淮北师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪岩"
+          },
+          {
+            "name": "李泽民"
+          },
+          {
+            "name": "余兴兴"
+          },
+          {
+            "name": "宋万干",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17715,7 +21123,22 @@
         "id": "C14",
         "name": "她扒拉我",
         "organization": "河北工程大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孙元晨"
+          },
+          {
+            "name": "邓燕朝"
+          },
+          {
+            "name": "李晓洋"
+          },
+          {
+            "name": "薛红梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17775,7 +21198,22 @@
         "id": "A13",
         "name": "六神花露水真的好用",
         "organization": "武昌首义学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蒋佳洲"
+          },
+          {
+            "name": "吴思达"
+          },
+          {
+            "name": "黄澳"
+          },
+          {
+            "name": "金兰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17834,7 +21272,22 @@
         "id": "A18",
         "name": "拿铁",
         "organization": "山东师范大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郑欣玥"
+          },
+          {
+            "name": "马云龙"
+          },
+          {
+            "name": "赵宝乐"
+          },
+          {
+            "name": "刘小梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17893,7 +21346,24 @@
         "name": "集师二队",
         "organization": "集宁师范学院",
         "official": true,
-        "marker": "female"
+        "markers": [
+          "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "魏富生"
+          },
+          {
+            "name": "翁雪莹"
+          },
+          {
+            "name": "伊丽娜"
+          },
+          {
+            "name": "谢英杰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -17951,7 +21421,22 @@
         "id": "D19",
         "name": "看队友打代码",
         "organization": "中南民族大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "余关林"
+          },
+          {
+            "name": "石雷鸣"
+          },
+          {
+            "name": "万祚全"
+          },
+          {
+            "name": "刘卫平",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18010,7 +21495,22 @@
         "id": "E23",
         "name": "集师一队",
         "organization": "集宁师范学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "金敏"
+          },
+          {
+            "name": "李钰铖"
+          },
+          {
+            "name": "徐曈"
+          },
+          {
+            "name": "谢英杰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18069,7 +21569,22 @@
         "id": "B11",
         "name": "你写代码像cxk",
         "organization": "黑龙江工程学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘亮"
+          },
+          {
+            "name": "杨云鹏"
+          },
+          {
+            "name": "卢鹏"
+          },
+          {
+            "name": "李军",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18128,7 +21643,22 @@
         "id": "G19",
         "name": "楼上大佬等等我",
         "organization": "东北电力大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "熊茂林"
+          },
+          {
+            "name": "吴胤谷"
+          },
+          {
+            "name": "欧昀"
+          },
+          {
+            "name": "孟凡奇",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18186,7 +21716,7 @@
     {
       "user": {
         "id": "C18",
-        "name": "*科学脱发研究小队",
+        "name": "科学脱发研究小队",
         "organization": "东北大学秦皇岛分校",
         "official": false
       },
@@ -18247,7 +21777,22 @@
         "id": "J09",
         "name": "蒟蒻出门看大佬",
         "organization": "黑龙江大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄祺深"
+          },
+          {
+            "name": "宋福海"
+          },
+          {
+            "name": "石奇欣"
+          },
+          {
+            "name": "徐辉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18305,7 +21850,22 @@
         "id": "K16",
         "name": "口算MD5",
         "organization": "河北农业大学现代科技学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李晓晓"
+          },
+          {
+            "name": "刘恺煊"
+          },
+          {
+            "name": "马鑫"
+          },
+          {
+            "name": "李红梅",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18364,7 +21924,22 @@
         "id": "E08",
         "name": "保定府槐茂酱油队",
         "organization": "保定职业技术学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "满帅"
+          },
+          {
+            "name": "杨自航"
+          },
+          {
+            "name": "郭燕伟"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18424,7 +21999,22 @@
         "id": "E20",
         "name": "秦皇岛一日游",
         "organization": "河北大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨宇生"
+          },
+          {
+            "name": "崔博"
+          },
+          {
+            "name": "陈家兴"
+          },
+          {
+            "name": "罗文劼",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18483,7 +22073,22 @@
         "id": "E21",
         "name": "算法从入门到光头",
         "organization": "河北农业大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王啸岳"
+          },
+          {
+            "name": "暴泽伦"
+          },
+          {
+            "name": "陈亮"
+          },
+          {
+            "name": "程银波",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18542,7 +22147,22 @@
         "id": "J01",
         "name": "IMU-守护最好的坤坤",
         "organization": "内蒙古大学",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄姚佳"
+          },
+          {
+            "name": "张泽宇"
+          },
+          {
+            "name": "于天浩"
+          },
+          {
+            "name": "魏宏喜",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -18599,10 +22219,12 @@
     {
       "user": {
         "id": "K06",
-        "name": "*thnu_acmer_02",
+        "name": "thnu_acmer_02",
         "organization": "通化师范学院",
         "official": false,
-        "marker": "female"
+        "markers": [
+          "female"
+        ]
       },
       "score": {
         "value": 1,
@@ -18660,7 +22282,22 @@
         "id": "F06",
         "name": "蒟蒻",
         "organization": "华东交通大学理工学院",
-        "official": true
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张攀"
+          },
+          {
+            "name": "温鑫"
+          },
+          {
+            "name": "王天福"
+          },
+          {
+            "name": "龚文辉",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
