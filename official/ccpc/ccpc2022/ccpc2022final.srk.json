@@ -19,6 +19,13 @@
     "refLinks": [
       {
         "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/ccpc2022final"
+      },
+      {
+        "title": {
           "zh-CN": "赛题重现",
           "fallback": "Reproduced Contest"
         },
@@ -121,7 +128,7 @@
   ],
   "series": [
     {
-      "title": "#",
+      "title": "本科#",
       "segments": [
         {
           "title": "金奖",
@@ -139,11 +146,46 @@
       "rule": {
         "preset": "ICPC",
         "options": {
+          "filter": {
+            "byMarker": "undergraduate"
+          },
           "count": {
             "value": [
-              0,
-              0,
-              0
+              13,
+              24,
+              35
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "专科#",
+      "segments": [
+        {
+          "title": "金奖",
+          "style": "gold"
+        },
+        {
+          "title": "银奖",
+          "style": "silver"
+        },
+        {
+          "title": "铜奖",
+          "style": "bronze"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "filter": {
+            "byMarker": "hv"
+          },
+          "count": {
+            "value": [
+              1,
+              2,
+              3
             ]
           }
         }
@@ -181,9 +223,16 @@
           },
           {
             "name": "蒋凌宇"
+          },
+          {
+            "name": "罗国杰",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 11,
@@ -496,9 +545,16 @@
           },
           {
             "name": "钱易"
+          },
+          {
+            "name": "张勤健",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 10,
@@ -783,9 +839,16 @@
           },
           {
             "name": "黄子宽"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 9,
@@ -1040,9 +1103,16 @@
           },
           {
             "name": "陈于思"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 8,
@@ -1325,9 +1395,16 @@
           },
           {
             "name": "胡家齐"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 8,
@@ -1630,9 +1707,16 @@
           },
           {
             "name": "王照梓"
+          },
+          {
+            "name": "俞勇",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 7,
@@ -1962,9 +2046,16 @@
           },
           {
             "name": "邹知秋"
+          },
+          {
+            "name": "林永钢",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 7,
@@ -2192,9 +2283,16 @@
           },
           {
             "name": "赵政和"
+          },
+          {
+            "name": "刘春英",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 7,
@@ -2429,9 +2527,16 @@
           },
           {
             "name": "陈逸"
+          },
+          {
+            "name": "王灿",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -2687,9 +2792,16 @@
           },
           {
             "name": "陈以信"
+          },
+          {
+            "name": "陈志",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -3196,9 +3308,16 @@
           },
           {
             "name": "龚宸"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -3433,9 +3552,16 @@
           },
           {
             "name": "陈可汗"
+          },
+          {
+            "name": "孙未未",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -3647,9 +3773,16 @@
           },
           {
             "name": "陈晓"
+          },
+          {
+            "name": "马骏",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -3942,9 +4075,16 @@
           },
           {
             "name": "陈则佳"
+          },
+          {
+            "name": "俞勇",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -4193,9 +4333,16 @@
           },
           {
             "name": "陈涣焕"
+          },
+          {
+            "name": "余立功",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -4430,9 +4577,16 @@
           },
           {
             "name": "郑量"
+          },
+          {
+            "name": "罗伟",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -4674,9 +4828,16 @@
           },
           {
             "name": "高诗豪"
+          },
+          {
+            "name": "张子臻",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -4946,9 +5107,16 @@
           },
           {
             "name": "赵伯阳"
+          },
+          {
+            "name": "陈再良",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -5174,9 +5342,16 @@
           },
           {
             "name": "王子恒"
+          },
+          {
+            "name": "尹良泽",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -5390,9 +5565,16 @@
           },
           {
             "name": "陈开宇"
+          },
+          {
+            "name": "何琨",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -5674,9 +5856,16 @@
           },
           {
             "name": "朱子涵"
+          },
+          {
+            "name": "杨鹏",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -5930,9 +6119,16 @@
           },
           {
             "name": "汪子杰"
+          },
+          {
+            "name": "倪庆剑",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -6186,9 +6382,16 @@
           },
           {
             "name": "李祯浩"
+          },
+          {
+            "name": "刘淼",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -6470,9 +6673,16 @@
           },
           {
             "name": "王英吉"
+          },
+          {
+            "name": "陈慧萍",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 6,
@@ -6733,9 +6943,16 @@
           },
           {
             "name": "杜鼎勋"
+          },
+          {
+            "name": "喻梅",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -6947,9 +7164,16 @@
           },
           {
             "name": "欧梓洋"
+          },
+          {
+            "name": "张子臻",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -7198,9 +7422,16 @@
           },
           {
             "name": "王昊宇"
+          },
+          {
+            "name": "国林",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -7390,9 +7621,16 @@
         "teamMembers": [
           {
             "name": "齐思恺"
+          },
+          {
+            "name": "钱丽萍",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -7618,9 +7856,16 @@
           },
           {
             "name": "邹品聪"
+          },
+          {
+            "name": "林文水",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -7874,9 +8119,16 @@
           },
           {
             "name": "董兆琦"
+          },
+          {
+            "name": "郑关胜",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -8109,9 +8361,16 @@
           },
           {
             "name": "闫卢昊"
+          },
+          {
+            "name": "赵冬冬",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -8365,9 +8624,16 @@
           },
           {
             "name": "柳徐吉"
+          },
+          {
+            "name": "李钧",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -8635,10 +8901,17 @@
           },
           {
             "name": "陆佳艺"
+          },
+          {
+            "name": "孙未未",
+            "role": "coach"
           }
         ],
         "official": true,
-        "marker": "female"
+        "markers": [
+          "undergraduate",
+          "female"
+        ]
       },
       "score": {
         "value": 5,
@@ -8841,9 +9114,16 @@
           },
           {
             "name": "郭昱哲"
+          },
+          {
+            "name": "许华婷",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -9146,9 +9426,16 @@
           },
           {
             "name": "郭青硕"
+          },
+          {
+            "name": "马晨昊",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -9444,9 +9731,16 @@
           },
           {
             "name": "张乐天"
+          },
+          {
+            "name": "叶晨",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -9642,9 +9936,16 @@
           },
           {
             "name": "闵家旭"
+          },
+          {
+            "name": "宋友",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -10003,9 +10304,16 @@
           },
           {
             "name": "罗杰"
+          },
+          {
+            "name": "张淑平",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -10210,9 +10518,16 @@
           },
           {
             "name": "金义扬"
+          },
+          {
+            "name": "孙大烈",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -10508,9 +10823,16 @@
           },
           {
             "name": "蔡玉聪"
+          },
+          {
+            "name": "董文永",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -10729,9 +11051,16 @@
           },
           {
             "name": "龚奕天"
+          },
+          {
+            "name": "蒋彦",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -10955,9 +11284,16 @@
           },
           {
             "name": "陈载元"
+          },
+          {
+            "name": "刘春英",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -11239,9 +11575,16 @@
           },
           {
             "name": "麦骏"
+          },
+          {
+            "name": "张震",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -11472,9 +11815,16 @@
           },
           {
             "name": "蒋润浩"
+          },
+          {
+            "name": "韩建民",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -11742,9 +12092,16 @@
           },
           {
             "name": "邱宇"
+          },
+          {
+            "name": "张卫星",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -12019,10 +12376,17 @@
           },
           {
             "name": "韩豫葳"
+          },
+          {
+            "name": "邬晓钧",
+            "role": "coach"
           }
         ],
         "official": true,
-        "marker": "female"
+        "markers": [
+          "undergraduate",
+          "female"
+        ]
       },
       "score": {
         "value": 5,
@@ -12316,9 +12680,16 @@
           },
           {
             "name": "王佳禾"
+          },
+          {
+            "name": "杨亚",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -12649,9 +13020,16 @@
           },
           {
             "name": "郝良友"
+          },
+          {
+            "name": "王睿",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -12912,9 +13290,16 @@
           },
           {
             "name": "王瑞"
+          },
+          {
+            "name": "韩姗姗",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -13196,9 +13581,16 @@
           },
           {
             "name": "王徐笙"
+          },
+          {
+            "name": "马俊",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 5,
@@ -13571,9 +13963,16 @@
           },
           {
             "name": "韩雨辰"
+          },
+          {
+            "name": "鹿旭东",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -13804,9 +14203,16 @@
           },
           {
             "name": "辜飞云"
+          },
+          {
+            "name": "甘玲",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -14025,9 +14431,16 @@
           },
           {
             "name": "陈璐瑶"
+          },
+          {
+            "name": "唐博",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -14239,9 +14652,16 @@
           },
           {
             "name": "钟鸣"
+          },
+          {
+            "name": "叶俊民",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -14467,9 +14887,16 @@
           },
           {
             "name": "陈奕涵"
+          },
+          {
+            "name": "张雪洁",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -14679,9 +15106,16 @@
           },
           {
             "name": "李坚辉"
+          },
+          {
+            "name": "付莹",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -14919,9 +15353,16 @@
           },
           {
             "name": "顾俊辉"
+          },
+          {
+            "name": "朱晓旭",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -15124,9 +15565,16 @@
           },
           {
             "name": "闫学城"
+          },
+          {
+            "name": "李军",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -15324,9 +15772,16 @@
           },
           {
             "name": "黄恺瑞"
+          },
+          {
+            "name": "张玉清",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -15508,9 +15963,16 @@
           },
           {
             "name": "梁珊"
+          },
+          {
+            "name": "唐琳琳",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -15771,9 +16233,16 @@
           },
           {
             "name": "魏佳蕾"
+          },
+          {
+            "name": "罗迅",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -16008,9 +16477,16 @@
           },
           {
             "name": "陈雯丽"
+          },
+          {
+            "name": "王智",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -16299,10 +16775,17 @@
           },
           {
             "name": "郭沈琳"
+          },
+          {
+            "name": "朱晓旭",
+            "role": "coach"
           }
         ],
         "official": true,
-        "marker": "female"
+        "markers": [
+          "undergraduate",
+          "female"
+        ]
       },
       "score": {
         "value": 4,
@@ -16491,9 +16974,16 @@
           },
           {
             "name": "李嘉琦"
+          },
+          {
+            "name": "王艺源",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -16703,9 +17193,16 @@
           },
           {
             "name": "钟明汉"
+          },
+          {
+            "name": "陈智",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -16915,9 +17412,16 @@
           },
           {
             "name": "苑骏康"
+          },
+          {
+            "name": "孙晓明",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -17111,9 +17615,16 @@
           },
           {
             "name": "李翔宇"
+          },
+          {
+            "name": "王敬东",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -17365,9 +17876,16 @@
           },
           {
             "name": "陈奕池"
+          },
+          {
+            "name": "喻梅",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -17584,9 +18102,16 @@
           },
           {
             "name": "薛淞尹"
+          },
+          {
+            "name": "叶海荣",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -17810,9 +18335,16 @@
           },
           {
             "name": "胡洁昌"
+          },
+          {
+            "name": "周春樵",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -18029,9 +18561,16 @@
           },
           {
             "name": "陈逸霖"
+          },
+          {
+            "name": "孙宣东",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -18283,9 +18822,16 @@
           },
           {
             "name": "竺夏"
+          },
+          {
+            "name": "陈暄",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 4,
@@ -18502,9 +19048,16 @@
           },
           {
             "name": "姚远"
+          },
+          {
+            "name": "邹春然",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -18744,7 +19297,10 @@
             "name": "魏志高"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -18963,7 +19519,10 @@
             "name": "朱名扬"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -19175,7 +19734,10 @@
             "name": "田雨阳"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -19408,7 +19970,10 @@
             "name": "钟天宇"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -19627,7 +20192,10 @@
             "name": "顾红卫"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -19818,7 +20386,10 @@
             "name": "高源"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -20067,7 +20638,10 @@
             "name": "黄问远"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -20279,7 +20853,10 @@
             "name": "黄锐"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -20505,7 +21082,10 @@
             "name": "江宇杰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -20733,7 +21313,10 @@
             "name": "郑上锟"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -20987,7 +21570,10 @@
             "name": "顾曦骏"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -21292,7 +21878,10 @@
             "name": "赵玉航"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -21488,7 +22077,10 @@
             "name": "郑皓阳"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -21726,7 +22318,10 @@
             "name": "钱晨炼"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -21973,7 +22568,10 @@
             "name": "陶钧"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -22213,7 +22811,10 @@
             "name": "范晨阳"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -22460,7 +23061,10 @@
             "name": "陈志朋"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -22828,7 +23432,10 @@
             "name": "黄城帆"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -23068,7 +23675,10 @@
           }
         ],
         "official": true,
-        "marker": "female"
+        "markers": [
+          "undergraduate",
+          "female"
+        ]
       },
       "score": {
         "value": 4,
@@ -23385,7 +23995,10 @@
             "name": "覃醒亮"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 4,
@@ -23609,7 +24222,10 @@
             "name": "鲁智昊"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -23815,7 +24431,10 @@
           }
         ],
         "official": true,
-        "marker": "female"
+        "markers": [
+          "undergraduate",
+          "female"
+        ]
       },
       "score": {
         "value": 3,
@@ -24034,7 +24653,10 @@
             "name": "解裕懋"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -24258,7 +24880,10 @@
             "name": "闫亚鑫"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -24459,9 +25084,16 @@
           },
           {
             "name": "郭泽楷"
+          },
+          {
+            "name": "黄河清",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 3,
@@ -24627,7 +25259,10 @@
             "name": "林诗润"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -24816,7 +25451,10 @@
             "name": "秦浩然"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -25033,7 +25671,10 @@
             "name": "王健彬"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -25266,7 +25907,10 @@
             "name": "郭梦贞"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -25469,7 +26113,10 @@
             "name": "陈侠"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -25665,7 +26312,10 @@
             "name": "陈昊旸"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -25949,7 +26599,10 @@
             "name": "颜潇冉"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -26131,7 +26784,10 @@
             "name": "汪埕浩"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -26376,7 +27032,10 @@
             "name": "闵烁"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -26616,7 +27275,10 @@
             "name": "陈彦澍"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -26835,7 +27497,10 @@
             "name": "陈志锐"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -27073,7 +27738,10 @@
             "name": "杨斌涵"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -27290,7 +27958,10 @@
             "name": "韩明睿"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -27514,7 +28185,10 @@
             "name": "贾金"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -27708,7 +28382,10 @@
             "name": "邓惠敏"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 3,
@@ -27951,7 +28628,10 @@
             "name": "葛俊辰"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -28187,7 +28867,10 @@
             "name": "袁茂恒"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -28425,7 +29108,10 @@
             "name": "陈煜晗"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -28778,9 +29464,16 @@
           },
           {
             "name": "褚茂誉"
+          },
+          {
+            "name": "梅旭时",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 2,
@@ -29067,7 +29760,10 @@
             "name": "潘清源"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -29254,7 +29950,10 @@
             "name": "郭宇霄"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -29478,9 +30177,16 @@
           },
           {
             "name": "郑依婷"
+          },
+          {
+            "name": "谢杰伟",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 2,
@@ -29644,9 +30350,16 @@
           },
           {
             "name": "金汝霖"
+          },
+          {
+            "name": "黄振业",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 2,
@@ -29952,7 +30665,10 @@
             "name": "苏锦波"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 2,
@@ -30142,9 +30858,16 @@
           },
           {
             "name": "谢榕"
+          },
+          {
+            "name": "张驰",
+            "role": "coach"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 2,
@@ -30364,7 +31087,10 @@
             "name": "郭泽森"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 1,
@@ -30651,7 +31377,10 @@
             "name": "谢天佑"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 1,
@@ -30880,7 +31609,10 @@
             "name": "王徐超"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 1,
@@ -31095,7 +31827,10 @@
             "name": "袁语欣"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 1,
@@ -31273,7 +32008,10 @@
             "name": "易发平"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "undergraduate"
+        ]
       },
       "score": {
         "value": 0,
@@ -31542,7 +32280,10 @@
             "name": "顾光辉"
           }
         ],
-        "official": true
+        "official": true,
+        "markers": [
+          "hv"
+        ]
       },
       "score": {
         "value": 0,
@@ -32061,6 +32802,16 @@
     }
   },
   "markers": [
+    {
+      "id": "undergraduate",
+      "label": "本科",
+      "style": "blue"
+    },
+    {
+      "id": "hv",
+      "label": "专科",
+      "style": "green"
+    },
     {
       "id": "female",
       "label": "女队",

@@ -19,17 +19,17 @@
     "refLinks": [
       {
         "title": {
-          "zh-CN": "赛题重现",
-          "fallback": "Reproduced Contest"
-        },
-        "link": "https://codeforces.com/gym/103860"
-      },
-      {
-        "title": {
           "zh-CN": "原始榜单文件",
           "fallback": "Raw Ranklist Files"
         },
         "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/ccpc2021final"
+      },
+      {
+        "title": {
+          "zh-CN": "赛题重现",
+          "fallback": "Reproduced Contest"
+        },
+        "link": "https://codeforces.com/gym/103860"
       }
     ]
   },
