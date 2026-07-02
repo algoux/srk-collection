@@ -8,16 +8,24 @@
   ],
   "contest": {
     "title": {
-      "zh-CN": "第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（南京）-南京航空航天大学",
-      "en": "The 2018 ICPC Asia Nanjing Regional Contest",
-      "fallback": "The 2018 ICPC Asia Nanjing Regional Contest"
+      "zh-CN": "第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（南京） （南京航空航天大学）",
+      "en": "The 2018 ICPC Asia Nanjing Regional Contest (Nanjing University of Aeronautics and Astronautics)",
+      "fallback": "The 2018 ICPC Asia Nanjing Regional Contest (Nanjing University of Aeronautics and Astronautics)"
     },
     "startAt": "2018-10-14T09:00:00+08:00",
     "duration": [
       5,
       "h"
     ],
+    "banner": "assets/banner.png",
     "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2018nanjing"
+      },
       {
         "title": {
           "zh-CN": "赛题重现",

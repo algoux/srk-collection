@@ -3,9 +3,9 @@
   "version": "0.3.12",
   "contest": {
     "title": {
-      "zh-CN": "第44届ICPC国际大学生程序设计竞赛亚洲区域赛（上海）",
-      "en": "The 2019 ICPC Asia Shanghai Regional Contest",
-      "fallback": "The 2019 ICPC Asia Shanghai Regional Contest"
+      "zh-CN": "第44届ICPC国际大学生程序设计竞赛亚洲区域赛（上海） （上海大学）",
+      "en": "The 2019 ICPC Asia Shanghai Regional Contest (Shanghai University)",
+      "fallback": "The 2019 ICPC Asia Shanghai Regional Contest (Shanghai University)"
     },
     "startAt": "2019-11-24T09:00:00+08:00",
     "duration": [
@@ -15,6 +15,15 @@
     "frozenDuration": [
       1,
       "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2019shanghai"
+      }
     ]
   },
   "contributors": [

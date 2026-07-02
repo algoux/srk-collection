@@ -3,9 +3,9 @@
   "version": "0.3.12",
   "contest": {
     "title": {
-      "zh-CN": "第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站）",
-      "en": "2018-2019 ACM-ICPC, Asia Jiaozuo Regional Contest",
-      "fallback": "2018-2019 ACM-ICPC, Asia Jiaozuo Regional Contest"
+      "zh-CN": "第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（焦作站） （河南理工大学）",
+      "en": "2018-2019 ACM-ICPC, Asia Jiaozuo Regional Contest (Henan Polytechnic University)",
+      "fallback": "2018-2019 ACM-ICPC, Asia Jiaozuo Regional Contest (Henan Polytechnic University)"
     },
     "startAt": "2018-11-25T09:00:00+08:00",
     "duration": [
@@ -17,6 +17,13 @@
       "h"
     ],
     "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2018jiaozuo"
+      },
       {
         "title": {
           "zh-CN": "赛题重现",

@@ -3,9 +3,9 @@
   "version": "0.3.12",
   "contest": {
     "title": {
-      "zh-CN": "第43届ACM国际大学生程序设计竞赛亚洲区域赛（沈阳站）",
-      "en": "2018-2019 ACM-ICPC, Asia Shenyang Regional Contest",
-      "fallback": "2018-2019 ACM-ICPC, Asia Shenyang Regional Contest"
+      "zh-CN": "第43届ACM国际大学生程序设计竞赛亚洲区域赛（沈阳站） （东北大学）",
+      "en": "2018-2019 ACM-ICPC, Asia Shenyang Regional Contest (Northeastern University)",
+      "fallback": "2018-2019 ACM-ICPC, Asia Shenyang Regional Contest (Northeastern University)"
     },
     "startAt": "2018-10-21T09:00:00+08:00",
     "duration": [
@@ -17,6 +17,13 @@
       "h"
     ],
     "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2018shenyang"
+      },
       {
         "title": {
           "zh-CN": "赛题重现",

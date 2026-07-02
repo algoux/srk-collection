@@ -3,9 +3,9 @@
   "version": "0.3.12",
   "contest": {
     "title": {
-      "zh-CN": "第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（徐州站）",
-      "en": "2018-2019 ACM-ICPC, Asia Xuzhou Regional Contest",
-      "fallback": "2018-2019 ACM-ICPC, Asia Xuzhou Regional Contest"
+      "zh-CN": "第43届ACM-ICPC国际大学生程序设计竞赛亚洲区域赛（徐州站） （中国矿业大学）",
+      "en": "2018-2019 ACM-ICPC, Asia Xuzhou Regional Contest (China University of Mining and Technology)",
+      "fallback": "2018-2019 ACM-ICPC, Asia Xuzhou Regional Contest (China University of Mining and Technology)"
     },
     "startAt": "2018-10-28T09:00:00+08:00",
     "duration": [
@@ -18,6 +18,13 @@
     ],
     "banner": "assets/banner.png",
     "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2018xuzhou"
+      },
       {
         "title": {
           "zh-CN": "赛题重现",
