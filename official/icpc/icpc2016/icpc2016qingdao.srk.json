@@ -1,0 +1,5337 @@
+{
+  "type": "general",
+  "version": "0.3.13",
+  "contributors": [
+    "SDUTACM (https://acm.sdut.edu.cn)",
+    "algoUX (https://algoux.org)"
+  ],
+  "contest": {
+    "title": {
+      "zh-CN": "The 2016 ACM-ICPC Asia QingDao Regional Contest （中国石油大学）",
+      "fallback": "The 2016 ACM-ICPC Asia QingDao Regional Contest (China University of Petroleum)"
+    },
+    "startAt": "2016-11-13T09:00:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ],
+    "frozenDuration": [
+      1,
+      "h"
+    ],
+    "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2016qingdao"
+      }
+    ]
+  },
+  "remarks": {
+    "zh-CN": "这个榜单缺失奖牌数据、详细提交数据和优胜奖（暂被标记为 0 题）数据。如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks medal data, detailed submission data, and Honorable Mention data (temporarily marked as 0 problems). If you have the original ranklist or award list, please contact us to supplement the data."
+  },
+  "sorter": {
+    "algorithm": "ICPC",
+    "config": {
+      "penalty": [
+        20,
+        "min"
+      ],
+      "timePrecision": "min",
+      "noPenaltyResults": [
+        "FB",
+        "AC",
+        "?",
+        "NOUT",
+        "CE",
+        "UKE",
+        null
+      ]
+    }
+  },
+  "series": [
+    {
+      "title": "#",
+      "segments": [
+        {
+          "title": "Gold Medalist",
+          "style": "gold"
+        },
+        {
+          "title": "Silver Medalist",
+          "style": "silver"
+        },
+        {
+          "title": "Bronze Medalist",
+          "style": "bronze"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "problems": [],
+  "rows": [
+    {
+      "user": {
+        "id": "official-1",
+        "name": "Deep Dark Fantasy",
+        "organization": "Tsinghua University",
+        "official": true
+      },
+      "score": {
+        "value": 9,
+        "time": [
+          1249,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-2",
+        "name": "The Descendant of Siuwah",
+        "organization": "The Chinese University of Hong Kong",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          963,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-3",
+        "name": "FireFoggyFrog",
+        "organization": "Tsinghua University",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          915,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-4",
+        "name": "boating fish",
+        "organization": "Peking University",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1137,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-5",
+        "name": "doubility",
+        "organization": "South China University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1076,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-6",
+        "name": "TDL",
+        "organization": "Beihang University",
+        "official": true
+      },
+      "score": {
+        "value": 7,
+        "time": [
+          1211,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-7",
+        "name": "SaltyFish",
+        "organization": "Beijing Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          666,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-8",
+        "name": "Ryusei",
+        "organization": "Peking University",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          676,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-9",
+        "name": "Reshiram",
+        "organization": "Shanghai Jiao Tong University",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          697,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-10",
+        "name": "Three Retired Doge",
+        "organization": "Northeastern University (China)",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          770,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-11",
+        "name": "El Dorado",
+        "organization": "National University of Defense Technology",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          843,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-12",
+        "name": "UESTC_Manaphy",
+        "organization": "University of Electronic Science and Technology of China",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          873,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-13",
+        "name": "RaisingHeart",
+        "organization": "Fudan University",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1013,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-14",
+        "name": "Rising RP",
+        "organization": "Shandong University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          979,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-15",
+        "name": "One More Player Needed",
+        "organization": "Tsinghua University",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          876,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-16",
+        "name": "A_Dictator",
+        "organization": "Fudan University",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1083,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-17",
+        "name": "ColdForces",
+        "organization": "Beijing Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 6,
+        "time": [
+          1209,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-18",
+        "name": "Avalon",
+        "organization": "Nanjing University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          458,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-19",
+        "name": "Spear of Longinus",
+        "organization": "Shanghai Jiao Tong University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          369,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-20",
+        "name": "decent team",
+        "organization": "University of Chinese Academy of Sciences",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          487,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-21",
+        "name": "Dominoes",
+        "organization": "Zhejiang University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          550,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-22",
+        "name": "SYSU_HearMeRoar",
+        "organization": "Zhongshan (Sun Yat-sen) University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          555,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-23",
+        "name": "BUPT_Caicai_Musketeers",
+        "organization": "Beijing University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          566,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-24",
+        "name": "interesting1",
+        "organization": "Hefei University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          576,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-25",
+        "name": "UESTC_Alkaid",
+        "organization": "University of Electronic Science and Technology of China",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          561,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-26",
+        "name": "C=Q/U",
+        "organization": "Chongqing University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          613,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-27",
+        "name": "HDU-Soohyun",
+        "organization": "Hangzhou Dianzi University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          621,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-28",
+        "name": "Wand Maker",
+        "organization": "Shanghai University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          583,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-29",
+        "name": "system_pause",
+        "organization": "Peking University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          587,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-30",
+        "name": "HIT_Viewer",
+        "organization": "Harbin Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          672,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-31",
+        "name": "SYSU_WinterIsComing",
+        "organization": "Zhongshan (Sun Yat-sen) University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          700,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-32",
+        "name": "ThreeSbs",
+        "organization": "Guangdong University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          674,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-33",
+        "name": "UESTC_moonflower",
+        "organization": "University of Electronic Science and Technology of China",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          701,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-34",
+        "name": "SCAU_3_potatoes",
+        "organization": "South China Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          712,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-35",
+        "name": "Sad Frog",
+        "organization": "Nanjing University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          821,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-36",
+        "name": "Sectumsempra",
+        "organization": "University of Science and Technology Beijing",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          742,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-37",
+        "name": "OrangePlus",
+        "organization": "Fuzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          926,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-38",
+        "name": "HIT_eulereulereuler",
+        "organization": "Harbin Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          982,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-39",
+        "name": "ACman Go!",
+        "organization": "University of Hong Kong",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          1131,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-40",
+        "name": "Three Bears",
+        "organization": "Harbin Engineering University",
+        "official": true
+      },
+      "score": {
+        "value": 5,
+        "time": [
+          1049,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-41",
+        "name": "pied piper",
+        "organization": "Wuhan University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          290,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-42",
+        "name": "admin_root",
+        "organization": "China University of Geosciences, Beijing",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          303,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-43",
+        "name": "HDU-girls",
+        "organization": "Hangzhou Dianzi University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          364,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-44",
+        "name": "Dawn",
+        "organization": "Hunan University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          371,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-45",
+        "name": "voidMian",
+        "organization": "Zhejiang University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          367,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-46",
+        "name": "Loudly，please",
+        "organization": "East China Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          369,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-47",
+        "name": "Id rather than dance",
+        "organization": "Zhejiang Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          378,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-48",
+        "name": "NeverSayNever",
+        "organization": "Beijing Jiaotong University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          383,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-49",
+        "name": "SingleWheelDrive",
+        "organization": "Information Engineering College of Hangzhou Dianzi University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          372,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-50",
+        "name": "Reliant",
+        "organization": "Shandong University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          387,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-51",
+        "name": "Moonlight",
+        "organization": "Zhejiang University of Finance and Economics",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          395,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-52",
+        "name": "SDU_Chitanda",
+        "organization": "Shandong University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          414,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-53",
+        "name": "this is not named by me",
+        "organization": "Nanjing University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          399,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-54",
+        "name": "RecursiveBoys",
+        "organization": "East China Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          420,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-55",
+        "name": "CUMTCS@2016",
+        "organization": "China University of Mining and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          427,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-56",
+        "name": "TJU_alias_cd=rmdir",
+        "organization": "Tianjin University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          434,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-57",
+        "name": "Nebula",
+        "organization": "Central China Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          445,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-58",
+        "name": "hua ji",
+        "organization": "Fujian Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          447,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-59",
+        "name": "SCAU_a_little_drunk",
+        "organization": "South China Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          462,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-60",
+        "name": "usxt01",
+        "organization": "Shaoxing University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          462,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-61",
+        "name": "Topo",
+        "organization": "Chongqing University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          462,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-62",
+        "name": "BWEEEEEEEEEEE",
+        "organization": "Harbin Institute of Technology at Weihai",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          285,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-63",
+        "name": "Riverrun",
+        "organization": "Jishou University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          473,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-64",
+        "name": "Mogicians",
+        "organization": "Fuzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          474,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-65",
+        "name": "SleepingForest",
+        "organization": "Guangdong University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          404,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-66",
+        "name": "Our heart no volatility",
+        "organization": "Henan University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          477,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-67",
+        "name": "Baby is in a mood",
+        "organization": "Nanjing University of Aeronautics and Astronautics",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          485,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-68",
+        "name": "SYSU_OursIsTheFury",
+        "organization": "Zhongshan (Sun Yat-sen) University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          486,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-69",
+        "name": "NPU_moha",
+        "organization": "Northwestern Polytechnical University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          489,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-70",
+        "name": "QiM",
+        "organization": "Ocean University of China",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          507,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-71",
+        "name": "feast_team",
+        "organization": "Hong Kong Polytechnic University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          521,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-72",
+        "name": "KFC",
+        "organization": "Chongqing University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          527,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-73",
+        "name": "NPU_cannot_make_bignews",
+        "organization": "Northwestern Polytechnical University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          527,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-74",
+        "name": "BUPT_Light_Balloon",
+        "organization": "Beijing University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          536,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-75",
+        "name": "Death regression",
+        "organization": "South-Central University for Nationalities",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          550,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-76",
+        "name": "qwer",
+        "organization": "East China University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          560,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-77",
+        "name": "NPU_aa aa",
+        "organization": "Northwestern Polytechnical University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          574,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-78",
+        "name": "Fiery sun",
+        "organization": "PLA University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          575,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-79",
+        "name": "Crossed",
+        "organization": "China University of Petroleum",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          586,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-80",
+        "name": "Zoo-Keeper",
+        "organization": "Harbin Engineering University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          587,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-81",
+        "name": "Achilles",
+        "organization": "Nanjing University of Aeronautics and Astronautics",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          592,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-82",
+        "name": "lovelydonuts",
+        "organization": "Beihang University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          593,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-83",
+        "name": "HIT_NowIWinScore",
+        "organization": "Harbin Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          598,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-84",
+        "name": "Tasty Qingdao Prowns",
+        "organization": "Henan University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          608,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-85",
+        "name": "Rua~",
+        "organization": "Hubei University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          624,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-86",
+        "name": "i fo tea china",
+        "organization": "Xiangtan University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          621,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-87",
+        "name": "TodayIsSunday",
+        "organization": "Tongji University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          638,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-88",
+        "name": "Director",
+        "organization": "Heilongjiang University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          644,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-89",
+        "name": "Triforce",
+        "organization": "Chongqing University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          658,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-90",
+        "name": "requiem of soul",
+        "organization": "Northeastern University (China)",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          673,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-91",
+        "name": "Sojourn",
+        "organization": "Southeast University, China",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          678,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-92",
+        "name": "XDU_Razzil_Darkbrew",
+        "organization": "Xidian University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          664,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-93",
+        "name": "handsome rookies",
+        "organization": "Beijing Jiaotong University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          720,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-94",
+        "name": "Knight of Honor",
+        "organization": "Guangzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          682,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-95",
+        "name": "SZU_YaoWan",
+        "organization": "Shenzhen University",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          737,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-96",
+        "name": "Fortune Teller",
+        "organization": "Information Engineering University of the People's Liberation Army",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          797,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-97",
+        "name": "DGUT_fly",
+        "organization": "Dongguan University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 4,
+        "time": [
+          766,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-98",
+        "name": "Euphony",
+        "organization": "Jilin University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          117,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-99",
+        "name": "Nick666",
+        "organization": "Beijing Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          117,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-100",
+        "name": "peach",
+        "organization": "Xi'an Jiaotong University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          119,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-101",
+        "name": "InfinityActivatedRail",
+        "organization": "South China Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          129,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-102",
+        "name": "archer",
+        "organization": "East China University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          134,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-103",
+        "name": "biubiubiu",
+        "organization": "Hohai University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          145,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-104",
+        "name": "XMU_Qingdao2016",
+        "organization": "Xiamen University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          152,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-105",
+        "name": "SPY",
+        "organization": "Zhengzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          155,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-106",
+        "name": "NULL",
+        "organization": "Beihang University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          159,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-107",
+        "name": "endless",
+        "organization": "Central South University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          165,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-108",
+        "name": "Glory_Back",
+        "organization": "Northeastern University (China)",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          165,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-109",
+        "name": "Count Balloons",
+        "organization": "Shandong Jianzhu University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          168,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-110",
+        "name": "STARK",
+        "organization": "Huazhong University of Science & Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          169,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-111",
+        "name": "hrbust primary school team1",
+        "organization": "Harbin University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          173,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-112",
+        "name": "I'm angry",
+        "organization": "Changchun University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          176,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-113",
+        "name": "HKUST_Novege",
+        "organization": "Hong Kong University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          177,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-114",
+        "name": "HitIronNeedHot",
+        "organization": "Guangdong University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          180,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-115",
+        "name": "happy together",
+        "organization": "Ningbo University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          189,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-116",
+        "name": "XUPT_HOoOT",
+        "organization": "Xi'an University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          192,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-117",
+        "name": "neau1",
+        "organization": "Northeast Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          195,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-118",
+        "name": "Stay_accept",
+        "organization": "Northeast Forestry University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          196,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-119",
+        "name": "Hunting",
+        "organization": "Harbin Institute of Technology at Weihai",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          205,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-120",
+        "name": "LowBeeGoal",
+        "organization": "Nanjing University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          210,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-121",
+        "name": "Pacedect",
+        "organization": "Huazhong University of Science & Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          213,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-122",
+        "name": "bananamilk",
+        "organization": "Northeast Forestry University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          142,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-123",
+        "name": "Rhyme Across Three Centuries",
+        "organization": "Xi'an Jiaotong University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          215,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-124",
+        "name": "DongF",
+        "organization": "Ocean University of China",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          216,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-125",
+        "name": "static green ice",
+        "organization": "Xiangtan University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          217,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-126",
+        "name": "50%OFF",
+        "organization": "Nanjing University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          217,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-127",
+        "name": "ZERO",
+        "organization": "Wuhan University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          220,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-128",
+        "name": "Excalibur",
+        "organization": "Huazhong Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          221,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-129",
+        "name": "Running King",
+        "organization": "Northeast Forestry University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          222,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-130",
+        "name": "Love Live! Sunshine!!",
+        "organization": "Soochow University, China",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          227,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-131",
+        "name": "JNU-OneMoreSecondForJNU",
+        "organization": "Jinan University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          228,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-132",
+        "name": "dress or iron",
+        "organization": "Zhejiang University City College",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          233,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-133",
+        "name": "TJU_UuglyUac",
+        "organization": "Tianjin University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          236,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-134",
+        "name": "Khaki's Grapestone",
+        "organization": "Beihua University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          241,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-135",
+        "name": "Endeavour",
+        "organization": "Shandong University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          242,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-136",
+        "name": "Mr Niu miss Mrs Liu every year",
+        "organization": "North China Electric Power University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          243,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-137",
+        "name": "cool cooler coolest",
+        "organization": "Zhejiang Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          244,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-138",
+        "name": "Utopian",
+        "organization": "Zhejiang University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          244,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-139",
+        "name": "Aceepted Automation",
+        "organization": "ShanDong Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          245,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-140",
+        "name": "Acarp",
+        "organization": "Zhejiang University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          245,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-141",
+        "name": "The old driver",
+        "organization": "Jiangxi Finance and Economics University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          245,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-142",
+        "name": "50 has arrived",
+        "organization": "Wuhan University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          248,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-143",
+        "name": "LightofHope",
+        "organization": "Nanjing Forestry University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          250,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-144",
+        "name": "ACat",
+        "organization": "Beijing Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          253,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-145",
+        "name": "Flappy Fish",
+        "organization": "Communication University of China",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          253,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-146",
+        "name": "WCS",
+        "organization": "Zhejiang A & F University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          259,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-147",
+        "name": "PoisonousCode",
+        "organization": "JiangNan University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          261,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-148",
+        "name": "OverWatch",
+        "organization": "Nanjing University of Aeronautics and Astronautics",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          263,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-149",
+        "name": "AC princess on G string",
+        "organization": "East China Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          265,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-150",
+        "name": "that's all right, I'm jiaomei!",
+        "organization": "Zhejiang Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          266,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-151",
+        "name": "Professor X",
+        "organization": "Yantai University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          268,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-152",
+        "name": "Hey Siri",
+        "organization": "Ningbo Institute of Technology, ZJU",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          269,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-153",
+        "name": "HDU-Level5-Judgelight",
+        "organization": "Hangzhou Dianzi University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          270,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-154",
+        "name": "You know nothing about power",
+        "organization": "Shandong University at Weihai",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          271,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-155",
+        "name": "UNNC",
+        "organization": "University of Nottingham Ningbo China",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          271,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-156",
+        "name": "Bee_And_Flower",
+        "organization": "Southwest University for Nationalities",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          275,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-157",
+        "name": "CHD AC Specter",
+        "organization": "Chang'an University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          278,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-158",
+        "name": "ZJL",
+        "organization": "Beijing University of Chemical Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          279,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-159",
+        "name": "Why not ask the magic conch",
+        "organization": "Soochow University, China",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          281,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-160",
+        "name": "HKUST_Whatever",
+        "organization": "Hong Kong University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          286,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-161",
+        "name": "HBMY",
+        "organization": "Hubei University for Nationalities",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          287,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-162",
+        "name": "SDU_IOStream",
+        "organization": "Shandong University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          289,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-163",
+        "name": "Akatsuki_no_Suiheisen",
+        "organization": "Harbin Institute of Technology at Weihai",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          292,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-164",
+        "name": "6.0L V8 Engine",
+        "organization": "Sichuan University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          292,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-165",
+        "name": "world tour",
+        "organization": "Nanyang Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          293,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-166",
+        "name": "NJUPT_Blacksmith",
+        "organization": "Nanjing University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          295,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-167",
+        "name": "BUPT_Valhalla",
+        "organization": "Beijing University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          296,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-168",
+        "name": "Excelsior",
+        "organization": "Shandong University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          301,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-169",
+        "name": "lwl",
+        "organization": "Northeast Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          303,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-170",
+        "name": "Pokemon Get!",
+        "organization": "Tongji University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          310,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-171",
+        "name": "LichKing",
+        "organization": "Huazhong Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          314,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-172",
+        "name": "cabinet",
+        "organization": "Harbin University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          315,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-173",
+        "name": "SZU_Prawn",
+        "organization": "Shenzhen University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          314,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-174",
+        "name": "gzu1",
+        "organization": "Guizhou University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          320,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-175",
+        "name": "hqi!",
+        "organization": "Shandong University at Weihai",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          318,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-176",
+        "name": "Addicted to iron",
+        "organization": "Ningbo University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          322,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-177",
+        "name": "Void Null Undefined Empty",
+        "organization": "Xiangtan University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          324,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-178",
+        "name": "NPU_Galaxy's Eye",
+        "organization": "Northwestern Polytechnical University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          331,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-179",
+        "name": "Imitation Game",
+        "organization": "Chongqing University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          338,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-180",
+        "name": "OverFlow098",
+        "organization": "Shandong University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          340,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-181",
+        "name": "Beijing's Friends, Are You OK?",
+        "organization": "Beijing Normal University Zhuhai",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          341,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-182",
+        "name": "More Than Ten",
+        "organization": "Northeastern University (China)",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          342,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-183",
+        "name": "Five Points on a Circle",
+        "organization": "Anhui University",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          342,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "official-184",
+        "name": "Onsite_Qingdao_1",
+        "organization": "Changsha University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 3,
+        "time": [
+          345,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-1",
+        "name": "IMangry",
+        "organization": "Airforce Engineering University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-2",
+        "name": "Bright Icecream",
+        "organization": "Anhui University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-3",
+        "name": "I Will Not Tell You Anything",
+        "organization": "Beijing Forestry University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-4",
+        "name": "Mobius_Inversion",
+        "organization": "Beijing Information Science and Technology University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-5",
+        "name": "bis_two",
+        "organization": "Beijing Information Science and Technology University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-6",
+        "name": "I Xihuan Shutiao",
+        "organization": "Beijing Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-7",
+        "name": "porter of code",
+        "organization": "Beijing Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-8",
+        "name": "U asked me just now, I can say",
+        "organization": "Beijing University of Agriculture",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-9",
+        "name": "unname",
+        "organization": "Binzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-10",
+        "name": "if I were a girl",
+        "organization": "Changchun University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-11",
+        "name": "OnTheWay",
+        "organization": "Changchun University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-12",
+        "name": "Onsite_Qingdao_2",
+        "organization": "Changsha University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-13",
+        "name": "Pan-Seared Green Chili Pepper",
+        "organization": "Chengdu University of Information Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-14",
+        "name": "Kings Lau",
+        "organization": "China University of Geosciences (Wuhan)",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-15",
+        "name": "EL PSY CONGROO",
+        "organization": "China University of Geosciences (Wuhan)",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-16",
+        "name": "PPAP",
+        "organization": "China University of Geosciences (Wuhan)",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-17",
+        "name": "WA",
+        "organization": "China University of Petroleum",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-18",
+        "name": "Passed",
+        "organization": "China University of Petroleum",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-19",
+        "name": "CaiBird",
+        "organization": "China University of Petroleum, Beijing",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-20",
+        "name": "CityU Team 1",
+        "organization": "City University of Hong Kong",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-21",
+        "name": "JIangweiE",
+        "organization": "College of Mobile Telecommunications Chongqing University of Posts and Telecom",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-22",
+        "name": "DLMU_biubiubiu",
+        "organization": "Dalian Maritime University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-23",
+        "name": "DLMU_Prophet",
+        "organization": "Dalian Maritime University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-24",
+        "name": "DLMU_void",
+        "organization": "Dalian Maritime University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-25",
+        "name": "winter is coming",
+        "organization": "Dalian University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-26",
+        "name": "Flying Panda",
+        "organization": "Donghua University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-27",
+        "name": "Everest",
+        "organization": "East China Jiaotong University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-28",
+        "name": "AC only depends on roaring",
+        "organization": "East China University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-29",
+        "name": "Fire",
+        "organization": "Fujian Agriculture and Forestry University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-30",
+        "name": "Wings",
+        "organization": "Fujian Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-31",
+        "name": "wrong answer on test3",
+        "organization": "Fuzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-32",
+        "name": "Wuyou",
+        "organization": "Guangzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-33",
+        "name": "Glut2016",
+        "organization": "Guilin University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-34",
+        "name": "SuperBlade",
+        "organization": "Hangzhou Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-35",
+        "name": "SoBashful",
+        "organization": "Hangzhou Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-36",
+        "name": "Explosion",
+        "organization": "Harbin University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-37",
+        "name": "Let's AC!",
+        "organization": "Hefei University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-38",
+        "name": "songzhongji",
+        "organization": "Henan Polytechnic University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-39",
+        "name": "henu_qingdao_os2",
+        "organization": "Henan University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-40",
+        "name": "henu_qingdao_os1",
+        "organization": "Henan University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-41",
+        "name": "cute mushroom",
+        "organization": "Hohai University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-42",
+        "name": "666_team",
+        "organization": "Hong Kong Polytechnic University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-43",
+        "name": "water_team",
+        "organization": "Hong Kong Polytechnic University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-44",
+        "name": "Sky Muddling Damask",
+        "organization": "Hunan Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-45",
+        "name": "daydayup",
+        "organization": "Hunan University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-46",
+        "name": "lihaiwordge",
+        "organization": "Hunan University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-47",
+        "name": "FlowerCube",
+        "organization": "Information Engineering College of Hangzhou Dianzi University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-48",
+        "name": "Too Simple",
+        "organization": "Institute of Disaster Prevention",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-49",
+        "name": "three pieces of ribs sauce",
+        "organization": "JiangNan University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-50",
+        "name": "three stooges",
+        "organization": "JiangNan University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-51",
+        "name": "A single spark",
+        "organization": "Jiangsu University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-52",
+        "name": "Porigin",
+        "organization": "Jiangxi Finance and Economics University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-53",
+        "name": "tomorrow will be better",
+        "organization": "Jiangxi Finance and Economics University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-54",
+        "name": "Bliss",
+        "organization": "Jilin University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-55",
+        "name": "Artitus",
+        "organization": "Jilin University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-56",
+        "name": "ThreeDog",
+        "organization": "Jimei University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-57",
+        "name": "Crown win three",
+        "organization": "Leshan Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-58",
+        "name": "Zero To Hero",
+        "organization": "Liaocheng University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-59",
+        "name": "hasaki",
+        "organization": "Minnan Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-60",
+        "name": "dreamers",
+        "organization": "Nanchang Hangkong University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-61",
+        "name": "Pen Pineapple Apple Pen",
+        "organization": "Nanchang Hangkong University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-62",
+        "name": "Penta_Kill@USC",
+        "organization": "Nanhua University (University of South China)",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-63",
+        "name": "Bad Girl",
+        "organization": "Nanjing University of Posts and Telecommunications",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-64",
+        "name": "knee bingo arrow",
+        "organization": "Nanjing Xiaozhuang University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-65",
+        "name": "Cadence of Accepted",
+        "organization": "Nankai University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-66",
+        "name": "Aria of Accepted",
+        "organization": "Nankai University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-67",
+        "name": "NYISTSW",
+        "organization": "Nanyang Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-68",
+        "name": "YBFQ",
+        "organization": "Ningbo University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-69",
+        "name": "Lunatic moonlight",
+        "organization": "Northeast Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-70",
+        "name": "Dark force",
+        "organization": "Northeast Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-71",
+        "name": "Floyd",
+        "organization": "North University of China",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-72",
+        "name": "pineapple",
+        "organization": "Northwest A&F University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-73",
+        "name": "NPU_obey the basic law",
+        "organization": "Northwestern Polytechnical University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-74",
+        "name": "Not badboy",
+        "organization": "Northwest University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-75",
+        "name": "Geass",
+        "organization": "Northwest University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-76",
+        "name": "NWUN",
+        "organization": "Northwest University For Nationalities",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-77",
+        "name": "Pixel",
+        "organization": "Qingdao Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-78",
+        "name": "Saiting",
+        "organization": "Qingdao No.2 Middle School of Shandong Province",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-79",
+        "name": "Never_Sorry",
+        "organization": "Qingdao Technological University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-80",
+        "name": "Just Three",
+        "organization": "Qingdao Technological University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-81",
+        "name": "shentibeitaokong",
+        "organization": "Qingdao University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-82",
+        "name": "Dogoodinordertowintheprize",
+        "organization": "Qingdao University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-83",
+        "name": "Nickel",
+        "organization": "Qingdao University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-84",
+        "name": "Star_Platinum",
+        "organization": "Qingdao University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-85",
+        "name": "What's_The_WA?",
+        "organization": "Qingdao University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-86",
+        "name": "King of the salted fish",
+        "organization": "Renai College of Tianjin University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-87",
+        "name": "Excuse me?",
+        "organization": "Renmin University of China",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-88",
+        "name": "Innovator",
+        "organization": "School of Software Technology, Dalian University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-89",
+        "name": "lingering_sound",
+        "organization": "School of Software Technology, Dalian University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-90",
+        "name": "SNNU_Loser",
+        "organization": "Shaanxi Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-91",
+        "name": "SNNU_MadHatter",
+        "organization": "Shaanxi Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-92",
+        "name": "plosive",
+        "organization": "Shandong Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-93",
+        "name": "Archfiend-Chmrical Marvel",
+        "organization": "Shandong Agricultural University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-94",
+        "name": "NeedForSpeed",
+        "organization": "ShanDong Institute of Business and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-95",
+        "name": "it's high noon",
+        "organization": "Shandong University at Weihai",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-96",
+        "name": "Hathaway",
+        "organization": "Shandong University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-97",
+        "name": "Give me Fe",
+        "organization": "Shandong University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-98",
+        "name": "Wanna hear you say？",
+        "organization": "Shandong University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-99",
+        "name": "Magic Frog",
+        "organization": "Shanghai University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-100",
+        "name": "Happy QingDao Lang Lang Lang",
+        "organization": "ShanTou University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-101",
+        "name": "lucky stars",
+        "organization": "Shengda Trade Economics & Management College of Zhengzhou",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-102",
+        "name": "The best interpreter",
+        "organization": "Shengli College China University of Petroleum",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-103",
+        "name": "Miracles of %%%",
+        "organization": "ShenYang University of Chemical Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-104",
+        "name": "Break From the Prologue Loop",
+        "organization": "Shihezi University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-105",
+        "name": "SoochowU team4",
+        "organization": "Soochow University, China",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-106",
+        "name": "Ballnoon collector",
+        "organization": "South China University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-107",
+        "name": "Blacksmith",
+        "organization": "South China University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-108",
+        "name": "God bless vegetarian-3",
+        "organization": "Southwest Jiaotong University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-109",
+        "name": "Circle",
+        "organization": "Southwest Petroleum University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-110",
+        "name": "yyw",
+        "organization": "Southwest University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-111",
+        "name": "Able was I ere I saw Elba",
+        "organization": "Southwest University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-112",
+        "name": "Pupil of SWUST",
+        "organization": "Southwest University of Science and Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-113",
+        "name": "Hello world！",
+        "organization": "Suqian College",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-114",
+        "name": "tzc1",
+        "organization": "Taizhou University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-115",
+        "name": "TJU_Excuseme",
+        "organization": "Tianjin University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-116",
+        "name": "RoyalOfTUT",
+        "organization": "Tianjin University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-117",
+        "name": "i love grapefruit",
+        "organization": "University of Chinese Academy of Sciences",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-118",
+        "name": "typedef",
+        "organization": "University of Chinese Academy of Sciences",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-119",
+        "name": "CDZSC_Unknow",
+        "organization": "University of Electronic Science and Technology of China Zhongshan Institute",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-120",
+        "name": "WoLeKeCao",
+        "organization": "University of Jinan",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-121",
+        "name": "unity",
+        "organization": "Weifang University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-122",
+        "name": "Where is Pokemon",
+        "organization": "Wuhan University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-123",
+        "name": "daqiuqiuANDdajiejieANDdajunjun",
+        "organization": "Xiamen University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-124",
+        "name": "The Eagle of XAAU",
+        "organization": "Xi'an Aeronautical University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-125",
+        "name": "Bravo!Dalaos",
+        "organization": "Xi'an University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-126",
+        "name": "Dream_chaser",
+        "organization": "Xidian University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-127",
+        "name": "Girl Killers",
+        "organization": "Xidian University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-128",
+        "name": "H.H",
+        "organization": "Yangtze Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-129",
+        "name": "ACMer",
+        "organization": "Zaozhuang University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-130",
+        "name": "ZCMU-QD",
+        "organization": "Zhejiang Chinese Medical University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-131",
+        "name": "Super University's Caibi",
+        "organization": "Zhejiang Gongshang University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-132",
+        "name": "zstuJiayou",
+        "organization": "Zhejiang SCI-TECH University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-133",
+        "name": "CMY",
+        "organization": "Zhejiang SCI-TECH University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-134",
+        "name": "RightRightTeam",
+        "organization": "Zhejiang SCI-TECH University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-135",
+        "name": "new bee",
+        "organization": "Zhejiang SCI-TECH University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-136",
+        "name": "Mercenary",
+        "organization": "Zhejiang University City College",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-137",
+        "name": "Nockrib",
+        "organization": "Zhejiang University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-138",
+        "name": "just one more chance",
+        "organization": "Zhengzhou Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-139",
+        "name": "black hat",
+        "organization": "Zhengzhou Normal University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-140",
+        "name": "Tree NewBee",
+        "organization": "Zhengzhou University",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-141",
+        "name": "z_zu_li",
+        "organization": "Zhengzhou University of Light Industry",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-142",
+        "name": "ACgirls",
+        "organization": "Zhijiang College, Zhejiang University of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    },
+    {
+      "user": {
+        "id": "hm-143",
+        "name": "zzti",
+        "organization": "Zhongyuan Institute of Technology",
+        "official": true
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "min"
+        ]
+      },
+      "statuses": []
+    }
+  ]
+}
