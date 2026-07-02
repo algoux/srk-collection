@@ -306,6 +306,9 @@ root:
             - path: icpc2017xi_an
               format: srk.json
               name: 2017-10-29 西安站
+            - path: icpc2017qingdao
+              format: srk.json
+              name: 2017-11-05 青岛站
             - path: icpc2017beijing
               format: srk.json
               name: 2017-11-19 北京站
@@ -315,6 +318,9 @@ root:
             - path: icpc2017urumchi
               format: srk.json
               name: 2017-12-03 乌鲁木齐站
+            - path: icpc2017ecfinal
+              format: srk.json
+              name: 2017-12-17 EC Final
             - path: icpc42ndworldfinals
               format: srk.json
               name: 2018-04-19 World Finals (42nd)
