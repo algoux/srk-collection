@@ -1269,6 +1269,12 @@ root:
         - path: xj
           name: 新疆区赛
           children:
+            - path: xjcpc2026
+              format: srk.json
+              name: 2026-04-25 2026
+            - path: xjcpc2025
+              format: srk.json
+              name: 2025-05-17 2025
             - path: xjcpc2023
               format: srk.json
               name: 2023-05-20 2023
