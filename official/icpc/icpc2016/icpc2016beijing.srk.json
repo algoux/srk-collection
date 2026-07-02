@@ -1,10 +1,11 @@
 {
   "type": "general",
-  "version": "0.3.2",
+  "version": "0.3.13",
   "contest": {
     "title": {
-      "en": "The 2016 ACM-ICPC Asia Beijing Regional Contest",
-      "fallback": "The 2016 ACM-ICPC Asia Beijing Regional Contest"
+      "zh-CN": "2016 ACM-ICPC 亚洲区北京赛站 （北京大学）",
+      "en": "The 2016 ACM-ICPC Asia Beijing Regional Contest (Peking University)",
+      "fallback": "The 2016 ACM-ICPC Asia Beijing Regional Contest (Peking University)"
     },
     "startAt": "2016-11-13T09:00:00+08:00",
     "duration": [
@@ -12,10 +13,17 @@
       "h"
     ],
     "frozenDuration": [
-      0,
+      1,
       "h"
     ],
     "refLinks": [
+      {
+        "title": {
+          "zh-CN": "原始榜单文件",
+          "fallback": "Raw Ranklist Files"
+        },
+        "link": "https://github.com/algoux/srk-collection-raw/tree/master/files/icpc2016beijing"
+      },
       {
         "title": {
           "zh-CN": "赛题重现",
@@ -126,9 +134,9 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              13,
+              30,
+              50
             ]
           }
         }
@@ -155,9 +163,27 @@
     {
       "user": {
         "name": "UESTC_Life_and_Lemons",
-        "id": "1",
-        "organization": "电子科技大学",
-        "official": true
+        "id": "电子科技大学_UESTC_Life_and_Lemons",
+        "organization": {
+          "zh-CN": "电子科技大学",
+          "fallback": "University of Electronic Science and Technology of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wang yetao" }
+          },
+          {
+            "name": { "fallback": "Lin Weibo" }
+          },
+          {
+            "name": { "fallback": "He Zhu" }
+          },
+          {
+            "name": { "fallback": "Yang Peng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -360,9 +386,27 @@
     {
       "user": {
         "name": "Daddy",
-        "id": "2",
-        "organization": "清华大学",
-        "official": true
+        "id": "清华大学_Daddy",
+        "organization": {
+          "zh-CN": "清华大学",
+          "fallback": "Tsinghua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang Hengjie" }
+          },
+          {
+            "name": { "fallback": "Ren Zhizhou" }
+          },
+          {
+            "name": { "fallback": "Wang Jianhao" }
+          },
+          {
+            "name": { "fallback": "Wu Xiaojun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -609,9 +653,27 @@
     {
       "user": {
         "name": "Boy Next Door",
-        "id": "3",
-        "organization": "清华大学",
-        "official": true
+        "id": "清华大学_Boy Next Door",
+        "organization": {
+          "zh-CN": "清华大学",
+          "fallback": "Tsinghua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zou Xiaoyao" }
+          },
+          {
+            "name": { "fallback": "Dong Kefan" }
+          },
+          {
+            "name": { "fallback": "Ren Hanlin" }
+          },
+          {
+            "name": { "fallback": "Wu Xiaojun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -830,9 +892,27 @@
     {
       "user": {
         "name": "Gungnir",
-        "id": "4",
-        "organization": "上海交通大学",
-        "official": true
+        "id": "上海交通大学_Gungnir",
+        "organization": {
+          "zh-CN": "上海交通大学",
+          "fallback": "Shanghai Jiao Tong University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "jin zhihan" }
+          },
+          {
+            "name": { "fallback": "Zhou Zihan" }
+          },
+          {
+            "name": { "fallback": "Xu Zhenjia" }
+          },
+          {
+            "name": { "fallback": "Yu Yong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -1091,9 +1171,27 @@
     {
       "user": {
         "name": "Siunaus",
-        "id": "5",
-        "organization": "浙江大学",
-        "official": true
+        "id": "浙江大学_Siunaus",
+        "organization": {
+          "zh-CN": "浙江大学",
+          "fallback": "Zhejiang University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhao Yueqi" }
+          },
+          {
+            "name": { "fallback": "Wang Xiajun" }
+          },
+          {
+            "name": { "fallback": "Jin Mengge" }
+          },
+          {
+            "name": { "fallback": "Wang Can" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1289,9 +1387,27 @@
     {
       "user": {
         "name": "Philosophyz",
-        "id": "6",
-        "organization": "清华大学",
-        "official": true
+        "id": "清华大学_Philosophyz",
+        "organization": {
+          "zh-CN": "清华大学",
+          "fallback": "Tsinghua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yang Yibin" }
+          },
+          {
+            "name": { "fallback": "Xu Hanxiang" }
+          },
+          {
+            "name": { "fallback": "Wang Yifan" }
+          },
+          {
+            "name": { "fallback": "Wu Xiaojun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1492,9 +1608,27 @@
     {
       "user": {
         "name": "_______",
-        "id": "7",
-        "organization": "福州大学",
-        "official": true
+        "id": "福州大学________",
+        "organization": {
+          "zh-CN": "福州大学",
+          "fallback": "Fuzhou University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zou Peng" }
+          },
+          {
+            "name": { "fallback": "XIAODONG GUO" }
+          },
+          {
+            "name": { "fallback": "yifan Zhuo" }
+          },
+          {
+            "name": { "fallback": "Fu Yanggeng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1695,9 +1829,27 @@
     {
       "user": {
         "name": "SYSU_AsHighAsHonor",
-        "id": "8",
-        "organization": "中山大学",
-        "official": true
+        "id": "中山大学_SYSU_AsHighAsHonor",
+        "organization": {
+          "zh-CN": "中山大学",
+          "fallback": "Zhongshan (Sun Yat-sen) University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wu tongwen" }
+          },
+          {
+            "name": { "fallback": "Sixiang Yang" }
+          },
+          {
+            "name": { "fallback": "liu minghang" }
+          },
+          {
+            "name": { "fallback": "Lin Han" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1870,9 +2022,27 @@
     {
       "user": {
         "name": "HDU-SupportOrNot",
-        "id": "9",
-        "organization": "杭州电子科技大学",
-        "official": true
+        "id": "杭州电子科技大学_HDU-SupportOrNot",
+        "organization": {
+          "zh-CN": "杭州电子科技大学",
+          "fallback": "Hangzhou Dianzi University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "NAN Lihao" }
+          },
+          {
+            "name": { "fallback": "Chen Peng" }
+          },
+          {
+            "name": { "fallback": "CHEN Songyang" }
+          },
+          {
+            "name": { "fallback": "LIU Chunying" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -2073,9 +2243,27 @@
     {
       "user": {
         "name": "TaZoF",
-        "id": "10",
-        "organization": "浙江大学",
-        "official": true
+        "id": "浙江大学_TaZoF",
+        "organization": {
+          "zh-CN": "浙江大学",
+          "fallback": "Zhejiang University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Weng Caizhi" }
+          },
+          {
+            "name": { "fallback": "Zhou Jiayu" }
+          },
+          {
+            "name": { "fallback": "FAN HaoZheng" }
+          },
+          {
+            "name": { "fallback": "Wang Can" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2346,9 +2534,27 @@
     {
       "user": {
         "name": "Travel_Poorly",
-        "id": "11",
-        "organization": "广东工业大学",
-        "official": true
+        "id": "广东工业大学_Travel_Poorly",
+        "organization": {
+          "zh-CN": "广东工业大学",
+          "fallback": "Guangdong University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Lin Xuanzhu" }
+          },
+          {
+            "name": { "fallback": "Tang Mingkai" }
+          },
+          {
+            "name": { "fallback": "Yang Fuqiang" }
+          },
+          {
+            "name": { "fallback": "Sun Xuandong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2605,9 +2811,27 @@
     {
       "user": {
         "name": "NoPenalty",
-        "id": "12",
-        "organization": "浙江师范大学",
-        "official": true
+        "id": "浙江师范大学_NoPenalty",
+        "organization": {
+          "zh-CN": "浙江师范大学",
+          "fallback": "Zhejiang Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Lu Jinmin" }
+          },
+          {
+            "name": { "fallback": "Ye Yifan" }
+          },
+          {
+            "name": { "fallback": "Zhuang Jiaqi" }
+          },
+          {
+            "name": { "fallback": "Han Jianmin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2922,9 +3146,27 @@
     {
       "user": {
         "name": "ACellent",
-        "id": "13",
-        "organization": "香港中文大学",
-        "official": true
+        "id": "香港中文大学_ACellent",
+        "organization": {
+          "zh-CN": "香港中文大学",
+          "fallback": "The Chinese University of Hong Kong"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "POON Lik Hang" }
+          },
+          {
+            "name": { "fallback": "Yik Wai Pan" }
+          },
+          {
+            "name": { "fallback": "Ho Ngan Hang" }
+          },
+          {
+            "name": { "fallback": "Chan Siu On" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -3102,9 +3344,9 @@
     {
       "user": {
         "name": "shenmegui",
-        "id": "14",
-        "organization": "*北京市第八十中学",
-        "official": true
+        "id": "北京市第八十中学_shenmegui",
+        "organization": "北京市第八十中学",
+        "official": false
       },
       "score": {
         "value": 6,
@@ -3282,9 +3524,27 @@
     {
       "user": {
         "name": "Tempest",
-        "id": "15",
-        "organization": "浙江大学城市学院",
-        "official": true
+        "id": "浙江大学城市学院_Tempest",
+        "organization": {
+          "zh-CN": "浙江大学城市学院",
+          "fallback": "Zhejiang University City College"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yang Jiacheng" }
+          },
+          {
+            "name": { "fallback": "Yan Jiangzhe" }
+          },
+          {
+            "name": { "fallback": "Zhao Yan" }
+          },
+          {
+            "name": { "fallback": "Ke Haifeng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -3527,9 +3787,27 @@
     {
       "user": {
         "name": "Animism",
-        "id": "16",
-        "organization": "复旦大学",
-        "official": true
+        "id": "复旦大学_Animism",
+        "organization": {
+          "zh-CN": "复旦大学",
+          "fallback": "Fudan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Luo Qiyao" }
+          },
+          {
+            "name": { "fallback": "Wang Peng" }
+          },
+          {
+            "name": { "fallback": "Guo Yu" }
+          },
+          {
+            "name": { "fallback": "Sun Weiwei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -3737,9 +4015,9 @@
     {
       "user": {
         "name": "WanTong Beauty",
-        "id": "17",
-        "organization": "*北京大学",
-        "official": true
+        "id": "北京大学_WanTong Beauty",
+        "organization": "北京大学",
+        "official": false
       },
       "score": {
         "value": 6,
@@ -4143,9 +4421,27 @@
     {
       "user": {
         "name": "WAHAHAHA",
-        "id": "18",
-        "organization": "山东师范大学",
-        "official": true
+        "id": "山东师范大学_WAHAHAHA",
+        "organization": {
+          "zh-CN": "山东师范大学",
+          "fallback": "ShanDong Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Junyan" }
+          },
+          {
+            "name": { "fallback": "Fan Zhenhua" }
+          },
+          {
+            "name": { "fallback": "Song Xinjie" }
+          },
+          {
+            "name": { "fallback": "Fang Xiaonan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -4323,9 +4619,27 @@
     {
       "user": {
         "name": "SYSU_NoProblemToPass",
-        "id": "19",
-        "organization": "中山大学",
-        "official": true
+        "id": "中山大学_SYSU_NoProblemToPass",
+        "organization": {
+          "zh-CN": "中山大学",
+          "fallback": "Zhongshan (Sun Yat-sen) University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "li yang" }
+          },
+          {
+            "name": { "fallback": "yan zixi" }
+          },
+          {
+            "name": { "fallback": "Wang Tianyu" }
+          },
+          {
+            "name": { "fallback": "Guo SongShan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4510,9 +4824,27 @@
     {
       "user": {
         "name": "Poruna Cabeza",
-        "id": "20",
-        "organization": "大连理工大学",
-        "official": true
+        "id": "大连理工大学_Poruna Cabeza",
+        "organization": {
+          "zh-CN": "大连理工大学",
+          "fallback": "School of Software Technology, Dalian University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Huang Yufan" }
+          },
+          {
+            "name": { "fallback": "jin hangyu" }
+          },
+          {
+            "name": { "fallback": "Zhang shoukui" }
+          },
+          {
+            "name": { "fallback": "Lu Hui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4681,9 +5013,27 @@
     {
       "user": {
         "name": "BUPT_KAOLENGMIAN",
-        "id": "21",
-        "organization": "北京邮电大学",
-        "official": true
+        "id": "北京邮电大学_BUPT_KAOLENGMIAN",
+        "organization": {
+          "zh-CN": "北京邮电大学",
+          "fallback": "Beijing University of Posts and Telecommunications"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Li Shihao" }
+          },
+          {
+            "name": { "fallback": "Liu yitian" }
+          },
+          {
+            "name": { "fallback": "Liu Yudong" }
+          },
+          {
+            "name": { "fallback": "Yang Ya" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4845,9 +5195,27 @@
     {
       "user": {
         "name": "HDU-Gatling",
-        "id": "22",
-        "organization": "杭州电子科技大学",
-        "official": true
+        "id": "杭州电子科技大学_HDU-Gatling",
+        "organization": {
+          "zh-CN": "杭州电子科技大学",
+          "fallback": "Hangzhou Dianzi University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "ZHU Jiahao" }
+          },
+          {
+            "name": { "fallback": "GAO Hanlin" }
+          },
+          {
+            "name": { "fallback": "JIANG Zite" }
+          },
+          {
+            "name": { "fallback": "LIU Chunying" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -5032,9 +5400,27 @@
     {
       "user": {
         "name": "HIT_accepted with a smile",
-        "id": "23",
-        "organization": "哈尔滨工业大学",
-        "official": true
+        "id": "哈尔滨工业大学_HIT_accepted with a smile",
+        "organization": {
+          "zh-CN": "哈尔滨工业大学",
+          "fallback": "Harbin Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Ma Tingting" }
+          },
+          {
+            "name": { "fallback": "Chen Haifeng" }
+          },
+          {
+            "name": { "fallback": "yao shun" }
+          },
+          {
+            "name": { "fallback": "Sun Dalie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -5189,9 +5575,27 @@
     {
       "user": {
         "name": "Hard-working programmers",
-        "id": "24",
-        "organization": "华东师范大学",
-        "official": true
+        "id": "华东师范大学_Hard-working programmers",
+        "organization": {
+          "zh-CN": "华东师范大学",
+          "fallback": "East China Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xie Tao" }
+          },
+          {
+            "name": { "fallback": "Huang Chengyang" }
+          },
+          {
+            "name": { "fallback": "Zhang Yuge" }
+          },
+          {
+            "name": { "fallback": "Xiao Chunyun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -5362,9 +5766,27 @@
     {
       "user": {
         "name": "SYSU_HereWeStand",
-        "id": "26",
-        "organization": "中山大学",
-        "official": true
+        "id": "中山大学_SYSU_HereWeStand",
+        "organization": {
+          "zh-CN": "中山大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Li Bangning" }
+          },
+          {
+            "name": { "fallback": "Liu Minghao" }
+          },
+          {
+            "name": { "fallback": "Gao Xin" }
+          },
+          {
+            "name": { "fallback": "Luo Na" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -5563,9 +5985,27 @@
     {
       "user": {
         "name": "Matrix",
-        "id": "25",
-        "organization": "东北师范大学",
-        "official": true
+        "id": "东北师范大学_Matrix",
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Zhongshan (Sun Yat-sen) University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xiao Yao" }
+          },
+          {
+            "name": { "fallback": "Lai Qidong" }
+          },
+          {
+            "name": { "fallback": "Lu Zhongyi" }
+          },
+          {
+            "name": { "fallback": "Lin Han" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -5736,9 +6176,27 @@
     {
       "user": {
         "name": "HIT_Artist",
-        "id": "27",
-        "organization": "哈尔滨工业大学",
-        "official": true
+        "id": "哈尔滨工业大学_HIT_Artist",
+        "organization": {
+          "zh-CN": "哈尔滨工业大学",
+          "fallback": "Harbin Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Pu Yi" }
+          },
+          {
+            "name": { "fallback": "Peng Zehao" }
+          },
+          {
+            "name": { "fallback": "Qu Ziqi" }
+          },
+          {
+            "name": { "fallback": "Sun Dalie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -5930,9 +6388,27 @@
     {
       "user": {
         "name": "Kana LiSA",
-        "id": "28",
-        "organization": "南京大学",
-        "official": true
+        "id": "南京大学_Kana LiSA",
+        "organization": {
+          "zh-CN": "南京大学",
+          "fallback": "Nanjing University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Meng Lingzhe" }
+          },
+          {
+            "name": { "fallback": "Sun Yuxin" }
+          },
+          {
+            "name": { "fallback": "Cai Peicheng" }
+          },
+          {
+            "name": { "fallback": "MA Jun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -6103,9 +6579,27 @@
     {
       "user": {
         "name": "rkmxtxwd",
-        "id": "29",
-        "organization": "浙江大学",
-        "official": true
+        "id": "浙江大学_rkmxtxwd",
+        "organization": {
+          "zh-CN": "浙江大学",
+          "fallback": "Zhejiang University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Yucheng" }
+          },
+          {
+            "name": { "fallback": "Cai Jianan" }
+          },
+          {
+            "name": { "fallback": "Hua Yiwei" }
+          },
+          {
+            "name": { "fallback": "Wang Can" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -6297,9 +6791,27 @@
     {
       "user": {
         "name": "EXCITING",
-        "id": "30",
-        "organization": "西安电子科技大学",
-        "official": true
+        "id": "西安电子科技大学_EXCITING",
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Honghao Wang" }
+          },
+          {
+            "name": { "fallback": "Li Benzheng" }
+          },
+          {
+            "name": { "fallback": "Liu Wei" }
+          },
+          {
+            "name": { "fallback": "Zhang Shuping" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -6493,9 +7005,27 @@
     {
       "user": {
         "name": "BUPT_Gregtech",
-        "id": "31",
-        "organization": "北京邮电大学",
-        "official": true
+        "id": "北京邮电大学_BUPT_Gregtech",
+        "organization": {
+          "zh-CN": "北京邮电大学",
+          "fallback": "Beijing University of Posts and Telecommunications"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang KaiChen" }
+          },
+          {
+            "name": { "fallback": "Dong Ran" }
+          },
+          {
+            "name": { "fallback": "Pan HeXiang" }
+          },
+          {
+            "name": { "fallback": "Fang Ming" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -6745,9 +7275,27 @@
     {
       "user": {
         "name": "Preludes",
-        "id": "32",
-        "organization": "武汉大学",
-        "official": true
+        "id": "武汉大学_Preludes",
+        "organization": {
+          "zh-CN": "武汉大学",
+          "fallback": "Wuhan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Ruida" }
+          },
+          {
+            "name": { "fallback": "Wu Shenghui" }
+          },
+          {
+            "name": { "fallback": "Liu Aohan" }
+          },
+          {
+            "name": { "fallback": "Dong Wenyong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -6902,9 +7450,27 @@
     {
       "user": {
         "name": "OathKeeper",
-        "id": "33",
-        "organization": "复旦大学",
-        "official": true
+        "id": "复旦大学_OathKeeper",
+        "organization": {
+          "zh-CN": "复旦大学",
+          "fallback": "Fudan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Tao Ye" }
+          },
+          {
+            "name": { "fallback": "Qize Jiang" }
+          },
+          {
+            "name": { "fallback": "Zhou Fengzhe" }
+          },
+          {
+            "name": { "fallback": "Sun Weiwei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -7110,9 +7676,27 @@
     {
       "user": {
         "name": "deticxe",
-        "id": "34",
-        "organization": "北京航空航天大学",
-        "official": true
+        "id": "北京航空航天大学_deticxe",
+        "organization": {
+          "zh-CN": "北京航空航天大学",
+          "fallback": "Beihang University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yang Zichen" }
+          },
+          {
+            "name": { "fallback": "Feng Weitao" }
+          },
+          {
+            "name": { "fallback": "He Yue" }
+          },
+          {
+            "name": { "fallback": "Liang Mingyang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -7281,9 +7865,27 @@
     {
       "user": {
         "name": "BUPT_Thanatos",
-        "id": "35",
-        "organization": "北京邮电大学",
-        "official": true
+        "id": "北京邮电大学_BUPT_Thanatos",
+        "organization": {
+          "zh-CN": "北京邮电大学",
+          "fallback": "Beijing University of Posts and Telecommunications"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Yifei" }
+          },
+          {
+            "name": { "fallback": "Cui Yiding" }
+          },
+          {
+            "name": { "fallback": "Liu Wei" }
+          },
+          {
+            "name": { "fallback": "Yang Ya" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -7496,9 +8098,27 @@
     {
       "user": {
         "name": "ExcuseMe",
-        "id": "36",
-        "organization": "华中师范大学",
-        "official": true
+        "id": "华中师范大学_ExcuseMe",
+        "organization": {
+          "zh-CN": "华中师范大学",
+          "fallback": "Central China Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Wenjia" }
+          },
+          {
+            "name": { "fallback": "zhang ziqi" }
+          },
+          {
+            "name": { "fallback": "Wei ZiQing" }
+          },
+          {
+            "name": { "fallback": "jun min ye" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -7704,9 +8324,27 @@
     {
       "user": {
         "name": "Magic Travel",
-        "id": "37",
-        "organization": "西北工业大学",
-        "official": true
+        "id": "西北工业大学_Magic Travel",
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang Lin" }
+          },
+          {
+            "name": { "fallback": "Dong Jiachen" }
+          },
+          {
+            "name": { "fallback": "Wang Zihao" }
+          },
+          {
+            "name": { "fallback": "Wei Ying" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -7868,9 +8506,27 @@
     {
       "user": {
         "name": "Fans of TaoSama",
-        "id": "38",
-        "organization": "重庆大学",
-        "official": true
+        "id": "重庆大学_Fans of TaoSama",
+        "organization": {
+          "zh-CN": "重庆大学",
+          "fallback": "Chongqing University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wang chenchen" }
+          },
+          {
+            "name": { "fallback": "Guo Ziyao" }
+          },
+          {
+            "name": { "fallback": "liang xianfeng" }
+          },
+          {
+            "name": { "fallback": "Li Jia" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -8076,9 +8732,27 @@
     {
       "user": {
         "name": "Paean",
-        "id": "39",
-        "organization": "南开大学",
-        "official": true
+        "id": "南开大学_Paean",
+        "organization": {
+          "zh-CN": "南开大学",
+          "fallback": "Nankai University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Zhuanhao" }
+          },
+          {
+            "name": { "fallback": "Zhang Junzhao" }
+          },
+          {
+            "name": { "fallback": "gong shu" }
+          },
+          {
+            "name": { "fallback": "Liu Xiaoguang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -8247,9 +8921,27 @@
     {
       "user": {
         "name": "Long Leg Long",
-        "id": "40",
-        "organization": "苏州大学",
-        "official": true
+        "id": "苏州大学_Long Leg Long",
+        "organization": {
+          "zh-CN": "苏州大学",
+          "fallback": "Soochow University, China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Bai Yan" }
+          },
+          {
+            "name": { "fallback": "Zhu Yongnan" }
+          },
+          {
+            "name": { "fallback": "Tang Jianheng" }
+          },
+          {
+            "name": { "fallback": "Wang Hui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -8476,9 +9168,27 @@
     {
       "user": {
         "name": "HDU-Balala",
-        "id": "41",
-        "organization": "杭州电子科技大学",
-        "official": true
+        "id": "杭州电子科技大学_HDU-Balala",
+        "organization": {
+          "zh-CN": "杭州电子科技大学",
+          "fallback": "Hangzhou Dianzi University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "yu yang" }
+          },
+          {
+            "name": { "fallback": "Zhang Mingsheng" }
+          },
+          {
+            "name": { "fallback": "Liu Zhian" }
+          },
+          {
+            "name": { "fallback": "LIU Chunying" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -8696,9 +9406,27 @@
     {
       "user": {
         "name": "listen WAs",
-        "id": "42",
-        "organization": "中国地质大学（北京）",
-        "official": true
+        "id": "中国地质大学（北京）_listen WAs",
+        "organization": {
+          "zh-CN": "中国地质大学（北京）",
+          "fallback": "China University of Geosciences, Beijing"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhining Zhu" }
+          },
+          {
+            "name": { "fallback": "Jiacheng Zhao" }
+          },
+          {
+            "name": { "fallback": "Zou Zhuojun" }
+          },
+          {
+            "name": { "fallback": "Zhang Yuqing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8890,9 +9618,27 @@
     {
       "user": {
         "name": "Yuan Lei",
-        "id": "43",
-        "organization": "中国科学技术大学",
-        "official": true
+        "id": "中国科学技术大学_Yuan Lei",
+        "organization": {
+          "zh-CN": "中国科学技术大学",
+          "fallback": "University of Science and Technology of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhao Hongzhu" }
+          },
+          {
+            "name": { "fallback": "You Lingjing" }
+          },
+          {
+            "name": { "fallback": "Yang Junhan" }
+          },
+          {
+            "name": { "fallback": "Zhang Qingyu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9068,9 +9814,27 @@
     {
       "user": {
         "name": "LCM",
-        "id": "44",
-        "organization": "浙江工业大学",
-        "official": true
+        "id": "浙江工业大学_LCM",
+        "organization": {
+          "zh-CN": "浙江工业大学",
+          "fallback": "Zhejiang University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "chen xinxin" }
+          },
+          {
+            "name": { "fallback": "Ma Anqi" }
+          },
+          {
+            "name": { "fallback": "Lintong Li" }
+          },
+          {
+            "name": { "fallback": "Han Shanshan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9232,9 +9996,27 @@
     {
       "user": {
         "name": "Everest",
-        "id": "45",
-        "organization": "北京师范大学",
-        "official": true
+        "id": "北京师范大学_Everest",
+        "organization": {
+          "zh-CN": "北京师范大学",
+          "fallback": "Beijing Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "He Zexue" }
+          },
+          {
+            "name": { "fallback": "Li Zhechen" }
+          },
+          {
+            "name": { "fallback": "Bu Fan" }
+          },
+          {
+            "name": { "fallback": "Chen Hui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9410,9 +10192,27 @@
     {
       "user": {
         "name": "NewDrivers",
-        "id": "46",
-        "organization": "福州大学",
-        "official": true
+        "id": "福州大学_NewDrivers",
+        "organization": {
+          "zh-CN": "福州大学",
+          "fallback": "Fuzhou University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "jinxin Hong" }
+          },
+          {
+            "name": { "fallback": "Jinwang Xu" }
+          },
+          {
+            "name": { "fallback": "Haohui Zheng" }
+          },
+          {
+            "name": { "fallback": "Fu Yanggeng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9558,9 +10358,27 @@
     {
       "user": {
         "name": "Threw You Rem",
-        "id": "47",
-        "organization": "中国科学院大学",
-        "official": true
+        "id": "中国科学院大学_Threw You Rem",
+        "organization": {
+          "zh-CN": "中国科学院大学",
+          "fallback": "University of Chinese Academy of Sciences"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Zhenzhen" }
+          },
+          {
+            "name": { "fallback": "Ju Fusong" }
+          },
+          {
+            "name": { "fallback": "Gao Ang" }
+          },
+          {
+            "name": { "fallback": "Sun Xiaoming" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9778,9 +10596,27 @@
     {
       "user": {
         "name": "AcFun",
-        "id": "48",
-        "organization": "东北大学",
-        "official": true
+        "id": "东北大学_AcFun",
+        "organization": {
+          "zh-CN": "东北大学",
+          "fallback": "Northeastern University (China)"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Cen Rong" }
+          },
+          {
+            "name": { "fallback": "Qu Sichang" }
+          },
+          {
+            "name": { "fallback": "Xu Wangzihao" }
+          },
+          {
+            "name": { "fallback": "Wang XingWei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9944,9 +10780,27 @@
     {
       "user": {
         "name": "Our Dad",
-        "id": "49",
-        "organization": "中国科学技术大学",
-        "official": true
+        "id": "中国科学技术大学_Our Dad",
+        "organization": {
+          "zh-CN": "中国科学技术大学",
+          "fallback": "University of Science and Technology of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "lin yao" }
+          },
+          {
+            "name": { "fallback": "ding li" }
+          },
+          {
+            "name": { "fallback": "Li Dinglong" }
+          },
+          {
+            "name": { "fallback": "Zhang Qingyu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10101,9 +10955,27 @@
     {
       "user": {
         "name": "cornerStone",
-        "id": "50",
-        "organization": "蒙古科技大学",
-        "official": true
+        "id": "蒙古科技大学_cornerStone",
+        "organization": {
+          "zh-CN": "蒙古科技大学",
+          "fallback": "Mongolian University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Tegshbaikh BIlguun" }
+          },
+          {
+            "name": { "fallback": "Ganzorig Chinbat" }
+          },
+          {
+            "name": { "fallback": "Gantulga Enkh-Amar" }
+          },
+          {
+            "name": { "fallback": "Altangerel Khuder" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10265,9 +11137,27 @@
     {
       "user": {
         "name": "Kingbase_Breakthrough",
-        "id": "51",
-        "organization": "中国人民大学",
-        "official": true
+        "id": "中国人民大学_Kingbase_Breakthrough",
+        "organization": {
+          "zh-CN": "中国人民大学",
+          "fallback": "Renmin University of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liang Junkai" }
+          },
+          {
+            "name": { "fallback": "wang fei" }
+          },
+          {
+            "name": { "fallback": "Zhao Yuanpei" }
+          },
+          {
+            "name": { "fallback": "Zhu Qing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10429,9 +11319,27 @@
     {
       "user": {
         "name": "ACMakeMeHappier",
-        "id": "52",
-        "organization": "北京航空航天大学",
-        "official": true
+        "id": "北京航空航天大学_ACMakeMeHappier",
+        "organization": {
+          "zh-CN": "北京航空航天大学",
+          "fallback": "Beihang University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Huang HongMing" }
+          },
+          {
+            "name": { "fallback": "Lin Ziyi" }
+          },
+          {
+            "name": { "fallback": "Li Bo" }
+          },
+          {
+            "name": { "fallback": "Liang Mingyang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10623,9 +11531,27 @@
     {
       "user": {
         "name": "NoWaDays",
-        "id": "53",
-        "organization": "南京理工大学",
-        "official": true
+        "id": "南京理工大学_NoWaDays",
+        "organization": {
+          "zh-CN": "南京理工大学",
+          "fallback": "Nanjing University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Dai Xingjian" }
+          },
+          {
+            "name": { "fallback": "Sun Weixiang" }
+          },
+          {
+            "name": { "fallback": "Hui Le" }
+          },
+          {
+            "name": { "fallback": "Yu Ligong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10794,9 +11720,27 @@
     {
       "user": {
         "name": "Kingbase_Yorozuya",
-        "id": "54",
-        "organization": "中国人民大学",
-        "official": true
+        "id": "中国人民大学_Kingbase_Yorozuya",
+        "organization": {
+          "zh-CN": "中国人民大学",
+          "fallback": "Renmin University of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Feng Jiahui" }
+          },
+          {
+            "name": { "fallback": "Piao Chengzhi" }
+          },
+          {
+            "name": { "fallback": "Yang Yang" }
+          },
+          {
+            "name": { "fallback": "Zhu Qing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11002,9 +11946,27 @@
     {
       "user": {
         "name": "Harmonia",
-        "id": "55",
-        "organization": "吉林大学",
-        "official": true
+        "id": "吉林大学_Harmonia",
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhou Zhi" }
+          },
+          {
+            "name": { "fallback": "Hong Qijun" }
+          },
+          {
+            "name": { "fallback": "Li Kangning" }
+          },
+          {
+            "name": { "fallback": "Li Qiang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11150,9 +12112,27 @@
     {
       "user": {
         "name": "TEMP_ID",
-        "id": "56",
-        "organization": "湖南大学",
-        "official": true
+        "id": "湖南大学_TEMP_ID",
+        "organization": {
+          "zh-CN": "湖南大学",
+          "fallback": "Hunan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "kun yan" }
+          },
+          {
+            "name": { "fallback": "Anqi Chen" }
+          },
+          {
+            "name": { "fallback": "Guohao Zhou" }
+          },
+          {
+            "name": { "fallback": "Wu Hao" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11335,9 +12315,27 @@
     {
       "user": {
         "name": "SCAU_Need_One_More",
-        "id": "57",
-        "organization": "华南农业大学",
-        "official": true
+        "id": "华南农业大学_SCAU_Need_One_More",
+        "organization": {
+          "zh-CN": "华南农业大学",
+          "fallback": "South China Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhou Weining" }
+          },
+          {
+            "name": { "fallback": "Tan Zhikang" }
+          },
+          {
+            "name": { "fallback": "wu yiwei" }
+          },
+          {
+            "name": { "fallback": "Chen Xiangji" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11520,9 +12518,27 @@
     {
       "user": {
         "name": "time zero",
-        "id": "58",
-        "organization": "北京科技大学",
-        "official": true
+        "id": "北京科技大学_time zero",
+        "organization": {
+          "zh-CN": "北京科技大学",
+          "fallback": "University of Science and Technology Beijing"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu ZhengYu" }
+          },
+          {
+            "name": { "fallback": "Li Hongyang" }
+          },
+          {
+            "name": { "fallback": "Xu Jingwei" }
+          },
+          {
+            "name": { "fallback": "Hong Yuan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11684,9 +12700,27 @@
     {
       "user": {
         "name": "AC all the way",
-        "id": "59",
-        "organization": "华南理工大学",
-        "official": true
+        "id": "华南理工大学_AC all the way",
+        "organization": {
+          "zh-CN": "华南理工大学",
+          "fallback": "South China University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xia Lianghao" }
+          },
+          {
+            "name": { "fallback": "Zeng Shiyuan" }
+          },
+          {
+            "name": { "fallback": "Xu Hongjie" }
+          },
+          {
+            "name": { "fallback": "Liu Jie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11876,9 +12910,27 @@
     {
       "user": {
         "name": "Game b4 Marrying",
-        "id": "60",
-        "organization": "成都信息工程大学",
-        "official": true
+        "id": "成都信息工程大学_Game b4 Marrying",
+        "organization": {
+          "zh-CN": "成都信息工程大学",
+          "fallback": "Chengdu University of Information Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "weicheng zeng" }
+          },
+          {
+            "name": { "fallback": "Xiaoling Zhou" }
+          },
+          {
+            "name": { "fallback": "Ronghao Du" }
+          },
+          {
+            "name": { "fallback": "Du Xiaoyu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12068,9 +13120,27 @@
     {
       "user": {
         "name": "Metis",
-        "id": "61",
-        "organization": "上海交通大学",
-        "official": true
+        "id": "上海交通大学_Metis",
+        "organization": {
+          "zh-CN": "上海交通大学",
+          "fallback": "Shanghai Jiao Tong University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Long Sishan" }
+          },
+          {
+            "name": { "fallback": "Cai Jingyi" }
+          },
+          {
+            "name": { "fallback": "Xie Yutong" }
+          },
+          {
+            "name": { "fallback": "Yu Yong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12241,9 +13311,27 @@
     {
       "user": {
         "name": "STYX HELIX",
-        "id": "62",
-        "organization": "北京理工大学",
-        "official": true
+        "id": "北京理工大学_STYX HELIX",
+        "organization": {
+          "zh-CN": "北京理工大学",
+          "fallback": "Beijing Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "DaYou Zhang" }
+          },
+          {
+            "name": { "fallback": "Liu Xiao" }
+          },
+          {
+            "name": { "fallback": "Xuancheng huang" }
+          },
+          {
+            "name": { "fallback": "Lin Yonggang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12426,9 +13514,27 @@
     {
       "user": {
         "name": "cheerkrystal",
-        "id": "63",
-        "organization": "武汉科技大学",
-        "official": true
+        "id": "武汉科技大学_cheerkrystal",
+        "organization": {
+          "zh-CN": "武汉科技大学",
+          "fallback": "Wuhan University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xu Songjia" }
+          },
+          {
+            "name": { "fallback": "Lv Qiwen" }
+          },
+          {
+            "name": { "fallback": "Lv Qian" }
+          },
+          {
+            "name": { "fallback": "Li Shunxin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12590,9 +13696,27 @@
     {
       "user": {
         "name": "hust_waslayer",
-        "id": "64",
-        "organization": "华中科技大学",
-        "official": true
+        "id": "华中科技大学_hust_waslayer",
+        "organization": {
+          "zh-CN": "华中科技大学",
+          "fallback": "Huazhong University of Science & Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Ning Ding" }
+          },
+          {
+            "name": { "fallback": "Yuyang Din" }
+          },
+          {
+            "name": { "fallback": "Sun Zhenyu" }
+          },
+          {
+            "name": { "fallback": "Yin Shi" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12817,9 +13941,27 @@
     {
       "user": {
         "name": "SZU_MiaoPass",
-        "id": "65",
-        "organization": "深圳大学",
-        "official": true
+        "id": "深圳大学_SZU_MiaoPass",
+        "organization": {
+          "zh-CN": "深圳大学",
+          "fallback": "Shenzhen University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu Guojie" }
+          },
+          {
+            "name": { "fallback": "Fu Yifei" }
+          },
+          {
+            "name": { "fallback": "Huang Zhiwei" }
+          },
+          {
+            "name": { "fallback": "Zhang Xiaojian" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13004,9 +14146,27 @@
     {
       "user": {
         "name": "We love dove",
-        "id": "66",
-        "organization": "浙江理工大学",
-        "official": true
+        "id": "浙江理工大学_We love dove",
+        "organization": {
+          "zh-CN": "浙江理工大学",
+          "fallback": "Zhejiang SCI-TECH University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "li linjie" }
+          },
+          {
+            "name": { "fallback": "Ye Zhaodan" }
+          },
+          {
+            "name": { "fallback": "Zimin Chen" }
+          },
+          {
+            "name": { "fallback": "Ye Hairong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13191,9 +14351,27 @@
     {
       "user": {
         "name": "cukiller",
-        "id": "67",
-        "organization": "合肥工业大学",
-        "official": true
+        "id": "合肥工业大学_cukiller",
+        "organization": {
+          "zh-CN": "合肥工业大学",
+          "fallback": "Hefei University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "zhong changyuan" }
+          },
+          {
+            "name": { "fallback": "Cao Yi" }
+          },
+          {
+            "name": { "fallback": "xiang jikai" }
+          },
+          {
+            "name": { "fallback": "xu benzhu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13339,9 +14517,27 @@
     {
       "user": {
         "name": "AI",
-        "id": "68",
-        "organization": "南京理工大学",
-        "official": true
+        "id": "南京理工大学_AI",
+        "organization": {
+          "zh-CN": "南京理工大学",
+          "fallback": "Nanjing University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Lidan" }
+          },
+          {
+            "name": { "fallback": "Tian Xin" }
+          },
+          {
+            "name": { "fallback": "Ren Shaolin" }
+          },
+          {
+            "name": { "fallback": "Yu Ligong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13531,9 +14727,27 @@
     {
       "user": {
         "name": "Otaku ha Kimoi",
-        "id": "69",
-        "organization": "长沙理工大学",
-        "official": true
+        "id": "长沙理工大学_Otaku ha Kimoi",
+        "organization": {
+          "zh-CN": "长沙理工大学",
+          "fallback": "Changsha University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Shang YiLong" }
+          },
+          {
+            "name": { "fallback": "Zhang Hao" }
+          },
+          {
+            "name": { "fallback": "Zhou zhequan" }
+          },
+          {
+            "name": { "fallback": "Deng Zelin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13693,9 +14907,27 @@
     {
       "user": {
         "name": "Crows",
-        "id": "70",
-        "organization": "北京理工大学",
-        "official": true
+        "id": "北京理工大学_Crows",
+        "organization": {
+          "zh-CN": "北京理工大学",
+          "fallback": "Beijing Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "yikang luo" }
+          },
+          {
+            "name": { "fallback": "Huang Shaoqin" }
+          },
+          {
+            "name": { "fallback": "Wu Enze" }
+          },
+          {
+            "name": { "fallback": "chen jiehao" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13878,9 +15110,27 @@
     {
       "user": {
         "name": "make a small news",
-        "id": "71",
-        "organization": "西安交通大学",
-        "official": true
+        "id": "西安交通大学_make a small news",
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang Zijie" }
+          },
+          {
+            "name": { "fallback": "Haisong Liu" }
+          },
+          {
+            "name": { "fallback": "Dong Yuxin" }
+          },
+          {
+            "name": { "fallback": "Xu HongZhe" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14026,9 +15276,27 @@
     {
       "user": {
         "name": "WeAreATeam",
-        "id": "72",
-        "organization": "华南理工大学",
-        "official": true
+        "id": "华南理工大学_WeAreATeam",
+        "organization": {
+          "zh-CN": "华南理工大学",
+          "fallback": "South China University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xie Weikun" }
+          },
+          {
+            "name": { "fallback": "Fu Shaopeng" }
+          },
+          {
+            "name": { "fallback": "Ma Kaihao" }
+          },
+          {
+            "name": { "fallback": "Xian Chuhua" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14218,9 +15486,27 @@
     {
       "user": {
         "name": "palindrome",
-        "id": "73",
-        "organization": "南阳理工学院",
-        "official": true
+        "id": "南阳理工学院_palindrome",
+        "organization": {
+          "zh-CN": "南阳理工学院",
+          "fallback": "Nanyang Institute of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xunjia Zhao" }
+          },
+          {
+            "name": { "fallback": "kai gu" }
+          },
+          {
+            "name": { "fallback": "Jinxin Huang" }
+          },
+          {
+            "name": { "fallback": "zhao dongjiang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14382,9 +15668,27 @@
     {
       "user": {
         "name": "FaceWhite",
-        "id": "74",
-        "organization": "浙江师范大学",
-        "official": true
+        "id": "浙江师范大学_FaceWhite",
+        "organization": {
+          "zh-CN": "浙江师范大学",
+          "fallback": "Zhejiang Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "zheng shu" }
+          },
+          {
+            "name": { "fallback": "lin naijie" }
+          },
+          {
+            "name": { "fallback": "Dong Yi" }
+          },
+          {
+            "name": { "fallback": "Han Jianmin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14560,9 +15864,27 @@
     {
       "user": {
         "name": "NextStation",
-        "id": "75",
-        "organization": "山东大学（威海）",
-        "official": true
+        "id": "山东大学（威海）_NextStation",
+        "organization": {
+          "zh-CN": "山东大学（威海）",
+          "fallback": "Shandong University at Weihai"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xue Lantian" }
+          },
+          {
+            "name": { "fallback": "Min Yuecong" }
+          },
+          {
+            "name": { "fallback": "Qi miao" }
+          },
+          {
+            "name": { "fallback": "Yuan Hao" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14715,9 +16037,27 @@
     {
       "user": {
         "name": "Atmosphere",
-        "id": "76",
-        "organization": "上海大学",
-        "official": true
+        "id": "上海大学_Atmosphere",
+        "organization": {
+          "zh-CN": "上海大学",
+          "fallback": "Shanghai University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Lai Zenan" }
+          },
+          {
+            "name": { "fallback": "Liu yucheng" }
+          },
+          {
+            "name": { "fallback": "Xu Jilan" }
+          },
+          {
+            "name": { "fallback": "Shen Yunfu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14877,9 +16217,27 @@
     {
       "user": {
         "name": "Thanks",
-        "id": "77",
-        "organization": "浙江师范大学",
-        "official": true
+        "id": "浙江师范大学_Thanks",
+        "organization": {
+          "zh-CN": "浙江师范大学",
+          "fallback": "Zhejiang Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "shen qi" }
+          },
+          {
+            "name": { "fallback": "zekai Ye" }
+          },
+          {
+            "name": { "fallback": "Chen zuxin" }
+          },
+          {
+            "name": { "fallback": "zheng zhonglong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15039,9 +16397,27 @@
     {
       "user": {
         "name": "XMU_Beijing2016",
-        "id": "78",
-        "organization": "厦门大学",
-        "official": true
+        "id": "厦门大学_XMU_Beijing2016",
+        "organization": {
+          "zh-CN": "厦门大学",
+          "fallback": "Xiamen University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Shengsen" }
+          },
+          {
+            "name": { "fallback": "Deng ShiYan" }
+          },
+          {
+            "name": { "fallback": "Chen Yihong" }
+          },
+          {
+            "name": { "fallback": "Lin Wenshui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15252,9 +16628,27 @@
     {
       "user": {
         "name": "TJU_master_driver",
-        "id": "79",
-        "organization": "天津大学",
-        "official": true
+        "id": "天津大学_TJU_master_driver",
+        "organization": {
+          "zh-CN": "天津大学",
+          "fallback": "Tianjin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Tian Yuan" }
+          },
+          {
+            "name": { "fallback": "Sun Yingzhou" }
+          },
+          {
+            "name": { "fallback": "Jia Tianhao" }
+          },
+          {
+            "name": { "fallback": "Yu Ruiguo" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15423,9 +16817,27 @@
     {
       "user": {
         "name": "StarFarming",
-        "id": "80",
-        "organization": "河南理工大学",
-        "official": true
+        "id": "河南理工大学_StarFarming",
+        "organization": {
+          "zh-CN": "河南理工大学",
+          "fallback": "Henan Polytechnic University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yonglei Zhang" }
+          },
+          {
+            "name": { "fallback": "tian Ouyang" }
+          },
+          {
+            "name": { "fallback": "Yinggang Wang" }
+          },
+          {
+            "name": { "fallback": "Zhao Shan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15601,9 +17013,27 @@
     {
       "user": {
         "name": "Wrong Answer on Test 4",
-        "id": "81",
-        "organization": "长安大学",
-        "official": true
+        "id": "长安大学_Wrong Answer on Test 4",
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang'an University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Tingwei" }
+          },
+          {
+            "name": { "fallback": "Jiang Jiayu" }
+          },
+          {
+            "name": { "fallback": "Yu Guanyi" }
+          },
+          {
+            "name": { "fallback": "Jing Shu-xu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15786,9 +17216,27 @@
     {
       "user": {
         "name": "new bee",
-        "id": "82",
-        "organization": "浙江理工大学",
-        "official": true
+        "id": "浙江理工大学_new bee",
+        "organization": {
+          "zh-CN": "浙江理工大学",
+          "fallback": "Zhejiang SCI-TECH University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yan Dali" }
+          },
+          {
+            "name": { "fallback": "zheng yu" }
+          },
+          {
+            "name": { "fallback": "Zhang Ziyang" }
+          },
+          {
+            "name": { "fallback": "Ye Hairong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15969,9 +17417,27 @@
     {
       "user": {
         "name": "UESTC_Void",
-        "id": "83",
-        "organization": "电子科技大学",
-        "official": true
+        "id": "电子科技大学_UESTC_Void",
+        "organization": {
+          "zh-CN": "电子科技大学",
+          "fallback": "University of Electronic Science and Technology of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Feitong" }
+          },
+          {
+            "name": { "fallback": "Wang Dongkai" }
+          },
+          {
+            "name": { "fallback": "zhong wang" }
+          },
+          {
+            "name": { "fallback": "Wang Xiaoping" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16138,9 +17604,27 @@
     {
       "user": {
         "name": "骑士",
-        "id": "84",
-        "organization": "南京航空航天大学",
-        "official": true
+        "id": "南京航空航天大学_骑士",
+        "organization": {
+          "zh-CN": "南京航空航天大学",
+          "fallback": "Nanjing University of Aeronautics and Astronautics"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "fei zichu" }
+          },
+          {
+            "name": { "fallback": "Jingsheng Gao" }
+          },
+          {
+            "name": { "fallback": "Chen Zehan" }
+          },
+          {
+            "name": { "fallback": "Zou Chunran" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16337,9 +17821,27 @@
     {
       "user": {
         "name": "The philosophy teacher",
-        "id": "85",
-        "organization": "东北农业大学",
-        "official": true
+        "id": "东北农业大学_The philosophy teacher",
+        "organization": {
+          "zh-CN": "东北农业大学",
+          "fallback": "Northeast Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Jiang Jin" }
+          },
+          {
+            "name": { "fallback": "Zheng Xin" }
+          },
+          {
+            "name": { "fallback": "Yuan Mengyang" }
+          },
+          {
+            "name": { "fallback": "Li Xiaoming" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16529,9 +18031,27 @@
     {
       "user": {
         "name": "SCAU_AKautomatons",
-        "id": "86",
-        "organization": "华南农业大学",
-        "official": true
+        "id": "华南农业大学_SCAU_AKautomatons",
+        "organization": {
+          "zh-CN": "华南农业大学",
+          "fallback": "South China Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "he zhenhao" }
+          },
+          {
+            "name": { "fallback": "Zheng Jianjia" }
+          },
+          {
+            "name": { "fallback": "Deng Jinxi" }
+          },
+          {
+            "name": { "fallback": "Liu Caixing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16698,9 +18218,27 @@
     {
       "user": {
         "name": "I am angry_zufe",
-        "id": "87",
-        "organization": "浙江财经大学",
-        "official": true
+        "id": "浙江财经大学_I am angry_zufe",
+        "organization": {
+          "zh-CN": "浙江财经大学",
+          "fallback": "Zhejiang University of Finance and Economics"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "chixiang liu" }
+          },
+          {
+            "name": { "fallback": "Shi Haihong" }
+          },
+          {
+            "name": { "fallback": "Xiang RunYe" }
+          },
+          {
+            "name": { "fallback": "Chen YanHong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16876,9 +18414,9 @@
     {
       "user": {
         "name": "Anonymous",
-        "id": "88",
-        "organization": "*北京大学",
-        "official": true
+        "id": "北京大学_Anonymous",
+        "organization": "北京大学",
+        "official": false
       },
       "score": {
         "value": 4,
@@ -17070,9 +18608,27 @@
     {
       "user": {
         "name": "Goforworld",
-        "id": "89",
-        "organization": "南京邮电大学",
-        "official": true
+        "id": "南京邮电大学_Goforworld",
+        "organization": {
+          "zh-CN": "南京邮电大学",
+          "fallback": "Nanjing University of Posts and Telecommunications"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zou Zixin" }
+          },
+          {
+            "name": { "fallback": "huang chengbo" }
+          },
+          {
+            "name": { "fallback": "Chen Zhiyuan" }
+          },
+          {
+            "name": { "fallback": "CHEN Zhi" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17248,9 +18804,27 @@
     {
       "user": {
         "name": " ",
-        "id": "90",
-        "organization": "Unknown",
-        "official": true
+        "id": "Unknown_unknown-team-90",
+        "organization": {
+          "zh-CN": "Unknown",
+          "fallback": "Chang'an University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Zhimin" }
+          },
+          {
+            "name": { "fallback": "Chai Tianrui" }
+          },
+          {
+            "name": { "fallback": "Fang Dengfei" }
+          },
+          {
+            "name": { "fallback": "Jing Shu-xu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17447,9 +19021,27 @@
     {
       "user": {
         "name": "miao~pa~si~pa~si",
-        "id": "91",
-        "organization": "浙江工业大学",
-        "official": true
+        "id": "浙江工业大学_miao~pa~si~pa~si",
+        "organization": {
+          "zh-CN": "浙江工业大学",
+          "fallback": "Zhejiang University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Miao Xinming" }
+          },
+          {
+            "name": { "fallback": "Liu Yuyun" }
+          },
+          {
+            "name": { "fallback": "huang kun" }
+          },
+          {
+            "name": { "fallback": "Wang Chunping" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17625,9 +19217,27 @@
     {
       "user": {
         "name": "until the end",
-        "id": "92",
-        "organization": "湖南工业大学",
-        "official": true
+        "id": "湖南工业大学_until the end",
+        "organization": {
+          "zh-CN": "湖南工业大学",
+          "fallback": "Hunan University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu huan" }
+          },
+          {
+            "name": { "fallback": "cai jinhao" }
+          },
+          {
+            "name": { "fallback": "Yuting Gao" }
+          },
+          {
+            "name": { "fallback": "Zhu Yan hui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17831,9 +19441,27 @@
     {
       "user": {
         "name": "Scarlet Witch",
-        "id": "93",
-        "organization": "东华大学",
-        "official": true
+        "id": "东华大学_Scarlet Witch",
+        "organization": {
+          "zh-CN": "东华大学",
+          "fallback": "Donghua University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Cong" }
+          },
+          {
+            "name": { "fallback": "Zhao Wanting" }
+          },
+          {
+            "name": { "fallback": "Zhu Yuanyang" }
+          },
+          {
+            "name": { "fallback": "Zhu Guojin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18002,9 +19630,27 @@
     {
       "user": {
         "name": "Old captains in bay of Bengal",
-        "id": "94",
-        "organization": "中国地质大学（北京）",
-        "official": true
+        "id": "中国地质大学（北京）_Old captains in bay of Bengal",
+        "organization": {
+          "zh-CN": "中国地质大学（北京）",
+          "fallback": "China University of Geosciences, Beijing"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Dequan" }
+          },
+          {
+            "name": { "fallback": "Qu Wentian" }
+          },
+          {
+            "name": { "fallback": "Du Kanghui" }
+          },
+          {
+            "name": { "fallback": "Zhang Yuqing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18215,9 +19861,27 @@
     {
       "user": {
         "name": "SEAS",
-        "id": "95",
-        "organization": "蒙古国立大学",
-        "official": true
+        "id": "蒙古国立大学_SEAS",
+        "organization": {
+          "zh-CN": "蒙古国立大学",
+          "fallback": "National University of Mongolia"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Gombojav Bat-Orshih" }
+          },
+          {
+            "name": { "fallback": "Batsaikhan Javkhlan" }
+          },
+          {
+            "name": { "fallback": "Boldbaatar Tamir" }
+          },
+          {
+            "name": { "fallback": "Gombojav Gantulga" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18386,9 +20050,27 @@
     {
       "user": {
         "name": "Hnust_LCS",
-        "id": "96",
-        "organization": "湖南科技大学",
-        "official": true
+        "id": "湖南科技大学_Hnust_LCS",
+        "organization": {
+          "zh-CN": "湖南科技大学",
+          "fallback": "Hunan University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Zhijie" }
+          },
+          {
+            "name": { "fallback": "Wang Chun" }
+          },
+          {
+            "name": { "fallback": "Yuan Quan" }
+          },
+          {
+            "name": { "fallback": "Chen Yanhui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18585,9 +20267,27 @@
     {
       "user": {
         "name": "Eason",
-        "id": "97",
-        "organization": "华南理工大学",
-        "official": true
+        "id": "华南理工大学_Eason",
+        "organization": {
+          "zh-CN": "华南理工大学",
+          "fallback": "South China University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Xingyi" }
+          },
+          {
+            "name": { "fallback": "Shunhong Hu" }
+          },
+          {
+            "name": { "fallback": "Chen Chen" }
+          },
+          {
+            "name": { "fallback": "Liu Jie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18784,9 +20484,27 @@
     {
       "user": {
         "name": "TheHardWayToGoal",
-        "id": "98",
-        "organization": "东北大学",
-        "official": true
+        "id": "东北大学_TheHardWayToGoal",
+        "organization": {
+          "zh-CN": "东北大学",
+          "fallback": "Northeastern University (China)"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Tang Rongshan" }
+          },
+          {
+            "name": { "fallback": "Zhang Heshuang" }
+          },
+          {
+            "name": { "fallback": "Liu Xiaochen" }
+          },
+          {
+            "name": { "fallback": "Li Xiaohua" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18976,9 +20694,27 @@
     {
       "user": {
         "name": "Jingle",
-        "id": "99",
-        "organization": "中国传媒大学",
-        "official": true
+        "id": "中国传媒大学_Jingle",
+        "organization": {
+          "zh-CN": "中国传媒大学",
+          "fallback": "Communication University of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen XinYuan" }
+          },
+          {
+            "name": { "fallback": "Sun Chonghui" }
+          },
+          {
+            "name": { "fallback": "Wang Xuezhu" }
+          },
+          {
+            "name": { "fallback": "Yue Dong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19152,9 +20888,27 @@
     {
       "user": {
         "name": "I_Good_Vegetable_A",
-        "id": "100",
-        "organization": "青岛大学",
-        "official": true
+        "id": "青岛大学_I_Good_Vegetable_A",
+        "organization": {
+          "zh-CN": "青岛大学",
+          "fallback": "Qingdao University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu Yongkang" }
+          },
+          {
+            "name": { "fallback": "Lv Chufan" }
+          },
+          {
+            "name": { "fallback": "Li Haiqian" }
+          },
+          {
+            "name": { "fallback": "Du Xiangjun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19351,9 +21105,27 @@
     {
       "user": {
         "name": "Prajna",
-        "id": "101",
-        "organization": "四川大学",
-        "official": true
+        "id": "四川大学_Prajna",
+        "organization": {
+          "zh-CN": "四川大学",
+          "fallback": "Sichuan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Peng Chen" }
+          },
+          {
+            "name": { "fallback": "Li Yiyuan" }
+          },
+          {
+            "name": { "fallback": "Shuai Yang" }
+          },
+          {
+            "name": { "fallback": "Zuo Jie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19566,9 +21338,27 @@
     {
       "user": {
         "name": "Zero",
-        "id": "102",
-        "organization": "北京交通大学",
-        "official": true
+        "id": "北京交通大学_Zero",
+        "organization": {
+          "zh-CN": "北京交通大学",
+          "fallback": "Beijing Jiaotong University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Zhibo" }
+          },
+          {
+            "name": { "fallback": "ZHANG Yanxiao" }
+          },
+          {
+            "name": { "fallback": "GAO Hongjie" }
+          },
+          {
+            "name": { "fallback": "Huang Hua" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19849,9 +21639,27 @@
     {
       "user": {
         "name": "leifeng",
-        "id": "103",
-        "organization": "东北林业大学",
-        "official": true
+        "id": "东北林业大学_leifeng",
+        "organization": {
+          "zh-CN": "东北林业大学",
+          "fallback": "Northeast Forestry University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang Mengzhi" }
+          },
+          {
+            "name": { "fallback": "Zhang Chao" }
+          },
+          {
+            "name": { "fallback": "Shen TianRui" }
+          },
+          {
+            "name": { "fallback": "Chen Yu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20025,9 +21833,27 @@
     {
       "user": {
         "name": "one key ak",
-        "id": "104",
-        "organization": "广州大学",
-        "official": true
+        "id": "广州大学_one key ak",
+        "organization": {
+          "zh-CN": "广州大学",
+          "fallback": "Guangzhou University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Du Hangken" }
+          },
+          {
+            "name": { "fallback": "Wu WeiQiang" }
+          },
+          {
+            "name": { "fallback": "Gao Xiaosi" }
+          },
+          {
+            "name": { "fallback": "Zhang Wei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20231,9 +22057,27 @@
     {
       "user": {
         "name": "Three faces of mengbi",
-        "id": "105",
-        "organization": "解放军信息工程大学",
-        "official": true
+        "id": "解放军信息工程大学_Three faces of mengbi",
+        "organization": {
+          "zh-CN": "解放军信息工程大学",
+          "fallback": "Information Engineering University of the People's Liberation Army"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wang kaihua" }
+          },
+          {
+            "name": { "fallback": "chen shi" }
+          },
+          {
+            "name": { "fallback": "zeng cheng" }
+          },
+          {
+            "name": { "fallback": "Gang Zhou" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20465,9 +22309,27 @@
     {
       "user": {
         "name": "UESTC_Codehero",
-        "id": "106",
-        "organization": "电子科技大学",
-        "official": true
+        "id": "电子科技大学_UESTC_Codehero",
+        "organization": {
+          "zh-CN": "电子科技大学",
+          "fallback": "University of Electronic Science and Technology of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Yuren" }
+          },
+          {
+            "name": { "fallback": "Li Zhengyu" }
+          },
+          {
+            "name": { "fallback": "YiDe XIN" }
+          },
+          {
+            "name": { "fallback": "Wang Xiaoping" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20683,9 +22545,27 @@
     {
       "user": {
         "name": "NSU1",
-        "id": "107",
-        "organization": "成都东软学院",
-        "official": true
+        "id": "成都东软学院_NSU1",
+        "organization": {
+          "zh-CN": "成都东软学院",
+          "fallback": "Chengdu Neusoft University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "jiang yilong" }
+          },
+          {
+            "name": { "fallback": "Li Pengfei" }
+          },
+          {
+            "name": { "fallback": "Gu SiXue" }
+          },
+          {
+            "name": { "fallback": "huang jing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20889,9 +22769,27 @@
     {
       "user": {
         "name": "Apocalypse",
-        "id": "108",
-        "organization": "吉林大学",
-        "official": true
+        "id": "吉林大学_Apocalypse",
+        "organization": {
+          "zh-CN": "吉林大学",
+          "fallback": "Jilin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu Xinzhu" }
+          },
+          {
+            "name": { "fallback": "Zhang Min" }
+          },
+          {
+            "name": { "fallback": "Dai Danqing" }
+          },
+          {
+            "name": { "fallback": "Li Qiang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21121,9 +23019,27 @@
     {
       "user": {
         "name": "Fujiwara Takumi de su ga",
-        "id": "109",
-        "organization": "北京化工大学",
-        "official": true
+        "id": "北京化工大学_Fujiwara Takumi de su ga",
+        "organization": {
+          "zh-CN": "北京化工大学",
+          "fallback": "Beijing University of Chemical Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yan Nan" }
+          },
+          {
+            "name": { "fallback": "Li Yichao" }
+          },
+          {
+            "name": { "fallback": "Guo yiting" }
+          },
+          {
+            "name": { "fallback": "liu yong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21339,9 +23255,27 @@
     {
       "user": {
         "name": "dreamcoder",
-        "id": "110",
-        "organization": "华东理工大学",
-        "official": true
+        "id": "华东理工大学_dreamcoder",
+        "organization": {
+          "zh-CN": "华东理工大学",
+          "fallback": "East China University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zeng Jianjun" }
+          },
+          {
+            "name": { "fallback": "Jin Peng" }
+          },
+          {
+            "name": { "fallback": "Lin Yikan" }
+          },
+          {
+            "name": { "fallback": "Luo Yongjun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -21496,9 +23430,27 @@
     {
       "user": {
         "name": "LittleStudents@USC",
-        "id": "111",
-        "organization": "南华大学",
-        "official": true
+        "id": "南华大学_LittleStudents@USC",
+        "organization": {
+          "zh-CN": "南华大学",
+          "fallback": "Nanhua University (University of South China)"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "zhang chen" }
+          },
+          {
+            "name": { "fallback": "zhou zhou" }
+          },
+          {
+            "name": { "fallback": "Liang Zheng" }
+          },
+          {
+            "name": { "fallback": "Liu Jie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -21749,9 +23701,27 @@
     {
       "user": {
         "name": "sto orz",
-        "id": "112",
-        "organization": "北京航空航天大学",
-        "official": true
+        "id": "北京航空航天大学_sto orz",
+        "organization": {
+          "zh-CN": "北京航空航天大学",
+          "fallback": "Beihang University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Xie Yaoyao" }
+          },
+          {
+            "name": { "fallback": "Zhu Jin" }
+          },
+          {
+            "name": { "fallback": "Li Hebeizi" }
+          },
+          {
+            "name": { "fallback": "Liang Mingyang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -21895,9 +23865,27 @@
     {
       "user": {
         "name": "WSW",
-        "id": "113",
-        "organization": "东北师范大学",
-        "official": true
+        "id": "东北师范大学_WSW",
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yu Kun" }
+          },
+          {
+            "name": { "fallback": "Wang Xueying" }
+          },
+          {
+            "name": { "fallback": "Lin Yuqin" }
+          },
+          {
+            "name": { "fallback": "Pan Wei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -22071,9 +24059,27 @@
     {
       "user": {
         "name": "so much fire",
-        "id": "114",
-        "organization": "湘潭大学",
-        "official": true
+        "id": "湘潭大学_so much fire",
+        "organization": {
+          "zh-CN": "湘潭大学",
+          "fallback": "Xiangtan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Tongqing" }
+          },
+          {
+            "name": { "fallback": "Yu Jiaxin" }
+          },
+          {
+            "name": { "fallback": "Xiang Wei" }
+          },
+          {
+            "name": { "fallback": "Xie Yong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -22226,9 +24232,27 @@
     {
       "user": {
         "name": "wobuhuipin",
-        "id": "115",
-        "organization": "杭州电子科技大学信息工程学院",
-        "official": true
+        "id": "杭州电子科技大学信息工程学院_wobuhuipin",
+        "organization": {
+          "zh-CN": "杭州电子科技大学信息工程学院",
+          "fallback": "Information Engineering College of Hangzhou Dianzi University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wang yufeng" }
+          },
+          {
+            "name": { "fallback": "Zhou Chenhao" }
+          },
+          {
+            "name": { "fallback": "ruan linfeng" }
+          },
+          {
+            "name": { "fallback": "Li Jun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -22430,9 +24454,27 @@
     {
       "user": {
         "name": "No Response",
-        "id": "116",
-        "organization": "河海大学",
-        "official": true
+        "id": "河海大学_No Response",
+        "organization": {
+          "zh-CN": "河海大学",
+          "fallback": "Hohai University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "zhang chao" }
+          },
+          {
+            "name": { "fallback": "Luo Rongzhen" }
+          },
+          {
+            "name": { "fallback": "Zhang Qingheng" }
+          },
+          {
+            "name": { "fallback": "Zhu Yun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -22585,7 +24627,7 @@
     {
       "user": {
         "name": "cornetto",
-        "id": "117",
+        "id": "福建工程学院_cornetto",
         "organization": "福建工程学院",
         "official": true
       },
@@ -22747,9 +24789,27 @@
     {
       "user": {
         "name": "趁机低头",
-        "id": "118",
-        "organization": "郑州轻工业学院",
-        "official": true
+        "id": "郑州轻工业学院_趁机低头",
+        "organization": {
+          "zh-CN": "郑州轻工业学院",
+          "fallback": "Zhengzhou University of Light Industry"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "shi junyao" }
+          },
+          {
+            "name": { "fallback": "Zhao Wencan" }
+          },
+          {
+            "name": { "fallback": "Dai Meiliang" }
+          },
+          {
+            "name": { "fallback": "li ye" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -22965,9 +25025,27 @@
     {
       "user": {
         "name": "HKU_ST",
-        "id": "119",
-        "organization": "香港大学",
-        "official": true
+        "id": "香港大学_HKU_ST",
+        "organization": {
+          "zh-CN": "香港大学",
+          "fallback": "University of Hong Kong"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Lyu Fengdeng" }
+          },
+          {
+            "name": { "fallback": "Huang Qingwei" }
+          },
+          {
+            "name": { "fallback": "Kong Angus" }
+          },
+          {
+            "name": { "fallback": "Jiang Shaofeng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -23157,9 +25235,27 @@
     {
       "user": {
         "name": "Together",
-        "id": "120",
-        "organization": "黑龙江大学",
-        "official": true
+        "id": "黑龙江大学_Together",
+        "organization": {
+          "zh-CN": "黑龙江大学",
+          "fallback": "Heilongjiang University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wei zhang" }
+          },
+          {
+            "name": { "fallback": "Zheng Sheng" }
+          },
+          {
+            "name": { "fallback": "xu shenbao" }
+          },
+          {
+            "name": { "fallback": "xu hui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -23310,9 +25406,27 @@
     {
       "user": {
         "name": " ",
-        "id": "121",
-        "organization": "Unknown",
-        "official": true
+        "id": "Unknown_unknown-team-121",
+        "organization": {
+          "zh-CN": "Unknown",
+          "fallback": "Harbin Engineering University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "tianxin wang" }
+          },
+          {
+            "name": { "fallback": "xuehan wu" }
+          },
+          {
+            "name": { "fallback": "run yu jiang" }
+          },
+          {
+            "name": { "fallback": "wang yuhua" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -23500,9 +25614,27 @@
     {
       "user": {
         "name": "Accepted",
-        "id": "122",
-        "organization": "上海科技大学",
-        "official": true
+        "id": "上海科技大学_Accepted",
+        "organization": {
+          "zh-CN": "上海科技大学",
+          "fallback": "ShanghaiTech University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhou Yang" }
+          },
+          {
+            "name": { "fallback": "Xu Dufeiyang" }
+          },
+          {
+            "name": { "fallback": "Shen Zheqi" }
+          },
+          {
+            "name": { "fallback": "Chen Chen" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -23662,7 +25794,7 @@
     {
       "user": {
         "name": "luckyboy",
-        "id": "123",
+        "id": "长春工业大学_luckyboy",
         "organization": "长春工业大学",
         "official": true
       },
@@ -23847,9 +25979,27 @@
     {
       "user": {
         "name": "Kingbase_SSR",
-        "id": "124",
-        "organization": "中国人民大学",
-        "official": true
+        "id": "中国人民大学_Kingbase_SSR",
+        "organization": {
+          "zh-CN": "中国人民大学",
+          "fallback": "Renmin University of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Shijun" }
+          },
+          {
+            "name": { "fallback": "Xue Yang" }
+          },
+          {
+            "name": { "fallback": "Liao Yulei" }
+          },
+          {
+            "name": { "fallback": "Zhu Qing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -24030,9 +26180,27 @@
     {
       "user": {
         "name": "Low head to dalao",
-        "id": "125",
-        "organization": "长春理工大学",
-        "official": true
+        "id": "长春理工大学_Low head to dalao",
+        "organization": {
+          "zh-CN": "长春理工大学",
+          "fallback": "Changchun University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhu Yutian" }
+          },
+          {
+            "name": { "fallback": "Zhang Zhaojie" }
+          },
+          {
+            "name": { "fallback": "Gao Zhikai" }
+          },
+          {
+            "name": { "fallback": "Li Hua" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -24206,9 +26374,27 @@
     {
       "user": {
         "name": "OrzOrz",
-        "id": "126",
-        "organization": "华北电力大学",
-        "official": true
+        "id": "华北电力大学_OrzOrz",
+        "organization": {
+          "zh-CN": "华北电力大学",
+          "fallback": "North China Electric Power University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "pengwei Zhou" }
+          },
+          {
+            "name": { "fallback": "yuchen Zhang" }
+          },
+          {
+            "name": { "fallback": "yi cheng" }
+          },
+          {
+            "name": { "fallback": "Ma Wei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -24352,7 +26538,7 @@
     {
       "user": {
         "name": "Big Chicken Bar",
-        "id": "128",
+        "id": "福州大学_Big Chicken Bar",
         "organization": "福州大学",
         "official": true
       },
@@ -24614,9 +26800,27 @@
     {
       "user": {
         "name": "Crazy",
-        "id": "127",
-        "organization": "中国石油大学（华东）",
-        "official": true
+        "id": "中国石油大学（华东）_Crazy",
+        "organization": {
+          "zh-CN": "中国石油大学（华东）",
+          "fallback": "China University of Petroleum"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Ji Hanxue" }
+          },
+          {
+            "name": { "fallback": "Gao Yuxin" }
+          },
+          {
+            "name": { "fallback": "Zhou Qihan" }
+          },
+          {
+            "name": { "fallback": "Zhang Xuehui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -24783,9 +26987,27 @@
     {
       "user": {
         "name": "跑得最快的队",
-        "id": "129",
-        "organization": "北京林业大学",
-        "official": true
+        "id": "北京林业大学_跑得最快的队",
+        "organization": {
+          "zh-CN": "北京林业大学",
+          "fallback": "Beijing Forestry University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "xie yongbin" }
+          },
+          {
+            "name": { "fallback": "zhu wei" }
+          },
+          {
+            "name": { "fallback": "Hu Yiqun" }
+          },
+          {
+            "name": { "fallback": "Xu YanYan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -24968,9 +27190,27 @@
     {
       "user": {
         "name": "tju_Cutecute",
-        "id": "130",
-        "organization": "天津大学",
-        "official": true
+        "id": "天津大学_tju_Cutecute",
+        "organization": {
+          "zh-CN": "天津大学",
+          "fallback": "Tianjin University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Duo" }
+          },
+          {
+            "name": { "fallback": "Yun Hao" }
+          },
+          {
+            "name": { "fallback": "wang haichi" }
+          },
+          {
+            "name": { "fallback": "Yu Ruiguo" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -25130,9 +27370,27 @@
     {
       "user": {
         "name": "按Q回城",
-        "id": "131",
-        "organization": "北京林业大学",
-        "official": true
+        "id": "北京林业大学_按Q回城",
+        "organization": {
+          "zh-CN": "北京林业大学",
+          "fallback": "Beijing Forestry University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu chaoyi" }
+          },
+          {
+            "name": { "fallback": "jia zijian" }
+          },
+          {
+            "name": { "fallback": "Zhangbiao Yi" }
+          },
+          {
+            "name": { "fallback": "Xu YanYan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -25364,9 +27622,27 @@
     {
       "user": {
         "name": "ANOHANA",
-        "id": "132",
-        "organization": "浙江大学宁波理工学院",
-        "official": true
+        "id": "浙江大学宁波理工学院_ANOHANA",
+        "organization": {
+          "zh-CN": "浙江大学宁波理工学院",
+          "fallback": "Ningbo Institute of Technology, ZJU"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yan Mengjie" }
+          },
+          {
+            "name": { "fallback": "Ye Sen" }
+          },
+          {
+            "name": { "fallback": "Shi Runfeng" }
+          },
+          {
+            "name": { "fallback": "Guo Xinyou" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -25538,9 +27814,27 @@
     {
       "user": {
         "name": "GBTWW",
-        "id": "133",
-        "organization": "华中科技大学",
-        "official": true
+        "id": "华中科技大学_GBTWW",
+        "organization": {
+          "zh-CN": "华中科技大学",
+          "fallback": "Huazhong University of Science & Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "yuan yingdong" }
+          },
+          {
+            "name": { "fallback": "Wu Mincong" }
+          },
+          {
+            "name": { "fallback": "Hu Jiacheng" }
+          },
+          {
+            "name": { "fallback": "Yin Shi" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -25684,9 +27978,27 @@
     {
       "user": {
         "name": "fair lady",
-        "id": "134",
-        "organization": "青岛大学",
-        "official": true
+        "id": "青岛大学_fair lady",
+        "organization": {
+          "zh-CN": "青岛大学",
+          "fallback": "Qingdao University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "yang yumeng" }
+          },
+          {
+            "name": { "fallback": "zhang ruojing" }
+          },
+          {
+            "name": { "fallback": "zhang yufeng" }
+          },
+          {
+            "name": { "fallback": "Du Xiangjun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -25830,7 +28142,7 @@
     {
       "user": {
         "name": "bullet",
-        "id": "135",
+        "id": "重庆邮电大学_bullet",
         "organization": "重庆邮电大学",
         "official": true
       },
@@ -26097,9 +28409,27 @@
     {
       "user": {
         "name": "Majestic",
-        "id": "136",
-        "organization": "山东科技大学",
-        "official": true
+        "id": "山东科技大学_Majestic",
+        "organization": {
+          "zh-CN": "山东科技大学",
+          "fallback": "Shandong University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "cheng xiaohua" }
+          },
+          {
+            "name": { "fallback": "niu yuqing" }
+          },
+          {
+            "name": { "fallback": "li haoze" }
+          },
+          {
+            "name": { "fallback": "Wu Zhenhuan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -26236,9 +28566,27 @@
     {
       "user": {
         "name": "apple pen",
-        "id": "137",
-        "organization": "西北农林科技大学",
-        "official": true
+        "id": "西北农林科技大学_apple pen",
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Guodong Zhu" }
+          },
+          {
+            "name": { "fallback": "Feng Tianxiao" }
+          },
+          {
+            "name": { "fallback": "Ren Silin" }
+          },
+          {
+            "name": { "fallback": "Geng Yaojun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -26405,9 +28753,27 @@
     {
       "user": {
         "name": "What is SSR??!",
-        "id": "138",
-        "organization": "江南大学",
-        "official": true
+        "id": "江南大学_What is SSR??!",
+        "organization": {
+          "zh-CN": "江南大学",
+          "fallback": "JiangNan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhao Yi" }
+          },
+          {
+            "name": { "fallback": "Lin Yuyun" }
+          },
+          {
+            "name": { "fallback": "ZhiYuan Xia" }
+          },
+          {
+            "name": { "fallback": "Min Jiang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -26558,9 +28924,27 @@
     {
       "user": {
         "name": "Innocence",
-        "id": "139",
-        "organization": "哈尔滨工业大学（威海）",
-        "official": true
+        "id": "哈尔滨工业大学（威海）_Innocence",
+        "organization": {
+          "zh-CN": "哈尔滨工业大学（威海）",
+          "fallback": "Harbin Institute of Technology at Weihai"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "qi yatao" }
+          },
+          {
+            "name": { "fallback": "Chai Ke" }
+          },
+          {
+            "name": { "fallback": "Xiang Lingzhao" }
+          },
+          {
+            "name": { "fallback": "Dong Kaikun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -26776,9 +29160,27 @@
     {
       "user": {
         "name": "Burry_My_Love",
-        "id": "140",
-        "organization": "华中农业大学",
-        "official": true
+        "id": "华中农业大学_Burry_My_Love",
+        "organization": {
+          "zh-CN": "华中农业大学",
+          "fallback": "Huazhong Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Cheng Xin" }
+          },
+          {
+            "name": { "fallback": "Huang Zikuan" }
+          },
+          {
+            "name": { "fallback": "Chen Jin" }
+          },
+          {
+            "name": { "fallback": "Ni Fuchuan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -27001,9 +29403,27 @@
     {
       "user": {
         "name": "SDU_PAKA",
-        "id": "141",
-        "organization": "山东大学",
-        "official": true
+        "id": "山东大学_SDU_PAKA",
+        "organization": {
+          "zh-CN": "山东大学",
+          "fallback": "Shandong University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Shen Songqing" }
+          },
+          {
+            "name": { "fallback": "Cheng Xuanang" }
+          },
+          {
+            "name": { "fallback": "Li JiCheng" }
+          },
+          {
+            "name": { "fallback": "He Meng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -27175,9 +29595,27 @@
     {
       "user": {
         "name": "Qingdao\\'s Friends Are You OK?",
-        "id": "142",
-        "organization": "北京师范大学珠海分校",
-        "official": true
+        "id": "北京师范大学珠海分校_Qingdao\\'s Friends Are You OK?",
+        "organization": {
+          "zh-CN": "北京师范大学珠海分校",
+          "fallback": "Beijing Normal University Zhuhai"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Sijia" }
+          },
+          {
+            "name": { "fallback": "Qiu Tuoxian" }
+          },
+          {
+            "name": { "fallback": "Sun Yijing" }
+          },
+          {
+            "name": { "fallback": "Luo Yunlun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -27416,9 +29854,27 @@
     {
       "user": {
         "name": "miss",
-        "id": "143",
-        "organization": "江西理工大学",
-        "official": true
+        "id": "江西理工大学_miss",
+        "organization": {
+          "zh-CN": "江西理工大学",
+          "fallback": "Jiangxi University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "tao jank" }
+          },
+          {
+            "name": { "fallback": "ai jiangjun" }
+          },
+          {
+            "name": { "fallback": "xiao liang" }
+          },
+          {
+            "name": { "fallback": "Yang Shuxin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -27592,9 +30048,27 @@
     {
       "user": {
         "name": "Azeroth",
-        "id": "144",
-        "organization": "福建农林大学",
-        "official": true
+        "id": "福建农林大学_Azeroth",
+        "organization": {
+          "zh-CN": "福建农林大学",
+          "fallback": "Fujian Agriculture and Forestry University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Yunjie" }
+          },
+          {
+            "name": { "fallback": "Xiao Kaicong" }
+          },
+          {
+            "name": { "fallback": "Zhang Xu" }
+          },
+          {
+            "name": { "fallback": "lin qingbo" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -27798,9 +30272,27 @@
     {
       "user": {
         "name": "Nico",
-        "id": "145",
-        "organization": "杭州师范大学",
-        "official": true
+        "id": "杭州师范大学_Nico",
+        "organization": {
+          "zh-CN": "杭州师范大学",
+          "fallback": "Hangzhou Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Cai Chengjie" }
+          },
+          {
+            "name": { "fallback": "Hu Jiacheng" }
+          },
+          {
+            "name": { "fallback": "Lin Ouya" }
+          },
+          {
+            "name": { "fallback": "Shan Zhenyu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -27972,9 +30464,27 @@
     {
       "user": {
         "name": "Call me your Queen Majesty！",
-        "id": "146",
-        "organization": "重庆邮电大学",
-        "official": true
+        "id": "重庆邮电大学_Call me your Queen Majesty！",
+        "organization": {
+          "zh-CN": "重庆邮电大学",
+          "fallback": "Chongqing University of Posts and Telecommunications"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Ling Zheng" }
+          },
+          {
+            "name": { "fallback": "Ting Ting Zhou" }
+          },
+          {
+            "name": { "fallback": "Qi Xing Min" }
+          },
+          {
+            "name": { "fallback": "Gan Ling" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -28139,9 +30649,27 @@
     {
       "user": {
         "name": "Thinking",
-        "id": "147",
-        "organization": "中北大学",
-        "official": true
+        "id": "中北大学_Thinking",
+        "organization": {
+          "zh-CN": "中北大学",
+          "fallback": "North University of China"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang Fujin" }
+          },
+          {
+            "name": { "fallback": "Wang Gang" }
+          },
+          {
+            "name": { "fallback": "nie laishan" }
+          },
+          {
+            "name": { "fallback": "Pan Guangzhen" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -28341,9 +30869,27 @@
     {
       "user": {
         "name": "plus one second",
-        "id": "148",
-        "organization": "中南大学",
-        "official": true
+        "id": "中南大学_plus one second",
+        "organization": {
+          "zh-CN": "中南大学",
+          "fallback": "Central South University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "lu mingwei" }
+          },
+          {
+            "name": { "fallback": "yue hongwei" }
+          },
+          {
+            "name": { "fallback": "zheng xianxian" }
+          },
+          {
+            "name": { "fallback": "Chen Zailiang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -28536,9 +31082,27 @@
     {
       "user": {
         "name": "登登等灯凳登等灯",
-        "id": "149",
-        "organization": "郑州大学",
-        "official": true
+        "id": "郑州大学_登登等灯凳登等灯",
+        "organization": {
+          "zh-CN": "郑州大学",
+          "fallback": "Zhengzhou University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Fan Yixiao" }
+          },
+          {
+            "name": { "fallback": "Tang Jintao" }
+          },
+          {
+            "name": { "fallback": "Shen Jingfei" }
+          },
+          {
+            "name": { "fallback": "Zhao Dongming" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -28719,9 +31283,27 @@
     {
       "user": {
         "name": "AVIATO",
-        "id": "150",
-        "organization": "西北大学",
-        "official": true
+        "id": "西北大学_AVIATO",
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang Zichen" }
+          },
+          {
+            "name": { "fallback": "zhang kuiyuan" }
+          },
+          {
+            "name": { "fallback": "cheng ke" }
+          },
+          {
+            "name": { "fallback": "feng jun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -28921,9 +31503,27 @@
     {
       "user": {
         "name": "404 not found",
-        "id": "151",
-        "organization": "山东理工大学",
-        "official": true
+        "id": "山东理工大学_404 not found",
+        "organization": {
+          "zh-CN": "山东理工大学",
+          "fallback": "Shandong University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Hongfeng Li" }
+          },
+          {
+            "name": { "fallback": "Song Jinxue" }
+          },
+          {
+            "name": { "fallback": "Jia Xiaonan" }
+          },
+          {
+            "name": { "fallback": "Zhou Xueqin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -29137,9 +31737,27 @@
     {
       "user": {
         "name": "Eternal",
-        "id": "152",
-        "organization": "武汉科技大学",
-        "official": true
+        "id": "武汉科技大学_Eternal",
+        "organization": {
+          "zh-CN": "武汉科技大学",
+          "fallback": "Wuhan University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wenfeng He" }
+          },
+          {
+            "name": { "fallback": "Wang Runxin" }
+          },
+          {
+            "name": { "fallback": "Wang Jieshu" }
+          },
+          {
+            "name": { "fallback": "Li Shunxin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -29320,9 +31938,27 @@
     {
       "user": {
         "name": "what\\'s up?",
-        "id": "153",
-        "organization": "天津工业大学",
-        "official": true
+        "id": "天津工业大学_what\\'s up?",
+        "organization": {
+          "zh-CN": "天津工业大学",
+          "fallback": "Tianjin Polytechnic University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Cheng" }
+          },
+          {
+            "name": { "fallback": "Liu Kuan" }
+          },
+          {
+            "name": { "fallback": "zhang guanhong" }
+          },
+          {
+            "name": { "fallback": "Ren Shuxia" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -29452,9 +32088,27 @@
     {
       "user": {
         "name": "ProTea",
-        "id": "154",
-        "organization": "华东交通大学",
-        "official": true
+        "id": "华东交通大学_ProTea",
+        "organization": {
+          "zh-CN": "华东交通大学",
+          "fallback": "East China Jiaotong University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Zhongyong" }
+          },
+          {
+            "name": { "fallback": "Hou Shengdong" }
+          },
+          {
+            "name": { "fallback": "Zhang Rongfa" }
+          },
+          {
+            "name": { "fallback": "Zhou Juan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -29582,9 +32236,27 @@
     {
       "user": {
         "name": "cropper",
-        "id": "155",
-        "organization": "中国石油大学（华东）",
-        "official": true
+        "id": "中国石油大学（华东）_cropper",
+        "organization": {
+          "zh-CN": "中国石油大学（华东）",
+          "fallback": "China University of Petroleum"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Lan Yang" }
+          },
+          {
+            "name": { "fallback": "Yang Zhibin" }
+          },
+          {
+            "name": { "fallback": "Zhang Wei" }
+          },
+          {
+            "name": { "fallback": "Zhang Xuehui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -29786,7 +32458,7 @@
     {
       "user": {
         "name": "At sixes and sevens",
-        "id": "156",
+        "id": "长沙学院_At sixes and sevens",
         "organization": "长沙学院",
         "official": true
       },
@@ -29925,9 +32597,27 @@
     {
       "user": {
         "name": "why so serious?",
-        "id": "157",
-        "organization": "东北大学",
-        "official": true
+        "id": "东北大学_why so serious?",
+        "organization": {
+          "zh-CN": "东北大学",
+          "fallback": "Northeastern University (China)"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wu Zhuocheng" }
+          },
+          {
+            "name": { "fallback": "Li Site" }
+          },
+          {
+            "name": { "fallback": "Chen Yongrui" }
+          },
+          {
+            "name": { "fallback": "Dong Xiaomei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -30120,9 +32810,27 @@
     {
       "user": {
         "name": "Star Sky",
-        "id": "158",
-        "organization": "国防科技大学",
-        "official": true
+        "id": "国防科技大学_Star Sky",
+        "organization": {
+          "zh-CN": "国防科技大学",
+          "fallback": "National University of Defense Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "ren zihao" }
+          },
+          {
+            "name": { "fallback": "Meng Xiangyu" }
+          },
+          {
+            "name": { "fallback": "Jiang Ze" }
+          },
+          {
+            "name": { "fallback": "Peng Yuxing" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -30317,9 +33025,27 @@
     {
       "user": {
         "name": "yxc",
-        "id": "159",
-        "organization": "宁波大学",
-        "official": true
+        "id": "宁波大学_yxc",
+        "organization": {
+          "zh-CN": "宁波大学",
+          "fallback": "Ningbo University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "ding mingcheng" }
+          },
+          {
+            "name": { "fallback": "chai kai" }
+          },
+          {
+            "name": { "fallback": "zhou jian" }
+          },
+          {
+            "name": { "fallback": "Chen Yefang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -30454,9 +33180,27 @@
     {
       "user": {
         "name": "ThreeCats",
-        "id": "160",
-        "organization": "华东师范大学",
-        "official": true
+        "id": "华东师范大学_ThreeCats",
+        "organization": {
+          "zh-CN": "华东师范大学",
+          "fallback": "East China Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhao Chenxu" }
+          },
+          {
+            "name": { "fallback": "Zhao Hongyan" }
+          },
+          {
+            "name": { "fallback": "zou yuanyuan" }
+          },
+          {
+            "name": { "fallback": "Du Yugen" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -30607,9 +33351,27 @@
     {
       "user": {
         "name": "ENZO",
-        "id": "161",
-        "organization": "西南民族大学",
-        "official": true
+        "id": "西南民族大学_ENZO",
+        "organization": {
+          "zh-CN": "西南民族大学",
+          "fallback": "Southwest University for Nationalities"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Hu Chengwei" }
+          },
+          {
+            "name": { "fallback": "Cao Zimo" }
+          },
+          {
+            "name": { "fallback": "Wang Jinyu" }
+          },
+          {
+            "name": { "fallback": "XIAO Jingzhong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -30767,9 +33529,27 @@
     {
       "user": {
         "name": "the name can not be empty",
-        "id": "162",
-        "organization": "北京交通大学",
-        "official": true
+        "id": "北京交通大学_the name can not be empty",
+        "organization": {
+          "zh-CN": "北京交通大学",
+          "fallback": "Beijing Jiaotong University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "LI Bo" }
+          },
+          {
+            "name": { "fallback": "Li Ruosen" }
+          },
+          {
+            "name": { "fallback": "Wang Tianshu" }
+          },
+          {
+            "name": { "fallback": "Huang Hua" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -30943,9 +33723,27 @@
     {
       "user": {
         "name": "a boat on the weiminghu lake",
-        "id": "163",
-        "organization": "郑州师范学院",
-        "official": true
+        "id": "郑州师范学院_a boat on the weiminghu lake",
+        "organization": {
+          "zh-CN": "郑州师范学院",
+          "fallback": "Zhengzhou Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "fu junjun" }
+          },
+          {
+            "name": { "fallback": "nie shaofei" }
+          },
+          {
+            "name": { "fallback": "zhen zhao" }
+          },
+          {
+            "name": { "fallback": "jia suiming" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -31080,9 +33878,27 @@
     {
       "user": {
         "name": "the End of Infinity",
-        "id": "164",
-        "organization": "山东理工大学",
-        "official": true
+        "id": "山东理工大学_the End of Infinity",
+        "organization": {
+          "zh-CN": "山东理工大学",
+          "fallback": "Shandong University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Yankai" }
+          },
+          {
+            "name": { "fallback": "Liu Xu" }
+          },
+          {
+            "name": { "fallback": "Wang Yunjing" }
+          },
+          {
+            "name": { "fallback": "Wang Haipeng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -31268,9 +34084,27 @@
     {
       "user": {
         "name": "handsome",
-        "id": "165",
-        "organization": "上海大学",
-        "official": true
+        "id": "上海大学_handsome",
+        "organization": {
+          "zh-CN": "上海大学",
+          "fallback": "Shanghai University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yinghui Zhao" }
+          },
+          {
+            "name": { "fallback": "Gao Song" }
+          },
+          {
+            "name": { "fallback": "Zhongyong Jin" }
+          },
+          {
+            "name": { "fallback": "Shen Yunfu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -31491,9 +34325,27 @@
     {
       "user": {
         "name": "Blibbering Humdinger",
-        "id": "166",
-        "organization": "中国科学院大学",
-        "official": true
+        "id": "中国科学院大学_Blibbering Humdinger",
+        "organization": {
+          "zh-CN": "中国科学院大学",
+          "fallback": "University of Chinese Academy of Sciences"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Lan Qingfeng" }
+          },
+          {
+            "name": { "fallback": "Tan Hongze" }
+          },
+          {
+            "name": { "fallback": "Zhu Tianyao" }
+          },
+          {
+            "name": { "fallback": "Sun Xiaoming" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -31667,9 +34519,27 @@
     {
       "user": {
         "name": "ZCMU-BJ",
-        "id": "167",
-        "organization": "浙江中医药大学",
-        "official": true
+        "id": "浙江中医药大学_ZCMU-BJ",
+        "organization": {
+          "zh-CN": "浙江中医药大学",
+          "fallback": "Zhejiang Chinese Medical University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Huang Zhe" }
+          },
+          {
+            "name": { "fallback": "Zhang Chuancheng" }
+          },
+          {
+            "name": { "fallback": "Chen Feihu" }
+          },
+          {
+            "name": { "fallback": "luo jie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -31862,9 +34732,27 @@
     {
       "user": {
         "name": "Network-flows",
-        "id": "168",
-        "organization": "闽南师范大学",
-        "official": true
+        "id": "闽南师范大学_Network-flows",
+        "organization": {
+          "zh-CN": "闽南师范大学",
+          "fallback": "Minnan Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu Zhengyu" }
+          },
+          {
+            "name": { "fallback": "Yi Xueying" }
+          },
+          {
+            "name": { "fallback": "Zhang Cebo" }
+          },
+          {
+            "name": { "fallback": "Huang Zaixiang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -32052,7 +34940,7 @@
     {
       "user": {
         "name": "Latte",
-        "id": "169",
+        "id": "西南科技大学_Latte",
         "organization": "西南科技大学",
         "official": true
       },
@@ -32270,9 +35158,27 @@
     {
       "user": {
         "name": "PlusOneACForMyQ",
-        "id": "170",
-        "organization": "北京师范大学",
-        "official": true
+        "id": "北京师范大学_PlusOneACForMyQ",
+        "organization": {
+          "zh-CN": "北京师范大学",
+          "fallback": "Beijing Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "MinJie Li" }
+          },
+          {
+            "name": { "fallback": "Yu Zhang" }
+          },
+          {
+            "name": { "fallback": "Qingsong Lv" }
+          },
+          {
+            "name": { "fallback": "Chen Hui" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -32486,9 +35392,27 @@
     {
       "user": {
         "name": "XUPT_Three",
-        "id": "171",
-        "organization": "西安邮电大学",
-        "official": true
+        "id": "西安邮电大学_XUPT_Three",
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wang yifei" }
+          },
+          {
+            "name": { "fallback": "yuan jiayu" }
+          },
+          {
+            "name": { "fallback": "chu dongfang" }
+          },
+          {
+            "name": { "fallback": "Wang Yan" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -32630,9 +35554,27 @@
     {
       "user": {
         "name": "AC_Men",
-        "id": "172",
-        "organization": "哈尔滨理工大学",
-        "official": true
+        "id": "哈尔滨理工大学_AC_Men",
+        "organization": {
+          "zh-CN": "哈尔滨理工大学",
+          "fallback": "Harbin University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Tianyu Jiang" }
+          },
+          {
+            "name": { "fallback": "Yuefeng Sun" }
+          },
+          {
+            "name": { "fallback": "Fengrui Yang" }
+          },
+          {
+            "name": { "fallback": "Ye Fei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -32792,9 +35734,27 @@
     {
       "user": {
         "name": "2young2simple",
-        "id": "173",
-        "organization": "福建师范大学",
-        "official": true
+        "id": "福建师范大学_2young2simple",
+        "organization": {
+          "zh-CN": "福建师范大学",
+          "fallback": "Fujian Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liang Ruiyang" }
+          },
+          {
+            "name": { "fallback": "Chen Yu" }
+          },
+          {
+            "name": { "fallback": "Pan Ting" }
+          },
+          {
+            "name": { "fallback": "Wu Wen Fujian Normal University" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -32952,9 +35912,27 @@
     {
       "user": {
         "name": "There is no team",
-        "id": "174",
-        "organization": "云南师范大学",
-        "official": true
+        "id": "云南师范大学_There is no team",
+        "organization": {
+          "zh-CN": "云南师范大学",
+          "fallback": "Yunnan Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Ou tingxiao" }
+          },
+          {
+            "name": { "fallback": "Li zhenjie" }
+          },
+          {
+            "name": { "fallback": "Li caidong" }
+          },
+          {
+            "name": { "fallback": "Yuzhuo Zhang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -33168,9 +36146,27 @@
     {
       "user": {
         "name": "天降正义",
-        "id": "175",
-        "organization": "天津理工大学",
-        "official": true
+        "id": "天津理工大学_天降正义",
+        "organization": {
+          "zh-CN": "天津理工大学",
+          "fallback": "Tianjin University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "YaoKun Xu" }
+          },
+          {
+            "name": { "fallback": "DeLiang Fan" }
+          },
+          {
+            "name": { "fallback": "Zhong Luo" }
+          },
+          {
+            "name": { "fallback": "YingChun Wang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -33363,9 +36359,9 @@
     {
       "user": {
         "name": "Unnamed",
-        "id": "176",
-        "organization": "*北京大学",
-        "official": true
+        "id": "北京大学_Unnamed",
+        "organization": "北京大学",
+        "official": false
       },
       "score": {
         "value": 2,
@@ -33607,9 +36603,27 @@
     {
       "user": {
         "name": "Sorry I can\\'t speak English",
-        "id": "177",
-        "organization": "厦门理工学院",
-        "official": true
+        "id": "厦门理工学院_Sorry I can\\'t speak English",
+        "organization": {
+          "zh-CN": "厦门理工学院",
+          "fallback": "Xiamen University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Wang Yanmei" }
+          },
+          {
+            "name": { "fallback": "Yan HuiHuang" }
+          },
+          {
+            "name": { "fallback": "Shi ZhangWang" }
+          },
+          {
+            "name": { "fallback": "Xie Yanqi" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -33783,9 +36797,27 @@
     {
       "user": {
         "name": "SilverGhost",
-        "id": "178",
-        "organization": "东北师范大学",
-        "official": true
+        "id": "东北师范大学_SilverGhost",
+        "organization": {
+          "zh-CN": "东北师范大学",
+          "fallback": "Northeast Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Lv MengYao" }
+          },
+          {
+            "name": { "fallback": "Peng Cong" }
+          },
+          {
+            "name": { "fallback": "Liang Xin" }
+          },
+          {
+            "name": { "fallback": "Pan Wei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -33966,9 +36998,27 @@
     {
       "user": {
         "name": "Fiery sun 2",
-        "id": "179",
-        "organization": "解放军理工大学",
-        "official": true
+        "id": "解放军理工大学_Fiery sun 2",
+        "organization": {
+          "zh-CN": "解放军理工大学",
+          "fallback": "PLA University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "杨 森" }
+          },
+          {
+            "name": { "fallback": "Van Anh Nguyen" }
+          },
+          {
+            "name": { "fallback": "胡 琪" }
+          },
+          {
+            "name": { "fallback": "Lei Xiaoyu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -34170,9 +37220,27 @@
     {
       "user": {
         "name": "typhoon",
-        "id": "180",
-        "organization": "江西财经大学",
-        "official": true
+        "id": "江西财经大学_typhoon",
+        "organization": {
+          "zh-CN": "江西财经大学",
+          "fallback": "Jiangxi Finance and Economics University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "mao ying Tang" }
+          },
+          {
+            "name": { "fallback": "xin liao" }
+          },
+          {
+            "name": { "fallback": "li wanrong" }
+          },
+          {
+            "name": { "fallback": "Wei Lijun" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -34323,9 +37391,27 @@
     {
       "user": {
         "name": "NaCl.Cu",
-        "id": "181",
-        "organization": "常州大学",
-        "official": true
+        "id": "常州大学_NaCl.Cu",
+        "organization": {
+          "zh-CN": "常州大学",
+          "fallback": "Changzhou University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "zhou mengting" }
+          },
+          {
+            "name": { "fallback": "zhou hao" }
+          },
+          {
+            "name": { "fallback": "huang zhixin" }
+          },
+          {
+            "name": { "fallback": "lin yifeng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -34513,9 +37599,27 @@
     {
       "user": {
         "name": "why Minguo is as lovely as us",
-        "id": "182",
-        "organization": "北京信息科技大学",
-        "official": true
+        "id": "北京信息科技大学_why Minguo is as lovely as us",
+        "organization": {
+          "zh-CN": "北京信息科技大学",
+          "fallback": "Beijing Information Science and Technology University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "enyi Huang" }
+          },
+          {
+            "name": { "fallback": "Jin Haijia" }
+          },
+          {
+            "name": { "fallback": "Li Jia" }
+          },
+          {
+            "name": { "fallback": "Mu Yongmin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -34657,9 +37761,27 @@
     {
       "user": {
         "name": "orangedie",
-        "id": "183",
-        "organization": "江西理工大学（南昌）",
-        "official": true
+        "id": "江西理工大学（南昌）_orangedie",
+        "organization": {
+          "zh-CN": "江西理工大学（南昌）",
+          "fallback": "Jiangxi University of Science and Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "wang menghan" }
+          },
+          {
+            "name": { "fallback": "hao wu" }
+          },
+          {
+            "name": { "fallback": "Li JunXian" }
+          },
+          {
+            "name": { "fallback": "Yating Fang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -34845,9 +37967,27 @@
     {
       "user": {
         "name": "Providence",
-        "id": "184",
-        "organization": "大连理工大学",
-        "official": true
+        "id": "大连理工大学_Providence",
+        "organization": {
+          "zh-CN": "大连理工大学",
+          "fallback": "Dalian University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Liu Xikai" }
+          },
+          {
+            "name": { "fallback": "Zhang Heng" }
+          },
+          {
+            "name": { "fallback": "Liu Qingzhou" }
+          },
+          {
+            "name": { "fallback": "bing liang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -35012,7 +38152,7 @@
     {
       "user": {
         "name": "Iron Bar",
-        "id": "185",
+        "id": "江西财经大学_Iron Bar",
         "organization": "江西财经大学",
         "official": true
       },
@@ -35163,9 +38303,27 @@
     {
       "user": {
         "name": "I am angry",
-        "id": "186",
-        "organization": "北京农学院",
-        "official": true
+        "id": "北京农学院_I am angry",
+        "organization": {
+          "zh-CN": "北京农学院",
+          "fallback": "Beijing University of Agriculture"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Yang Jianli" }
+          },
+          {
+            "name": { "fallback": "Hu Jianpeng" }
+          },
+          {
+            "name": { "fallback": "song yubing" }
+          },
+          {
+            "name": { "fallback": "Zhang Renlong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -35423,9 +38581,27 @@
     {
       "user": {
         "name": "Casual but not Random",
-        "id": "187",
-        "organization": "南京邮电大学",
-        "official": true
+        "id": "南京邮电大学_Casual but not Random",
+        "organization": {
+          "zh-CN": "南京邮电大学",
+          "fallback": "Nanjing University of Posts and Telecommunications"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Dong Cong" }
+          },
+          {
+            "name": { "fallback": "Huang Yanan" }
+          },
+          {
+            "name": { "fallback": "Zhang Peiying" }
+          },
+          {
+            "name": { "fallback": "CHEN Zhi" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -35590,9 +38766,27 @@
     {
       "user": {
         "name": "Kings Lee",
-        "id": "188",
-        "organization": "中国地质大学（武汉）",
-        "official": true
+        "id": "中国地质大学（武汉）_Kings Lee",
+        "organization": {
+          "zh-CN": "中国地质大学（武汉）",
+          "fallback": "China University of Geosciences (Wuhan)"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Li Xuan" }
+          },
+          {
+            "name": { "fallback": "Wang aimin" }
+          },
+          {
+            "name": { "fallback": "Li Dong" }
+          },
+          {
+            "name": { "fallback": "Zhang Feng" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -35778,9 +38972,27 @@
     {
       "user": {
         "name": "XinSiJi",
-        "id": "189",
-        "organization": "湖北工业大学",
-        "official": true
+        "id": "湖北工业大学_XinSiJi",
+        "organization": {
+          "zh-CN": "湖北工业大学",
+          "fallback": "Hubei University of Technology"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Chen Siyi" }
+          },
+          {
+            "name": { "fallback": "Yan zijun" }
+          },
+          {
+            "name": { "fallback": "xiao jianye" }
+          },
+          {
+            "name": { "fallback": "Chengzhi Xu" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -36057,9 +39269,27 @@
     {
       "user": {
         "name": "CAU1",
-        "id": "190",
-        "organization": "中国农业大学",
-        "official": true
+        "id": "中国农业大学_CAU1",
+        "organization": {
+          "zh-CN": "中国农业大学",
+          "fallback": "China Agricultural University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Fu YuFan" }
+          },
+          {
+            "name": { "fallback": "Chen Wanqi" }
+          },
+          {
+            "name": { "fallback": "Wu Wenjun" }
+          },
+          {
+            "name": { "fallback": "lv chunli" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -36294,9 +39524,27 @@
     {
       "user": {
         "name": "DLMU_spark team",
-        "id": "191",
-        "organization": "大连海事大学",
-        "official": true
+        "id": "大连海事大学_DLMU_spark team",
+        "organization": {
+          "zh-CN": "大连海事大学",
+          "fallback": "Dalian Maritime University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Qiurun Cai" }
+          },
+          {
+            "name": { "fallback": "he yu" }
+          },
+          {
+            "name": { "fallback": "Su Qiaolian" }
+          },
+          {
+            "name": { "fallback": "zhu bin" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -36445,9 +39693,27 @@
     {
       "user": {
         "name": "World Peace",
-        "id": "192",
-        "organization": "湘潭大学",
-        "official": true
+        "id": "湘潭大学_World Peace",
+        "organization": {
+          "zh-CN": "湘潭大学",
+          "fallback": "Xiangtan University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "GE GUO" }
+          },
+          {
+            "name": { "fallback": "Yunxia Kang" }
+          },
+          {
+            "name": { "fallback": "ruijie sun" }
+          },
+          {
+            "name": { "fallback": "Xie Yong" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -36633,7 +39899,7 @@
     {
       "user": {
         "name": "Lord_Voldemort",
-        "id": "193",
+        "id": "合肥工业大学宣城校区_Lord_Voldemort",
         "organization": "合肥工业大学宣城校区",
         "official": true
       },
@@ -36884,9 +40150,27 @@
     {
       "user": {
         "name": "SCNU_Theory_Of_Computation",
-        "id": "194",
-        "organization": "华南师范大学",
-        "official": true
+        "id": "华南师范大学_SCNU_Theory_Of_Computation",
+        "organization": {
+          "zh-CN": "华南师范大学",
+          "fallback": "South China Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Maobin Lu" }
+          },
+          {
+            "name": { "fallback": "Li Jianchong" }
+          },
+          {
+            "name": { "fallback": "Huang Siming" }
+          },
+          {
+            "name": { "fallback": "Huang Yulian" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -37079,9 +40363,27 @@
     {
       "user": {
         "name": "Above nothing",
-        "id": "195",
-        "organization": "云南师范大学",
-        "official": true
+        "id": "云南师范大学_Above nothing",
+        "organization": {
+          "zh-CN": "云南师范大学",
+          "fallback": "Yunnan Normal University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhou jingxin" }
+          },
+          {
+            "name": { "fallback": "Wang lu" }
+          },
+          {
+            "name": { "fallback": "Nie jinyu" }
+          },
+          {
+            "name": { "fallback": "Yuzhuo Zhang" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -37288,7 +40590,7 @@
     {
       "user": {
         "name": "NCUT",
-        "id": "196",
+        "id": "北方工业大学_NCUT",
         "organization": "北方工业大学",
         "official": true
       },
@@ -37579,9 +40881,27 @@
     {
       "user": {
         "name": "BattleBall",
-        "id": "197",
-        "organization": "空军工程大学",
-        "official": true
+        "id": "空军工程大学_BattleBall",
+        "organization": {
+          "zh-CN": "空军工程大学",
+          "fallback": "Airforce Engineering University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zhang Zhenjiang" }
+          },
+          {
+            "name": { "fallback": "Chang Sen" }
+          },
+          {
+            "name": { "fallback": "Huang He" }
+          },
+          {
+            "name": { "fallback": "Zhang HongMei" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -37772,9 +41092,27 @@
     {
       "user": {
         "name": "sousoude",
-        "id": "198",
-        "organization": "贵州师范学院",
-        "official": true
+        "id": "贵州师范学院_sousoude",
+        "organization": {
+          "zh-CN": "贵州师范学院",
+          "fallback": "Guizhou Education University"
+        },
+        "official": true,
+        "teamMembers": [
+          {
+            "name": { "fallback": "Zou Yongjie" }
+          },
+          {
+            "name": { "fallback": "Xu Fangyi" }
+          },
+          {
+            "name": { "fallback": "Yang Ying" }
+          },
+          {
+            "name": { "fallback": "Niu Junjie" },
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -38060,6 +41398,16 @@
       "penalty": [
         20,
         "min"
+      ],
+      "timePrecision": "s",
+      "noPenaltyResults": [
+        "FB",
+        "AC",
+        "?",
+        "NOUT",
+        "CE",
+        "UKE",
+        null
       ]
     }
   },
@@ -38071,12 +41419,9 @@
     }
   ],
   "contributors": [
+    "SDUTACM (https://acm.sdut.edu.cn)",
     "XCPCIO (https://xcpcio.com)",
     "algoUX (https://algoux.org)",
     "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
-  ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  }
+  ]
 }
