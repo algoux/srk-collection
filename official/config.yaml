@@ -354,6 +354,9 @@ root:
             - path: icpc2016beijing
               format: srk.json
               name: 2016-11-13 北京站
+            - path: icpc2016cnfinal
+              format: srk.json
+              name: 2016-12-11 China Final
         - path: icpc2015
           name: ICPC 2015 (40th)
           children:
