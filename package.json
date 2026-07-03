@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/algoux/srk-collection#readme",
   "dependencies": {
-    "@algoux/standard-ranklist-cli": "^0.3.3",
+    "@algoux/standard-ranklist-cli": "^0.3.4",
     "form-data": "^4.0.0",
     "fs-extra": "^11.1.1",
     "got": "^11.8.5",
