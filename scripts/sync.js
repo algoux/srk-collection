@@ -265,7 +265,8 @@ function resolveIncrementalTargets({ dir, fileMap, changedFiles }) {
 
     const uniqueKey = filePathToKey.get(changedFile);
     if (!uniqueKey) {
-      throw new Error(`Changed srk file ${changedFile} is not referenced by ${dir}/config.yaml`);
+      console.warn(`Changed srk file ${changedFile} is not referenced by ${dir}/config.yaml, skipping`);
+      continue;
     }
 
     if (!seenRankKeys.has(uniqueKey)) {
