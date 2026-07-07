@@ -1,0 +1,10980 @@
+{
+  "type": "general",
+  "version": "0.3.13",
+  "contest": {
+    "title": {
+      "zh-CN": "2025年安徽省大学生程序设计赛道正式赛（本科组）",
+      "fallback": "2025年安徽省大学生程序设计赛道正式赛（本科组）"
+    },
+    "startAt": "2025-05-24T10:30:00+08:00",
+    "duration": [
+      5,
+      "h"
+    ],
+    "frozenDuration": [
+      0,
+      "h"
+    ]
+  },
+  "contributors": [
+    "algoUX (https://algoux.org)",
+    "42i196"
+  ],
+  "remarks": {
+    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
+    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
+  },
+  "problems": [
+    {
+      "alias": "A"
+    },
+    {
+      "alias": "B"
+    },
+    {
+      "alias": "C"
+    },
+    {
+      "alias": "D"
+    },
+    {
+      "alias": "E"
+    },
+    {
+      "alias": "F"
+    },
+    {
+      "alias": "G"
+    },
+    {
+      "alias": "H"
+    },
+    {
+      "alias": "I"
+    },
+    {
+      "alias": "J"
+    },
+    {
+      "alias": "K"
+    },
+    {
+      "alias": "L"
+    }
+  ],
+  "series": [
+    {
+      "title": "本科#",
+      "segments": [
+        {
+          "title": "Gold Award",
+          "style": "gold"
+        },
+        {
+          "title": "Silver Award",
+          "style": "silver"
+        },
+        {
+          "title": "Bronze Award",
+          "style": "bronze"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "R#",
+      "rule": {
+        "preset": "Normal"
+      }
+    },
+    {
+      "title": "S#",
+      "rule": {
+        "preset": "UniqByUserField",
+        "options": {
+          "field": "organization",
+          "includeOfficialOnly": true
+        }
+      }
+    }
+  ],
+  "sorter": {
+    "algorithm": "score",
+    "config": {}
+  },
+  "rows": [
+    {
+      "user": {
+        "id": "A035",
+        "name": "我永远喜欢珂朵莉",
+        "organization": "安徽理工大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "厉东霖"
+          },
+          {
+            "name": "李天祥"
+          },
+          {
+            "name": "林逸晖"
+          },
+          {
+            "name": "李邵莹",
+            "role": "coach"
+          },
+          {
+            "name": "蒋社想",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 920,
+        "time": [
+          78857,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A151",
+        "name": "合肥科学技术大学第45附属中学",
+        "organization": "安徽财贸职业学院",
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "包涵宇"
+          },
+          {
+            "name": "侯平仄"
+          },
+          {
+            "name": "霍卓群",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 920,
+        "time": [
+          87352,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A045",
+        "name": "安师大 1队",
+        "organization": "安徽师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吕金霖"
+          },
+          {
+            "name": "王子航"
+          },
+          {
+            "name": "王小飞"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 820,
+        "time": [
+          82909,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A097",
+        "name": "Amusing Cat",
+        "organization": "合肥大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吕文杰"
+          },
+          {
+            "name": "许志航"
+          },
+          {
+            "name": "杨仕超"
+          },
+          {
+            "name": "程知",
+            "role": "coach"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 720,
+        "time": [
+          67648,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A106",
+        "name": "合工大 002队",
+        "organization": "合肥工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "韩昆桦"
+          },
+          {
+            "name": "王雅典"
+          },
+          {
+            "name": "舒雨飞"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 720,
+        "time": [
+          90229,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A090",
+        "name": "锋铠纪元",
+        "organization": "阜阳师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张鹏程"
+          },
+          {
+            "name": "严航"
+          },
+          {
+            "name": "邢文俊"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 690,
+        "time": [
+          73459,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A104",
+        "name": "合工大 004队",
+        "organization": "合肥工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王熠辉"
+          },
+          {
+            "name": "庄逸帆"
+          },
+          {
+            "name": "张麒麟"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          },
+          {
+            "name": "刘源",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 650,
+        "time": [
+          81440,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A008",
+        "name": "憧憬成为 acm高手",
+        "organization": "安徽大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李子涵"
+          },
+          {
+            "name": "郑皓天"
+          },
+          {
+            "name": "成智炜"
+          },
+          {
+            "name": "范存航",
+            "role": "coach"
+          },
+          {
+            "name": "黄文杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 640,
+        "time": [
+          78909,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A014",
+        "name": "有钱就种二叉树",
+        "organization": "安徽工程大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "阮杨永"
+          },
+          {
+            "name": "周子豪"
+          },
+          {
+            "name": "余牧"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          },
+          {
+            "name": "张俊",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 630,
+        "time": [
+          65959,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A010",
+        "name": "似乎有着能够令人 AC的隐藏指令",
+        "organization": "安徽大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘圆博"
+          },
+          {
+            "name": "吕建强"
+          },
+          {
+            "name": "许子桢"
+          },
+          {
+            "name": "周健",
+            "role": "coach"
+          },
+          {
+            "name": "范存航",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 630,
+        "time": [
+          73124,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A094",
+        "name": "头想破了也想不出来什么队",
+        "organization": "阜阳理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘明辉"
+          },
+          {
+            "name": "贾好胜"
+          },
+          {
+            "name": "丁剑锋"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          },
+          {
+            "name": "赵莎莎",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 620,
+        "time": [
+          68841,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A040",
+        "name": "Roselia",
+        "organization": "安徽农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈溪"
+          },
+          {
+            "name": "姜乐源"
+          },
+          {
+            "name": "童文康"
+          },
+          {
+            "name": "涂立静",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 620,
+        "time": [
+          71606,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A109",
+        "name": "HFUTgfz",
+        "organization": "合肥工业大学宣城校区",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "高远"
+          },
+          {
+            "name": "张力翔"
+          },
+          {
+            "name": "傅添成"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          },
+          {
+            "name": "张先宜",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 620,
+        "time": [
+          76518,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A148",
+        "name": "天明",
+        "organization": "中国科学技术大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "沈锴航"
+          },
+          {
+            "name": "王怡钧"
+          },
+          {
+            "name": "周江杭"
+          },
+          {
+            "name": "卢建良",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610,
+        "time": [
+          63681,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A113",
+        "name": "合工大宣城一队",
+        "organization": "合肥工业大学宣城校区",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "罗天昊"
+          },
+          {
+            "name": "程龙廷"
+          },
+          {
+            "name": "冯舶钊"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          },
+          {
+            "name": "欧阳一鸣",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610,
+        "time": [
+          69892,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A150",
+        "name": "天子是龙所以太子是奶龙",
+        "organization": "中国科学技术大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曾芑润"
+          },
+          {
+            "name": "沈嘉仪"
+          },
+          {
+            "name": "刘厚振"
+          },
+          {
+            "name": "孙广中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610,
+        "time": [
+          72102,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A107",
+        "name": "合工大 001队",
+        "organization": "合肥工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "丁帅"
+          },
+          {
+            "name": "刘源泉"
+          },
+          {
+            "name": "许超"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          },
+          {
+            "name": "刘源",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 610,
+        "time": [
+          74551,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A018",
+        "name": "啊对对队",
+        "organization": "安徽工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "康福"
+          },
+          {
+            "name": "张鑫"
+          },
+          {
+            "name": "张敬义"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 600,
+        "time": [
+          83966,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A007",
+        "name": "dqjm_fans",
+        "organization": "安徽大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "姚锐"
+          },
+          {
+            "name": "周宇轩"
+          },
+          {
+            "name": "潘灿"
+          },
+          {
+            "name": "李春春",
+            "role": "coach"
+          },
+          {
+            "name": "周健",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 590,
+        "time": [
+          72566,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A005",
+        "name": "auto const& WA=AC",
+        "organization": "安徽大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王天心"
+          },
+          {
+            "name": "汪文杰"
+          },
+          {
+            "name": "高源"
+          },
+          {
+            "name": "范存航",
+            "role": "coach"
+          },
+          {
+            "name": "黄文杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 570,
+        "time": [
+          74770,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A092",
+        "name": "拂晓",
+        "organization": "阜阳师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "詹敏玮"
+          },
+          {
+            "name": "纪成伟"
+          },
+          {
+            "name": "徐新月"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 570,
+        "time": [
+          76188,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A034",
+        "name": "AustB",
+        "organization": "安徽理工大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "沈健豪"
+          },
+          {
+            "name": "吴骏杰"
+          },
+          {
+            "name": "徐歌"
+          },
+          {
+            "name": "李恕洲",
+            "role": "coach"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 570,
+        "time": [
+          83398,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A019",
+        "name": "封榜之后 a三题",
+        "organization": "安徽工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李冠庭"
+          },
+          {
+            "name": "卢岩煜"
+          },
+          {
+            "name": "鲁志豪"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550,
+        "time": [
+          69623,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A100",
+        "name": "黄鼠狼大战 IOI鸡",
+        "organization": "合肥大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "武登科"
+          },
+          {
+            "name": "朱建辉"
+          },
+          {
+            "name": "王家豪"
+          },
+          {
+            "name": "陈艳平",
+            "role": "coach"
+          },
+          {
+            "name": "邵桂伟",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 550,
+        "time": [
+          85925,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A091",
+        "name": "等队名想好比赛都打完了",
+        "organization": "阜阳师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "邹宇"
+          },
+          {
+            "name": "刘振东"
+          },
+          {
+            "name": "马静祥"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540,
+        "time": [
+          78169,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A048",
+        "name": "安师大 4队",
+        "organization": "安徽师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "许居尚"
+          },
+          {
+            "name": "高翔"
+          },
+          {
+            "name": "火天宝"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 540,
+        "time": [
+          90255,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A101",
+        "name": "蒙的都队",
+        "organization": "合肥大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曾一凡"
+          },
+          {
+            "name": "张旭锋"
+          },
+          {
+            "name": "田润泽"
+          },
+          {
+            "name": "程知",
+            "role": "coach"
+          },
+          {
+            "name": "孟文文",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 520,
+        "time": [
+          60656,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A056",
+        "name": "点击输入文本",
+        "organization": "安徽信息工程学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "童梓乘"
+          },
+          {
+            "name": "徐江平"
+          },
+          {
+            "name": "叶德健"
+          },
+          {
+            "name": "谈亮",
+            "role": "coach"
+          },
+          {
+            "name": "姜玮",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510,
+        "time": [
+          48932,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A069",
+        "name": "教练喊我们回去种田",
+        "organization": "安庆师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "纪润奇"
+          },
+          {
+            "name": "余永沁"
+          },
+          {
+            "name": "王乐泉"
+          },
+          {
+            "name": "程一飞",
+            "role": "coach"
+          },
+          {
+            "name": "郑馨",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 510,
+        "time": [
+          86429,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A033",
+        "name": "敢抓我古他拿",
+        "organization": "安徽理工大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "许诺"
+          },
+          {
+            "name": "曹雪阳"
+          },
+          {
+            "name": "汪程晟"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          },
+          {
+            "name": "孙海峰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 500,
+        "time": [
+          68236,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A025",
+        "name": "龙湖算法坊",
+        "organization": "安徽科技学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张兴武"
+          },
+          {
+            "name": "曾于荣"
+          },
+          {
+            "name": "宋佳俊"
+          },
+          {
+            "name": "赵靖",
+            "role": "coach"
+          },
+          {
+            "name": "李锐",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 490,
+        "time": [
+          63326,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A105",
+        "name": "合工大 003队",
+        "organization": "合肥工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘博文"
+          },
+          {
+            "name": "张然"
+          },
+          {
+            "name": "何昕润"
+          },
+          {
+            "name": "石雷",
+            "role": "coach"
+          },
+          {
+            "name": "李琳",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 490,
+        "time": [
+          98806,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A068",
+        "name": "长久深自缄默",
+        "organization": "安庆师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王程璨"
+          },
+          {
+            "name": "胡可仁"
+          },
+          {
+            "name": "江克勤",
+            "role": "coach"
+          },
+          {
+            "name": "程一飞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480,
+        "time": [
+          56161,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A047",
+        "name": "安师大 2队",
+        "organization": "安徽师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张礼政"
+          },
+          {
+            "name": "丁子杰"
+          },
+          {
+            "name": "程鹏"
+          },
+          {
+            "name": "胡桂银",
+            "role": "coach"
+          },
+          {
+            "name": "李杰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480,
+        "time": [
+          65452,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A012",
+        "name": "奶龙",
+        "organization": "安徽工程大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "舒一森"
+          },
+          {
+            "name": "毛志鹏"
+          },
+          {
+            "name": "吴量"
+          },
+          {
+            "name": "刘三民",
+            "role": "coach"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 480,
+        "time": [
+          68280,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A099",
+        "name": "My code is not as good as ds",
+        "organization": "合肥大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "葛毅"
+          },
+          {
+            "name": "周子凡"
+          },
+          {
+            "name": "查宇"
+          },
+          {
+            "name": "张新",
+            "role": "coach"
+          },
+          {
+            "name": "何立新",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 470,
+        "time": [
+          38411,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A086",
+        "name": "叫什么名字",
+        "organization": "滁州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈林国然"
+          },
+          {
+            "name": "李乐乐"
+          },
+          {
+            "name": "汪子骏"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 470,
+        "time": [
+          54855,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A112",
+        "name": "ACM 我们打得都队",
+        "organization": "合肥工业大学宣城校区",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "谭沛敏"
+          },
+          {
+            "name": "刘嘉傲"
+          },
+          {
+            "name": "陈宇翔"
+          },
+          {
+            "name": "张先宜",
+            "role": "coach"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460,
+        "time": [
+          65237,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A055",
+        "name": "破折号",
+        "organization": "安徽信息工程学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "龙果"
+          },
+          {
+            "name": "杨希望"
+          },
+          {
+            "name": "徐杨勇"
+          },
+          {
+            "name": "佘星星",
+            "role": "coach"
+          },
+          {
+            "name": "张贵强",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460,
+        "time": [
+          72299,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A046",
+        "name": "安师大 5 队",
+        "organization": "安徽师范大学",
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "许译涛"
+          },
+          {
+            "name": "黄锐杰"
+          },
+          {
+            "name": "袁文晟"
+          },
+          {
+            "name": "赵诚",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 460,
+        "time": [
+          90157,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A020",
+        "name": "搞的和真的一样",
+        "organization": "安徽工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "付翔宇"
+          },
+          {
+            "name": "李锐"
+          },
+          {
+            "name": "周子健"
+          },
+          {
+            "name": "王喜凤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450,
+        "time": [
+          67526,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A024",
+        "name": "事不过三",
+        "organization": "安徽建筑大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "欧彪"
+          },
+          {
+            "name": "聂玉馨"
+          },
+          {
+            "name": "战俊宇"
+          },
+          {
+            "name": "程远",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 450,
+        "time": [
+          70905,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A009",
+        "name": "WhiteLoneliness",
+        "organization": "安徽大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "董劲豪"
+          },
+          {
+            "name": "姚天翔"
+          },
+          {
+            "name": "黄俊杰"
+          },
+          {
+            "name": "黄文杰",
+            "role": "coach"
+          },
+          {
+            "name": "周健",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 420,
+        "time": [
+          60136,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A098",
+        "name": "反正能过样例",
+        "organization": "合肥大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "瞿康辰"
+          },
+          {
+            "name": "杨帅"
+          },
+          {
+            "name": "汝豪杰"
+          },
+          {
+            "name": "胡春玲",
+            "role": "coach"
+          },
+          {
+            "name": "项响琴",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 420,
+        "time": [
+          63145,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A096",
+        "name": "队友不要再编辑队名了！！！队友正在编辑中！！！",
+        "organization": "合肥大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "叶铠睿"
+          },
+          {
+            "name": "蔡庆喜"
+          },
+          {
+            "name": "叶咨含"
+          },
+          {
+            "name": "嵇圣硙",
+            "role": "coach"
+          },
+          {
+            "name": "项响琴",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 420,
+        "time": [
+          64987,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A119",
+        "name": "来我淮理玩吖",
+        "organization": "淮北理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "尹洪超"
+          },
+          {
+            "name": "霍宇成"
+          },
+          {
+            "name": "尹天豪"
+          },
+          {
+            "name": "李硕儒",
+            "role": "coach"
+          },
+          {
+            "name": "杨振仁",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 420,
+        "time": [
+          68213,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A017",
+        "name": "不要哇哇叫",
+        "organization": "安徽工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "赵星辰"
+          },
+          {
+            "name": "魏云峰"
+          },
+          {
+            "name": "孙祥智"
+          },
+          {
+            "name": "王广正",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 410,
+        "time": [
+          59261,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A087",
+        "name": "年轻人不要老熬夜",
+        "organization": "阜阳师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "束明伟"
+          },
+          {
+            "name": "石道成"
+          },
+          {
+            "name": "王萌"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          },
+          {
+            "name": "盛兴平",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 410,
+        "time": [
+          65580,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A118",
+        "name": "题目做全队",
+        "organization": "合肥师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蒋文浩"
+          },
+          {
+            "name": "秦子豪"
+          },
+          {
+            "name": "李轶男"
+          },
+          {
+            "name": "朱强",
+            "role": "coach"
+          },
+          {
+            "name": "程敏",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 410,
+        "time": [
+          81156,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A054",
+        "name": "吃饭不用排队",
+        "organization": "安徽信息工程学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孟凡业"
+          },
+          {
+            "name": "梁浩琰"
+          },
+          {
+            "name": "鲍克靖"
+          },
+          {
+            "name": "佘星星",
+            "role": "coach"
+          },
+          {
+            "name": "万海霞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400,
+        "time": [
+          47201,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A124",
+        "name": "到底哪里不队",
+        "organization": "淮南师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张时运"
+          },
+          {
+            "name": "林宇飞"
+          },
+          {
+            "name": "李昆洋"
+          },
+          {
+            "name": "时慧琨",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400,
+        "time": [
+          47826,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A110",
+        "name": "全都做",
+        "organization": "合肥工业大学宣城校区",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "江博文"
+          },
+          {
+            "name": "李懋"
+          },
+          {
+            "name": "孙腾鲲"
+          },
+          {
+            "name": "张先宜",
+            "role": "coach"
+          },
+          {
+            "name": "董飞彪",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400,
+        "time": [
+          54936,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A084",
+        "name": "天天开心强大队",
+        "organization": "滁州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张海天"
+          },
+          {
+            "name": "王功成"
+          },
+          {
+            "name": "刘文强"
+          },
+          {
+            "name": "杨传健",
+            "role": "coach"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400,
+        "time": [
+          58890,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A093",
+        "name": "你们都不对我们都队",
+        "organization": "阜阳理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "庞家宝"
+          },
+          {
+            "name": "时学志"
+          },
+          {
+            "name": "唐晶磊"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          },
+          {
+            "name": "范建中",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 400,
+        "time": [
+          69154,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A039",
+        "name": "123",
+        "organization": "安徽农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "程洛庆"
+          },
+          {
+            "name": "韩贺宇"
+          },
+          {
+            "name": "韩雪"
+          },
+          {
+            "name": "涂立静",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 390,
+        "time": [
+          44433,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 90
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A016",
+        "name": "队长得了 MVP",
+        "organization": "安徽工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李春麟"
+          },
+          {
+            "name": "吴允来"
+          },
+          {
+            "name": "吉祥"
+          },
+          {
+            "name": "程泽凯",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 380,
+        "time": [
+          47234,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A103",
+        "name": "合工大 005队",
+        "organization": "合肥工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王易"
+          },
+          {
+            "name": "吕林峰"
+          },
+          {
+            "name": "李祈乐"
+          },
+          {
+            "name": "石雷",
+            "role": "coach"
+          },
+          {
+            "name": "李琳",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 380,
+        "time": [
+          48916,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A089",
+        "name": "希望时代的涂鸦",
+        "organization": "阜阳师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘欣怡"
+          },
+          {
+            "name": "彭思敏"
+          },
+          {
+            "name": "王修晗"
+          },
+          {
+            "name": "刘冬冬",
+            "role": "coach"
+          },
+          {
+            "name": "王浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 380,
+        "time": [
+          52622,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A085",
+        "name": "我带学长拿省一",
+        "organization": "滁州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卓建宇"
+          },
+          {
+            "name": "刘峻熙"
+          },
+          {
+            "name": "史义峰"
+          },
+          {
+            "name": "程辉",
+            "role": "coach"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 380,
+        "time": [
+          55500,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A083",
+        "name": "能跑就行队",
+        "organization": "滁州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "周乐"
+          },
+          {
+            "name": "彭娜"
+          },
+          {
+            "name": "胡中宇"
+          },
+          {
+            "name": "王正山",
+            "role": "coach"
+          },
+          {
+            "name": "杨传健",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 380,
+        "time": [
+          59137,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A088",
+        "name": "数统二队",
+        "organization": "阜阳师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "彭杰峰"
+          },
+          {
+            "name": "荆学宇"
+          },
+          {
+            "name": "周俊豪"
+          },
+          {
+            "name": "盛兴平",
+            "role": "coach"
+          },
+          {
+            "name": "王茂华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 380,
+        "time": [
+          62769,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A064",
+        "name": "瓦罗兰特校队",
+        "organization": "安徽中医药大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "方天赐"
+          },
+          {
+            "name": "李文豪"
+          },
+          {
+            "name": "姜子康"
+          },
+          {
+            "name": "王世好",
+            "role": "coach"
+          },
+          {
+            "name": "胡继礼",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 370,
+        "time": [
+          39135,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 70
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A073",
+        "name": "没能拿下的 AHCPC，像是没能留住的她",
+        "organization": "蚌埠学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卢俊杰"
+          },
+          {
+            "name": "袁理龙"
+          },
+          {
+            "name": "李环宇"
+          },
+          {
+            "name": "沈恂",
+            "role": "coach"
+          },
+          {
+            "name": "朱洪浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 370,
+        "time": [
+          49324,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A123",
+        "name": "重生之我在淮北师范学算法",
+        "organization": "淮北师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吴越"
+          },
+          {
+            "name": "陈浩然"
+          },
+          {
+            "name": "王友明"
+          },
+          {
+            "name": "高向军",
+            "role": "coach"
+          },
+          {
+            "name": "洪留荣",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 370,
+        "time": [
+          55443,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A023",
+        "name": "赛博江淮",
+        "organization": "安徽建筑大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "程伟宁"
+          },
+          {
+            "name": "李明濠"
+          },
+          {
+            "name": "夏心蕊"
+          },
+          {
+            "name": "孙光灵",
+            "role": "coach"
+          },
+          {
+            "name": "李艳秋",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 370,
+        "time": [
+          60988,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A122",
+        "name": "蒙的全部都队",
+        "organization": "淮北师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "闫永春"
+          },
+          {
+            "name": "魏天祥"
+          },
+          {
+            "name": "方冉"
+          },
+          {
+            "name": "高向军",
+            "role": "coach"
+          },
+          {
+            "name": "郑颖",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 360,
+        "time": [
+          55313,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A038",
+        "name": "被爆锤",
+        "organization": "安徽农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "徐峰"
+          },
+          {
+            "name": "李兹如"
+          },
+          {
+            "name": "邹晟涛"
+          },
+          {
+            "name": "王永梅",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 340,
+        "time": [
+          38654,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A031",
+        "name": "AustE",
+        "organization": "安徽理工大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "鲁成乐"
+          },
+          {
+            "name": "李尚"
+          },
+          {
+            "name": "蒋天一"
+          },
+          {
+            "name": "蒋社想",
+            "role": "coach"
+          },
+          {
+            "name": "孙海峰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 340,
+        "time": [
+          46624,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A001",
+        "name": "ac 不在灯火阑珊处",
+        "organization": "安徽财经大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卢岩"
+          },
+          {
+            "name": "吴洋"
+          },
+          {
+            "name": "张浩然"
+          },
+          {
+            "name": "吴延辉",
+            "role": "coach"
+          },
+          {
+            "name": "何宗林",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 330,
+        "time": [
+          47716,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A134",
+        "name": "#define WA AC",
+        "organization": "宿州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "程宏俊"
+          },
+          {
+            "name": "谢晓峰"
+          },
+          {
+            "name": "刘润新"
+          },
+          {
+            "name": "姜飞",
+            "role": "coach"
+          },
+          {
+            "name": "唐家康",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 330,
+        "time": [
+          47958,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A111",
+        "name": "HFUT114514",
+        "organization": "合肥工业大学宣城校区",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "莫子扬"
+          },
+          {
+            "name": "尹渝中"
+          },
+          {
+            "name": "吕俊伟",
+            "role": "coach"
+          },
+          {
+            "name": "欧阳一鸣",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 320,
+        "time": [
+          19057,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A002",
+        "name": "我也不知道写的对不队",
+        "organization": "安徽财经大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "胡可"
+          },
+          {
+            "name": "高海军"
+          },
+          {
+            "name": "杨振宇"
+          },
+          {
+            "name": "何宗林",
+            "role": "coach"
+          },
+          {
+            "name": "陈涛",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 320,
+        "time": [
+          31544,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A030",
+        "name": "草台班子",
+        "organization": "安徽理工大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "顾廷瑞"
+          },
+          {
+            "name": "姚棋"
+          },
+          {
+            "name": "李保全"
+          },
+          {
+            "name": "赵宝",
+            "role": "coach"
+          },
+          {
+            "name": "李邵莹",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 320,
+        "time": [
+          37374,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A062",
+        "name": "我的队友你会 AC的对不队",
+        "organization": "安徽中医药大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "黄超"
+          },
+          {
+            "name": "李苏帆"
+          },
+          {
+            "name": "伍阳"
+          },
+          {
+            "name": "胡继礼",
+            "role": "coach"
+          },
+          {
+            "name": "王世好",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 320,
+        "time": [
+          51625,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A044",
+        "name": "安师大 3队",
+        "organization": "安徽师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "柏成雨"
+          },
+          {
+            "name": "梁峻铭"
+          },
+          {
+            "name": "王李庆晨"
+          },
+          {
+            "name": "伍长荣",
+            "role": "coach"
+          },
+          {
+            "name": "陈传明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 320,
+        "time": [
+          54170,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A077",
+        "name": "蛙声一片后 ac",
+        "organization": "巢湖学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "方东升"
+          },
+          {
+            "name": "朱增辉"
+          },
+          {
+            "name": "孙雨"
+          },
+          {
+            "name": "彭兴",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 320,
+        "time": [
+          68814,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A027",
+        "name": "禹会楫智号",
+        "organization": "安徽科技学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "丁赐"
+          },
+          {
+            "name": "吴凯"
+          },
+          {
+            "name": "王勇"
+          },
+          {
+            "name": "荣亮宇",
+            "role": "coach"
+          },
+          {
+            "name": "王珏",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 310,
+        "time": [
+          41582,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A066",
+        "name": "不会就睡觉",
+        "organization": "安庆师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "夏恒"
+          },
+          {
+            "name": "宋志兵"
+          },
+          {
+            "name": "施毅"
+          },
+          {
+            "name": "张步忠",
+            "role": "coach"
+          },
+          {
+            "name": "江克勤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 310,
+        "time": [
+          46171,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A032",
+        "name": "viwo50",
+        "organization": "安徽理工大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "韩雪涛"
+          },
+          {
+            "name": "宋佳祜"
+          },
+          {
+            "name": "吴文涛"
+          },
+          {
+            "name": "蒋社想",
+            "role": "coach"
+          },
+          {
+            "name": "孙海峰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 310,
+        "time": [
+          49433,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A061",
+        "name": "新增文件夹",
+        "organization": "安徽医科大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "余成鹏"
+          },
+          {
+            "name": "花国庆"
+          },
+          {
+            "name": "王潇茗"
+          },
+          {
+            "name": "张非凡",
+            "role": "coach"
+          },
+          {
+            "name": "李玉玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          23917,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A041",
+        "name": "E1A",
+        "organization": "安徽三联学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "江昊"
+          },
+          {
+            "name": "储著贤"
+          },
+          {
+            "name": "柯鑫",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          24021,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A013",
+        "name": "女装后的我什么都能做队",
+        "organization": "安徽工程大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "赵奕晨"
+          },
+          {
+            "name": "罗宇昊"
+          },
+          {
+            "name": "鲍远超"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          },
+          {
+            "name": "赵森严",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          30267,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A146",
+        "name": "废鸡小队",
+        "organization": "皖西学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张秦杰"
+          },
+          {
+            "name": "潘家宝"
+          },
+          {
+            "name": "余泽凯"
+          },
+          {
+            "name": "刘清",
+            "role": "coach"
+          },
+          {
+            "name": "刘正余",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          38881,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A063",
+        "name": "原神奶龙队",
+        "organization": "安徽中医药大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吴锦涛"
+          },
+          {
+            "name": "胡玉佳"
+          },
+          {
+            "name": "陈旋"
+          },
+          {
+            "name": "俞磊",
+            "role": "coach"
+          },
+          {
+            "name": "胡继礼",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          40876,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A079",
+        "name": "海底小纵队",
+        "organization": "巢湖学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "耿乐"
+          },
+          {
+            "name": "石岩"
+          },
+          {
+            "name": "方恒康"
+          },
+          {
+            "name": "刘运",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          40881,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A121",
+        "name": "哈基米程程编队",
+        "organization": "淮北师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李杨明"
+          },
+          {
+            "name": "刘宝琪"
+          },
+          {
+            "name": "王羽"
+          },
+          {
+            "name": "洪留荣",
+            "role": "coach"
+          },
+          {
+            "name": "张震",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          47445,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A070",
+        "name": "码码生的",
+        "organization": "蚌埠学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "侯西涵"
+          },
+          {
+            "name": "张后超"
+          },
+          {
+            "name": "吴兴昊"
+          },
+          {
+            "name": "刘世军",
+            "role": "coach"
+          },
+          {
+            "name": "蔡绍峰",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          51817,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A053",
+        "name": "都说萌新有保护期，拿个省奖没毛病吧",
+        "organization": "安徽信息工程学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王健康"
+          },
+          {
+            "name": "陈胜伟"
+          },
+          {
+            "name": "叶佳伟"
+          },
+          {
+            "name": "姜玮",
+            "role": "coach"
+          },
+          {
+            "name": "刘华敏",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 300,
+        "time": [
+          57744,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A116",
+        "name": "你说的都队",
+        "organization": "合肥师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吴硕"
+          },
+          {
+            "name": "蒋勇杰"
+          },
+          {
+            "name": "汪杰"
+          },
+          {
+            "name": "程敏",
+            "role": "coach"
+          },
+          {
+            "name": "朱强",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 290,
+        "time": [
+          31246,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A080",
+        "name": "不写了回家了",
+        "organization": "池州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "桂云涛"
+          },
+          {
+            "name": "王子易"
+          },
+          {
+            "name": "孙一帆"
+          },
+          {
+            "name": "汪珺",
+            "role": "coach"
+          },
+          {
+            "name": "王婷",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 290,
+        "time": [
+          43076,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A095",
+        "name": "旺仔小分队",
+        "organization": "阜阳理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王雪婷"
+          },
+          {
+            "name": "陈志琴"
+          },
+          {
+            "name": "钱理想"
+          },
+          {
+            "name": "赵莎莎",
+            "role": "coach"
+          },
+          {
+            "name": "王秀友",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 290,
+        "time": [
+          45319,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A108",
+        "name": "码到成功",
+        "organization": "合肥工业大学宣城校区",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "章瑞"
+          },
+          {
+            "name": "曾志强"
+          },
+          {
+            "name": "魏呈吉"
+          },
+          {
+            "name": "欧阳一鸣",
+            "role": "coach"
+          },
+          {
+            "name": "张延孔",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 290,
+        "time": [
+          53950,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A021",
+        "name": "孤独酱爱搞代码",
+        "organization": "安徽公安学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈明杰"
+          },
+          {
+            "name": "丁砚山"
+          },
+          {
+            "name": "董招力"
+          },
+          {
+            "name": "马玉州",
+            "role": "coach"
+          },
+          {
+            "name": "杜琰琪",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          22550,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A133",
+        "name": "死水还阴啊",
+        "organization": "宿州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈文杰"
+          },
+          {
+            "name": "刘富健"
+          },
+          {
+            "name": "孙耀祖"
+          },
+          {
+            "name": "潘正高",
+            "role": "coach"
+          },
+          {
+            "name": "晏铭",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          38357,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A015",
+        "name": "这次不睡了",
+        "organization": "安徽工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王皓冉"
+          },
+          {
+            "name": "王长勤"
+          },
+          {
+            "name": "刘辉"
+          },
+          {
+            "name": "程泽凯",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          44706,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A003",
+        "name": "安财旅游团",
+        "organization": "安徽财经大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "路文浩"
+          },
+          {
+            "name": "潘誉文"
+          },
+          {
+            "name": "徐赵宇"
+          },
+          {
+            "name": "张林",
+            "role": "coach"
+          },
+          {
+            "name": "吴延辉",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          49343,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A125",
+        "name": "代码敲不队",
+        "organization": "淮南师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张家鑫"
+          },
+          {
+            "name": "雷冬阳"
+          },
+          {
+            "name": "古丽努尔"
+          },
+          {
+            "name": "时慧琨",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          52071,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A072",
+        "name": "奶奶的龙",
+        "organization": "蚌埠学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨宇航"
+          },
+          {
+            "name": "乔啸天"
+          },
+          {
+            "name": "周兵"
+          },
+          {
+            "name": "郭城",
+            "role": "coach"
+          },
+          {
+            "name": "朱洪浩",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          54847,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A126",
+        "name": "超影队",
+        "organization": "淮南师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪添乐"
+          },
+          {
+            "name": "陈建良"
+          },
+          {
+            "name": "金晨岙"
+          },
+          {
+            "name": "时慧琨",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          60719,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A065",
+        "name": "青春代码少年不会梦到 acm学姐队",
+        "organization": "安徽中医药大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "徐浩东"
+          },
+          {
+            "name": "刘宝峰"
+          },
+          {
+            "name": "李子韩"
+          },
+          {
+            "name": "胡继礼",
+            "role": "coach"
+          },
+          {
+            "name": "王世好",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 280,
+        "time": [
+          71110,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A043",
+        "name": "五彩斑斓の曙光",
+        "organization": "安徽三联学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈云祥"
+          },
+          {
+            "name": "曹辰"
+          },
+          {
+            "name": "柏培钊"
+          },
+          {
+            "name": "孙文玲",
+            "role": "coach"
+          },
+          {
+            "name": "王旭",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          36171,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A067",
+        "name": "海底小纵队",
+        "organization": "安庆师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨红丽"
+          },
+          {
+            "name": "张雨晴"
+          },
+          {
+            "name": "张雅琪"
+          },
+          {
+            "name": "蔡庆华",
+            "role": "coach"
+          },
+          {
+            "name": "江克勤",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          37852,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A128",
+        "name": "一斤海蜇",
+        "organization": "陆军炮兵防空兵学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "金国涛"
+          },
+          {
+            "name": "张艺杰"
+          },
+          {
+            "name": "张海游哲"
+          },
+          {
+            "name": "方星星",
+            "role": "coach"
+          },
+          {
+            "name": "施宁",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          37937,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A082",
+        "name": "雷霆突击队",
+        "organization": "池州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "程旺"
+          },
+          {
+            "name": "欧阳宸"
+          },
+          {
+            "name": "杨文翔"
+          },
+          {
+            "name": "王婷",
+            "role": "coach"
+          },
+          {
+            "name": "解飞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          39041,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A036",
+        "name": "浑水摸鱼",
+        "organization": "安徽农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李玉磊"
+          },
+          {
+            "name": "张阿豪"
+          },
+          {
+            "name": "刘翔"
+          },
+          {
+            "name": "李景霞",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          41290,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A004",
+        "name": "全都能做队",
+        "organization": "安徽财经大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曹冬明"
+          },
+          {
+            "name": "蒋昭煜"
+          },
+          {
+            "name": "刘程"
+          },
+          {
+            "name": "陈涛",
+            "role": "coach"
+          },
+          {
+            "name": "张林",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          44609,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A117",
+        "name": "No Bug 队",
+        "organization": "合肥师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陶锦锋"
+          },
+          {
+            "name": "侯通展"
+          },
+          {
+            "name": "姚鑫浩"
+          },
+          {
+            "name": "樊高雁",
+            "role": "coach"
+          },
+          {
+            "name": "朱强",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          49146,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A011",
+        "name": "哈漏·沃德",
+        "organization": "安徽工程大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "席正翔"
+          },
+          {
+            "name": "孙康"
+          },
+          {
+            "name": "单伟洁"
+          },
+          {
+            "name": "张俊",
+            "role": "coach"
+          },
+          {
+            "name": "张丽平",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          54334,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A120",
+        "name": "重生之我在淮理当学生",
+        "organization": "淮北理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孙亚楠"
+          },
+          {
+            "name": "武钰璇"
+          },
+          {
+            "name": "李硕儒",
+            "role": "coach"
+          },
+          {
+            "name": "杨振仁",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 270,
+        "time": [
+          56214,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A022",
+        "name": "超级大龙虾队",
+        "organization": "安徽建筑大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "鲁立志"
+          },
+          {
+            "name": "王海鑫"
+          },
+          {
+            "name": "王坤"
+          },
+          {
+            "name": "孙光灵",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 260,
+        "time": [
+          26815,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A071",
+        "name": "2025 World Final Champion",
+        "organization": "蚌埠学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "梁坤"
+          },
+          {
+            "name": "陈星科"
+          },
+          {
+            "name": "尹杭杭"
+          },
+          {
+            "name": "李现伟",
+            "role": "coach"
+          },
+          {
+            "name": "刘世军",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 260,
+        "time": [
+          41799,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A029",
+        "name": "淮上硅步营",
+        "organization": "安徽科技学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "石志豪"
+          },
+          {
+            "name": "彭玉婷"
+          },
+          {
+            "name": "戴俊阳"
+          },
+          {
+            "name": "荣亮宇",
+            "role": "coach"
+          },
+          {
+            "name": "赵靖",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 260,
+        "time": [
+          48299,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A144",
+        "name": "摸鱼",
+        "organization": "皖南医学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪星明"
+          },
+          {
+            "name": "董小童"
+          },
+          {
+            "name": "郑大坤"
+          },
+          {
+            "name": "宛楠",
+            "role": "coach"
+          },
+          {
+            "name": "吴自文",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 260,
+        "time": [
+          55271,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A143",
+        "name": "全都做队",
+        "organization": "皖南医学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王昱民"
+          },
+          {
+            "name": "谷鑫"
+          },
+          {
+            "name": "陈欣妍"
+          },
+          {
+            "name": "昌杰",
+            "role": "coach"
+          },
+          {
+            "name": "宛楠",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 250,
+        "time": [
+          33049,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A131",
+        "name": "二分糕手",
+        "organization": "马鞍山学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张小虎"
+          },
+          {
+            "name": "张志伟"
+          },
+          {
+            "name": "张朋飞"
+          },
+          {
+            "name": "钱存",
+            "role": "coach"
+          },
+          {
+            "name": "黄赫虹",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 250,
+        "time": [
+          44629,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A102",
+        "name": "合工大 006队",
+        "organization": "合肥工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张康源"
+          },
+          {
+            "name": "刘振超"
+          },
+          {
+            "name": "许恒锴"
+          },
+          {
+            "name": "刘彬彬",
+            "role": "coach"
+          },
+          {
+            "name": "曹力",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 250,
+        "time": [
+          58689,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 80
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A028",
+        "name": "蚌山编译团",
+        "organization": "安徽科技学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "苏兆熙"
+          },
+          {
+            "name": "汪秋旻"
+          },
+          {
+            "name": "从庆冰"
+          },
+          {
+            "name": "王珏",
+            "role": "coach"
+          },
+          {
+            "name": "葛华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 250,
+        "time": [
+          62512,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 10
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A115",
+        "name": "合经院",
+        "organization": "合肥经济学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "宋浩杰"
+          },
+          {
+            "name": "邵怀周"
+          },
+          {
+            "name": "符义帆"
+          },
+          {
+            "name": "黄少芬",
+            "role": "coach"
+          },
+          {
+            "name": "胡凌云",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 240,
+        "time": [
+          46538,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 60
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A141",
+        "name": "这次一定队",
+        "organization": "皖南医学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪舒欣"
+          },
+          {
+            "name": "卢晨阳"
+          },
+          {
+            "name": "昌杰",
+            "role": "coach"
+          },
+          {
+            "name": "宛楠",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 240,
+        "time": [
+          47248,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A057",
+        "name": "云在青天水在瓶",
+        "organization": "安徽信息工程学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张世豪"
+          },
+          {
+            "name": "王宇涛"
+          },
+          {
+            "name": "王广平"
+          },
+          {
+            "name": "佘星星",
+            "role": "coach"
+          },
+          {
+            "name": "许梦",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 220,
+        "time": [
+          26213,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A130",
+        "name": "我太难了",
+        "organization": "马鞍山学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "方幸钰"
+          },
+          {
+            "name": "尹朝志"
+          },
+          {
+            "name": "程睿"
+          },
+          {
+            "name": "黄赫虹",
+            "role": "coach"
+          },
+          {
+            "name": "钱存",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 220,
+        "time": [
+          27569,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A081",
+        "name": "你说的队",
+        "organization": "池州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨刚"
+          },
+          {
+            "name": "石钟山"
+          },
+          {
+            "name": "杨洪博"
+          },
+          {
+            "name": "解飞",
+            "role": "coach"
+          },
+          {
+            "name": "汪珺",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 200,
+        "time": [
+          47060,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A049",
+        "name": "重生之我在新华写算法",
+        "organization": "安徽新华学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘明辉"
+          },
+          {
+            "name": "田炯"
+          },
+          {
+            "name": "吴宇航"
+          },
+          {
+            "name": "王华本",
+            "role": "coach"
+          },
+          {
+            "name": "葛瑞琦",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 150,
+        "time": [
+          22595,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 50
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A058",
+        "name": "炫彩麦小蛋",
+        "organization": "安徽医科大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "彭帮龙"
+          },
+          {
+            "name": "何政"
+          },
+          {
+            "name": "付姿宁"
+          },
+          {
+            "name": "张非凡",
+            "role": "coach"
+          },
+          {
+            "name": "李玉玲",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 140,
+        "time": [
+          18819,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A145",
+        "name": "观弈者",
+        "organization": "皖西学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "金佳璇"
+          },
+          {
+            "name": "高霖婧"
+          },
+          {
+            "name": "刘清",
+            "role": "coach"
+          },
+          {
+            "name": "刘正余",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 140,
+        "time": [
+          21693,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A076",
+        "name": "请按任意键继续",
+        "organization": "亳州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "沈瑞"
+          },
+          {
+            "name": "马雨涵"
+          },
+          {
+            "name": "王奇"
+          },
+          {
+            "name": "马凯",
+            "role": "coach"
+          },
+          {
+            "name": "张道华",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 120,
+        "time": [
+          32155,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A132",
+        "name": "欶澜",
+        "organization": "宿州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "江禹澄"
+          },
+          {
+            "name": "王圣"
+          },
+          {
+            "name": "汪恩赐"
+          },
+          {
+            "name": "高亚兰",
+            "role": "coach"
+          },
+          {
+            "name": "李明东",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 100,
+        "time": [
+          7289,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A129",
+        "name": "先锋队",
+        "organization": "马鞍山学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪君辉"
+          },
+          {
+            "name": "王曼玉"
+          },
+          {
+            "name": "詹蕊"
+          },
+          {
+            "name": "钱存",
+            "role": "coach"
+          },
+          {
+            "name": "王英明",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 100,
+        "time": [
+          8906,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "AC",
+          "score": 100
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A059",
+        "name": "圆头耄耋队",
+        "organization": "安徽医科大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "姜高译航"
+          },
+          {
+            "name": "吴祥"
+          },
+          {
+            "name": "昌子淇"
+          },
+          {
+            "name": "张非凡",
+            "role": "coach"
+          },
+          {
+            "name": "王煜",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 70,
+        "time": [
+          30487,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 40
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A114",
+        "name": "逐风",
+        "organization": "合肥经济学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "詹诏"
+          },
+          {
+            "name": "屈祥"
+          },
+          {
+            "name": "张雨豪"
+          },
+          {
+            "name": "成花",
+            "role": "coach"
+          },
+          {
+            "name": "邰清清",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 40,
+        "time": [
+          25582,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A138",
+        "name": "铜院一队",
+        "organization": "铜陵学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "方应倩"
+          },
+          {
+            "name": "马荣"
+          },
+          {
+            "name": "刘影亮"
+          },
+          {
+            "name": "杨慧",
+            "role": "coach"
+          },
+          {
+            "name": "严路路",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 30,
+        "time": [
+          10602,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 30
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A026",
+        "name": "安科工大未来之星",
+        "organization": "安徽科技学院",
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "陈志伟"
+          },
+          {
+            "name": "程晨"
+          },
+          {
+            "name": "马佳俊"
+          },
+          {
+            "name": "荣亮宇",
+            "role": "coach"
+          },
+          {
+            "name": "赵靖",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 20,
+        "time": [
+          6630,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A137",
+        "name": "铜院二队",
+        "organization": "铜陵学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "雷旭蕊"
+          },
+          {
+            "name": "陈坤"
+          },
+          {
+            "name": "王学军"
+          },
+          {
+            "name": "严路路",
+            "role": "coach"
+          },
+          {
+            "name": "杨慧",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 20,
+        "time": [
+          14611,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A074",
+        "name": "海鲜酱 yyds",
+        "organization": "亳州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曹萧薇"
+          },
+          {
+            "name": "杨鑫焱"
+          },
+          {
+            "name": "赵雯雨"
+          },
+          {
+            "name": "张道华",
+            "role": "coach"
+          },
+          {
+            "name": "胡秀建",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 20,
+        "time": [
+          16922,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 20
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A075",
+        "name": "人工智障 2.0",
+        "organization": "亳州学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "朱镜苡"
+          },
+          {
+            "name": "孙壮丽"
+          },
+          {
+            "name": "王天增"
+          },
+          {
+            "name": "马凯",
+            "role": "coach"
+          },
+          {
+            "name": "胡秀建",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A135",
+        "name": "铜院三队",
+        "organization": "铜陵学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "汪严涵"
+          },
+          {
+            "name": "黄俊超"
+          },
+          {
+            "name": "郑智文"
+          },
+          {
+            "name": "海深",
+            "role": "coach"
+          },
+          {
+            "name": "杨慧",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A136",
+        "name": "铜院四队",
+        "organization": "铜陵学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "琚文艺"
+          },
+          {
+            "name": "朱洪焰"
+          },
+          {
+            "name": "丁朵朵"
+          },
+          {
+            "name": "杨慧",
+            "role": "coach"
+          },
+          {
+            "name": "海深",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A142",
+        "name": "三人行",
+        "organization": "皖南医学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林俊杰"
+          },
+          {
+            "name": "陈勇"
+          },
+          {
+            "name": "王雪"
+          },
+          {
+            "name": "宛楠",
+            "role": "coach"
+          },
+          {
+            "name": "叶长江",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        }
+      ]
+    },
+    {
+      "user": {
+        "id": "A147",
+        "name": "小萌新",
+        "organization": "皖西学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "丁怡雯"
+          },
+          {
+            "name": "陈希"
+          },
+          {
+            "name": "杨博涵"
+          },
+          {
+            "name": "刘清",
+            "role": "coach"
+          },
+          {
+            "name": "刘正余",
+            "role": "coach"
+          }
+        ]
+      },
+      "score": {
+        "value": 0,
+        "time": [
+          0,
+          "s"
+        ]
+      },
+      "statuses": [
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": "RJ",
+          "score": 0
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        },
+        {
+          "result": null
+        }
+      ]
+    }
+  ]
+}
