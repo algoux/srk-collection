@@ -265,7 +265,9 @@ function resolveIncrementalTargets({ dir, fileMap, changedFiles }) {
 
     const uniqueKey = filePathToKey.get(changedFile);
     if (!uniqueKey) {
-      console.warn(`Changed srk file ${changedFile} is not referenced by ${dir}/config.yaml, skipping`);
+      console.warn(
+        `Changed srk file ${changedFile} is not referenced by ${dir}/config.yaml, skipping`,
+      );
       continue;
     }
 
@@ -377,7 +379,9 @@ async function syncRank(file, options) {
       );
       await fs.writeFile(tempFilePath, file.fileContent);
       const uploadForm = new FormData();
-      uploadForm.append('file', fs.createReadStream(tempFilePath));
+      uploadForm.append('file', fs.createReadStream(tempFilePath), {
+        filename: path.basename(file.filePath),
+      });
       const { body: uploadRes } = await taskRequest.post('file/upload', {
         body: uploadForm,
         responseType: 'json',
