@@ -317,7 +317,22 @@
         "id": "1030014244",
         "name": "兄弟们不要再凹了",
         "organization": "重庆市第一中学校",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "曹杨弋航"
+          },
+          {
+            "name": "段凯迪"
+          },
+          {
+            "name": "李杭"
+          },
+          {
+            "name": "余波",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 10,
@@ -583,7 +598,22 @@
         "id": "1030014054",
         "name": "我们被traverse爆杀了",
         "organization": "重庆市第一中学校",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "梁睿宸"
+          },
+          {
+            "name": "倪宇梒"
+          },
+          {
+            "name": "洪子杰"
+          },
+          {
+            "name": "余波",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 10,
@@ -1550,7 +1580,18 @@
         "id": "1030014170",
         "name": "见泷原中学校队",
         "organization": "南宁市第二中学、浙江省江山中学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "刘浙闽"
+          },
+          {
+            "name": "李天朗"
+          },
+          {
+            "name": "商铭朗"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -14136,7 +14177,22 @@
         "id": "1030014237",
         "name": "摸摸鱼",
         "organization": "重庆市第一中学校",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "胡容与"
+          },
+          {
+            "name": "冯晟豪"
+          },
+          {
+            "name": "王博文"
+          },
+          {
+            "name": "余波",
+            "role": "coach"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21012,6 +21068,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄辰龙"
+          },
+          {
+            "name": "刘天一"
+          },
+          {
+            "name": "陈宇夏"
+          },
+          {
+            "name": "陆春酉",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -27028,6 +27099,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "余和喆"
+          },
+          {
+            "name": "陈伟鑫"
+          },
+          {
+            "name": "邵卿桓"
+          },
+          {
+            "name": "童孟军",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -27171,6 +27257,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "郭庆"
+          },
+          {
+            "name": "陈优彬"
+          },
+          {
+            "name": "林子健"
+          },
+          {
+            "name": "万德焕",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -27672,6 +27773,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈林清"
+          },
+          {
+            "name": "魏文坚"
+          },
+          {
+            "name": "程志康"
+          },
+          {
+            "name": "刘美玲",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -27912,6 +28028,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "毕嘉骏"
+          },
+          {
+            "name": "邹珂琳"
+          },
+          {
+            "name": "刘悦童"
+          },
+          {
+            "name": "廖媛媛",
+            "role": "coach"
+          },
+          {
+            "name": "秦鹏",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -28100,6 +28235,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王昕磊"
+          },
+          {
+            "name": "吴玉海"
+          },
+          {
+            "name": "莫树生"
+          },
+          {
+            "name": "易云飞",
+            "role": "coach"
+          },
+          {
+            "name": "施运应",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -28215,6 +28369,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "古思浪"
+          },
+          {
+            "name": "梁耀藩"
+          },
+          {
+            "name": "玉谨铭"
+          },
+          {
+            "name": "何金花",
+            "role": "coach"
+          },
+          {
+            "name": "凌嘉宣",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -28494,6 +28667,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "马选桐"
+          },
+          {
+            "name": "葛昊诚"
+          },
+          {
+            "name": "黄华灏"
+          },
+          {
+            "name": "何金花",
+            "role": "coach"
+          },
+          {
+            "name": "刘建华",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -28602,6 +28794,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄华馨"
+          },
+          {
+            "name": "石文钦"
+          },
+          {
+            "name": "谢光耀"
+          },
+          {
+            "name": "尹今士",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -28724,6 +28931,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "郑政祺"
+          },
+          {
+            "name": "崖志福"
+          },
+          {
+            "name": "李鑫祥"
+          },
+          {
+            "name": "付尧",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -28860,6 +29082,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "董健豪"
+          },
+          {
+            "name": "刘志锋"
+          },
+          {
+            "name": "袁聪捷"
+          },
+          {
+            "name": "李文凤",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -28996,6 +29233,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "郭禹鑫"
+          },
+          {
+            "name": "谭礼鹏"
+          },
+          {
+            "name": "梁富厚"
+          },
+          {
+            "name": "钟友坤",
+            "role": "coach"
+          },
+          {
+            "name": "唐鹏",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -29111,6 +29367,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "聂楚洪"
+          },
+          {
+            "name": "黄日超"
+          },
+          {
+            "name": "李天成"
+          },
+          {
+            "name": "葛丽娜",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -29268,6 +29539,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈维福"
+          },
+          {
+            "name": "韦月庆"
+          },
+          {
+            "name": "李鸿运"
+          },
+          {
+            "name": "张桂芬",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -29418,6 +29704,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "尹梓良"
+          },
+          {
+            "name": "王巍"
+          },
+          {
+            "name": "贡金栋"
+          },
+          {
+            "name": "熊青青",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -29547,6 +29848,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王昕磊"
+          },
+          {
+            "name": "吴玉海"
+          },
+          {
+            "name": "莫树生"
+          },
+          {
+            "name": "易云飞",
+            "role": "coach"
+          },
+          {
+            "name": "施运应",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -29686,6 +30006,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李政贤"
+          },
+          {
+            "name": "程和健"
+          },
+          {
+            "name": "胡宗铭"
+          },
+          {
+            "name": "王子民",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -29846,6 +30181,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "何永锋"
+          },
+          {
+            "name": "陈帅"
+          },
+          {
+            "name": "张卫平"
+          },
+          {
+            "name": "吴娟",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -30175,6 +30525,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "潘昊"
+          },
+          {
+            "name": "黄小慧"
+          },
+          {
+            "name": "农阳晨"
+          },
+          {
+            "name": "梁志勋",
+            "role": "coach"
+          },
+          {
+            "name": "赵家祺",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -30593,6 +30962,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张晓阳"
+          },
+          {
+            "name": "谭烜佳"
+          },
+          {
+            "name": "刘树峰"
+          },
+          {
+            "name": "秦川",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -30701,6 +31085,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "彭凯乐"
+          },
+          {
+            "name": "徐泽坤"
+          },
+          {
+            "name": "邓磊"
+          },
+          {
+            "name": "王子民",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -31211,6 +31610,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄薪璋"
+          },
+          {
+            "name": "潘琦"
+          },
+          {
+            "name": "陈锡辉"
+          },
+          {
+            "name": "敬超",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -31333,6 +31747,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘紫萱"
+          },
+          {
+            "name": "李思甜"
+          },
+          {
+            "name": "郑博诚"
+          },
+          {
+            "name": "万德焕",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -31631,6 +32060,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "韦轶舜"
+          },
+          {
+            "name": "覃家强"
+          },
+          {
+            "name": "伍千欢"
+          },
+          {
+            "name": "刘琨",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -31802,6 +32246,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "覃汉林"
+          },
+          {
+            "name": "陈浩毅"
+          },
+          {
+            "name": "苏敏君"
+          },
+          {
+            "name": "张红军",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -31928,6 +32387,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陶政桥"
+          },
+          {
+            "name": "付裕彬"
+          },
+          {
+            "name": "莫远海"
+          },
+          {
+            "name": "林彬",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -32081,6 +32555,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李朝阳"
+          },
+          {
+            "name": "邹嘉宇"
+          },
+          {
+            "name": "苏琮宝"
+          },
+          {
+            "name": "梁晓萍",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -32238,6 +32727,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄铭宇"
+          },
+          {
+            "name": "郑海军"
+          },
+          {
+            "name": "蒋华俐"
+          },
+          {
+            "name": "封全喜",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -33012,6 +33516,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘滨瑞"
+          },
+          {
+            "name": "黄柄豪"
+          },
+          {
+            "name": "卢东榆"
+          },
+          {
+            "name": "谢晓兰",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -33445,6 +33964,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "张宇豪"
+          },
+          {
+            "name": "冯钰航"
+          },
+          {
+            "name": "赖臣霖"
+          },
+          {
+            "name": "侯睿",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -33619,6 +34153,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "周煊宸"
+          },
+          {
+            "name": "谢宗炫"
+          },
+          {
+            "name": "梁洛铭"
+          },
+          {
+            "name": "周龙",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -33762,6 +34311,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "王嘉诚"
+          },
+          {
+            "name": "吴劭鹏"
+          },
+          {
+            "name": "郭明贺"
+          },
+          {
+            "name": "范海菊",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -33992,6 +34556,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王颖沛"
+          },
+          {
+            "name": "邓锦众"
+          },
+          {
+            "name": "符琪"
+          },
+          {
+            "name": "王晓亮",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -34170,6 +34749,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "李扬扬"
+          },
+          {
+            "name": "袁愈权"
+          },
+          {
+            "name": "李华生"
+          },
+          {
+            "name": "张红军",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -34362,6 +34956,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "文涛"
+          },
+          {
+            "name": "蔡鑫研"
+          },
+          {
+            "name": "张焜明"
+          },
+          {
+            "name": "何金花",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -34582,6 +35191,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "曾梓峻"
+          },
+          {
+            "name": "徐海健"
+          },
+          {
+            "name": "林暄"
+          },
+          {
+            "name": "何金花",
+            "role": "coach"
+          },
+          {
+            "name": "刘建华",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -34704,6 +35332,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "莫子航"
+          },
+          {
+            "name": "周六平"
+          },
+          {
+            "name": "许森勇"
+          },
+          {
+            "name": "黄振桂",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -34862,6 +35505,21 @@
         "markers": [
           "undergraduate",
           "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "张佳欣"
+          },
+          {
+            "name": "胡渝小"
+          },
+          {
+            "name": "程韵妮"
+          },
+          {
+            "name": "戴智鹏",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -35033,6 +35691,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "吴兴华"
+          },
+          {
+            "name": "伦家宝"
+          },
+          {
+            "name": "陈讯煌"
+          },
+          {
+            "name": "陈万盛",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -35166,6 +35839,21 @@
         "official": true,
         "markers": [
           "invitational"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄智源"
+          },
+          {
+            "name": "赖奕文"
+          },
+          {
+            "name": "杨宇彬"
+          },
+          {
+            "name": "陈坚强",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -35375,6 +36063,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "徐广媛"
+          },
+          {
+            "name": "伍思彭"
+          },
+          {
+            "name": "潘越熙"
+          },
+          {
+            "name": "韦若皓",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -35525,6 +36228,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "林清华"
+          },
+          {
+            "name": "韦骏飞"
+          },
+          {
+            "name": "张琳"
+          },
+          {
+            "name": "邓昀",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -35661,6 +36379,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "程思诺"
+          },
+          {
+            "name": "林裕清"
+          },
+          {
+            "name": "程冠铭"
+          },
+          {
+            "name": "卢艳梅",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -35811,6 +36544,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "文孙贤"
+          },
+          {
+            "name": "韦俊宇"
+          },
+          {
+            "name": "李承泽"
+          },
+          {
+            "name": "黄云峰",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -35989,6 +36737,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "邓印"
+          },
+          {
+            "name": "吴名扬"
+          },
+          {
+            "name": "覃健"
+          },
+          {
+            "name": "覃春芳",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -36160,6 +36923,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "卢予鸿"
+          },
+          {
+            "name": "赵纹羽"
+          },
+          {
+            "name": "陈祖峰"
+          },
+          {
+            "name": "张大明",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -36546,6 +37324,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈崇林"
+          },
+          {
+            "name": "刘志金"
+          },
+          {
+            "name": "梁春桐"
+          },
+          {
+            "name": "闫立誉",
+            "role": "coach"
+          },
+          {
+            "name": "张鸿志",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -36693,6 +37490,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "冯嘉伟"
+          },
+          {
+            "name": "赵文春"
+          },
+          {
+            "name": "郑鸿烨"
+          },
+          {
+            "name": "牙大金",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -36868,6 +37680,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "张权"
+          },
+          {
+            "name": "黄佳斌"
+          },
+          {
+            "name": "田景愿"
+          },
+          {
+            "name": "李念桥",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -37032,6 +37859,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "刘育浩"
+          },
+          {
+            "name": "姚古寅"
+          },
+          {
+            "name": "韦振兵"
+          },
+          {
+            "name": "郑羽洁",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -37207,6 +38049,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄志发"
+          },
+          {
+            "name": "谢远豪"
+          },
+          {
+            "name": "陆尚日"
+          },
+          {
+            "name": "张红军",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -37469,6 +38326,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "徐柳艺"
+          },
+          {
+            "name": "张荣思"
+          },
+          {
+            "name": "季航羽"
+          },
+          {
+            "name": "叶植爽",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -37735,6 +38607,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨子琰"
+          },
+          {
+            "name": "王禹珺"
+          },
+          {
+            "name": "刘梓柠"
+          },
+          {
+            "name": "桂欣",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -38160,6 +39047,21 @@
         "markers": [
           "undergraduate",
           "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "孙佳慧"
+          },
+          {
+            "name": "黄佳佳"
+          },
+          {
+            "name": "伍紫莹"
+          },
+          {
+            "name": "龙丹",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -38255,6 +39157,21 @@
         "markers": [
           "undergraduate",
           "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "余秋童"
+          },
+          {
+            "name": "吴娜"
+          },
+          {
+            "name": "班梁蝶"
+          },
+          {
+            "name": "龙丹",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -38570,6 +39487,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "丁炀炀"
+          },
+          {
+            "name": "黄嘉诺"
+          },
+          {
+            "name": "曹鑫晨"
+          },
+          {
+            "name": "苏会卫",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -38853,6 +39785,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈俊宇"
+          },
+          {
+            "name": "何宇泽"
+          },
+          {
+            "name": "陈品均"
+          },
+          {
+            "name": "叶植爽",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -39017,6 +39964,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨士辉"
+          },
+          {
+            "name": "覃志读"
+          },
+          {
+            "name": "黄天水"
+          },
+          {
+            "name": "杨小梅",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -39160,6 +40122,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "彭德林"
+          },
+          {
+            "name": "郭晶"
+          },
+          {
+            "name": "杨恩"
+          },
+          {
+            "name": "付尧",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -39303,6 +40280,17 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "周攀廷"
+          },
+          {
+            "name": "罗予涵"
+          },
+          {
+            "name": "马雍涵"
+          }
         ]
       },
       "score": {
@@ -39421,6 +40409,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "李康乐"
+          },
+          {
+            "name": "叶睿哲"
+          },
+          {
+            "name": "刘奕江"
+          },
+          {
+            "name": "黄长茂",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -39598,6 +40601,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄洪毅"
+          },
+          {
+            "name": "冯顺宁"
+          },
+          {
+            "name": "凌郭筱布"
+          },
+          {
+            "name": "陆春酉",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -39741,6 +40759,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄祉谕"
+          },
+          {
+            "name": "钟明俊"
+          },
+          {
+            "name": "奉晴"
+          },
+          {
+            "name": "王春利",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -39891,6 +40924,25 @@
         "official": true,
         "markers": [
           "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "杨晋霆"
+          },
+          {
+            "name": "莫天荣"
+          },
+          {
+            "name": "卢凤飞"
+          },
+          {
+            "name": "陈柳羽",
+            "role": "coach"
+          },
+          {
+            "name": "宁雪梅",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40014,6 +41066,25 @@
         "markers": [
           "undergraduate",
           "female"
+        ],
+        "teamMembers": [
+          {
+            "name": "曾诗淇"
+          },
+          {
+            "name": "黄秋媚"
+          },
+          {
+            "name": "李克敏"
+          },
+          {
+            "name": "王青青",
+            "role": "coach"
+          },
+          {
+            "name": "袁裕发",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40192,6 +41263,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "王相程"
+          },
+          {
+            "name": "陈蒋兴恺"
+          },
+          {
+            "name": "凌阿伦"
+          },
+          {
+            "name": "卢艳梅",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40331,6 +41417,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "莫凤林"
+          },
+          {
+            "name": "俞岑阳"
+          },
+          {
+            "name": "黄义圣"
+          },
+          {
+            "name": "颜海霞",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40432,6 +41533,25 @@
         "official": true,
         "markers": [
           "hv"
+        ],
+        "teamMembers": [
+          {
+            "name": "黄廷"
+          },
+          {
+            "name": "谭治鑫"
+          },
+          {
+            "name": "任馨悦"
+          },
+          {
+            "name": "李斌",
+            "role": "coach"
+          },
+          {
+            "name": "韦卓典",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40571,6 +41691,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "韦春妮"
+          },
+          {
+            "name": "谢宇豪"
+          },
+          {
+            "name": "韦虹羽"
+          },
+          {
+            "name": "甘昕艳",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40679,6 +41814,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "马千钧"
+          },
+          {
+            "name": "宾炫宇"
+          },
+          {
+            "name": "何勇志"
+          },
+          {
+            "name": "卢艳梅",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40838,6 +41988,21 @@
         "official": true,
         "markers": [
           "pss"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈梓豪"
+          },
+          {
+            "name": "章煜宸"
+          },
+          {
+            "name": "宿豫宁"
+          },
+          {
+            "name": "卢艳梅",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -40963,6 +42128,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "周家玲"
+          },
+          {
+            "name": "何深超"
+          },
+          {
+            "name": "何代涛"
+          },
+          {
+            "name": "姜愉",
+            "role": "coach"
+          },
+          {
+            "name": "刘顺",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -41119,6 +42303,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "廖余禄"
+          },
+          {
+            "name": "赵璞"
+          },
+          {
+            "name": "檀重"
+          },
+          {
+            "name": "胡文君",
+            "role": "coach"
+          },
+          {
+            "name": "梁德赛",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -41218,6 +42421,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "齐耀铭"
+          },
+          {
+            "name": "唐孟婷"
+          },
+          {
+            "name": "韦虹帆"
+          },
+          {
+            "name": "谢志斌",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -41385,6 +42603,21 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "陈亿班"
+          },
+          {
+            "name": "黄涛"
+          },
+          {
+            "name": "郭程瑞"
+          },
+          {
+            "name": "刘锋梅",
+            "role": "coach"
+          }
         ]
       },
       "score": {
@@ -41461,6 +42694,25 @@
         "official": true,
         "markers": [
           "undergraduate"
+        ],
+        "teamMembers": [
+          {
+            "name": "王晓郁"
+          },
+          {
+            "name": "陈灵姝"
+          },
+          {
+            "name": "任君涛"
+          },
+          {
+            "name": "杨悦",
+            "role": "coach"
+          },
+          {
+            "name": "刘鼎立",
+            "role": "coach"
+          }
         ]
       },
       "score": {
