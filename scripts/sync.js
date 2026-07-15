@@ -1,17 +1,28 @@
 const childProcess = require('child_process');
+const crypto = require('crypto');
 const path = require('path');
 const fs = require('fs-extra');
 const os = require('os');
-const got = require('got');
+const util = require('util');
 const { default: PQueue } = require('p-queue');
 const FormData = require('form-data');
 const { parseConfig } = require('./parse');
+const {
+  COLLECTION_NOT_FOUND_CODE,
+  CONTEST_NOT_FOUND_CODE,
+  FILE_NOT_FOUND_CODE,
+  LogicException,
+  assertApiSuccess,
+  createRequest,
+  executeApiRequest,
+  getApiResource,
+} = require('./rankland-v2-api');
 
-const API_PREFIX_URL = 'https://rl-api.algoux.cn/';
+const RANK_MAIN_FILE_CATEGORY = 'RankMain';
 const MAX_RETRIES = 5;
 const MAX_ATTEMPTS = MAX_RETRIES + 1;
 const INITIAL_TIMEOUT_MS = 30000;
-const RETRY_TIMEOUT_STEP_MS = 30000;
+const RETRY_TIMEOUT_STEP_MS = 15000;
 const RETRY_DELAY_MS = 1000;
 const SYNC_CONCURRENCY = 10;
 const MAX_RANK_TASK_REQUESTS = 20;
@@ -47,6 +58,9 @@ function getStatusCode(error) {
 }
 
 function isRetriableError(error) {
+  if (error instanceof LogicException) {
+    return false;
+  }
   const statusCode = getStatusCode(error);
   if ([408, 429, 500, 502, 503, 504].includes(statusCode)) {
     return true;
@@ -100,18 +114,6 @@ async function withRequestRetry(operation, options = {}) {
   throw new RetryExhaustedError(label, MAX_ATTEMPTS, lastError);
 }
 
-function createRequest() {
-  return got.extend({
-    prefixUrl: API_PREFIX_URL,
-    headers: {
-      algoux: process.env.ALGOUX_API_TOKEN,
-    },
-    retry: {
-      limit: 0,
-    },
-  });
-}
-
 function createBoundedRequest(request, options = {}) {
   const logger = options.logger || console;
   const sleepFn = options.sleep || sleep;
@@ -126,10 +128,14 @@ function createBoundedRequest(request, options = {}) {
 
     return withRequestRetry(
       ({ timeout }) =>
-        request[method](url, {
-          ...requestOptions,
-          timeout,
-        }),
+        executeApiRequest(
+          () =>
+            request[method](url, {
+              ...requestOptions,
+              timeout,
+            }),
+          `${method.toUpperCase()} ${url}`,
+        ),
       {
         label: `${method.toUpperCase()} ${url}`,
         logger,
@@ -141,6 +147,7 @@ function createBoundedRequest(request, options = {}) {
   return {
     get: (url, options) => run('get', url, options),
     post: (url, options) => run('post', url, options),
+    patch: (url, options) => run('patch', url, options),
     put: (url, options) => run('put', url, options),
   };
 }
@@ -265,10 +272,7 @@ function resolveIncrementalTargets({ dir, fileMap, changedFiles }) {
 
     const uniqueKey = filePathToKey.get(changedFile);
     if (!uniqueKey) {
-      console.warn(
-        `Changed srk file ${changedFile} is not referenced by ${dir}/config.yaml, skipping`,
-      );
-      continue;
+      throw new Error(`Changed srk file ${changedFile} is not referenced by ${dir}/config.yaml`);
     }
 
     if (!seenRankKeys.has(uniqueKey)) {
@@ -289,11 +293,14 @@ function prepareSyncFile(dir, uniqueKey, fileMapEntry) {
   switch (fileMapEntry.format) {
     case 'srk.json': {
       const fileJson = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      const fileContent = Buffer.from(JSON.stringify(fileJson), 'utf8');
       return {
         uniqueKey,
         name: fileMapEntry.name,
         filePath,
-        fileContent: Buffer.from(JSON.stringify(fileJson), 'utf8'),
+        fileContent,
+        sha256: crypto.createHash('sha256').update(fileContent).digest('hex'),
+        contestMetadata: buildContestMetadata(fileJson, fileMapEntry.name),
       };
     }
     default:
@@ -303,12 +310,85 @@ function prepareSyncFile(dir, uniqueKey, fileMapEntry) {
   }
 }
 
+function buildContestMetadata(srk, name) {
+  if (!srk || typeof srk !== 'object' || Array.isArray(srk)) {
+    throw new Error('Prepare failed: SRK payload must be an object');
+  }
+  const contest = srk.contest;
+  if (!contest || typeof contest !== 'object' || Array.isArray(contest)) {
+    throw new Error('Prepare failed: SRK contest must be an object');
+  }
+
+  return {
+    name,
+    title: normalizeContestTitle(contest.title),
+    startAt: contest.startAt,
+    duration: contest.duration,
+    frozenDuration: contest.frozenDuration ?? null,
+    banner: contest.banner ?? null,
+    refLinks: contest.refLinks ?? null,
+    problems: srk.problems ?? null,
+    markers: srk.markers ?? null,
+    series: srk.series ?? null,
+    sorter: srk.sorter ?? null,
+    contributors: srk.contributors ?? [],
+  };
+}
+
+function normalizeContestTitle(title) {
+  if (typeof title === 'string') {
+    return { fallback: title };
+  }
+  if (!title || typeof title !== 'object' || Array.isArray(title)) {
+    throw new Error('Prepare failed: contest.title must be a string or object');
+  }
+  return title;
+}
+
 function prepareSyncFiles(dir, fileMap, rankKeys) {
   return rankKeys.map((uniqueKey) => prepareSyncFile(dir, uniqueKey, fileMap[uniqueKey]));
 }
 
-function getDryRunFileID(existingFileID) {
-  return existingFileID === undefined ? 'dry-run-file-id' : existingFileID;
+function isReusableRankMainFile(remoteFile, contestId, file) {
+  return Boolean(
+    remoteFile &&
+      remoteFile.contestId === contestId &&
+      remoteFile.category === RANK_MAIN_FILE_CATEGORY &&
+      remoteFile.hashType === 'sha256' &&
+      remoteFile.hashValue === file.sha256,
+  );
+}
+
+function isContestUpToDate(contest, contestMetadata, fileID) {
+  return (
+    contest.srkFileID === fileID &&
+    Object.entries(contestMetadata).every(([key, value]) =>
+      isContestMetadataValueEqual(key, contest[key], value),
+    )
+  );
+}
+
+function isContestMetadataValueEqual(key, actual, expected) {
+  if (key === 'startAt') {
+    const actualTime = Date.parse(actual);
+    const expectedTime = Date.parse(expected);
+    return Number.isFinite(actualTime) && actualTime === expectedTime;
+  }
+  if (key === 'duration' || key === 'frozenDuration') {
+    if (actual === null || expected === null) {
+      return actual === expected;
+    }
+    return durationToSeconds(actual) === durationToSeconds(expected);
+  }
+  return util.isDeepStrictEqual(actual, expected);
+}
+
+function durationToSeconds(duration) {
+  if (!Array.isArray(duration) || duration.length !== 2) {
+    return Number.NaN;
+  }
+  const multipliers = { s: 1, min: 60, h: 3600, d: 86400 };
+  return duration[0] * multipliers[duration[1]];
 }
 
 async function syncRank(file, options) {
@@ -324,53 +404,57 @@ async function syncRank(file, options) {
     });
 
   logger.log(`Syncing rank ${file.uniqueKey}`);
-  const { body: checkRes } = await taskRequest.get(`rank/${file.uniqueKey}`, {
-    responseType: 'json',
-  });
-  if (!checkRes) {
-    throw new Error('Sync failed: no response when checking remote rank');
+  const contestPath = `contests/${encodeURIComponent(file.uniqueKey)}`;
+  const publicContestPath = `public/${contestPath}`;
+  const existingContest = await getApiResource(
+    () => taskRequest.get(publicContestPath, { responseType: 'json' }),
+    CONTEST_NOT_FOUND_CODE,
+    `GET ${publicContestPath}`,
+  );
+
+  if (!existingContest && dryRun) {
+    logger.log(`[dry-run] Would create contest ${file.uniqueKey}`);
+    logger.log(`[dry-run] Would upload file ${file.uniqueKey}`);
+    logger.log(`[dry-run] Would associate file with contest ${file.uniqueKey}`);
+    return;
   }
 
-  let needUpload = true;
-  let isUpsert = false;
-  let fileID = checkRes && checkRes.code === 0 ? checkRes.data.fileID : undefined;
+  let contestId = existingContest && existingContest._id;
+  if (!existingContest) {
+    logger.log('Creating contest', file.uniqueKey);
+    const created = assertApiSuccess(
+      await taskRequest.post('contests', {
+        json: { uk: file.uniqueKey, ...file.contestMetadata, users: [] },
+        responseType: 'json',
+      }),
+      'POST contests',
+    );
+    contestId = created && created._id;
+  }
+  if (!contestId) {
+    throw new Error(`Sync failed: contest ${file.uniqueKey} is missing _id`);
+  }
 
-  if (checkRes.code === 0) {
-    try {
-      const remoteFileContent = await taskRequest.get(`file/download?id=${checkRes.data.fileID}`, {
-        responseType: 'buffer',
-      });
-      if (
-        Buffer.isBuffer(remoteFileContent.body) &&
-        remoteFileContent.body.equals(file.fileContent)
-      ) {
-        logger.log(`Skipped cuz file ${file.uniqueKey} is up to date`);
-        needUpload = false;
-        if (checkRes.data.name === file.name) {
-          logger.log(`Skipped cuz rank ${file.uniqueKey} is up to date`);
-          return;
-        }
-      }
-    } catch (error) {
-      if (!error.response) {
-        throw error;
-      }
-      if (error.response.statusCode !== 404) {
-        throw error;
-      }
+  let fileID = existingContest && existingContest.srkFileID;
+  let reusableFile = false;
+  if (fileID) {
+    const publicFilePath = `public/files/${encodeURIComponent(fileID)}`;
+    const remoteFile = await getApiResource(
+      () => taskRequest.get(publicFilePath, { responseType: 'json' }),
+      FILE_NOT_FOUND_CODE,
+      `GET ${publicFilePath}`,
+    );
+    reusableFile = isReusableRankMainFile(remoteFile, contestId, file);
+    if (reusableFile) {
+      logger.log(`Skipped cuz file ${file.uniqueKey} is up to date`);
+    } else if (!remoteFile) {
       logger.log(`Remote file for ${file.uniqueKey} is missing, upload planned`);
     }
-    isUpsert = true;
-  } else if (checkRes.code !== 11) {
-    throw new Error(
-      `Sync failed: unknown response (code: ${checkRes.code}) when checking remote rank`,
-    );
   }
 
-  if (needUpload) {
+  if (!reusableFile) {
     if (dryRun) {
       logger.log(`[dry-run] Would upload file ${file.uniqueKey}`);
-      fileID = getDryRunFileID(fileID);
     } else {
       logger.log('Uploading file', file.uniqueKey);
       const tempFilePath = path.join(
@@ -379,58 +463,46 @@ async function syncRank(file, options) {
       );
       await fs.writeFile(tempFilePath, file.fileContent);
       const uploadForm = new FormData();
+      uploadForm.append('contestId', contestId);
+      uploadForm.append('category', RANK_MAIN_FILE_CATEGORY);
       uploadForm.append('file', fs.createReadStream(tempFilePath), {
         filename: path.basename(file.filePath),
       });
-      const { body: uploadRes } = await taskRequest.post('file/upload', {
-        body: uploadForm,
-        responseType: 'json',
-      });
-      if (!(uploadRes && uploadRes.code === 0)) {
-        logger.error('Upload failed:', uploadRes);
-        throw new Error('Sync failed: unexpected response when uploading file');
+      const uploaded = assertApiSuccess(
+        await taskRequest.post('files', {
+          body: uploadForm,
+          responseType: 'json',
+        }),
+        'POST files',
+      );
+      fileID = uploaded && uploaded.id;
+      if (!fileID) {
+        throw new Error('Sync failed: file upload response is missing data.id');
       }
-      fileID = uploadRes.data.id;
     }
   }
 
-  if (!isUpsert) {
-    if (dryRun) {
-      logger.log(`[dry-run] Would create rank ${file.uniqueKey}`);
-      return;
-    }
-    logger.log('Creating rank', file.uniqueKey);
-    const { body: createRes } = await taskRequest.post('rank', {
-      json: {
-        uniqueKey: file.uniqueKey,
-        name: file.name,
-        fileID,
-      },
-      responseType: 'json',
-    });
-    if (!(createRes && createRes.code === 0)) {
-      logger.error('Create rank failed:', createRes);
-      throw new Error('Sync failed: unexpected response when creating rank');
-    }
-  } else {
-    if (dryRun) {
-      logger.log(`[dry-run] Would update rank ${file.uniqueKey}`);
-      return;
-    }
-    logger.log('Updating rank', file.uniqueKey);
-    const { body: updateRes } = await taskRequest.put(`rank/${checkRes.data.id}`, {
-      json: {
-        uniqueKey: file.uniqueKey,
-        name: file.name,
-        fileID,
-      },
-      responseType: 'json',
-    });
-    if (!(updateRes && updateRes.code === 0)) {
-      logger.error('Update rank failed:', updateRes);
-      throw new Error('Sync failed: unexpected response when updating rank');
-    }
+  if (dryRun) {
+    logger.log(`[dry-run] Would associate file with contest ${file.uniqueKey}`);
+    return;
   }
+  if (
+    existingContest &&
+    reusableFile &&
+    isContestUpToDate(existingContest, file.contestMetadata, fileID)
+  ) {
+    logger.log(`Skipped cuz rank ${file.uniqueKey} is up to date`);
+    return;
+  }
+
+  logger.log('Updating contest', file.uniqueKey);
+  assertApiSuccess(
+    await taskRequest.patch(contestPath, {
+      json: { ...file.contestMetadata, srkFileID: fileID },
+      responseType: 'json',
+    }),
+    `PATCH ${contestPath}`,
+  );
 }
 
 async function syncCollection(dir, config, options) {
@@ -443,54 +515,39 @@ async function syncCollection(dir, config, options) {
   });
 
   logger.log('Syncing collection', dir);
-  const { body: checkCollectionRes } = await taskRequest.get(`rank/group/${dir}`, {
-    responseType: 'json',
-  });
-  if (!checkCollectionRes) {
-    throw new Error('Sync failed: no response when checking remote collection');
-  }
+  const collectionPath = `collections/${encodeURIComponent(dir)}`;
+  const publicCollectionPath = `public/${collectionPath}`;
+  const existingCollection = await getApiResource(
+    () => taskRequest.get(publicCollectionPath, { responseType: 'json' }),
+    COLLECTION_NOT_FOUND_CODE,
+    `GET ${publicCollectionPath}`,
+  );
 
-  if (checkCollectionRes.code === 0) {
+  if (existingCollection) {
     if (dryRun) {
       logger.log(`[dry-run] Would update collection ${dir}`);
       return;
     }
     logger.log('Updating collection', dir);
-    const { body: updateCollectionRes } = await taskRequest.put(
-      `rank/group/${checkCollectionRes.data.id}`,
-      {
-        json: {
-          name: config.name,
-          content: JSON.stringify(config),
-        },
+    assertApiSuccess(
+      await taskRequest.patch(collectionPath, {
+        json: { content: config },
         responseType: 'json',
-      },
+      }),
+      `PATCH ${collectionPath}`,
     );
-    if (!(updateCollectionRes && updateCollectionRes.code === 0)) {
-      logger.error('Update collection failed:', updateCollectionRes);
-      throw new Error('Sync failed: unexpected response when updating collection');
-    }
-  } else if (checkCollectionRes.code === 11) {
+  } else {
     if (dryRun) {
       logger.log(`[dry-run] Would create collection ${dir}`);
       return;
     }
     logger.log('Creating collection', dir);
-    const { body: createCollectionRes } = await taskRequest.post('rank/group', {
-      json: {
-        uniqueKey: dir,
-        name: dir,
-        content: JSON.stringify(config),
-      },
-      responseType: 'json',
-    });
-    if (!(createCollectionRes && createCollectionRes.code === 0)) {
-      logger.error('Create collection failed:', createCollectionRes);
-      throw new Error('Sync failed: unexpected response when creating collection');
-    }
-  } else {
-    throw new Error(
-      `Sync failed: unknown response (code: ${checkCollectionRes.code}) when checking remote collection`,
+    assertApiSuccess(
+      await taskRequest.post('collections', {
+        json: { uk: dir, content: config },
+        responseType: 'json',
+      }),
+      'POST collections',
     );
   }
 }
@@ -615,7 +672,7 @@ async function main(argv = process.argv.slice(2)) {
     return;
   }
 
-  if (!process.env.ALGOUX_API_TOKEN) {
+  if (!process.env.RL_API_AUTH_TOKEN) {
     console.warn('No API token provided. Sync may fail');
   }
 
@@ -633,8 +690,10 @@ if (require.main === module) {
 
 module.exports = {
   RetryExhaustedError,
+  buildContestMetadata,
   canUseIncrementalDiff,
   createBoundedRequest,
+  createRequest,
   getChangedFiles,
   getRequestTimeoutMs,
   isRetriableError,

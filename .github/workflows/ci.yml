@@ -44,4 +44,4 @@ jobs:
       - run: npm ci --production
       - run: npm run sync -- official --changed-from "${{ steps.last-success.outputs.sha }}" --changed-to "${{ github.event.workflow_run.head_sha }}"
         env:
-          ALGOUX_API_TOKEN: ${{ secrets.ALGOUX_API_TOKEN }}
+          RL_API_AUTH_TOKEN: ${{ secrets.RL_API_AUTH_TOKEN }}
