@@ -211,10 +211,42 @@
   "rows": [
     {
       "user": {
-        "name": "西交21队(xjtu team 21)",
+        "name": {
+          "zh-CN": "西交21队",
+          "fallback": "xjtu team 21"
+        },
         "id": "ytDAbFRs",
-        "organization": "minstdfx training center",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "茯茶猫训练中心",
+          "fallback": "minstdfx training center"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "方亦晨",
+              "fallback": "Yichen Fang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈儒恒",
+              "fallback": "Ruheng Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "殷嘉鹏",
+              "fallback": "Jiapeng Yin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "殷嘉鹏",
+              "fallback": "殷嘉鹏"
+            },
+            "role": "coach"
+          }
+        ],
         "official": false,
         "location": "P02",
         "x_photo": "ytDAbFRs.jpg"
@@ -590,10 +622,42 @@
     },
     {
       "user": {
-        "name": "ptr(ptr)",
+        "name": {
+          "zh-CN": "ptr",
+          "fallback": "ptr"
+        },
         "id": "cceBrrgJ",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈子谦",
+              "fallback": "Ziqian Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨一帆",
+              "fallback": "Yifan Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "栾家骏",
+              "fallback": "Jiajun Luan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": false,
         "location": "C03",
         "x_photo": "cceBrrgJ.jpg"
@@ -876,10 +940,42 @@
     },
     {
       "user": {
-        "name": "忆月葬雪(Bury Snow)",
+        "name": {
+          "zh-CN": "忆月葬雪",
+          "fallback": "Bury Snow"
+        },
         "id": "8CSfuoPa",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "安俊杰",
+              "fallback": "Junjie An"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "蒋宏烨",
+              "fallback": "Hongye Jiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "顾舜天",
+              "fallback": "Shuntian Gu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘阳洋",
+              "fallback": "刘阳洋"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -1089,10 +1185,42 @@
     },
     {
       "user": {
-        "name": "风起星月明，鹰翔九重天(As High As Honor)",
+        "name": {
+          "zh-CN": "风起星月明，鹰翔九重天",
+          "fallback": "As High As Honor"
+        },
         "id": "hABgc9bV",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈俊睿",
+              "fallback": "Junrui Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王骏杰",
+              "fallback": "Junjie Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "洪龙颖",
+              "fallback": "Longying Hong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -1309,10 +1437,42 @@
     },
     {
       "user": {
-        "name": "这是一个ACM队(This is an ACM team)",
+        "name": {
+          "zh-CN": "这是一个ACM队",
+          "fallback": "This is an ACM team"
+        },
         "id": "3iWhhQnW",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张未艾",
+              "fallback": "Weiai Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王奕尧",
+              "fallback": "Yiyao Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈骏翔",
+              "fallback": "Junxiang Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -1615,10 +1775,42 @@
     },
     {
       "user": {
-        "name": "憧憬成为算法少女(Gushing over Programming Girls)",
+        "name": {
+          "zh-CN": "憧憬成为算法少女",
+          "fallback": "Gushing over Programming Girls"
+        },
         "id": "shydSm2H",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "甘云帆",
+              "fallback": "Yunfan Gan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘雨萱",
+              "fallback": "Yuxuan Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "钟礼恩",
+              "fallback": "Lien Zhong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -1900,10 +2092,42 @@
     },
     {
       "user": {
-        "name": "代码尖兵(Code Command)",
+        "name": {
+          "zh-CN": "代码尖兵",
+          "fallback": "Code Command"
+        },
         "id": "EtbFbxgy",
-        "organization": "Engineering University of PAP",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "武警工程大学",
+          "fallback": "Engineering University of PAP"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "唐天翼",
+              "fallback": "TianYi Tang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曾可行",
+              "fallback": "KeXing Zeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈佳俊",
+              "fallback": "JiaJun Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "石林",
+              "fallback": "石林"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -2143,10 +2367,42 @@
     },
     {
       "user": {
-        "name": "不知道起什么就不起了吧(Untitled World)",
+        "name": {
+          "zh-CN": "不知道起什么就不起了吧",
+          "fallback": "Untitled World"
+        },
         "id": "K8vqZzkF",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李维逸",
+              "fallback": "Weiyi Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王皓文",
+              "fallback": "Haowen Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈智",
+              "fallback": "Zhi Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -2384,10 +2640,42 @@
     },
     {
       "user": {
-        "name": "死者苏生(Rebirth)",
+        "name": {
+          "zh-CN": "死者苏生",
+          "fallback": "Rebirth"
+        },
         "id": "hhabMvLY",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "于文卓",
+              "fallback": "Wenzhuo Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "钟煜宸",
+              "fallback": "Yuchen Zhong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱子铭",
+              "fallback": "ziming zhu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -2641,10 +2929,42 @@
     },
     {
       "user": {
-        "name": "琪露诺与喵喵藜的最后n舞(Yet Another n Contests Cirno & BaiLi_nya Participate)",
+        "name": {
+          "zh-CN": "琪露诺与喵喵藜的最后n舞",
+          "fallback": "Yet Another n Contests Cirno & BaiLi_nya Participate"
+        },
         "id": "ZyAJ9A7V",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "毋至晨",
+              "fallback": "Zhichen Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "薛浩坤",
+              "fallback": "Haokun Xue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵旭东",
+              "fallback": "Xudong Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张庆生",
+              "fallback": "张庆生"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -2886,10 +3206,42 @@
     },
     {
       "user": {
-        "name": "D.D.D.(D.D.D.)",
+        "name": {
+          "zh-CN": "D.D.D.",
+          "fallback": "D.D.D."
+        },
         "id": "oBQJS7jL",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吴语",
+              "fallback": "Yu Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "严诚治",
+              "fallback": "Chengzhi Yan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "武守恒",
+              "fallback": "Shouheng Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -3136,10 +3488,42 @@
     },
     {
       "user": {
-        "name": "马兰比吉(Murrumbidgee)",
+        "name": {
+          "zh-CN": "马兰比吉",
+          "fallback": "Murrumbidgee"
+        },
         "id": "ieYiDcbm",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang'an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "钱麦曲",
+              "fallback": "Maiqu Qian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "龙炜枫",
+              "fallback": "Weifeng Long"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "冯瀚文",
+              "fallback": "Hanwen Feng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -3384,10 +3768,42 @@
     },
     {
       "user": {
-        "name": "阿比斯深渊(Abyss)",
+        "name": {
+          "zh-CN": "阿比斯深渊",
+          "fallback": "Abyss"
+        },
         "id": "QBKWQKPs",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄知远",
+              "fallback": "Zhiyuan Huang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕昊临",
+              "fallback": "Haolin Lv"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "欧阳家杰",
+              "fallback": "Jiajie Ouyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -3625,10 +4041,42 @@
     },
     {
       "user": {
-        "name": "本人正在面向全社会征集一个中文队名和晚饭吃什么(Girls Band Compiler)",
+        "name": {
+          "zh-CN": "本人正在面向全社会征集一个中文队名和晚饭吃什么",
+          "fallback": "Girls Band Compiler"
+        },
         "id": "kVj89xUo",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "许佳骏",
+              "fallback": "Jiajun Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张煦家",
+              "fallback": "Xujia Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "缪凯昕",
+              "fallback": "Kaixin Miao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -4009,10 +4457,42 @@
     },
     {
       "user": {
-        "name": "青春xatu本科会不会梦到suda研究生(Would a XATU undergrad dream of a SUDA master？)",
+        "name": {
+          "zh-CN": "青春xatu本科会不会梦到suda研究生",
+          "fallback": "Would a XATU undergrad dream of a SUDA master？"
+        },
         "id": "MBLXjtXu",
-        "organization": "Xi'an Technological University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安工业大学",
+          "fallback": "Xi'an Technological University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "肖若航",
+              "fallback": "RuoHang Xiao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "肖兴隃",
+              "fallback": "Xingyu Xiao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓琦文",
+              "fallback": "Qiwen Deng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘宝龙",
+              "fallback": "刘宝龙"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -4285,10 +4765,42 @@
     },
     {
       "user": {
-        "name": "奶龙勇者不会梦见丢失挚爱的sofefree玩偶，到了洛克王国就要拿出真本事成名录(The Milk Dragon Hero Doesn't Dream of His Lost Beloved Sofefree: The Rise to Fame in Roco Kingdom.)",
+        "name": {
+          "zh-CN": "奶龙勇者不会梦见丢失挚爱的sofefree玩偶，到了洛克王国就要拿出真本事成名录",
+          "fallback": "The Milk Dragon Hero Doesn't Dream of His Lost Beloved Sofefree: The Rise to Fame in Roco Kingdom."
+        },
         "id": "TS8S9365",
-        "organization": "Xi'an Technological University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安工业大学",
+          "fallback": "Xi'an Technological University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨忠浩",
+              "fallback": "Zhonghao Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王伟",
+              "fallback": "Wei Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "施昺琛",
+              "fallback": "Bingchen Shi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵莉",
+              "fallback": "赵莉"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -4542,10 +5054,42 @@
     },
     {
       "user": {
-        "name": "三个火枪手-v2(The Three Musketeer_V2)",
+        "name": {
+          "zh-CN": "三个火枪手-v2",
+          "fallback": "The Three Musketeer_V2"
+        },
         "id": "x6kyTWLZ",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi’an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "谢宇焜",
+              "fallback": "Yukun Xie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘锦山",
+              "fallback": "Jinshan Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王启源",
+              "fallback": "Qiyuan Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -4781,10 +5325,42 @@
     },
     {
       "user": {
-        "name": "神秘力量(Mysterious Power)",
+        "name": {
+          "zh-CN": "神秘力量",
+          "fallback": "Mysterious Power"
+        },
         "id": "4HsCUZDN",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张益诚",
+              "fallback": "Yicheng Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "晏鹏昊",
+              "fallback": "Penghao Yan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马铭源",
+              "fallback": "Mingyuan Ma"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -4987,10 +5563,42 @@
     },
     {
       "user": {
-        "name": "绝世神M(Unrivaled Divine M)",
+        "name": {
+          "zh-CN": "绝世神M",
+          "fallback": "Unrivaled Divine M"
+        },
         "id": "XPFQhUGu",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张国豪",
+              "fallback": "Guohao Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "苏杭",
+              "fallback": "Hang Su"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郑智中",
+              "fallback": "Zhizhong Zheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗雪梅",
+              "fallback": "罗雪梅"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -5191,10 +5799,42 @@
     },
     {
       "user": {
-        "name": "时间超限(Time Limit Exceeded)",
+        "name": {
+          "zh-CN": "时间超限",
+          "fallback": "Time Limit Exceeded"
+        },
         "id": "5jUXvimJ",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "童中延",
+              "fallback": "ZhongYan Tong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹一言",
+              "fallback": "Yiyan Cao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "靳淇盛",
+              "fallback": "Qisheng Jin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王德奎",
+              "fallback": "王德奎"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -5467,10 +6107,42 @@
     },
     {
       "user": {
-        "name": "关注队友不迷路谢谢喵(Subscribe My Teammates Thanks Miao)",
+        "name": {
+          "zh-CN": "关注队友不迷路谢谢喵",
+          "fallback": "Subscribe My Teammates Thanks Miao"
+        },
         "id": "fj4eRJFv",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "韩邦泽",
+              "fallback": "Bangze Han"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李世铭",
+              "fallback": "Shiming Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘烨",
+              "fallback": "Ye Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -5748,10 +6420,42 @@
     },
     {
       "user": {
-        "name": "杭电0队(HDU-T00)",
+        "name": {
+          "zh-CN": "杭电0队",
+          "fallback": "HDU-T00"
+        },
         "id": "yYuchNxk",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "洪怀博",
+              "fallback": "HuaiBo Hong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈奕玮",
+              "fallback": "Yiwei Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邓思哲",
+              "fallback": "Sizhe Deng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -6029,10 +6733,42 @@
     },
     {
       "user": {
-        "name": "总湿摇篮(No Water and Power Unity)",
+        "name": {
+          "zh-CN": "总湿摇篮",
+          "fallback": "No Water and Power Unity"
+        },
         "id": "DZakSVdb",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郭浩然",
+              "fallback": "Haoran Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄奕轩",
+              "fallback": "Yixuan Huang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王梓恒",
+              "fallback": "Ziheng Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -6226,10 +6962,42 @@
     },
     {
       "user": {
-        "name": "蛙库蛙库(#include<wa.h>)",
+        "name": {
+          "zh-CN": "蛙库蛙库",
+          "fallback": "#include<wa.h>"
+        },
         "id": "BEdXxvhL",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "曾海滨",
+              "fallback": "Haibin Zeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐子凌",
+              "fallback": "Ziling Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵浩锦",
+              "fallback": "Haojin Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "万波",
+              "fallback": "万波"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -6467,10 +7235,42 @@
     },
     {
       "user": {
-        "name": "组一辈子ACM队(Acmmujika)",
+        "name": {
+          "zh-CN": "组一辈子ACM队",
+          "fallback": "Acmmujika"
+        },
         "id": "kGPGpesf",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李梓祺",
+              "fallback": "Ziqi Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡轩玮",
+              "fallback": "Xuanwei Hu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "应豪",
+              "fallback": "Hao Ying"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -6715,10 +7515,42 @@
     },
     {
       "user": {
-        "name": "永久拉黑CJR出题组(CJR BLACK FAN CLUB)",
+        "name": {
+          "zh-CN": "永久拉黑CJR出题组",
+          "fallback": "CJR BLACK FAN CLUB"
+        },
         "id": "4RdVoyzo",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邹文定",
+              "fallback": "Wending Zou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王翼天",
+              "fallback": "Yitian Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李鑫皓",
+              "fallback": "Xinhao Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "万波",
+              "fallback": "万波"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -7047,10 +7879,42 @@
     },
     {
       "user": {
-        "name": "勇敢牛牛(brave cow)",
+        "name": {
+          "zh-CN": "勇敢牛牛",
+          "fallback": "brave cow"
+        },
         "id": "eT8P7znM",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陆华飞",
+              "fallback": "Huafei Lu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "余丁宸睿",
+              "fallback": "Dingchenrui Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭锦程",
+              "fallback": "Jincheng Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -7302,10 +8166,42 @@
     },
     {
       "user": {
-        "name": "紧闭的恋之瞳(Perfect Mind Control)",
+        "name": {
+          "zh-CN": "紧闭的恋之瞳",
+          "fallback": "Perfect Mind Control"
+        },
         "id": "EH8FVyQF",
-        "organization": "Xi'an Eurasia University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安欧亚学院",
+          "fallback": "Xi'an Eurasia University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "林川翔",
+              "fallback": "Chuanxiang Lin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张亦豪",
+              "fallback": "Yihao Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨宇航",
+              "fallback": "Yuhang Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张⽂胜",
+              "fallback": "张⽂胜"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -7527,10 +8423,42 @@
     },
     {
       "user": {
-        "name": "手打代码猪猪不会变成龙虾炸掉电脑(Not claw but pig)",
+        "name": {
+          "zh-CN": "手打代码猪猪不会变成龙虾炸掉电脑",
+          "fallback": "Not claw but pig"
+        },
         "id": "Qqm9fDZa",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杜振东",
+              "fallback": "Zhendong Du"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王嘉轩",
+              "fallback": "Jiaxuan Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐颢恺",
+              "fallback": "Haokai Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -7801,10 +8729,42 @@
     },
     {
       "user": {
-        "name": "暴力导致罚时爆炸(TLE?RE?AC)",
+        "name": {
+          "zh-CN": "暴力导致罚时爆炸",
+          "fallback": "TLE?RE?AC"
+        },
         "id": "QtUePW9y",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "蒙禹龙",
+              "fallback": "Yulong Meng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高源",
+              "fallback": "Yuan Gao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "魏尚华",
+              "fallback": "Shanghua Wei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -8191,10 +9151,42 @@
     },
     {
       "user": {
-        "name": "我依然是世一a批(I'm still the world's biggest A fan)",
+        "name": {
+          "zh-CN": "我依然是世一a批",
+          "fallback": "I'm still the world's biggest A fan"
+        },
         "id": "5R2xiqhq",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "勾治华",
+              "fallback": "Zhihua Gou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵紫轩",
+              "fallback": "ZiXuan Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "左祖光",
+              "fallback": "Zuoguang Zuo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -8430,10 +9422,42 @@
     },
     {
       "user": {
-        "name": "Any Ideas(Any Ideas)",
+        "name": {
+          "zh-CN": "Any Ideas",
+          "fallback": "Any Ideas"
+        },
         "id": "7EHd6b8A",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "田旃",
+              "fallback": "Zhan Tian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "蔡思博",
+              "fallback": "Sibo Cai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "温智杰",
+              "fallback": "Zhijie Wen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -8646,10 +9670,42 @@
     },
     {
       "user": {
-        "name": "三年又三年(Three years on end)",
+        "name": {
+          "zh-CN": "三年又三年",
+          "fallback": "Three years on end"
+        },
         "id": "UXLW2pJW",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "贾濡源",
+              "fallback": "RuyuanJia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "田霁阳",
+              "fallback": "Jiyang Tian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "苏子清",
+              "fallback": "ZiqingSu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张庆生",
+              "fallback": "张庆生"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -8857,10 +9913,42 @@
     },
     {
       "user": {
-        "name": "取名真是麻烦(Naming is a hassle)",
+        "name": {
+          "zh-CN": "取名真是麻烦",
+          "fallback": "Naming is a hassle"
+        },
         "id": "P7qrTQUt",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "盛夏润",
+              "fallback": "Xiarun Sheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "屈弋卓",
+              "fallback": "Yizhuo Qu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "石峻瑞",
+              "fallback": "Junrui Shi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -9124,10 +10212,42 @@
     },
     {
       "user": {
-        "name": "线段树上长麦当劳(Crocodile Never Eat McDonald's)",
+        "name": {
+          "zh-CN": "线段树上长麦当劳",
+          "fallback": "Crocodile Never Eat McDonald's"
+        },
         "id": "P54dc7mj",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵欣颖",
+              "fallback": "Xinying Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴若晗",
+              "fallback": "Ruohan Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢黎涛",
+              "fallback": "Litao Xie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -9342,10 +10462,42 @@
     },
     {
       "user": {
-        "name": "电铸币(electricity makes coins)",
+        "name": {
+          "zh-CN": "电铸币",
+          "fallback": "electricity makes coins"
+        },
         "id": "QZEzAJvZ",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵勃翔",
+              "fallback": "Boxiang Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹润初",
+              "fallback": "Runchu Cao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宋文博",
+              "fallback": "Wenbo Song"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -9567,10 +10719,42 @@
     },
     {
       "user": {
-        "name": "BY.小羊驼(Code Wizards)",
+        "name": {
+          "zh-CN": "BY.小羊驼",
+          "fallback": "Code Wizards"
+        },
         "id": "uhUgyqHJ",
-        "organization": "Xi’an Innovation College of Yan’an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "延安大学西安创新学院",
+          "fallback": "Xi’an Innovation College of Yan’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨拓丹",
+              "fallback": "Tuodan Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘长磊",
+              "fallback": "Changlei Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "辛萌",
+              "fallback": "Meng Xin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林俊逸",
+              "fallback": "林俊逸"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -9808,10 +10992,42 @@
     },
     {
       "user": {
-        "name": "来财(LaiCai)",
+        "name": {
+          "zh-CN": "来财",
+          "fallback": "LaiCai"
+        },
         "id": "txJMmi3V",
-        "organization": "Xi`an University Of Science And Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安科技大学",
+          "fallback": "Xi`an University Of Science And Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李姜帅",
+              "fallback": "Shuai LiJiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗元",
+              "fallback": "yuan Luo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "袁伯琦",
+              "fallback": "Boqi Yuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "史晓楠",
+              "fallback": "史晓楠"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -10052,10 +11268,42 @@
     },
     {
       "user": {
-        "name": "CF乞丐(Green name in CF)",
+        "name": {
+          "zh-CN": "CF乞丐",
+          "fallback": "Green name in CF"
+        },
         "id": "KqTfMCCH",
-        "organization": "Xi'an University of technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安理工大学",
+          "fallback": "Xi'an University of technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "袁振扬",
+              "fallback": "Zhenyang Yuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姚竣喆",
+              "fallback": "Junzhe Yao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王佳斌",
+              "fallback": "Jiabin Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "柳宇",
+              "fallback": "柳宇"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -10291,10 +11539,42 @@
     },
     {
       "user": {
-        "name": "icpc官网帧率不如原神(icpc offcial)",
+        "name": {
+          "zh-CN": "icpc官网帧率不如原神",
+          "fallback": "icpc offcial"
+        },
         "id": "VCdQQiVT",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "蔡祺峰",
+              "fallback": "Qifeng Cai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "龚城圩",
+              "fallback": "Chengxu Gong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "寻真",
+              "fallback": "Zhen Xun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -10595,10 +11875,42 @@
     },
     {
       "user": {
-        "name": "洛克王国只玩胖猫(fat cat)",
+        "name": {
+          "zh-CN": "洛克王国只玩胖猫",
+          "fallback": "fat cat"
+        },
         "id": "NsNT2vxV",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "马鑫城",
+              "fallback": "Xincheng Ma"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘修和",
+              "fallback": "Xiuhe Pan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "石瑶",
+              "fallback": "Yao Shi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -10846,10 +12158,42 @@
     },
     {
       "user": {
-        "name": "风与天空(Windsky)",
+        "name": {
+          "zh-CN": "风与天空",
+          "fallback": "Windsky"
+        },
         "id": "U7HMMD4U",
-        "organization": "Xi'an University of technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安理工大学",
+          "fallback": "Xi'an University of technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "周杨",
+              "fallback": "Yang Zhou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "齐思远",
+              "fallback": "Siyuan Qi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李明泽",
+              "fallback": "Mingze Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "柳宇",
+              "fallback": "柳宇"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -11120,10 +12464,42 @@
     },
     {
       "user": {
-        "name": "古法编程非遗传承人(Classic Codekeepers)",
+        "name": {
+          "zh-CN": "古法编程非遗传承人",
+          "fallback": "Classic Codekeepers"
+        },
         "id": "HHVx8wfP",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi’an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "毕少康",
+              "fallback": "Shaokang Bi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "柴金榜",
+              "fallback": "Jinbang Chai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "白骏",
+              "fallback": "Jun Bai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -11322,10 +12698,42 @@
     },
     {
       "user": {
-        "name": "鸣潮拯救世界(Wuthering Waves Save The World)",
+        "name": {
+          "zh-CN": "鸣潮拯救世界",
+          "fallback": "Wuthering Waves Save The World"
+        },
         "id": "sXsg8JGz",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "叶韫韩",
+              "fallback": "Yunhan Ye"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "肖放",
+              "fallback": "Xiao Fang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谭意铭",
+              "fallback": "Yiming Tan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -11638,10 +13046,42 @@
     },
     {
       "user": {
-        "name": "玩原神玩的队(GenshinImpacted)",
+        "name": {
+          "zh-CN": "玩原神玩的队",
+          "fallback": "GenshinImpacted"
+        },
         "id": "ut3mL7oC",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "熊昌睿",
+              "fallback": "Changrui Xiong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高卓然",
+              "fallback": "Zhuoran Gao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "彭友志",
+              "fallback": "Youzhi Peng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -11928,10 +13368,42 @@
     },
     {
       "user": {
-        "name": "糖凹凸脑(Take a team name)",
+        "name": {
+          "zh-CN": "糖凹凸脑",
+          "fallback": "Take a team name"
+        },
         "id": "RWyVmBtU",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi’an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄铭伟",
+              "fallback": "Mingwei Huang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "武浩森",
+              "fallback": "Haosen Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "蔡锦涛",
+              "fallback": "Jintao Cai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -12258,10 +13730,42 @@
     },
     {
       "user": {
-        "name": "金牌汪汪队(Gold Medal Woof Team)",
+        "name": {
+          "zh-CN": "金牌汪汪队",
+          "fallback": "Gold Medal Woof Team"
+        },
         "id": "hVmmvwD8",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "魏佳程",
+              "fallback": "JiaCheng Wei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘定杰",
+              "fallback": "Dingjie Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐灿",
+              "fallback": "Can Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张庆生",
+              "fallback": "张庆生"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -12488,10 +13992,42 @@
     },
     {
       "user": {
-        "name": "嘻小癫学院超自研(XDU Occult Research Society)",
+        "name": {
+          "zh-CN": "嘻小癫学院超自研",
+          "fallback": "XDU Occult Research Society"
+        },
         "id": "U57VTnG8",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张力文",
+              "fallback": "Liwen Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "童彦闽",
+              "fallback": "Yanmin Tong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周佳暄",
+              "fallback": "Jiaxuan Zhou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -12753,10 +14289,42 @@
     },
     {
       "user": {
-        "name": "蛋仔派队(Egg Boys)",
+        "name": {
+          "zh-CN": "蛋仔派队",
+          "fallback": "Egg Boys"
+        },
         "id": "bPDEXWPH",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi’an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "金湛",
+              "fallback": "Zhan Jin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张家浩",
+              "fallback": "Jiahao Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王彦喆",
+              "fallback": "Yanzhe Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -13027,10 +14595,42 @@
     },
     {
       "user": {
-        "name": "加载失败(Failed to load)",
+        "name": {
+          "zh-CN": "加载失败",
+          "fallback": "Failed to load"
+        },
         "id": "3bwBGFug",
-        "organization": "Xi'an University of technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安理工大学",
+          "fallback": "Xi'an University of technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "苗永贵",
+              "fallback": "Yonggui Miao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘建军",
+              "fallback": "Jianjun Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "兀佩星",
+              "fallback": "Peixing Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵金伟",
+              "fallback": "赵金伟"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -13294,10 +14894,42 @@
     },
     {
       "user": {
-        "name": "你是凑企鹅你是凑企鹅你是谁呀(Symphony Limit Exceeded)",
+        "name": {
+          "zh-CN": "你是凑企鹅你是凑企鹅你是谁呀",
+          "fallback": "Symphony Limit Exceeded"
+        },
         "id": "HJyxtPMt",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "栗子轩",
+              "fallback": "Zixuan Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周剑鑫",
+              "fallback": "Jianxin Zhou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗浩铭",
+              "fallback": "Haoming Luo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张庆生",
+              "fallback": "张庆生"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -13556,10 +15188,42 @@
     },
     {
       "user": {
-        "name": "冯诺依曼派VS图灵派(Turing or von Neumann)",
+        "name": {
+          "zh-CN": "冯诺依曼派VS图灵派",
+          "fallback": "Turing or von Neumann"
+        },
         "id": "ZJn6ExNp",
-        "organization": "Shaanxi University of Science and Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西科技大学",
+          "fallback": "Shaanxi University of Science and Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "崔宇乐",
+              "fallback": "Yule Cui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张浩杰",
+              "fallback": "Zhang Hao Jie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "何科航",
+              "fallback": "Kehang He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕舒",
+              "fallback": "吕舒"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -13779,10 +15443,42 @@
     },
     {
       "user": {
-        "name": "豪到你了小妹妹(FlexOnYouShawty)",
+        "name": {
+          "zh-CN": "豪到你了小妹妹",
+          "fallback": "FlexOnYouShawty"
+        },
         "id": "YaDBNUAV",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "薛思宇",
+              "fallback": "Siyu Xue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "顾梓骞",
+              "fallback": "Ziqian Gu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高琦",
+              "fallback": "Qi Gao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "段毅",
+              "fallback": "段毅"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -14122,10 +15818,42 @@
     },
     {
       "user": {
-        "name": "星芒(XHZ Nova)",
+        "name": {
+          "zh-CN": "星芒",
+          "fallback": "XHZ Nova"
+        },
         "id": "ZPxUgXQP",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "许明虎",
+              "fallback": "Minghu Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩韬",
+              "fallback": "Tao Han"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张宇睿",
+              "fallback": "Yurui Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -14324,10 +16052,42 @@
     },
     {
       "user": {
-        "name": "哈基米难买绿勾(AlwaysBeManbo)",
+        "name": {
+          "zh-CN": "哈基米难买绿勾",
+          "fallback": "AlwaysBeManbo"
+        },
         "id": "nohuTzzV",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "程嘉乐",
+              "fallback": "Jiale Cheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "魏子珺",
+              "fallback": "Zijun Wei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李昊燃",
+              "fallback": "Haoran Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -14533,10 +16293,42 @@
     },
     {
       "user": {
-        "name": "三军听令(npu1)",
+        "name": {
+          "zh-CN": "三军听令",
+          "fallback": "npu1"
+        },
         "id": "WKmyXzR5",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "冉鑫鹏",
+              "fallback": "XinPeng Ran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杜仕铭",
+              "fallback": "Shiming Du"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李欣蔚",
+              "fallback": "Xinwei Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -14812,10 +16604,42 @@
     },
     {
       "user": {
-        "name": "芝麻开门(AC Automation)",
+        "name": {
+          "zh-CN": "芝麻开门",
+          "fallback": "AC Automation"
+        },
         "id": "3yTy68p5",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi’an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "朱黄锴",
+              "fallback": "Huangkai Zhu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈佃铭",
+              "fallback": "Jasper Tan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高佳城",
+              "fallback": "Jiacheng Gao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -15161,10 +16985,42 @@
     },
     {
       "user": {
-        "name": "哈基米大人求带飞(Lord Hakimi, carry me!)",
+        "name": {
+          "zh-CN": "哈基米大人求带飞",
+          "fallback": "Lord Hakimi, carry me!"
+        },
         "id": "WJxJ2ee6",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵嘉琪",
+              "fallback": "Jiaqi Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "俞斌",
+              "fallback": "Bin Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏思雨",
+              "fallback": "Siyu Xia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗雪梅",
+              "fallback": "罗雪梅"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -15412,10 +17268,42 @@
     },
     {
       "user": {
-        "name": "我真球(ple ac e)",
+        "name": {
+          "zh-CN": "我真球",
+          "fallback": "ple ac e"
+        },
         "id": "Dw6PLWXx",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi’an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吴悠",
+              "fallback": "You Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "程宇泽",
+              "fallback": "Yuze Cheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张钰浩",
+              "fallback": "Yuhao Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -15635,10 +17523,42 @@
     },
     {
       "user": {
-        "name": "幸运星(Lucky star)",
+        "name": {
+          "zh-CN": "幸运星",
+          "fallback": "Lucky star"
+        },
         "id": "3vT2cZCe",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "贺一恒",
+              "fallback": "Yiheng He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "姚学成",
+              "fallback": "Xuecheng Yao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张杰丞",
+              "fallback": "Jiecheng Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -15835,10 +17755,42 @@
     },
     {
       "user": {
-        "name": "老九农final(AgricultureNineFinal)",
+        "name": {
+          "zh-CN": "老九农final",
+          "fallback": "AgricultureNineFinal"
+        },
         "id": "wJxCq9Da",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "窦维嘉",
+              "fallback": "Weijia Dou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "段昊辰",
+              "fallback": "Haochen Duan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李彤",
+              "fallback": "Tong Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -16107,10 +18059,42 @@
     },
     {
       "user": {
-        "name": "我也可以AC吗？(Can I Also AC?)",
+        "name": {
+          "zh-CN": "我也可以AC吗？",
+          "fallback": "Can I Also AC?"
+        },
         "id": "c4iikfNq",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李志伟",
+              "fallback": "Zhiwei Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨梵宇",
+              "fallback": "Fanyu Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "岳明轩",
+              "fallback": "Mingxuan Yue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邢雅琼",
+              "fallback": "邢雅琼"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -16293,10 +18277,42 @@
     },
     {
       "user": {
-        "name": "望和好(look and good )",
+        "name": {
+          "zh-CN": "望和好",
+          "fallback": "look and good"
+        },
         "id": "Kzw4uf3k",
-        "organization": "Xi'an University of technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安理工大学",
+          "fallback": "Xi'an University of technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郝韵",
+              "fallback": "Yun Hao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王畅",
+              "fallback": "Chang Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "何泊杭",
+              "fallback": "BoHang He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "柳宇",
+              "fallback": "柳宇"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -16493,10 +18509,42 @@
     },
     {
       "user": {
-        "name": "AAA省赛不打铁分队(AAA Provincial Non-zero Iron Team)",
+        "name": {
+          "zh-CN": "AAA省赛不打铁分队",
+          "fallback": "AAA Provincial Non-zero Iron Team"
+        },
         "id": "bKxRAixF",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王海涵",
+              "fallback": "Haihan Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨李",
+              "fallback": "Li Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "金昱丞",
+              "fallback": "Yucheng Jin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "冯筠",
+              "fallback": "冯筠"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -16716,10 +18764,42 @@
     },
     {
       "user": {
-        "name": "西北农林科技大学二队(nwafu2)",
+        "name": {
+          "zh-CN": "西北农林科技大学二队",
+          "fallback": "nwafu2"
+        },
         "id": "TSDwv48a",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郑枫",
+              "fallback": "Feng Zheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨沐辰",
+              "fallback": "Muchen Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩邦远",
+              "fallback": "Bangyuan Han"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -16939,10 +19019,36 @@
     },
     {
       "user": {
-        "name": "999(NIne nine nine)",
+        "name": {
+          "zh-CN": "999",
+          "fallback": "NIne nine nine"
+        },
         "id": "fpY3wmEG",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "但凯羽",
+              "fallback": "Kaiyu Dan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孟祥瑞",
+              "fallback": "Xiangrui MENG"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -17197,10 +19303,42 @@
     },
     {
       "user": {
-        "name": "比赛嘛，最重要的开心(Happer game)",
+        "name": {
+          "zh-CN": "比赛嘛，最重要的开心",
+          "fallback": "Happer game"
+        },
         "id": "e7tNmBEy",
-        "organization": "Xi’an Innovation College of Yan’an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "延安大学西安创新学院",
+          "fallback": "Xi’an Innovation College of Yan’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "闫承翰",
+              "fallback": "Chenghan Yan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "霍楠",
+              "fallback": "Nan Huo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林俊逸",
+              "fallback": "Junyi Lin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴晓晖",
+              "fallback": "吴晓晖"
+            },
+            "role": "coach"
+          }
+        ],
         "official": false,
         "location": "I05",
         "x_photo": "e7tNmBEy.jpg"
@@ -17452,10 +19590,42 @@
     },
     {
       "user": {
-        "name": "重生之我在少班攻略YCGG(Dejavu)",
+        "name": {
+          "zh-CN": "重生之我在少班攻略YCGG",
+          "fallback": "Dejavu"
+        },
         "id": "PFw9qH6n",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "冯奕豪",
+              "fallback": "Feng Yihao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王浩澜",
+              "fallback": "Haolan Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王皓冉",
+              "fallback": "Wang Haoran"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -17689,10 +19859,42 @@
     },
     {
       "user": {
-        "name": "我也要WA吗？又寸(Am I Getting WA? Correct)",
+        "name": {
+          "zh-CN": "我也要WA吗？又寸",
+          "fallback": "Am I Getting WA? Correct"
+        },
         "id": "QDq68kxS",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "袁文杰",
+              "fallback": "Wenjie Yuan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郑博航",
+              "fallback": "Bohang Zheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "梁文硕",
+              "fallback": "Wenshuo Liang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙潇怡",
+              "fallback": "孙潇怡"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -17940,10 +20142,42 @@
     },
     {
       "user": {
-        "name": "青春ACM少年不会遇到蟑螂女仆学姐(The Youth ACM Boy Won't Meet the Cockroach Maid Senior Sister )",
+        "name": {
+          "zh-CN": "青春ACM少年不会遇到蟑螂女仆学姐",
+          "fallback": "The Youth ACM Boy Won't Meet the Cockroach Maid Senior Sister"
+        },
         "id": "rCtkCwZj",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姜奕行",
+              "fallback": "Yihang Jiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "庄宇坤",
+              "fallback": "Yukun Zhuang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "梁朝浩",
+              "fallback": "Chaohao Liang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "段毅",
+              "fallback": "段毅"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -18177,10 +20411,42 @@
     },
     {
       "user": {
-        "name": "忠诚卫士(Faith Sentinel)",
+        "name": {
+          "zh-CN": "忠诚卫士",
+          "fallback": "Faith Sentinel"
+        },
         "id": "wDvEAVoy",
-        "organization": "Engineering University of PAP",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "武警工程大学",
+          "fallback": "Engineering University of PAP"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张宇泽",
+              "fallback": "Yuze Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "雷翔",
+              "fallback": "Xiang Lei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李承轩",
+              "fallback": "Chengxuan Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "宛泉伯",
+              "fallback": "宛泉伯"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -18407,10 +20673,42 @@
     },
     {
       "user": {
-        "name": "温柔通过(Soft AC)",
+        "name": {
+          "zh-CN": "温柔通过",
+          "fallback": "Soft AC"
+        },
         "id": "93atTeEg",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘钊辰",
+              "fallback": "Zhaochen Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邹铠阳",
+              "fallback": "Kaiyang Zou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王怀一",
+              "fallback": "Huaiyi Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -18665,10 +20963,42 @@
     },
     {
       "user": {
-        "name": " #include <ChatGPT>  ( #include <ChatGPT>  )",
+        "name": {
+          "zh-CN": "#include <ChatGPT>",
+          "fallback": "#include <ChatGPT>"
+        },
         "id": "g9mT3qk3",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "苟枝培",
+              "fallback": "Zhipei Gou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "夏余海",
+              "fallback": "Yuhai Xia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴涛",
+              "fallback": "Tao Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "万波",
+              "fallback": "万波"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -18934,10 +21264,42 @@
     },
     {
       "user": {
-        "name": "Ciallo World!(Ciallo World!)",
+        "name": {
+          "zh-CN": "Ciallo World!",
+          "fallback": "Ciallo World!"
+        },
         "id": "pAZstagJ",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王耀阳",
+              "fallback": "Yaoyang Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "安家睿",
+              "fallback": "Jiarui An"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈宇信",
+              "fallback": "Yuxin Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -19227,10 +21589,42 @@
     },
     {
       "user": {
-        "name": "遇到难回答的问题就不说话了(Mute On Hard)",
+        "name": {
+          "zh-CN": "遇到难回答的问题就不说话了",
+          "fallback": "Mute On Hard"
+        },
         "id": "MkxvSxND",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郭靖芸",
+              "fallback": "jingyun guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗青翔",
+              "fallback": "qingxiang luo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈龚睿",
+              "fallback": "Gongrui Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨建锋",
+              "fallback": "杨建锋"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -19457,10 +21851,42 @@
     },
     {
       "user": {
-        "name": "谜语小丑(Riddle Joker)",
+        "name": {
+          "zh-CN": "谜语小丑",
+          "fallback": "Riddle Joker"
+        },
         "id": "f7KQf6XZ",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "靳浩艺",
+              "fallback": "Haoyi Jin"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘浩宇",
+              "fallback": "Haoyu Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "田若辰",
+              "fallback": "Ruochen Tian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "万波",
+              "fallback": "万波"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -19743,10 +22169,42 @@
     },
     {
       "user": {
-        "name": "我们有铁牌(Excalibur)",
+        "name": {
+          "zh-CN": "我们有铁牌",
+          "fallback": "Excalibur"
+        },
         "id": "eEghwTmE",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "罗日鑫",
+              "fallback": "Rixin Luo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "何骏驰",
+              "fallback": "Junchi He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "乐开迪",
+              "fallback": "Kaidi Le"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -19978,10 +22436,42 @@
     },
     {
       "user": {
-        "name": "众神眷恋的幻想乡(The Gensokyo the Gods Loved)",
+        "name": {
+          "zh-CN": "众神眷恋的幻想乡",
+          "fallback": "The Gensokyo the Gods Loved"
+        },
         "id": "Aifa4bnB",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邵嘉豪",
+              "fallback": "Jiahao Shao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭知宇",
+              "fallback": "Zhiyu Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王彦淞",
+              "fallback": "Yansong Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -20185,10 +22675,42 @@
     },
     {
       "user": {
-        "name": "萘陇队(nailoong)",
+        "name": {
+          "zh-CN": "萘陇队",
+          "fallback": "nailoong"
+        },
         "id": "kJsxgXC7",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姜欣宇",
+              "fallback": "JIANG XINYU"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李冰洁",
+              "fallback": "BingJie Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "向远",
+              "fallback": "yuan xiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -20452,10 +22974,42 @@
     },
     {
       "user": {
-        "name": "圣碧希纳(SanPisina)",
+        "name": {
+          "zh-CN": "圣碧希纳",
+          "fallback": "SanPisina"
+        },
         "id": "JMLMCmeW",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李修齐",
+              "fallback": "Xiuqi Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李文奇",
+              "fallback": "Wenqi Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨杰",
+              "fallback": "Jie Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -20659,10 +23213,42 @@
     },
     {
       "user": {
-        "name": "WA物语(Thr Story of WA)",
+        "name": {
+          "zh-CN": "WA物语",
+          "fallback": "Thr Story of WA"
+        },
         "id": "Z5xWWMp4",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吴宜放",
+              "fallback": "Yifang Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "江俊宇",
+              "fallback": "Junyu Jiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李岳桓",
+              "fallback": "Yuehuan Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -20903,10 +23489,42 @@
     },
     {
       "user": {
-        "name": "纳豆拌饭(NatooRice)",
+        "name": {
+          "zh-CN": "纳豆拌饭",
+          "fallback": "NatooRice"
+        },
         "id": "wupaX3TL",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王鲲",
+              "fallback": "Kun Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "索梓恒",
+              "fallback": "Ziheng Suo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "余寒顺",
+              "fallback": "Hanshun Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -21147,10 +23765,42 @@
     },
     {
       "user": {
-        "name": "调试试试就过(Debug Try Try AC)",
+        "name": {
+          "zh-CN": "调试试试就过",
+          "fallback": "Debug Try Try AC"
+        },
         "id": "Xv3hBUoB",
-        "organization": "Xi'an Technological University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安工业大学",
+          "fallback": "Xi'an Technological University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "褚泽涵",
+              "fallback": "Zehan Chu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许佳瑞",
+              "fallback": "Jiarui Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "祝程",
+              "fallback": "Cheng Zhu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘宝龙",
+              "fallback": "刘宝龙"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -21349,10 +23999,42 @@
     },
     {
       "user": {
-        "name": "原野之区(maggots on the field)",
+        "name": {
+          "zh-CN": "原野之区",
+          "fallback": "maggots on the field"
+        },
         "id": "jHKSFrH2",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang'an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张子博",
+              "fallback": "Zibo Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邱哲涵",
+              "fallback": "Zhehan Qiu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵祉睿",
+              "fallback": "Zhirui Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -21607,10 +24289,42 @@
     },
     {
       "user": {
-        "name": "笔电男大，豪到你了吗?是嘉豪14是31切保持手感是蹦蹦跳跳是英文播报是打身子算马枪(kskbl？zdjd)",
+        "name": {
+          "zh-CN": "笔电男大，豪到你了吗?是嘉豪14是31切保持手感是蹦蹦跳跳是英文播报是打身子算马枪",
+          "fallback": "kskbl？zdjd"
+        },
         "id": "U3sB752k",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王永政",
+              "fallback": "Yongzheng Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈明坤",
+              "fallback": "Mingkun Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "叶锦鸿",
+              "fallback": "Jinhong Ye"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -21823,10 +24537,42 @@
     },
     {
       "user": {
-        "name": "云上未央(huh)",
+        "name": {
+          "zh-CN": "云上未央",
+          "fallback": "huh"
+        },
         "id": "DUd6xfEU",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang'an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李幸",
+              "fallback": "Xing Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "童歌",
+              "fallback": "Ge Tong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王超",
+              "fallback": "Chao Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -22014,10 +24760,42 @@
     },
     {
       "user": {
-        "name": "111_CntSheep(111_CntSheep)",
+        "name": {
+          "zh-CN": "111_CntSheep",
+          "fallback": "111_CntSheep"
+        },
         "id": "KapLLDjQ",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郭湄潭",
+              "fallback": "Meitan Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "何雨轩",
+              "fallback": "Yuxuan He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡志昂",
+              "fallback": "Zhiang Hu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -22214,10 +24992,42 @@
     },
     {
       "user": {
-        "name": "思路对了就是队(Idea right is right)",
+        "name": {
+          "zh-CN": "思路对了就是队",
+          "fallback": "Idea right is right"
+        },
         "id": "QLn7iL8A",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘冠宇",
+              "fallback": "YuGuan Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马宇涛",
+              "fallback": "TaoYu Ma"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "边玉顺",
+              "fallback": "ShunYu Bian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张庆生",
+              "fallback": "张庆生"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -22435,10 +25245,42 @@
     },
     {
       "user": {
-        "name": "奶龙妈妈团(Nailoong's mothers)",
+        "name": {
+          "zh-CN": "奶龙妈妈团",
+          "fallback": "Nailoong's mothers"
+        },
         "id": "rjNpVgas",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王佳琳",
+              "fallback": "Jialin Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘郑语",
+              "fallback": "Zhengyu Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王珩宇",
+              "fallback": "Hengyu Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -22656,10 +25498,42 @@
     },
     {
       "user": {
-        "name": "昼夜恒星落在每页窗外永恒永远(Eternal stars of day and night rest at every window, forever and always)",
+        "name": {
+          "zh-CN": "昼夜恒星落在每页窗外永恒永远",
+          "fallback": "Eternal stars of day and night rest at every window, forever and always"
+        },
         "id": "muLf4PwD",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张雨涵",
+              "fallback": "Yuhan Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴艺莹",
+              "fallback": "Yiying Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "毛英灿",
+              "fallback": "Yingcan Mao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -22886,10 +25760,42 @@
     },
     {
       "user": {
-        "name": "1-2-4-8-16-32(1-2-4-8-16-32)",
+        "name": {
+          "zh-CN": "1-2-4-8-16-32",
+          "fallback": "1-2-4-8-16-32"
+        },
         "id": "tq8SWEQQ",
-        "organization": "Northwestern Polytechnical University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北工业大学",
+          "fallback": "Northwestern Polytechnical University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "涂思亮",
+              "fallback": "Siliang Tu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "白昊明",
+              "fallback": "Haoming Bai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴天烨",
+              "fallback": "Tianye Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘君瑞",
+              "fallback": "刘君瑞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -23114,10 +26020,42 @@
     },
     {
       "user": {
-        "name": "下等马分界线队(Lower Horse Boundary)",
+        "name": {
+          "zh-CN": "下等马分界线队",
+          "fallback": "Lower Horse Boundary"
+        },
         "id": "CyrufnBQ",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "Xidian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨陈卓",
+              "fallback": "Chenzhuo Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张云辉",
+              "fallback": "Yunhui Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孙睿一",
+              "fallback": "Ruiyi Sun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "万波",
+              "fallback": "万波"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -23307,10 +26245,42 @@
     },
     {
       "user": {
-        "name": "无足鸟(FHZ-martlet)",
+        "name": {
+          "zh-CN": "无足鸟",
+          "fallback": "FHZ-martlet"
+        },
         "id": "QMXUxwdC",
-        "organization": "Xi’an Innovation College of Yan’an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "延安大学西安创新学院",
+          "fallback": "Xi’an Innovation College of Yan’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "何一豪",
+              "fallback": "Yihao He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "付强怡",
+              "fallback": "Qiang yi Fu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张博超",
+              "fallback": "Bochao Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林俊逸",
+              "fallback": "林俊逸"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -23521,10 +26491,42 @@
     },
     {
       "user": {
-        "name": "咕咕嘎嘎(gugugaga)",
+        "name": {
+          "zh-CN": "咕咕嘎嘎",
+          "fallback": "gugugaga"
+        },
         "id": "RL3pG22G",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "赵国",
+              "fallback": "Guo Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李晨",
+              "fallback": "Chen Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "钟承轩",
+              "fallback": "Chengxuan Zhong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨建锋",
+              "fallback": "杨建锋"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -23765,10 +26767,42 @@
     },
     {
       "user": {
-        "name": "闯红灯(InitialStory)",
+        "name": {
+          "zh-CN": "闯红灯",
+          "fallback": "InitialStory"
+        },
         "id": "FyVcbxXR",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "冯澳垲",
+              "fallback": "Aokai Feng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘榕煜",
+              "fallback": "Rongyu Pan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘家正",
+              "fallback": "Jiazheng Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -24035,10 +27069,42 @@
     },
     {
       "user": {
-        "name": "我这是读研读的我不是贞德菜（恩师卡尔）(I'm not vegetable（mentor Carl）)",
+        "name": {
+          "zh-CN": "我这是读研读的我不是贞德菜（恩师卡尔）",
+          "fallback": "I'm not vegetable（mentor Carl）"
+        },
         "id": "2YCMYUxu",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi’an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄潇",
+              "fallback": "XIao Huang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李佳杰",
+              "fallback": "Jiajie Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李思成",
+              "fallback": "Sicheng Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -24335,10 +27401,42 @@
     },
     {
       "user": {
-        "name": "关闭交流电(OpenAC)",
+        "name": {
+          "zh-CN": "关闭交流电",
+          "fallback": "OpenAC"
+        },
         "id": "TSapfGdE",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "谭松林",
+              "fallback": "Songlin Tan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈铎文",
+              "fallback": "Duowen Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吉天睿",
+              "fallback": "Tianrui Ji"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -24607,10 +27705,42 @@
     },
     {
       "user": {
-        "name": "打铁就退学组乐队(xsyu_team1)",
+        "name": {
+          "zh-CN": "打铁就退学组乐队",
+          "fallback": "xsyu_team1"
+        },
         "id": "whkExZjG",
-        "organization": "Xi’an Shiyou University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安石油大学",
+          "fallback": "Xi’an Shiyou University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "马浩宇",
+              "fallback": "Haoyu Ma"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "万展瑜",
+              "fallback": "Zhanyu Wan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周燕萍",
+              "fallback": "Yanping Zhou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢蓉蓉",
+              "fallback": "谢蓉蓉"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -24833,10 +27963,42 @@
     },
     {
       "user": {
-        "name": "绝不认输(Never Give Up)",
+        "name": {
+          "zh-CN": "绝不认输",
+          "fallback": "Never Give Up"
+        },
         "id": "L4aaFVEL",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈锦江",
+              "fallback": "JinJiang Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "钱锦程",
+              "fallback": "Jincheng Qian"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄林凯",
+              "fallback": "Linkai Huang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -25112,10 +28274,42 @@
     },
     {
       "user": {
-        "name": "秦汉1(Qinhan1)",
+        "name": {
+          "zh-CN": "秦汉1",
+          "fallback": "Qinhan1"
+        },
         "id": "52QmMFNZ",
-        "organization": "Xizang Minzu University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西藏民族大学",
+          "fallback": "Xizang Minzu University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张硕",
+              "fallback": "Shuo Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李术",
+              "fallback": "Shu Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "石亿恒",
+              "fallback": "Yiheng Shi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许立",
+              "fallback": "许立"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -25305,10 +28499,42 @@
     },
     {
       "user": {
-        "name": "错解其实想AC(WA 1s Want AC)",
+        "name": {
+          "zh-CN": "错解其实想AC",
+          "fallback": "WA 1s Want AC"
+        },
         "id": "6fzwtwmP",
-        "organization": "Airforce Engineering University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "空军工程大学",
+          "fallback": "Airforce Engineering University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "梅峥嵘",
+              "fallback": "Mei Zhengrong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "程一航",
+              "fallback": "yihang cheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "阮蒋杰",
+              "fallback": "Jiangjie Ruan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张红梅",
+              "fallback": "张红梅"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -25591,10 +28817,42 @@
     },
     {
       "user": {
-        "name": "周六时在做什么？有没有空？可以来打ICPC省赛吗？(Saturday? free? ICPC?)",
+        "name": {
+          "zh-CN": "周六时在做什么？有没有空？可以来打ICPC省赛吗？",
+          "fallback": "Saturday? free? ICPC?"
+        },
         "id": "ghZV5AQi",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘子铭",
+              "fallback": "Ziming Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔子函",
+              "fallback": "Zihan Cui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王会晓",
+              "fallback": "Huixiao Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -25837,10 +29095,42 @@
     },
     {
       "user": {
-        "name": "咸师2队(XianYang Normal 2)",
+        "name": {
+          "zh-CN": "咸师2队",
+          "fallback": "XianYang Normal 2"
+        },
         "id": "65qA5tKJ",
-        "organization": "XianYang Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "咸阳师范学院",
+          "fallback": "XianYang Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郗昊轩",
+              "fallback": "Haoxuan Xi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "蔡佳成",
+              "fallback": "Jiacheng Cai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "史梦然",
+              "fallback": "Mengran Shi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴粉侠",
+              "fallback": "吴粉侠"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -26049,10 +29339,42 @@
     },
     {
       "user": {
-        "name": "倒卷天河饮玉虹(VortexSky)",
+        "name": {
+          "zh-CN": "倒卷天河饮玉虹",
+          "fallback": "VortexSky"
+        },
         "id": "6M9FCTpZ",
-        "organization": "Xi'an University of technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安理工大学",
+          "fallback": "Xi'an University of technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "谢量",
+              "fallback": "Liang Xie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "廖臻",
+              "fallback": "Zhen Liao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "汪昳娴",
+              "fallback": "YiXian Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵金伟",
+              "fallback": "赵金伟"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -26342,10 +29664,42 @@
     },
     {
       "user": {
-        "name": "三只羊(three goats)",
+        "name": {
+          "zh-CN": "三只羊",
+          "fallback": "three goats"
+        },
         "id": "Tt6hp9PA",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邓雅议",
+              "fallback": "Yayi Deng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈青泽",
+              "fallback": "Qingze Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘书瑞",
+              "fallback": "Shurui Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -26614,10 +29968,42 @@
     },
     {
       "user": {
-        "name": "不会起名队(Naming Is Hard)",
+        "name": {
+          "zh-CN": "不会起名队",
+          "fallback": "Naming Is Hard"
+        },
         "id": "w45FDowd",
-        "organization": "Xi'an Jiaotong University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安交通大学",
+          "fallback": "Xi'an Jiaotong University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "尚飞扬",
+              "fallback": "Feiyang Shang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "白伟辰",
+              "fallback": "Weichen Bai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马浩理",
+              "fallback": "Haoli Ma"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王龙翔",
+              "fallback": "王龙翔"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -26839,10 +30225,42 @@
     },
     {
       "user": {
-        "name": "拒绝WA大队( Reject WA Legion)",
+        "name": {
+          "zh-CN": "拒绝WA大队",
+          "fallback": "Reject WA Legion"
+        },
         "id": "obKCCuPP",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "余圣安",
+              "fallback": "Shengan Yu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨壹程",
+              "fallback": "Yicheng Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "袁翊",
+              "fallback": "Yuan Yi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -27060,10 +30478,42 @@
     },
     {
       "user": {
-        "name": "隐草(hide on bush)",
+        "name": {
+          "zh-CN": "隐草",
+          "fallback": "hide on bush"
+        },
         "id": "V4upDQry",
-        "organization": "Xi’an Mingde Institute of Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安明德理工学院",
+          "fallback": "Xi’an Mingde Institute of Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘郑鑫",
+              "fallback": "Zhengxin Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "章洋",
+              "fallback": "Yang Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘育博",
+              "fallback": "Yubo Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔岩",
+              "fallback": "崔岩"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -27437,10 +30887,42 @@
     },
     {
       "user": {
-        "name": "西石油icpc宇宙银河无敌战舰(xsyu_team3)",
+        "name": {
+          "zh-CN": "西石油icpc宇宙银河无敌战舰",
+          "fallback": "xsyu_team3"
+        },
         "id": "dX4JjQWV",
-        "organization": "Xi’an Shiyou University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安石油大学",
+          "fallback": "Xi’an Shiyou University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "冯彬洲",
+              "fallback": "Feng Binzhou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李卓阳",
+              "fallback": "Zhuoyang Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨振宇",
+              "fallback": "Zhenyv Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢蓉蓉",
+              "fallback": "谢蓉蓉"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -27658,10 +31140,42 @@
     },
     {
       "user": {
-        "name": "零壹X(ZeroOneX)",
+        "name": {
+          "zh-CN": "零壹X",
+          "fallback": "ZeroOneX"
+        },
         "id": "LfP2YCLV",
-        "organization": "Xidian University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安电子科技大学",
+          "fallback": "XiDian University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "黄玥婷",
+              "fallback": "Yueting Huang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈伟祈",
+              "fallback": "Weiqi Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黄彩莹",
+              "fallback": "Caiying Huang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张淑平",
+              "fallback": "张淑平"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "计算之巅"
@@ -27951,10 +31465,42 @@
     },
     {
       "user": {
-        "name": "该队伍已被标记为AC(AC_Quitted)",
+        "name": {
+          "zh-CN": "该队伍已被标记为AC",
+          "fallback": "AC_Quitted"
+        },
         "id": "ALE7ro7X",
-        "organization": "Xi'an University of technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安理工大学",
+          "fallback": "Xi'an University of technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "党常午",
+              "fallback": "Changwu Dang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李世奇",
+              "fallback": "Shiqi Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张旭东",
+              "fallback": "Xudong Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "蔡欣华",
+              "fallback": "蔡欣华"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -28179,10 +31725,42 @@
     },
     {
       "user": {
-        "name": "虚空(NULL and Void)",
+        "name": {
+          "zh-CN": "虚空",
+          "fallback": "NULL and Void"
+        },
         "id": "yH8uUmEA",
-        "organization": "Northwest A&F University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北农林科技大学",
+          "fallback": "Northwest A&F University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "顾乔木",
+              "fallback": "Qiaomu Gu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "许思远",
+              "fallback": "Siyuan Xv"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈泽旭",
+              "fallback": "Zexu Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "耿耀君",
+              "fallback": "耿耀君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -28409,10 +31987,36 @@
     },
     {
       "user": {
-        "name": "好多区(maggoty)",
+        "name": {
+          "zh-CN": "好多区",
+          "fallback": "maggoty"
+        },
         "id": "vgQV6gud",
-        "organization": "Northwest University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西北大学",
+          "fallback": "Northwest University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "鲁卓越",
+              "fallback": "Zhuoyue Lu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "徐世昆",
+              "fallback": "Shikun Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马于慧",
+              "fallback": "马于慧"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -28630,10 +32234,42 @@
     },
     {
       "user": {
-        "name": "达芬奇的蛋(Da Vinci's Egg)",
+        "name": {
+          "zh-CN": "达芬奇的蛋",
+          "fallback": "Da Vinci's Egg"
+        },
         "id": "3rwNKuSu",
-        "organization": "Xi'an University of technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安理工大学",
+          "fallback": "Xi'an University of technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "韩博文",
+              "fallback": "BoWen Han"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨佳澎",
+              "fallback": "Jiapeng Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周绪波",
+              "fallback": "Xubo Zhou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "蔡欣华",
+              "fallback": "蔡欣华"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -28842,10 +32478,42 @@
     },
     {
       "user": {
-        "name": "棉花娃娃再带我AC一次吧(Help me,FUMOOOOOO!)",
+        "name": {
+          "zh-CN": "棉花娃娃再带我AC一次吧",
+          "fallback": "Help me,FUMOOOOOO!"
+        },
         "id": "fU2Kcrw6",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi’an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "吕承烨",
+              "fallback": "Chengye Lv"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘子璇",
+              "fallback": "Zixuan Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张哲",
+              "fallback": "Zhe Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘春华",
+              "fallback": "潘春华"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -29026,10 +32694,42 @@
     },
     {
       "user": {
-        "name": "大智弱榆(Deagle)",
+        "name": {
+          "zh-CN": "大智弱榆",
+          "fallback": "Deagle"
+        },
         "id": "9xSCL49S",
-        "organization": "YuLin University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "榆林大学",
+          "fallback": "YuLin University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王怡佳",
+              "fallback": "Yijia Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王洋",
+              "fallback": "Yang Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张佳敏",
+              "fallback": "Jiamin Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "田建学",
+              "fallback": "田建学"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -29261,10 +32961,42 @@
     },
     {
       "user": {
-        "name": "兄弟你好香(Hey bro, you smell so good.)",
+        "name": {
+          "zh-CN": "兄弟你好香",
+          "fallback": "Hey bro, you smell so good."
+        },
         "id": "b8KEgZkX",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "倪嘉璟",
+              "fallback": "Jiajing Ni"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贺靖轩",
+              "fallback": "Jingxuan He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "申思颖",
+              "fallback": "SiYing Shen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张庆生",
+              "fallback": "张庆生"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -29517,10 +33249,42 @@
     },
     {
       "user": {
-        "name": "行行行(gogogo)",
+        "name": {
+          "zh-CN": "行行行",
+          "fallback": "gogogo"
+        },
         "id": "HSBTZMFF",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "胡哲源",
+              "fallback": "zheyuan hu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "涂楚航",
+              "fallback": "Chuhang Tu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "黑钰豪",
+              "fallback": "Yehao Hei"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -29687,10 +33451,42 @@
     },
     {
       "user": {
-        "name": "海陆空三栖之家(bird monkey and gugugaga)",
+        "name": {
+          "zh-CN": "海陆空三栖之家",
+          "fallback": "bird monkey and gugugaga"
+        },
         "id": "av76rw9t",
-        "organization": "Xi'an Technological University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安工业大学",
+          "fallback": "Xi'an Technological University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "许竞元",
+              "fallback": "Jingyuan Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘宜骁",
+              "fallback": "Yixiao Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱雨菡",
+              "fallback": "Yuhan Zhu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵莉",
+              "fallback": "赵莉"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -29913,10 +33709,42 @@
     },
     {
       "user": {
-        "name": "嘟嘟可大魔王(Dodoco King of Demons)",
+        "name": {
+          "zh-CN": "嘟嘟可大魔王",
+          "fallback": "Dodoco King of Demons"
+        },
         "id": "y8L95wct",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "贺奥轩",
+              "fallback": "Aoxuan He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢良轶",
+              "fallback": "Liangyi Xie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵家豪",
+              "fallback": "Jiahao Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -30127,10 +33955,42 @@
     },
     {
       "user": {
-        "name": "熊羊猪(Fraxinus)",
+        "name": {
+          "zh-CN": "熊羊猪",
+          "fallback": "Fraxinus"
+        },
         "id": "wDyNDhBS",
-        "organization": "Xi`an University Of Science And Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安科技大学",
+          "fallback": "Xi`an University Of Science And Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨毅恒",
+              "fallback": "Yiheng Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "熊立",
+              "fallback": "Li Xiong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "朱佳乐",
+              "fallback": "JiaLe Zhu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李立红",
+              "fallback": "李立红"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -30362,10 +34222,42 @@
     },
     {
       "user": {
-        "name": "月球区域金(fly me 2 the m0on)",
+        "name": {
+          "zh-CN": "月球区域金",
+          "fallback": "fly me 2 the m0on"
+        },
         "id": "ybDebHzT",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "钟文瀚",
+              "fallback": "Wenhan Zhong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴秦慧",
+              "fallback": "Qinhui Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈锦鸿",
+              "fallback": "Jinhong Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -30567,10 +34459,42 @@
     },
     {
       "user": {
-        "name": "再交一次(submit it again)",
+        "name": {
+          "zh-CN": "再交一次",
+          "fallback": "submit it again"
+        },
         "id": "FTcPWbZg",
-        "organization": "Xi'an Technological University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安工业大学",
+          "fallback": "Xi'an Technological University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张超",
+              "fallback": "Chao Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孔博宣",
+              "fallback": "Boxuan Kong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭家兴",
+              "fallback": "Jiaxing Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵莉",
+              "fallback": "赵莉"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -30788,10 +34712,42 @@
     },
     {
       "user": {
-        "name": "九十六艘小旋风号的船长(The captains of ninety-six Little Whirlwind ships)",
+        "name": {
+          "zh-CN": "九十六艘小旋风号的船长",
+          "fallback": "The captains of ninety-six Little Whirlwind ships"
+        },
         "id": "4z9cEEbu",
-        "organization": "Xi’an Innovation College of Yan’an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "延安大学西安创新学院",
+          "fallback": "Xi’an Innovation College of Yan’an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘庆",
+              "fallback": "Qing Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张泽远",
+              "fallback": "Zeyuan Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "强恩泽",
+              "fallback": "Enze Qiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "林俊逸",
+              "fallback": "林俊逸"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -31044,10 +35000,42 @@
     },
     {
       "user": {
-        "name": "随便起吧(SuiBianQiBa)",
+        "name": {
+          "zh-CN": "随便起吧",
+          "fallback": "SuiBianQiBa"
+        },
         "id": "zmi5JmPL",
-        "organization": "Xi’an Mingde Institute of Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安明德理工学院",
+          "fallback": "Xi’an Mingde Institute of Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "杨阳",
+              "fallback": "Yang Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "乔羽轩",
+              "fallback": "YuXuan Qiao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王雨欣",
+              "fallback": "YuXin Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔岩",
+              "fallback": "崔岩"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -31240,10 +35228,42 @@
     },
     {
       "user": {
-        "name": "复活吧！我的爱人！(no wa no tle ac ac)",
+        "name": {
+          "zh-CN": "复活吧！我的爱人！",
+          "fallback": "no wa no tle ac ac"
+        },
         "id": "PMG6jXQM",
-        "organization": "Airforce Engineering University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "空军工程大学",
+          "fallback": "Airforce Engineering University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "周佳乐",
+              "fallback": "Zhou Jiale"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张家豪",
+              "fallback": "Jiahao Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曹语昕",
+              "fallback": "YuXin Cao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张红梅",
+              "fallback": "张红梅"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -31505,10 +35525,42 @@
     },
     {
       "user": {
-        "name": "贝利亚速通ACM(Beria Express ACM)",
+        "name": {
+          "zh-CN": "贝利亚速通ACM",
+          "fallback": "Beria Express ACM"
+        },
         "id": "JgdRYACi",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "欧阳敬轩",
+              "fallback": "Jingxuan Ouyang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵昊",
+              "fallback": "Hao Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘天煜",
+              "fallback": "Tianyu Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗琪",
+              "fallback": "罗琪"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -31742,10 +35794,42 @@
     },
     {
       "user": {
-        "name": "真的要背水一战了(all in)",
+        "name": {
+          "zh-CN": "真的要背水一战了",
+          "fallback": "all in"
+        },
         "id": "rKsrYE2Z",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "朱轩昊",
+              "fallback": "Xuanhao Zhu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "邹柯",
+              "fallback": "Ke Zou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈家熙",
+              "fallback": "Jiaxi Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张庆生",
+              "fallback": "张庆生"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -32019,10 +36103,42 @@
     },
     {
       "user": {
-        "name": "毫无头绪(xsyu_team2)",
+        "name": {
+          "zh-CN": "毫无头绪",
+          "fallback": "xsyu_team2"
+        },
         "id": "n4xKpHxA",
-        "organization": "Xi’an Shiyou University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安石油大学",
+          "fallback": "Xi’an Shiyou University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孙茹",
+              "fallback": "Ru Su'n"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王佳乐",
+              "fallback": "Jiale Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张星萍",
+              "fallback": "Xingping Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢蓉蓉",
+              "fallback": "谢蓉蓉"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -32210,10 +36326,42 @@
     },
     {
       "user": {
-        "name": "何意味(bugs help bugs)",
+        "name": {
+          "zh-CN": "何意味",
+          "fallback": "bugs help bugs"
+        },
         "id": "pVims8xu",
-        "organization": "Engineering University of PAP",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "武警工程大学",
+          "fallback": "Engineering University of PAP"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "唐子尧",
+              "fallback": "ziyao tang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孟欣妍",
+              "fallback": "XinYan Meng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "向俊涵",
+              "fallback": "junhan xiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "户军茹",
+              "fallback": "户军茹"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -32428,10 +36576,42 @@
     },
     {
       "user": {
-        "name": "可能AC(maybeAC)",
+        "name": {
+          "zh-CN": "可能AC",
+          "fallback": "maybeAC"
+        },
         "id": "vnv6uajq",
-        "organization": "Xi'an University of Architecture and Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安建筑科技大学",
+          "fallback": "Xi'an University of Architecture and Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘弋睿",
+              "fallback": "Yirui Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "郭旭东",
+              "fallback": "Xudong Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王越",
+              "fallback": "Yue Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王可",
+              "fallback": "王可"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -32668,10 +36848,42 @@
     },
     {
       "user": {
-        "name": "全过样例队(AC)",
+        "name": {
+          "zh-CN": "全过样例队",
+          "fallback": "AC"
+        },
         "id": "p46fv3nW",
-        "organization": "Engineering University of PAP",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "武警工程大学",
+          "fallback": "Engineering University of PAP"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "呼嘉皓",
+              "fallback": "Hujia Hao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李茜",
+              "fallback": "Xi Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李玉城",
+              "fallback": "Yucheng Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张闯",
+              "fallback": "张闯"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -32873,10 +37085,42 @@
     },
     {
       "user": {
-        "name": "勇者斗恶龙队(Dragon Quest)",
+        "name": {
+          "zh-CN": "勇者斗恶龙队",
+          "fallback": "Dragon Quest"
+        },
         "id": "9KxgTGto",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "尤一臣",
+              "fallback": "Yichen You"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "巩翔",
+              "fallback": "Xiang Gong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李璐帆",
+              "fallback": "Lufan Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗琪",
+              "fallback": "罗琪"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -33141,10 +37385,42 @@
     },
     {
       "user": {
-        "name": "憧憬成为算法高手队(AlgoAspire)",
+        "name": {
+          "zh-CN": "憧憬成为算法高手队",
+          "fallback": "AlgoAspire"
+        },
         "id": "ojkf5BZb",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郭钊",
+              "fallback": "Zhao Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴天昊",
+              "fallback": "Tianhao Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "字航",
+              "fallback": "Zi Hang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘春华",
+              "fallback": "潘春华"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -33388,10 +37664,42 @@
     },
     {
       "user": {
-        "name": "算法只会暴力(Brute_Force_Team)",
+        "name": {
+          "zh-CN": "算法只会暴力",
+          "fallback": "Brute_Force_Team"
+        },
         "id": "FPpusW2N",
-        "organization": "Xi`an University Of Science And Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安科技大学",
+          "fallback": "Xi`an University Of Science And Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "白瑞阳",
+              "fallback": "Ruiyang Bai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张宁波",
+              "fallback": "NingBuo Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "毕小曼",
+              "fallback": "Xiaoman Bi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "史晓楠",
+              "fallback": "史晓楠"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -33670,10 +37978,42 @@
     },
     {
       "user": {
-        "name": "样例过了就交队(Sample passed,then submit.)",
+        "name": {
+          "zh-CN": "样例过了就交队",
+          "fallback": "Sample passed,then submit."
+        },
         "id": "AkYq5QiL",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孟长青",
+              "fallback": "Changqing Meng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胡景珂",
+              "fallback": "Jingke Hu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢慧琳",
+              "fallback": "Huilin Xie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李云飞",
+              "fallback": "李云飞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -33861,10 +38201,42 @@
     },
     {
       "user": {
-        "name": "我没有ICPC账号(404: ICPC Account Not Found)",
+        "name": {
+          "zh-CN": "我没有ICPC账号",
+          "fallback": "404: ICPC Account Not Found"
+        },
         "id": "DNf3zxkb",
-        "organization": "Xi'an Technological University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安工业大学",
+          "fallback": "Xi'an Technological University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "陈侯成谦",
+              "fallback": "Houchengqian Chen"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李子轩",
+              "fallback": "zixuan li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王名扬",
+              "fallback": "Mingyang Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘宝龙",
+              "fallback": "刘宝龙"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -34114,10 +38486,42 @@
     },
     {
       "user": {
-        "name": "让我们这题做对(Let's Get This Problem Right)",
+        "name": {
+          "zh-CN": "让我们这题做对",
+          "fallback": "Let's Get This Problem Right"
+        },
         "id": "VWcCSkd9",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "何承运",
+              "fallback": "Chengyun He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "龚昌盛",
+              "fallback": "Changsheng Gong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "梁一凡",
+              "fallback": "Yifan Liang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李云飞",
+              "fallback": "李云飞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -34321,10 +38725,42 @@
     },
     {
       "user": {
-        "name": "天道崩塌，我zy²，唯有一剑，可搬山、断江、倒海、降妖、镇魔、敕神、摘星、摧城、开天，剑来！(command divinities)",
+        "name": {
+          "zh-CN": "天道崩塌，我zy²，唯有一剑，可搬山、断江、倒海、降妖、镇魔、敕神、摘星、摧城、开天，剑来！",
+          "fallback": "command divinities"
+        },
         "id": "zTudMs2j",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张洋洋",
+              "fallback": "Yangyang Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张亿轩",
+              "fallback": "Yixuan Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "霍天晟",
+              "fallback": "Tiansheng Huo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张栋",
+              "fallback": "张栋"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -34598,10 +39034,42 @@
     },
     {
       "user": {
-        "name": "关注塔菲喵(focus taffy thanks)",
+        "name": {
+          "zh-CN": "关注塔菲喵",
+          "fallback": "focus taffy thanks"
+        },
         "id": "AxSJZ99Y",
-        "organization": "Xi`an University Of Science And Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安科技大学",
+          "fallback": "Xi`an University Of Science And Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "颜靖昆",
+              "fallback": "Yan Jingkun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王金昊",
+              "fallback": "Jinhao Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "谢祥瑞",
+              "fallback": "Xiangrui Xie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李立红",
+              "fallback": "李立红"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -34826,10 +39294,42 @@
     },
     {
       "user": {
-        "name": "60万对80万优势在我(600K vs 800K, We Got This!)",
+        "name": {
+          "zh-CN": "60万对80万优势在我",
+          "fallback": "600K vs 800K, We Got This!"
+        },
         "id": "2Y7MDZjB",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "耿文昊",
+              "fallback": "Wenhao Geng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李国轩",
+              "fallback": "Guoxuan Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘宇宏",
+              "fallback": "Yuhong Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "潘春华",
+              "fallback": "潘春华"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -35066,10 +39566,42 @@
     },
     {
       "user": {
-        "name": "脆皮烤鸭(cuipikaoya)",
+        "name": {
+          "zh-CN": "脆皮烤鸭",
+          "fallback": "cuipikaoya"
+        },
         "id": "fJhyj9bK",
-        "organization": "Xi’an Mingde Institute of Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安明德理工学院",
+          "fallback": "Xi’an Mingde Institute of Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李扬",
+              "fallback": "Yang Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马一诺",
+              "fallback": "Yinuo Ma"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨佳依",
+              "fallback": "Jiayi Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔岩",
+              "fallback": "崔岩"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -35269,10 +39801,42 @@
     },
     {
       "user": {
-        "name": "坚定的图灵派(Turing Stalwarts)",
+        "name": {
+          "zh-CN": "坚定的图灵派",
+          "fallback": "Turing Stalwarts"
+        },
         "id": "afmNVDz9",
-        "organization": "Shaanxi Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "陕西师范大学",
+          "fallback": "Shaanxi Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张伦",
+              "fallback": "Lun Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "盛行健",
+              "fallback": "Xingjian Sheng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李小航",
+              "fallback": "XiaoHang Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王涛",
+              "fallback": "王涛"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -35516,10 +40080,42 @@
     },
     {
       "user": {
-        "name": "WA树上睡觉(Sleeping on the WA Tree)",
+        "name": {
+          "zh-CN": "WA树上睡觉",
+          "fallback": "Sleeping on the WA Tree"
+        },
         "id": "Xg8wnkwD",
-        "organization": "Xi’an Mingde Institute of Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安明德理工学院",
+          "fallback": "Xi’an Mingde Institute of Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "丁艺恒",
+              "fallback": "YIheng Ding"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张鸣喆",
+              "fallback": "Mingzhe Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "曾泽峰",
+              "fallback": "Zefeng Zeng"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔岩",
+              "fallback": "崔岩"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -35763,10 +40359,42 @@
     },
     {
       "user": {
-        "name": "草滩WAC(WA want AC)",
+        "name": {
+          "zh-CN": "草滩WAC",
+          "fallback": "WA want AC"
+        },
         "id": "4c8tDM7Q",
-        "organization": "Chang'an University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "长安大学",
+          "fallback": "Chang'an University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "姜俊希",
+              "fallback": "Junxi Jiang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王朝新",
+              "fallback": "Zhaoxin Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵珮伶",
+              "fallback": "Peiling Zhao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "荆树旭",
+              "fallback": "荆树旭"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -36066,10 +40694,42 @@
     },
     {
       "user": {
-        "name": "逐梦AC(Chasing AC)",
+        "name": {
+          "zh-CN": "逐梦AC",
+          "fallback": "Chasing AC"
+        },
         "id": "UhEkYYme",
-        "organization": "Xi'an University of Posts and Telecommunications",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安邮电大学",
+          "fallback": "Xi'an University of Posts and Telecommunications"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孙仪杰",
+              "fallback": "Yijie Sun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王雯嘉",
+              "fallback": "Wenjia Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王力扬",
+              "fallback": "Liyang Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "孟伟君",
+              "fallback": "孟伟君"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -36348,10 +41008,42 @@
     },
     {
       "user": {
-        "name": "弹力巨石(Elastic boulder)",
+        "name": {
+          "zh-CN": "弹力巨石",
+          "fallback": "Elastic boulder"
+        },
         "id": "UMtzYtUo",
-        "organization": "Engineering University of PAP",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "武警工程大学",
+          "fallback": "Engineering University of PAP"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "张嘉亮",
+              "fallback": "Jialiang Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴金鑫",
+              "fallback": "Jinxin Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赵玄",
+              "fallback": "ZHX ZH"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张英男",
+              "fallback": "张英男"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -36542,10 +41234,42 @@
     },
     {
       "user": {
-        "name": "咸师3队(XianYang Normal 3)",
+        "name": {
+          "zh-CN": "咸师3队",
+          "fallback": "XianYang Normal 3"
+        },
         "id": "YFaRmyTz",
-        "organization": "XianYang Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "咸阳师范学院",
+          "fallback": "XianYang Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "聂荣涛",
+              "fallback": "Rongtao Nie"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贺红怡",
+              "fallback": "HongYi He"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高科",
+              "fallback": "Ke gao"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王芳",
+              "fallback": "王芳"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -36768,10 +41492,42 @@
     },
     {
       "user": {
-        "name": "早濑优香(Hayase Yuuka)",
+        "name": {
+          "zh-CN": "早濑优香",
+          "fallback": "Hayase Yuuka"
+        },
         "id": "SSPyxrYg",
-        "organization": "Xi’an Mingde Institute of Technology",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安明德理工学院",
+          "fallback": "Xi’an Mingde Institute of Technology"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "董广源",
+              "fallback": "GuangYuan Dong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "赖志荣",
+              "fallback": "Zhirong Lai"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吕乐威",
+              "fallback": "Lewei Lv"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "崔岩",
+              "fallback": "崔岩"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -37001,10 +41757,42 @@
     },
     {
       "user": {
-        "name": "⼩辫⼦酱殴打稻葉曇(Osage-Chan fights Inabakumori)",
+        "name": {
+          "zh-CN": "⼩辫⼦酱殴打稻葉曇",
+          "fallback": "Osage-Chan fights Inabakumori"
+        },
         "id": "k3s8xXsM",
-        "organization": "Xi'an Eurasia University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安欧亚学院",
+          "fallback": "Xi'an Eurasia University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "刘家瑞",
+              "fallback": "Jiarui Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "吴天乐",
+              "fallback": "Tianle Wu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "周志远",
+              "fallback": "Zhiyuan Zhou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张⽂胜",
+              "fallback": "张⽂胜"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -37192,10 +41980,42 @@
     },
     {
       "user": {
-        "name": "哦不(Ohno)",
+        "name": {
+          "zh-CN": "哦不",
+          "fallback": "Ohno"
+        },
         "id": "6xgKbQzu",
-        "organization": "Xi'an Eurasia University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "西安欧亚学院",
+          "fallback": "Xi'an Eurasia University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "汪沭⾔",
+              "fallback": "Shuyan Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王鹤然",
+              "fallback": "Heran Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王昆仑",
+              "fallback": "Kunlun Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张⽂胜",
+              "fallback": "张⽂胜"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -37402,10 +42222,42 @@
     },
     {
       "user": {
-        "name": "三人(Three person)",
+        "name": {
+          "zh-CN": "三人",
+          "fallback": "Three person"
+        },
         "id": "xWwePomQ",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "纪红祖",
+              "fallback": "Hongzu Ji"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王昊天",
+              "fallback": "Haotian Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王月鱼",
+              "fallback": "Yueyu Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李云飞",
+              "fallback": "李云飞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -37661,10 +42513,42 @@
     },
     {
       "user": {
-        "name": "咸师1队(XianYang Normal  Team 1)",
+        "name": {
+          "zh-CN": "咸师1队",
+          "fallback": "XianYang Normal Team 1"
+        },
         "id": "SFirybSN",
-        "organization": "XianYang Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "咸阳师范学院",
+          "fallback": "XianYang Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王佳怡",
+              "fallback": "Wang Jiayi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李春燕",
+              "fallback": "lichunyan"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "任晓倩",
+              "fallback": "xiaoqian ren"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "韩改宁",
+              "fallback": "韩改宁"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -37948,10 +42832,42 @@
     },
     {
       "user": {
-        "name": "三元新锋(TripleNoob)",
+        "name": {
+          "zh-CN": "三元新锋",
+          "fallback": "TripleNoob"
+        },
         "id": "9zrLLRkt",
-        "organization": "Engineering University of PAP",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "武警工程大学",
+          "fallback": "Engineering University of PAP"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "康钊睿",
+              "fallback": "kang zhaorui"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "高越",
+              "fallback": "Gao Yue"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张涵硕",
+              "fallback": "ZHANG HANSHUO"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘佳",
+              "fallback": "刘佳"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -38123,10 +43039,42 @@
     },
     {
       "user": {
-        "name": "三个诸葛亮(Three Zhuge Liangs)",
+        "name": {
+          "zh-CN": "三个诸葛亮",
+          "fallback": "Three Zhuge Liangs"
+        },
         "id": "WeZPRArr",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "王维梁",
+              "fallback": "Weiliang Wang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "胥圣博",
+              "fallback": "Shengbo Xu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "贾奥惠",
+              "fallback": "Aohui Jia"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "王敏",
+              "fallback": "王敏"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -38524,10 +43472,35 @@
     },
     {
       "user": {
-        "name": "560504(560504)",
+        "name": {
+          "zh-CN": "560504",
+          "fallback": "560504"
+        },
         "id": "asC4YLQt",
-        "organization": "Engineering University of PAP",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "武警工程大学",
+          "fallback": "Engineering University of PAP"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "鞠嘉",
+              "fallback": "JUJIA"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "陈恒",
+              "fallback": "CHENHENG"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李旭鑫",
+              "fallback": "LiXunxin"
+            }
+          }
+        ],
         "official": true,
         "markers": [
           "代码之战"
@@ -38651,10 +43624,42 @@
     },
     {
       "user": {
-        "name": "TFboys(TFboys)",
+        "name": {
+          "zh-CN": "TFboys",
+          "fallback": "TFboys"
+        },
         "id": "UJZpM97F",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "孙佳英",
+              "fallback": "Jiaying Sun"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "刘雨杰",
+              "fallback": "Yujie Liu"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李欣萌",
+              "fallback": "Xinmeng Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张莹",
+              "fallback": "张莹"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -38850,10 +43855,42 @@
     },
     {
       "user": {
-        "name": "三人行(Mint)",
+        "name": {
+          "zh-CN": "三人行",
+          "fallback": "Mint"
+        },
         "id": "QLFfnr98",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "郭倩文",
+              "fallback": "Qianwen Guo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "马博雪",
+              "fallback": "Boxue Ma"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "龚成悦",
+              "fallback": "Chengyue Gong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李云飞",
+              "fallback": "李云飞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -39060,10 +44097,42 @@
     },
     {
       "user": {
-        "name": "从此封心不再爱(Never love)",
+        "name": {
+          "zh-CN": "从此封心不再爱",
+          "fallback": "Never love"
+        },
         "id": "f4m2uj6y",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李圆",
+              "fallback": "yuan Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李胤昭",
+              "fallback": "YinzhaoLi"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗云曦",
+              "fallback": "yunxi Luo"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李云飞",
+              "fallback": "李云飞"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -39246,10 +44315,42 @@
     },
     {
       "user": {
-        "name": "花哨(fancy)",
+        "name": {
+          "zh-CN": "花哨",
+          "fallback": "fancy"
+        },
         "id": "8k4Jv2A7",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "邹霖涛",
+              "fallback": "Lintao Zou"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "熊凡建",
+              "fallback": "Fanjian Xiong"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "杨奕墨",
+              "fallback": "Yimo Yang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "罗鈺峻",
+              "fallback": "罗鈺峻"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
@@ -39493,10 +44594,42 @@
     },
     {
       "user": {
-        "name": "跟着党走就队(Following the Party is the right choice)",
+        "name": {
+          "zh-CN": "跟着党走就队",
+          "fallback": "Following the Party is the right choice"
+        },
         "id": "oaLUobjU",
-        "organization": "Weinan Normal University",
-        "teamMembers": [],
+        "organization": {
+          "zh-CN": "渭南师范学院",
+          "fallback": "Weinan Normal University"
+        },
+        "teamMembers": [
+          {
+            "name": {
+              "zh-CN": "李丹清",
+              "fallback": "Danqing Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "张鑫",
+              "fallback": "Xin Zhang"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "李璐瑶",
+              "fallback": "Luyao Li"
+            }
+          },
+          {
+            "name": {
+              "zh-CN": "奚建荣",
+              "fallback": "奚建荣"
+            },
+            "role": "coach"
+          }
+        ],
         "official": true,
         "markers": [
           "编程之星"
