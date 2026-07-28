@@ -46,6 +46,8 @@ jobs:
         if: github.event.action != 'closed'
         uses: actions/checkout@v4
         with:
+          # The fork checkout is data-only; rendering uses the CLI installed from the trusted base checkout.
+          allow-unsafe-pr-checkout: true
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.event.pull_request.head.sha }}
           path: pr
