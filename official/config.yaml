@@ -966,6 +966,9 @@ root:
         - path: sh
           name: 上海市赛
           children:
+            - path: shcpc2026
+              format: srk.json
+              name: 2026-07-26 2026
             - path: shcpc2025
               format: srk.json
               name: 2025-07-05 2025
