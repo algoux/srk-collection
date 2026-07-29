@@ -11,19 +11,71 @@
     "frozenDuration": [0, "h"]
   },
   "problems": [
-    { "alias": "A", "statistics": { "accepted": 5, "submitted": 93 } },
-    { "alias": "B", "statistics": { "accepted": 6, "submitted": 26 } },
-    { "alias": "C", "statistics": { "accepted": 3, "submitted": 43 } },
-    { "alias": "D", "statistics": { "accepted": 1, "submitted": 5 } },
-    { "alias": "E", "statistics": { "accepted": 133, "submitted": 1463 } },
-    { "alias": "F", "statistics": { "accepted": 282, "submitted": 399 } },
-    { "alias": "G", "statistics": { "accepted": 0, "submitted": 4 } },
-    { "alias": "H", "statistics": { "accepted": 3, "submitted": 9 } },
-    { "alias": "I", "statistics": { "accepted": 57, "submitted": 696 } },
-    { "alias": "J", "statistics": { "accepted": 51, "submitted": 415 } },
-    { "alias": "K", "statistics": { "accepted": 266, "submitted": 598 } },
-    { "alias": "L", "statistics": { "accepted": 285, "submitted": 337 } },
-    { "alias": "M", "statistics": { "accepted": 0, "submitted": 32 } }
+    {
+      "alias": "A",
+      "statistics": { "accepted": 5, "submitted": 93 },
+      "style": { "backgroundColor": "#fbbde6" }
+    },
+    {
+      "alias": "B",
+      "statistics": { "accepted": 6, "submitted": 26 },
+      "style": { "backgroundColor": "#125529" }
+    },
+    {
+      "alias": "C",
+      "statistics": { "accepted": 3, "submitted": 43 },
+      "style": { "backgroundColor": "#fc647d" }
+    },
+    {
+      "alias": "D",
+      "statistics": { "accepted": 1, "submitted": 5 },
+      "style": { "backgroundColor": "#f49714" }
+    },
+    {
+      "alias": "E",
+      "statistics": { "accepted": 133, "submitted": 1463 },
+      "style": { "backgroundColor": "#5095d8" }
+    },
+    {
+      "alias": "F",
+      "statistics": { "accepted": 282, "submitted": 399 },
+      "style": { "backgroundColor": "#adcf3e" }
+    },
+    {
+      "alias": "G",
+      "statistics": { "accepted": 0, "submitted": 4 },
+      "style": { "backgroundColor": "#9356d4" }
+    },
+    {
+      "alias": "H",
+      "statistics": { "accepted": 3, "submitted": 9 },
+      "style": { "backgroundColor": "#ffc226" }
+    },
+    {
+      "alias": "I",
+      "statistics": { "accepted": 57, "submitted": 696 },
+      "style": { "backgroundColor": "#04a409" }
+    },
+    {
+      "alias": "J",
+      "statistics": { "accepted": 51, "submitted": 415 },
+      "style": { "backgroundColor": "#00a9a4" }
+    },
+    {
+      "alias": "K",
+      "statistics": { "accepted": 266, "submitted": 598 },
+      "style": { "backgroundColor": "#d15b8e" }
+    },
+    {
+      "alias": "L",
+      "statistics": { "accepted": 285, "submitted": 337 },
+      "style": { "backgroundColor": "#ffe600" }
+    },
+    {
+      "alias": "M",
+      "statistics": { "accepted": 0, "submitted": 32 },
+      "style": { "backgroundColor": "#0a44d9" }
+    }
   ],
   "series": [
     {
