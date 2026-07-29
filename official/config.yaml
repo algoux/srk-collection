@@ -18,6 +18,9 @@ root:
             - path: icpc2026invitational-wuhan
               format: srk.json
               name: 2026-05-17 武汉邀请赛
+            - path: icpc2026invitational-shenyang
+              format: srk.json
+              name: 2026-07-29 沈阳邀请赛
         - path: icpc2025
           name: ICPC 2025 (50th)
           children:
