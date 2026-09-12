@@ -27,35 +27,6 @@
   ],
   "series": [
     {
-      "title": "#",
-      "segments": [
-        {
-          "style": "gold",
-          "title": "Gold Award"
-        },
-        {
-          "style": "silver",
-          "title": "Silver Award"
-        },
-        {
-          "style": "bronze",
-          "title": "Bronze Award"
-        }
-      ],
-      "rule": {
-        "preset": "ICPC",
-        "options": {
-          "count": {
-            "value": [
-              0,
-              0,
-              0
-            ]
-          }
-        }
-      }
-    },
-    {
       "title": "R#",
       "rule": {
         "preset": "Normal"

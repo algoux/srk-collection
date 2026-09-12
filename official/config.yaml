@@ -24,6 +24,9 @@ root:
             - path: icpc2026preliminary-1
               format: srk.json
               name: 2026-09-06 网络赛第一场
+            - path: icpc2026preliminary-2
+              format: srk.json
+              name: 2026-09-12 网络赛第二场
         - path: icpc2025
           name: ICPC 2025 (50th)
           children:
