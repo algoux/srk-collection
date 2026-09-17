@@ -1257,6 +1257,9 @@ root:
         - path: gz
           name: 贵州省赛
           children:
+            - path: gzcpc2026
+              format: srk.json
+              name: 2026-09-13 2026 ICPC
             - path: gzccpc2026
               format: srk.json
               name: 2026-06-07 2026 CCPC
