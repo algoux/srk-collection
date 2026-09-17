@@ -23,7 +23,8 @@
     ]
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "此榜单仅展示邀请赛排名，要查询省赛排名，请通过省赛分类或标识符「fjcpc12th」查找关联榜单。",
@@ -112,91 +113,117 @@
       "statistics": {
         "accepted": 1,
         "submitted": 28
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/A",
+      "title": "We are watching you!"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 4,
         "submitted": 39
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/B",
+      "title": "XCPC"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 14,
         "submitted": 158
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/C",
+      "title": "中位数"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 3,
         "submitted": 40
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/D",
+      "title": "二叉树"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 58,
         "submitted": 334
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/E",
+      "title": "卡牌游戏"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 3,
         "submitted": 28
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/F",
+      "title": "帕累托前沿"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 239,
         "submitted": 601
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/G",
+      "title": "炒股高手"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 57,
         "submitted": 330
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/H",
+      "title": "难以控制的滑板火箭"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 50,
         "submitted": 178
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/I",
+      "title": "割点"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 169,
         "submitted": 591
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/J",
+      "title": "构造大师周三金"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 206,
         "submitted": 728
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/K",
+      "title": "VERTeX"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 155,
         "submitted": 331
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/L",
+      "title": "众数"
     },
     {
       "alias": "M",
       "statistics": {
         "accepted": 285,
         "submitted": 306
-      }
+      },
+      "link": "https://codeforces.com/gym/105977/problem/M",
+      "title": "致谢"
     }
   ],
   "rows": [

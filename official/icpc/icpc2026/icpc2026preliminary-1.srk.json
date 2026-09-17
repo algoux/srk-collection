@@ -23,7 +23,8 @@
     ]
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -101,7 +102,9 @@
       "statistics": {
         "accepted": 1019,
         "submitted": 8342
-      }
+      },
+      "link": "https://qoj.ac/problem/20016",
+      "title": "Recall"
     },
     {
       "alias": "B",
@@ -111,7 +114,9 @@
       "statistics": {
         "accepted": 0,
         "submitted": 104
-      }
+      },
+      "link": "https://qoj.ac/problem/20017",
+      "title": "Mod"
     },
     {
       "alias": "C",
@@ -121,7 +126,9 @@
       "statistics": {
         "accepted": 1587,
         "submitted": 5185
-      }
+      },
+      "link": "https://qoj.ac/problem/20018",
+      "title": "Permutation Inversions"
     },
     {
       "alias": "D",
@@ -131,7 +138,9 @@
       "statistics": {
         "accepted": 704,
         "submitted": 4575
-      }
+      },
+      "link": "https://qoj.ac/problem/20019",
+      "title": "Sequence"
     },
     {
       "alias": "E",
@@ -141,7 +150,9 @@
       "statistics": {
         "accepted": 0,
         "submitted": 140
-      }
+      },
+      "link": "https://qoj.ac/problem/20020",
+      "title": "LCM Permutation"
     },
     {
       "alias": "F",
@@ -151,7 +162,9 @@
       "statistics": {
         "accepted": 2482,
         "submitted": 3226
-      }
+      },
+      "link": "https://qoj.ac/problem/20021",
+      "title": "50 Years of Excellence"
     },
     {
       "alias": "G",
@@ -161,7 +174,9 @@
       "statistics": {
         "accepted": 135,
         "submitted": 1461
-      }
+      },
+      "link": "https://qoj.ac/problem/20022",
+      "title": "Toll Gates on a Tight Schedule"
     },
     {
       "alias": "H",
@@ -171,7 +186,9 @@
       "statistics": {
         "accepted": 57,
         "submitted": 221
-      }
+      },
+      "link": "https://qoj.ac/problem/20023",
+      "title": "The First Problem"
     },
     {
       "alias": "I",
@@ -181,7 +198,9 @@
       "statistics": {
         "accepted": 1,
         "submitted": 43
-      }
+      },
+      "link": "https://qoj.ac/problem/20024",
+      "title": "A Lamp of Moon"
     },
     {
       "alias": "J",
@@ -191,7 +210,9 @@
       "statistics": {
         "accepted": 120,
         "submitted": 737
-      }
+      },
+      "link": "https://qoj.ac/problem/20025",
+      "title": "String"
     },
     {
       "alias": "K",
@@ -201,7 +222,9 @@
       "statistics": {
         "accepted": 15,
         "submitted": 106
-      }
+      },
+      "link": "https://qoj.ac/problem/20026",
+      "title": "Wolf Game"
     },
     {
       "alias": "L",
@@ -211,7 +234,9 @@
       "statistics": {
         "accepted": 1039,
         "submitted": 2121
-      }
+      },
+      "link": "https://qoj.ac/problem/20027",
+      "title": "Longest Common Prefix"
     },
     {
       "alias": "M",
@@ -221,7 +246,9 @@
       "statistics": {
         "accepted": 2419,
         "submitted": 3163
-      }
+      },
+      "link": "https://qoj.ac/problem/20028",
+      "title": "Check In"
     },
     {
       "alias": "N",
@@ -231,7 +258,9 @@
       "statistics": {
         "accepted": 153,
         "submitted": 1348
-      }
+      },
+      "link": "https://qoj.ac/problem/20029",
+      "title": "Red Sequence"
     }
   ],
   "rows": [

@@ -42,7 +42,9 @@
       },
       "style": {
         "backgroundColor": "rgba(189, 14, 14, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/A",
+      "title": "Easy Diameter Problem"
     },
     {
       "alias": "B",
@@ -52,7 +54,9 @@
       },
       "style": {
         "backgroundColor": "rgba(149, 31, 217, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/B",
+      "title": "The Game"
     },
     {
       "alias": "C",
@@ -62,7 +66,9 @@
       },
       "style": {
         "backgroundColor": "rgba(16, 32, 96, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/C",
+      "title": "Master of Both IV"
     },
     {
       "alias": "D",
@@ -72,7 +78,9 @@
       },
       "style": {
         "backgroundColor": "rgba(38, 185, 60, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/D",
+      "title": "Subway"
     },
     {
       "alias": "E",
@@ -82,7 +90,9 @@
       },
       "style": {
         "backgroundColor": "rgba(239, 217, 9, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/E",
+      "title": "Prefix Mahjong"
     },
     {
       "alias": "F",
@@ -92,7 +102,9 @@
       },
       "style": {
         "backgroundColor": "rgba(243, 88, 20, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/F",
+      "title": "Redundant Towers"
     },
     {
       "alias": "G",
@@ -102,7 +114,9 @@
       },
       "style": {
         "backgroundColor": "rgba(12, 76, 138, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/G",
+      "title": "Hard Brackets Problem"
     },
     {
       "alias": "H",
@@ -112,7 +126,9 @@
       },
       "style": {
         "backgroundColor": "rgba(156, 155, 155, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/H",
+      "title": "Sweet Sugar"
     },
     {
       "alias": "I",
@@ -122,7 +138,9 @@
       },
       "style": {
         "backgroundColor": "rgba(4, 154, 115, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/I",
+      "title": "Barkley II"
     },
     {
       "alias": "J",
@@ -132,7 +150,9 @@
       },
       "style": {
         "backgroundColor": "rgba(159, 19, 236, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/J",
+      "title": "The Phantom Menace"
     },
     {
       "alias": "K",
@@ -142,7 +162,9 @@
       },
       "style": {
         "backgroundColor": "rgba(42, 197, 202, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/K",
+      "title": "Randias Permutation Task"
     },
     {
       "alias": "L",
@@ -152,7 +174,9 @@
       },
       "style": {
         "backgroundColor": "rgba(142, 56, 54, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/L",
+      "title": "Alea Iacta Est"
     },
     {
       "alias": "M",
@@ -162,7 +186,9 @@
       },
       "style": {
         "backgroundColor": "rgba(144, 238, 144, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104768/problem/M",
+      "title": "Flipping Cards"
     }
   ],
   "series": [
@@ -62778,6 +62804,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

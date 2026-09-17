@@ -22,91 +22,117 @@
       "statistics": {
         "accepted": 4,
         "submitted": 327
-      }
+      },
+      "link": "https://qoj.ac/problem/15206",
+      "title": "Solution Preparation"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 98,
         "submitted": 390
-      }
+      },
+      "link": "https://qoj.ac/problem/15207",
+      "title": "2D Gray Code"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 66,
         "submitted": 264
-      }
+      },
+      "link": "https://qoj.ac/problem/15208",
+      "title": "Path Counting"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 2,
         "submitted": 44
-      }
+      },
+      "link": "https://qoj.ac/problem/15209",
+      "title": "Barrier"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 204,
         "submitted": 899
-      }
+      },
+      "link": "https://qoj.ac/problem/15210",
+      "title": "Router"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 262,
         "submitted": 268
-      }
+      },
+      "link": "https://qoj.ac/problem/15211",
+      "title": "初来乍到"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 0,
         "submitted": 12
-      }
+      },
+      "link": "https://qoj.ac/problem/15212",
+      "title": "Bricks"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 7,
         "submitted": 715
-      }
+      },
+      "link": "https://qoj.ac/problem/15213",
+      "title": "Sakura"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 0,
         "submitted": 27
-      }
+      },
+      "link": "https://qoj.ac/problem/15214",
+      "title": "go to sleep"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 14,
         "submitted": 88
-      }
+      },
+      "link": "https://qoj.ac/problem/15215",
+      "title": "骨牌游戏"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 7,
         "submitted": 72
-      }
+      },
+      "link": "https://qoj.ac/problem/15216",
+      "title": "2048"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 0,
         "submitted": 75
-      }
+      },
+      "link": "https://qoj.ac/problem/15217",
+      "title": "Base Conversion"
     },
     {
       "alias": "M",
       "statistics": {
         "accepted": 56,
         "submitted": 1009
-      }
+      },
+      "link": "https://qoj.ac/problem/15218",
+      "title": "粉刷匠"
     }
   ],
   "series": [
@@ -66507,7 +66533,8 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",

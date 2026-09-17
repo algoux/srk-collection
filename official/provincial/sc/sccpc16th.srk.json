@@ -34,7 +34,9 @@
       },
       "style": {
         "backgroundColor": "#39ff54"
-      }
+      },
+      "link": "https://qoj.ac/problem/9663",
+      "title": "Reverse Pairs Coloring"
     },
     {
       "alias": "B",
@@ -44,7 +46,9 @@
       },
       "style": {
         "backgroundColor": "#ff0000"
-      }
+      },
+      "link": "https://qoj.ac/problem/9664",
+      "title": "Link Summon"
     },
     {
       "alias": "C",
@@ -54,7 +58,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/9665",
+      "title": "Black-White Cubic Lattice"
     },
     {
       "alias": "D",
@@ -64,7 +70,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://qoj.ac/problem/9666",
+      "title": "L-Covering"
     },
     {
       "alias": "E",
@@ -74,7 +82,9 @@
       },
       "style": {
         "backgroundColor": "#9400d3"
-      }
+      },
+      "link": "https://qoj.ac/problem/9667",
+      "title": "L-Covering Checker"
     },
     {
       "alias": "F",
@@ -84,7 +94,9 @@
       },
       "style": {
         "backgroundColor": "#00ffee"
-      }
+      },
+      "link": "https://qoj.ac/problem/9668",
+      "title": "Isoball: 2D Version"
     },
     {
       "alias": "G",
@@ -94,7 +106,9 @@
       },
       "style": {
         "backgroundColor": "#ffffff"
-      }
+      },
+      "link": "https://qoj.ac/problem/9669",
+      "title": "Function Query"
     },
     {
       "alias": "H",
@@ -104,7 +118,9 @@
       },
       "style": {
         "backgroundColor": "#ff00ff"
-      }
+      },
+      "link": "https://qoj.ac/problem/9670",
+      "title": "GG and YY’s Stone Game"
     },
     {
       "alias": "I",
@@ -114,7 +130,9 @@
       },
       "style": {
         "backgroundColor": "#0400ff"
-      }
+      },
+      "link": "https://qoj.ac/problem/9671",
+      "title": "Container Scheduling"
     },
     {
       "alias": "J",
@@ -124,7 +142,9 @@
       },
       "style": {
         "backgroundColor": "#ff7b00"
-      }
+      },
+      "link": "https://qoj.ac/problem/9672",
+      "title": "Roman Numerals"
     },
     {
       "alias": "K",
@@ -134,7 +154,9 @@
       },
       "style": {
         "backgroundColor": "#c0c0c0"
-      }
+      },
+      "link": "https://qoj.ac/problem/9673",
+      "title": "Element Reaction"
     },
     {
       "alias": "L",
@@ -144,7 +166,9 @@
       },
       "style": {
         "backgroundColor": "#eee8aa"
-      }
+      },
+      "link": "https://qoj.ac/problem/9674",
+      "title": "Beef Tripe in Soup Pot?"
     }
   ],
   "series": [
@@ -57795,7 +57819,8 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",

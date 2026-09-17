@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,60 +97,67 @@
   ],
   "problems": [
     {
-      "title": "",
+      "title": "开开心心233",
       "alias": "A",
       "statistics": {
         "accepted": 160,
         "submitted": 246
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/A"
     },
     {
-      "title": "",
+      "title": "square game",
       "alias": "B",
       "statistics": {
         "accepted": 40,
         "submitted": 517
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/B"
     },
     {
-      "title": "",
+      "title": "室温超导",
       "alias": "C",
       "statistics": {
         "accepted": 4,
         "submitted": 34
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/C"
     },
     {
-      "title": "",
+      "title": "Container Orders",
       "alias": "D",
       "statistics": {
         "accepted": 7,
         "submitted": 95
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/D"
     },
     {
-      "title": "",
+      "title": "ytree",
       "alias": "E",
       "statistics": {
         "accepted": 13,
         "submitted": 57
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/E"
     },
     {
-      "title": "",
+      "title": "宝石交易",
       "alias": "F",
       "statistics": {
         "accepted": 109,
         "submitted": 598
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/F"
     },
     {
-      "title": "",
+      "title": "套娃收纳",
       "alias": "G",
       "statistics": {
         "accepted": 8,
         "submitted": 34
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/G"
     },
     {
       "title": "",
@@ -160,28 +168,31 @@
       }
     },
     {
-      "title": "",
+      "title": "hard math",
       "alias": "I",
       "statistics": {
         "accepted": 28,
         "submitted": 156
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/I"
     },
     {
-      "title": "",
+      "title": "radius",
       "alias": "J",
       "statistics": {
         "accepted": 13,
         "submitted": 44
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/J"
     },
     {
-      "title": "",
+      "title": "毕业季",
       "alias": "K",
       "statistics": {
         "accepted": 24,
         "submitted": 62
-      }
+      },
+      "link": "https://codeforces.com/gym/104611/problem/K"
     }
   ],
   "rows": [

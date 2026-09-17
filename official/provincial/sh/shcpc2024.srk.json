@@ -25,7 +25,9 @@
       },
       "style": {
         "backgroundColor": "#ffb6c1"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/A",
+      "title": "无线网络整点栅格统计"
     },
     {
       "alias": "B",
@@ -35,7 +37,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/B",
+      "title": "异或和之和"
     },
     {
       "alias": "C",
@@ -45,7 +49,9 @@
       },
       "style": {
         "backgroundColor": "#f0ffff"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/C",
+      "title": "无线基站最佳选址"
     },
     {
       "alias": "D",
@@ -55,7 +61,9 @@
       },
       "style": {
         "backgroundColor": "#00bfff"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/D",
+      "title": "咸鱼跑酷"
     },
     {
       "alias": "E",
@@ -65,7 +73,9 @@
       },
       "style": {
         "backgroundColor": "#ffa07a"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/E",
+      "title": "无线软件日"
     },
     {
       "alias": "F",
@@ -75,7 +85,9 @@
       },
       "style": {
         "backgroundColor": "#7cfc00"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/F",
+      "title": "羁绊大师"
     },
     {
       "alias": "G",
@@ -85,7 +97,9 @@
       },
       "style": {
         "backgroundColor": "#008000"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/G",
+      "title": "象棋大师"
     },
     {
       "alias": "H",
@@ -95,7 +109,9 @@
       },
       "style": {
         "backgroundColor": "#ffc0cb"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/H",
+      "title": "出金记录"
     },
     {
       "alias": "I",
@@ -105,7 +121,9 @@
       },
       "style": {
         "backgroundColor": "#9932cc"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/I",
+      "title": "六元组计数"
     },
     {
       "alias": "J",
@@ -115,7 +133,9 @@
       },
       "style": {
         "backgroundColor": "#ff0000"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/J",
+      "title": "极简合数序列"
     },
     {
       "alias": "K",
@@ -125,7 +145,9 @@
       },
       "style": {
         "backgroundColor": "#ff7f00"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/K",
+      "title": "时光"
     },
     {
       "alias": "L",
@@ -135,7 +157,9 @@
       },
       "style": {
         "backgroundColor": "#7fffd4"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/L",
+      "title": "扩散模型"
     },
     {
       "alias": "M",
@@ -145,7 +169,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/105229/problem/M",
+      "title": "不共戴天"
     }
   ],
   "series": [
@@ -39028,6 +39054,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

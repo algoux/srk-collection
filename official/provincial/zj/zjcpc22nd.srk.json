@@ -25,7 +25,9 @@
       },
       "style": {
         "backgroundColor": "#dc143c"
-      }
+      },
+      "link": "https://qoj.ac/problem/10723",
+      "title": "Outer LIS"
     },
     {
       "alias": "B",
@@ -35,7 +37,9 @@
       },
       "style": {
         "backgroundColor": "#ffc0cb"
-      }
+      },
+      "link": "https://qoj.ac/problem/10724",
+      "title": "Turn on the Light 3"
     },
     {
       "alias": "C",
@@ -45,7 +49,9 @@
       },
       "style": {
         "backgroundColor": "#8228dc"
-      }
+      },
+      "link": "https://qoj.ac/problem/10725",
+      "title": "RDDCCD"
     },
     {
       "alias": "D",
@@ -55,7 +61,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://qoj.ac/problem/10726",
+      "title": "Too Clever by Half"
     },
     {
       "alias": "E",
@@ -65,7 +73,9 @@
       },
       "style": {
         "backgroundColor": "#ff8c00"
-      }
+      },
+      "link": "https://qoj.ac/problem/10727",
+      "title": "Gold Miner"
     },
     {
       "alias": "F",
@@ -75,7 +85,9 @@
       },
       "style": {
         "backgroundColor": "#c71585"
-      }
+      },
+      "link": "https://qoj.ac/problem/10728",
+      "title": "Challenge NPC III"
     },
     {
       "alias": "G",
@@ -85,7 +97,9 @@
       },
       "style": {
         "backgroundColor": "#87ceeb"
-      }
+      },
+      "link": "https://qoj.ac/problem/10729",
+      "title": "Tariff-ied"
     },
     {
       "alias": "H",
@@ -95,7 +109,9 @@
       },
       "style": {
         "backgroundColor": "#adff2f"
-      }
+      },
+      "link": "https://qoj.ac/problem/10730",
+      "title": "Sweet Sugar IV"
     },
     {
       "alias": "I",
@@ -105,7 +121,9 @@
       },
       "style": {
         "backgroundColor": "#8b4513"
-      }
+      },
+      "link": "https://qoj.ac/problem/10731",
+      "title": "Version Number"
     },
     {
       "alias": "J",
@@ -115,7 +133,9 @@
       },
       "style": {
         "backgroundColor": "#f5f5f5"
-      }
+      },
+      "link": "https://qoj.ac/problem/10732",
+      "title": "Chocolate Sweet"
     },
     {
       "alias": "K",
@@ -125,7 +145,9 @@
       },
       "style": {
         "backgroundColor": "#0a50fa"
-      }
+      },
+      "link": "https://qoj.ac/problem/10733",
+      "title": "Wavelike Finding"
     },
     {
       "alias": "L",
@@ -135,7 +157,9 @@
       },
       "style": {
         "backgroundColor": "#008000"
-      }
+      },
+      "link": "https://qoj.ac/problem/10734",
+      "title": "Nailoongs Always Lie"
     },
     {
       "alias": "M",
@@ -145,7 +169,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/10735",
+      "title": "Master of Both VII"
     }
   ],
   "series": [
@@ -116936,6 +116962,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

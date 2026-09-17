@@ -26,7 +26,9 @@
       },
       "style": {
         "backgroundColor": "#ff9900"
-      }
+      },
+      "link": "https://qoj.ac/problem/9798",
+      "title": "Safety First"
     },
     {
       "alias": "B",
@@ -36,7 +38,9 @@
       },
       "style": {
         "backgroundColor": "#71008a"
-      }
+      },
+      "link": "https://qoj.ac/problem/9799",
+      "title": "Magical Palette"
     },
     {
       "alias": "C",
@@ -46,7 +50,9 @@
       },
       "style": {
         "backgroundColor": "#e88493"
-      }
+      },
+      "link": "https://qoj.ac/problem/9800",
+      "title": "Crisis Event: Meteorite"
     },
     {
       "alias": "D",
@@ -56,7 +62,9 @@
       },
       "style": {
         "backgroundColor": "#e639bd"
-      }
+      },
+      "link": "https://qoj.ac/problem/9801",
+      "title": "Dot Product Game"
     },
     {
       "alias": "E",
@@ -66,7 +74,9 @@
       },
       "style": {
         "backgroundColor": "#c0c0c0"
-      }
+      },
+      "link": "https://qoj.ac/problem/9802",
+      "title": "Light Up the Grid"
     },
     {
       "alias": "F",
@@ -76,7 +86,9 @@
       },
       "style": {
         "backgroundColor": "#f5d907"
-      }
+      },
+      "link": "https://qoj.ac/problem/9803",
+      "title": "Light Up the Hypercube"
     },
     {
       "alias": "G",
@@ -86,7 +98,9 @@
       },
       "style": {
         "backgroundColor": "#7fffff"
-      }
+      },
+      "link": "https://qoj.ac/problem/9804",
+      "title": "Guess the Polygon"
     },
     {
       "alias": "H",
@@ -96,7 +110,9 @@
       },
       "style": {
         "backgroundColor": "#007a00"
-      }
+      },
+      "link": "https://qoj.ac/problem/9805",
+      "title": "Guide Map"
     },
     {
       "alias": "I",
@@ -106,7 +122,9 @@
       },
       "style": {
         "backgroundColor": "#7ffa7f"
-      }
+      },
+      "link": "https://qoj.ac/problem/9806",
+      "title": "Growing Tree"
     },
     {
       "alias": "J",
@@ -116,7 +134,9 @@
       },
       "style": {
         "backgroundColor": "#3434f7"
-      }
+      },
+      "link": "https://qoj.ac/problem/9807",
+      "title": "Make Them Believe"
     },
     {
       "alias": "K",
@@ -126,7 +146,9 @@
       },
       "style": {
         "backgroundColor": "#ffc4c6"
-      }
+      },
+      "link": "https://qoj.ac/problem/9808",
+      "title": "Fragile Pinball"
     },
     {
       "alias": "L",
@@ -136,7 +158,9 @@
       },
       "style": {
         "backgroundColor": "#00008a"
-      }
+      },
+      "link": "https://qoj.ac/problem/9809",
+      "title": "The Grand Contest"
     },
     {
       "alias": "M",
@@ -146,7 +170,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://qoj.ac/problem/9810",
+      "title": "Obliviate, Then Reincarnate"
     }
   ],
   "series": [
@@ -71242,6 +71268,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

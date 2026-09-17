@@ -30,7 +30,8 @@
     ]
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -106,7 +107,9 @@
       "statistics": {
         "accepted": 72,
         "submitted": 133
-      }
+      },
+      "link": "https://qoj.ac/problem/9739",
+      "title": "盒子"
     },
     {
       "alias": "B",
@@ -116,7 +119,9 @@
       "statistics": {
         "accepted": 4,
         "submitted": 42
-      }
+      },
+      "link": "https://qoj.ac/problem/9745",
+      "title": "递增序列"
     },
     {
       "alias": "C",
@@ -126,7 +131,9 @@
       "statistics": {
         "accepted": 73,
         "submitted": 172
-      }
+      },
+      "link": "https://qoj.ac/problem/9741",
+      "title": "CCPC"
     },
     {
       "alias": "D",
@@ -136,7 +143,9 @@
       "statistics": {
         "accepted": 4,
         "submitted": 17
-      }
+      },
+      "link": "https://qoj.ac/problem/9743",
+      "title": "重心树"
     },
     {
       "alias": "E",
@@ -146,7 +155,9 @@
       "statistics": {
         "accepted": 38,
         "submitted": 135
-      }
+      },
+      "link": "https://qoj.ac/problem/9751",
+      "title": "覆盖一棵树"
     },
     {
       "alias": "F",
@@ -156,7 +167,9 @@
       "statistics": {
         "accepted": 31,
         "submitted": 285
-      }
+      },
+      "link": "https://qoj.ac/problem/9750",
+      "title": "拼图"
     },
     {
       "alias": "G",
@@ -166,7 +179,9 @@
       "statistics": {
         "accepted": 0,
         "submitted": 16
-      }
+      },
+      "link": "https://qoj.ac/problem/9752",
+      "title": "覆盖一个环"
     },
     {
       "alias": "H",
@@ -176,7 +191,9 @@
       "statistics": {
         "accepted": 71,
         "submitted": 142
-      }
+      },
+      "link": "https://qoj.ac/problem/9746",
+      "title": "平方根"
     },
     {
       "alias": "I",
@@ -186,7 +203,9 @@
       "statistics": {
         "accepted": 0,
         "submitted": 2
-      }
+      },
+      "link": "https://qoj.ac/problem/9747",
+      "title": "字符串复制"
     },
     {
       "alias": "J",
@@ -196,7 +215,9 @@
       "statistics": {
         "accepted": 0,
         "submitted": 2
-      }
+      },
+      "link": "https://qoj.ac/problem/9748",
+      "title": "最大公因数的平方和"
     },
     {
       "alias": "K",
@@ -206,7 +227,9 @@
       "statistics": {
         "accepted": 5,
         "submitted": 41
-      }
+      },
+      "link": "https://qoj.ac/problem/9749",
+      "title": "小凯的省奖之梦"
     },
     {
       "alias": "L",
@@ -216,7 +239,9 @@
       "statistics": {
         "accepted": 56,
         "submitted": 255
-      }
+      },
+      "link": "https://qoj.ac/problem/9753",
+      "title": "修正减法"
     }
   ],
   "rows": [

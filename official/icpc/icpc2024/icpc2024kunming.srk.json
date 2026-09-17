@@ -26,7 +26,9 @@
       },
       "style": {
         "backgroundColor": "#00bfff"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/A",
+      "title": "Antivirus"
     },
     {
       "alias": "B",
@@ -36,7 +38,9 @@
       },
       "style": {
         "backgroundColor": "#ad3b3b"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/B",
+      "title": "Brackets"
     },
     {
       "alias": "C",
@@ -46,7 +50,9 @@
       },
       "style": {
         "backgroundColor": "#90ee90"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/C",
+      "title": "Coin"
     },
     {
       "alias": "D",
@@ -56,7 +62,9 @@
       },
       "style": {
         "backgroundColor": "#ffffff"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/D",
+      "title": "Dolls"
     },
     {
       "alias": "E",
@@ -66,7 +74,9 @@
       },
       "style": {
         "backgroundColor": "#00ffff"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/E",
+      "title": "Extracting Weights"
     },
     {
       "alias": "F",
@@ -76,7 +86,9 @@
       },
       "style": {
         "backgroundColor": "#ff0000"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/F",
+      "title": "Flowers"
     },
     {
       "alias": "G",
@@ -86,7 +98,9 @@
       },
       "style": {
         "backgroundColor": "#9370db"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/G",
+      "title": "GCD"
     },
     {
       "alias": "H",
@@ -96,7 +110,9 @@
       },
       "style": {
         "backgroundColor": "#1472ff"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/H",
+      "title": "Horizon Scanning"
     },
     {
       "alias": "I",
@@ -106,7 +122,9 @@
       },
       "style": {
         "backgroundColor": "#ffc0cb"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/I",
+      "title": "Items"
     },
     {
       "alias": "J",
@@ -116,7 +134,9 @@
       },
       "style": {
         "backgroundColor": "#008000"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/J",
+      "title": "Just another Sorting Problem"
     },
     {
       "alias": "K",
@@ -126,7 +146,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/K",
+      "title": "Key Recovery"
     },
     {
       "alias": "L",
@@ -136,7 +158,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/L",
+      "title": "Last Chance: Threads of Despair"
     },
     {
       "alias": "M",
@@ -146,7 +170,9 @@
       },
       "style": {
         "backgroundColor": "#ffa500"
-      }
+      },
+      "link": "https://codeforces.com/gym/105588/problem/M",
+      "title": "Matrix Construction"
     }
   ],
   "series": [
@@ -115319,6 +115345,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

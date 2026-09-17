@@ -19,7 +19,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -90,108 +91,121 @@
   },
   "problems": [
     {
-      "title": "FD7E14",
+      "title": "The Fool",
       "alias": "A",
       "statistics": {
         "accepted": 322,
         "submitted": 411
-      }
+      },
+      "link": "https://qoj.ac/problem/9548"
     },
     {
-      "title": "87CEEB",
+      "title": "The Magician",
       "alias": "B",
       "statistics": {
         "accepted": 272,
         "submitted": 796
-      }
+      },
+      "link": "https://qoj.ac/problem/9549"
     },
     {
-      "title": "E83E8C",
+      "title": "The Empress",
       "alias": "C",
       "statistics": {
         "accepted": 30,
         "submitted": 104
-      }
+      },
+      "link": "https://qoj.ac/problem/9550"
     },
     {
-      "title": "DC0000",
+      "title": "The Emperor",
       "alias": "D",
       "statistics": {
         "accepted": 33,
         "submitted": 207
-      }
+      },
+      "link": "https://qoj.ac/problem/9551"
     },
     {
-      "title": "28A745",
+      "title": "The Chariot",
       "alias": "E",
       "statistics": {
         "accepted": 46,
         "submitted": 446
-      }
+      },
+      "link": "https://qoj.ac/problem/9552"
     },
     {
-      "title": "EEEE00",
+      "title": "The Hermit",
       "alias": "F",
       "statistics": {
         "accepted": 180,
         "submitted": 461
-      }
+      },
+      "link": "https://qoj.ac/problem/9553"
     },
     {
-      "title": "CBCBFD",
+      "title": "The Wheel of Fortune",
       "alias": "G",
       "statistics": {
         "accepted": 2,
         "submitted": 8
-      }
+      },
+      "link": "https://qoj.ac/problem/9554"
     },
     {
-      "title": "8080F0",
+      "title": "Strength",
       "alias": "H",
       "statistics": {
         "accepted": 27,
         "submitted": 53
-      }
+      },
+      "link": "https://qoj.ac/problem/9555"
     },
     {
-      "title": "E6B2B8",
+      "title": "The Hanged Man",
       "alias": "I",
       "statistics": {
         "accepted": 145,
         "submitted": 575
-      }
+      },
+      "link": "https://qoj.ac/problem/9556"
     },
     {
-      "title": "6C757D",
+      "title": "Temperance",
       "alias": "J",
       "statistics": {
         "accepted": 316,
         "submitted": 652
-      }
+      },
+      "link": "https://qoj.ac/problem/9557"
     },
     {
-      "title": "4E3629",
+      "title": "The Devil",
       "alias": "K",
       "statistics": {
         "accepted": 0,
         "submitted": 5
-      }
+      },
+      "link": "https://qoj.ac/problem/9558"
     },
     {
-      "title": "808000",
+      "title": "The Tower",
       "alias": "L",
       "statistics": {
         "accepted": 4,
         "submitted": 67
-      }
+      },
+      "link": "https://qoj.ac/problem/9559"
     },
     {
-      "title": "3B9FB0",
+      "title": "Judgement",
       "alias": "M",
       "statistics": {
         "accepted": 0,
         "submitted": 119
-      }
+      },
+      "link": "https://qoj.ac/problem/9560"
     }
   ],
   "rows": [

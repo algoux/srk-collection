@@ -23,7 +23,8 @@
     ]
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -100,7 +101,9 @@
       "statistics": {
         "accepted": 166,
         "submitted": 255
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/A",
+      "title": "Box"
     },
     {
       "alias": "B",
@@ -110,7 +113,9 @@
       "statistics": {
         "accepted": 6,
         "submitted": 40
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/B",
+      "title": "Aho-Corasick Automaton"
     },
     {
       "alias": "C",
@@ -120,7 +125,9 @@
       "statistics": {
         "accepted": 168,
         "submitted": 330
-      }
+      },
+      "link": "https://qoj.ac/problem/9741",
+      "title": "CCPC"
     },
     {
       "alias": "D",
@@ -130,7 +137,9 @@
       "statistics": {
         "accepted": 3,
         "submitted": 15
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/D",
+      "title": "Excellent Splitting"
     },
     {
       "alias": "E",
@@ -140,7 +149,9 @@
       "statistics": {
         "accepted": 28,
         "submitted": 98
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/E",
+      "title": "Centroid Tree"
     },
     {
       "alias": "F",
@@ -150,7 +161,9 @@
       "statistics": {
         "accepted": 13,
         "submitted": 43
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/F",
+      "title": "Perfect Square"
     },
     {
       "alias": "G",
@@ -160,7 +173,9 @@
       "statistics": {
         "accepted": 32,
         "submitted": 194
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/G",
+      "title": "Increasing Sequence"
     },
     {
       "alias": "H",
@@ -170,7 +185,9 @@
       "statistics": {
         "accepted": 166,
         "submitted": 245
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/H",
+      "title": "Square Root"
     },
     {
       "alias": "I",
@@ -180,7 +197,9 @@
       "statistics": {
         "accepted": 2,
         "submitted": 4
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/I",
+      "title": "String Duplication"
     },
     {
       "alias": "J",
@@ -190,7 +209,9 @@
       "statistics": {
         "accepted": 0,
         "submitted": 19
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/J",
+      "title": "Sum of Squares of GCDs"
     },
     {
       "alias": "K",
@@ -200,7 +221,9 @@
       "statistics": {
         "accepted": 20,
         "submitted": 97
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/K",
+      "title": "Xiao Kai's Dream of Provincial Scholarship"
     },
     {
       "alias": "L",
@@ -210,7 +233,9 @@
       "statistics": {
         "accepted": 88,
         "submitted": 586
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/L",
+      "title": "Puzzle"
     },
     {
       "alias": "M",
@@ -220,7 +245,9 @@
       "statistics": {
         "accepted": 120,
         "submitted": 414
-      }
+      },
+      "link": "https://codeforces.com/gym/105487/problem/M",
+      "title": "Covering a Tree"
     }
   ],
   "rows": [

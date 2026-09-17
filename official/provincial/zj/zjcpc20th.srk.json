@@ -22,91 +22,117 @@
       "statistics": {
         "accepted": 386,
         "submitted": 497
-      }
+      },
+      "link": "https://www.atuer.cn/p/province-P23001?tid=698ed56511ca5cdfe1153ea3",
+      "title": "Look and Say"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 0,
         "submitted": 33
-      }
+      },
+      "link": "https://qoj.ac/problem/6403",
+      "title": "Master of Polygon"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 5,
         "submitted": 57
-      }
+      },
+      "link": "https://qoj.ac/problem/6404",
+      "title": "Shuttle Tour"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 20,
         "submitted": 45
-      }
+      },
+      "link": "https://qoj.ac/problem/6397",
+      "title": "Master of Both III"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 295,
         "submitted": 509
-      }
+      },
+      "link": "https://www.atuer.cn/p/province-P23005?tid=698ed56511ca5cdfe1153ea3",
+      "title": "Interval Sum"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 234,
         "submitted": 1560
-      }
+      },
+      "link": "https://qoj.ac/problem/6394",
+      "title": "Turn on the Light"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 38,
         "submitted": 245
-      }
+      },
+      "link": "https://qoj.ac/problem/6396",
+      "title": "Puzzle: Kusabi"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 26,
         "submitted": 442
-      }
+      },
+      "link": "https://qoj.ac/problem/6398",
+      "title": "Puzzle: Tapa"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 12,
         "submitted": 62
-      }
+      },
+      "link": "https://qoj.ac/problem/6395",
+      "title": "Equation Discovering"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 0,
         "submitted": 35
-      }
+      },
+      "link": "https://qoj.ac/problem/6406",
+      "title": "Stage Clear"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 88,
         "submitted": 661
-      }
+      },
+      "link": "https://www.atuer.cn/p/province-P23011?tid=698ed56511ca5cdfe1153ea3",
+      "title": "Lazy but Diligent"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 7,
         "submitted": 17
-      }
+      },
+      "link": "https://qoj.ac/problem/6405",
+      "title": "Barkley"
     },
     {
       "alias": "M",
       "statistics": {
         "accepted": 346,
         "submitted": 1768
-      }
+      },
+      "link": "https://www.atuer.cn/p/province-P23013?tid=698ed56511ca5cdfe1153ea3",
+      "title": "A Wine and Four Dishes​"
     }
   ],
   "series": [
@@ -97504,7 +97530,8 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",

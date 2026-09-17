@@ -35,7 +35,9 @@
       },
       "style": {
         "backgroundColor": "#ff2f7f"
-      }
+      },
+      "link": "https://qoj.ac/problem/7894",
+      "title": "Many Many Heads"
     },
     {
       "alias": "B",
@@ -45,7 +47,9 @@
       },
       "style": {
         "backgroundColor": "#ed7300"
-      }
+      },
+      "link": "https://qoj.ac/problem/7895",
+      "title": "Graph Partitioning 2"
     },
     {
       "alias": "C",
@@ -55,7 +59,9 @@
       },
       "style": {
         "backgroundColor": "#0698d1"
-      }
+      },
+      "link": "https://qoj.ac/problem/7896",
+      "title": "Turn on the Light 2"
     },
     {
       "alias": "D",
@@ -65,7 +71,9 @@
       },
       "style": {
         "backgroundColor": "#ff0000"
-      }
+      },
+      "link": "https://qoj.ac/problem/7897",
+      "title": "Largest Digit"
     },
     {
       "alias": "E",
@@ -75,7 +83,9 @@
       },
       "style": {
         "backgroundColor": "#eba800"
-      }
+      },
+      "link": "https://qoj.ac/problem/7898",
+      "title": "I Just Want... One More..."
     },
     {
       "alias": "F",
@@ -85,7 +95,9 @@
       },
       "style": {
         "backgroundColor": "#2cf0cf"
-      }
+      },
+      "link": "https://qoj.ac/problem/7899",
+      "title": "Say Hello to the Future"
     },
     {
       "alias": "G",
@@ -95,7 +107,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/7900",
+      "title": "Gifts from Knowledge"
     },
     {
       "alias": "H",
@@ -105,7 +119,9 @@
       },
       "style": {
         "backgroundColor": "#c7c5c5"
-      }
+      },
+      "link": "https://qoj.ac/problem/7901",
+      "title": "Basic Substring Structure"
     },
     {
       "alias": "I",
@@ -115,7 +131,9 @@
       },
       "style": {
         "backgroundColor": "#ddff00"
-      }
+      },
+      "link": "https://qoj.ac/problem/7902",
+      "title": "Strange Sorting"
     },
     {
       "alias": "J",
@@ -125,7 +143,9 @@
       },
       "style": {
         "backgroundColor": "#00fbff"
-      }
+      },
+      "link": "https://qoj.ac/problem/7903",
+      "title": "Computational Intelligence"
     },
     {
       "alias": "K",
@@ -135,14 +155,18 @@
       },
       "style": {
         "backgroundColor": "#0022ff"
-      }
+      },
+      "link": "https://qoj.ac/problem/7904",
+      "title": "Rainbow Subarray"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 4,
         "submitted": 32
-      }
+      },
+      "link": "https://qoj.ac/problem/7905",
+      "title": "Ticket to Ride"
     },
     {
       "alias": "M",
@@ -152,7 +176,9 @@
       },
       "style": {
         "backgroundColor": "#c90c0c"
-      }
+      },
+      "link": "https://qoj.ac/problem/7906",
+      "title": "Almost Convex"
     }
   ],
   "series": [
@@ -82736,6 +82762,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,108 +97,121 @@
   ],
   "problems": [
     {
-      "title": "29D05A",
+      "title": "爱上字典",
       "alias": "A",
       "statistics": {
         "accepted": 127,
         "submitted": 603
-      }
+      },
+      "link": "https://qoj.ac/problem/9578"
     },
     {
-      "title": "FA8393",
+      "title": "比分幻术",
       "alias": "B",
       "statistics": {
         "accepted": 163,
         "submitted": 206
-      }
+      },
+      "link": "https://qoj.ac/problem/9579"
     },
     {
-      "title": "C667FD",
+      "title": "插排串联",
       "alias": "C",
       "statistics": {
         "accepted": 96,
         "submitted": 340
-      }
+      },
+      "link": "https://qoj.ac/problem/9580"
     },
     {
-      "title": "FDC7B6",
+      "title": "都市叠高",
       "alias": "D",
       "statistics": {
         "accepted": 26,
         "submitted": 75
-      }
+      },
+      "link": "https://qoj.ac/problem/9581"
     },
     {
-      "title": "A94B3E",
+      "title": "俄式简餐",
       "alias": "E",
       "statistics": {
         "accepted": 62,
         "submitted": 293
-      }
+      },
+      "link": "https://qoj.ac/problem/9582"
     },
     {
-      "title": "FBD415",
+      "title": "飞沙走蛇",
       "alias": "F",
       "statistics": {
         "accepted": 0,
         "submitted": 4
-      }
+      },
+      "link": "https://qoj.ac/problem/9583"
     },
     {
-      "title": "6D6AFA",
+      "title": "顾影自怜",
       "alias": "G",
       "statistics": {
         "accepted": 23,
         "submitted": 123
-      }
+      },
+      "link": "https://qoj.ac/problem/9584"
     },
     {
-      "title": "D8ED94",
+      "title": "划分数字",
       "alias": "H",
       "statistics": {
         "accepted": 1,
         "submitted": 10
-      }
+      },
+      "link": "https://qoj.ac/problem/9585"
     },
     {
-      "title": "6AADDE",
+      "title": "野兽节拍",
       "alias": "I",
       "statistics": {
         "accepted": 2,
         "submitted": 27
-      }
+      },
+      "link": "https://qoj.ac/problem/9586"
     },
     {
-      "title": "F9F333",
+      "title": "结课风云",
       "alias": "J",
       "statistics": {
         "accepted": 163,
         "submitted": 224
-      }
+      },
+      "link": "https://qoj.ac/problem/9587"
     },
     {
-      "title": "D0E7F2",
+      "title": "可重集合",
       "alias": "K",
       "statistics": {
         "accepted": 5,
         "submitted": 49
-      }
+      },
+      "link": "https://qoj.ac/problem/9588"
     },
     {
-      "title": "FE7508",
+      "title": "龙之研习",
       "alias": "L",
       "statistics": {
         "accepted": 59,
         "submitted": 261
-      }
+      },
+      "link": "https://qoj.ac/problem/9589"
     },
     {
-      "title": "3CDBD1",
+      "title": "盲盒谜题",
       "alias": "M",
       "statistics": {
         "accepted": 10,
         "submitted": 43
-      }
+      },
+      "link": "https://qoj.ac/problem/9590"
     }
   ],
   "rows": [

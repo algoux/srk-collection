@@ -28,7 +28,9 @@
       "style": {
         "backgroundColor": "#fc0000",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16328",
+      "title": "Outstanding Outlines"
     },
     {
       "alias": "B",
@@ -39,7 +41,9 @@
       "style": {
         "backgroundColor": "#fad2be",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16329",
+      "title": "Batching Badges"
     },
     {
       "alias": "C",
@@ -50,7 +54,9 @@
       "style": {
         "backgroundColor": "#005aeb",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16330",
+      "title": "Potential Peak"
     },
     {
       "alias": "D",
@@ -61,7 +67,9 @@
       "style": {
         "backgroundColor": "#fce646",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16331",
+      "title": "Strategic Stones"
     },
     {
       "alias": "E",
@@ -72,7 +80,9 @@
       "style": {
         "backgroundColor": "#a05ae6",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16332",
+      "title": "Efficient Express"
     },
     {
       "alias": "F",
@@ -83,7 +93,9 @@
       "style": {
         "backgroundColor": "#ffc8e6",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16333",
+      "title": "Set of Intervals 2"
     },
     {
       "alias": "G",
@@ -94,7 +106,9 @@
       "style": {
         "backgroundColor": "#aadcff",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16334",
+      "title": "Revolver Roulette"
     },
     {
       "alias": "H",
@@ -105,7 +119,9 @@
       "style": {
         "backgroundColor": "#00c346",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16335",
+      "title": "Hextech High-roll"
     },
     {
       "alias": "I",
@@ -116,7 +132,9 @@
       "style": {
         "backgroundColor": "#dcb4ff",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16336",
+      "title": "Redundancy Refrain"
     },
     {
       "alias": "J",
@@ -127,7 +145,9 @@
       "style": {
         "backgroundColor": "#fc6e00",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16337",
+      "title": "Tree-mendous Transmission"
     },
     {
       "alias": "K",
@@ -138,7 +158,9 @@
       "style": {
         "backgroundColor": "#b9f06e",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16338",
+      "title": "Magically Marked Matching Master"
     },
     {
       "alias": "L",
@@ -149,7 +171,9 @@
       "style": {
         "backgroundColor": "#46ebff",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/16339",
+      "title": "Logical Resonance"
     }
   ],
   "series": [
@@ -73971,6 +73995,7 @@
   "markers": [],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

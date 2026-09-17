@@ -27,7 +27,9 @@
       },
       "style": {
         "backgroundColor": "#6c1299"
-      }
+      },
+      "link": "https://qoj.ac/problem/9564",
+      "title": "Hey, Have You Seen My Kangaroo?"
     },
     {
       "alias": "B",
@@ -37,7 +39,9 @@
       },
       "style": {
         "backgroundColor": "#ed6f00"
-      }
+      },
+      "link": "https://qoj.ac/problem/9565",
+      "title": "Birthday Gift"
     },
     {
       "alias": "C",
@@ -47,7 +51,9 @@
       },
       "style": {
         "backgroundColor": "#00ff7f"
-      }
+      },
+      "link": "https://qoj.ac/problem/9566",
+      "title": "Topology"
     },
     {
       "alias": "D",
@@ -57,7 +63,9 @@
       },
       "style": {
         "backgroundColor": "#072d8c"
-      }
+      },
+      "link": "https://qoj.ac/problem/9567",
+      "title": "Toe-Tac-Tics"
     },
     {
       "alias": "E",
@@ -67,7 +75,9 @@
       },
       "style": {
         "backgroundColor": "#ff0000"
-      }
+      },
+      "link": "https://qoj.ac/problem/9568",
+      "title": "Left Shifting 3"
     },
     {
       "alias": "F",
@@ -77,7 +87,9 @@
       },
       "style": {
         "backgroundColor": "#a52a2a"
-      }
+      },
+      "link": "https://qoj.ac/problem/9569",
+      "title": "Subway"
     },
     {
       "alias": "G",
@@ -87,7 +99,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://qoj.ac/problem/9570",
+      "title": "Binary Tree"
     },
     {
       "alias": "H",
@@ -97,7 +111,9 @@
       },
       "style": {
         "backgroundColor": "#870721"
-      }
+      },
+      "link": "https://qoj.ac/problem/9571",
+      "title": "Border Jump 2"
     },
     {
       "alias": "I",
@@ -107,7 +123,9 @@
       },
       "style": {
         "backgroundColor": "#8c79ed"
-      }
+      },
+      "link": "https://qoj.ac/problem/9572",
+      "title": "Bingo"
     },
     {
       "alias": "J",
@@ -117,7 +135,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/9573",
+      "title": "Social Media"
     },
     {
       "alias": "K",
@@ -127,7 +147,9 @@
       },
       "style": {
         "backgroundColor": "#ffffff"
-      }
+      },
+      "link": "https://qoj.ac/problem/9574",
+      "title": "Strips"
     },
     {
       "alias": "L",
@@ -137,7 +159,9 @@
       },
       "style": {
         "backgroundColor": "#056300"
-      }
+      },
+      "link": "https://qoj.ac/problem/9575",
+      "title": "$P \\oplus Q = R$"
     },
     {
       "alias": "M",
@@ -147,7 +171,9 @@
       },
       "style": {
         "backgroundColor": "#26ccff"
-      }
+      },
+      "link": "https://qoj.ac/problem/9576",
+      "title": "Ordainer of Inexorable Judgment"
     }
   ],
   "series": [
@@ -81501,6 +81527,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

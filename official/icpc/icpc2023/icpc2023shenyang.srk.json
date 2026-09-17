@@ -35,7 +35,9 @@
       },
       "style": {
         "backgroundColor": "#ff7f00"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/A",
+      "title": "Intro: Dawn of a New Era"
     },
     {
       "alias": "B",
@@ -45,7 +47,9 @@
       },
       "style": {
         "backgroundColor": "#9acd32"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/B",
+      "title": "Turning Permutation"
     },
     {
       "alias": "C",
@@ -55,7 +59,9 @@
       },
       "style": {
         "backgroundColor": "#ff0000"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/C",
+      "title": "Swiss Stage"
     },
     {
       "alias": "D",
@@ -65,14 +71,18 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/D",
+      "title": "Dark LaTeX vs. Light LaTeX"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 213,
         "submitted": 997
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/E",
+      "title": "Sheep Eat Wolves"
     },
     {
       "alias": "F",
@@ -82,7 +92,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/F",
+      "title": "Ursa Minor"
     },
     {
       "alias": "G",
@@ -92,7 +104,9 @@
       },
       "style": {
         "backgroundColor": "#778899"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/G",
+      "title": "Military Maneuver"
     },
     {
       "alias": "H",
@@ -102,7 +116,9 @@
       },
       "style": {
         "backgroundColor": "#87ceeb"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/H",
+      "title": "Line Graph Sequence"
     },
     {
       "alias": "I",
@@ -112,7 +128,9 @@
       },
       "style": {
         "backgroundColor": "#228b22"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/I",
+      "title": "Three Rectangles"
     },
     {
       "alias": "J",
@@ -122,7 +140,9 @@
       },
       "style": {
         "backgroundColor": "#006400"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/J",
+      "title": "Graft and Transplant"
     },
     {
       "alias": "K",
@@ -132,7 +152,9 @@
       },
       "style": {
         "backgroundColor": "#800080"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/K",
+      "title": "Maximum Rating"
     },
     {
       "alias": "L",
@@ -142,7 +164,9 @@
       },
       "style": {
         "backgroundColor": "#ff1493"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/L",
+      "title": "Rook Detection"
     },
     {
       "alias": "M",
@@ -152,7 +176,9 @@
       },
       "style": {
         "backgroundColor": "#ff69b4"
-      }
+      },
+      "link": "https://codeforces.com/gym/104869/problem/M",
+      "title": "Outro: True Love Waits"
     }
   ],
   "series": [
@@ -66605,6 +66631,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

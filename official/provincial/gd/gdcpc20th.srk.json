@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,108 +97,121 @@
   ],
   "problems": [
     {
-      "title": "",
+      "title": "Path Planning",
       "alias": "A",
       "statistics": {
         "accepted": 295,
         "submitted": 325
-      }
+      },
+      "link": "https://qoj.ac/problem/6515"
     },
     {
-      "title": "",
+      "title": "New but Nostalgic Problem",
       "alias": "B",
       "statistics": {
         "accepted": 57,
         "submitted": 278
-      }
+      },
+      "link": "https://qoj.ac/problem/6516"
     },
     {
-      "title": "",
+      "title": "Computational Geometry",
       "alias": "C",
       "statistics": {
         "accepted": 254,
         "submitted": 938
-      }
+      },
+      "link": "https://qoj.ac/problem/6517"
     },
     {
-      "title": "",
+      "title": "X Equals Y",
       "alias": "D",
       "statistics": {
         "accepted": 189,
         "submitted": 1174
-      }
+      },
+      "link": "https://qoj.ac/problem/6519"
     },
     {
-      "title": "",
+      "title": "Classic Problem",
       "alias": "E",
       "statistics": {
         "accepted": 51,
         "submitted": 319
-      }
+      },
+      "link": "https://qoj.ac/problem/6520"
     },
     {
-      "title": "",
+      "title": "Swapping Operation",
       "alias": "F",
       "statistics": {
         "accepted": 31,
         "submitted": 139
-      }
+      },
+      "link": "https://qoj.ac/problem/6521"
     },
     {
-      "title": "",
+      "title": "New Houses",
       "alias": "G",
       "statistics": {
         "accepted": 2,
         "submitted": 23
-      }
+      },
+      "link": "https://qoj.ac/problem/6525"
     },
     {
-      "title": "",
+      "title": "Canvas",
       "alias": "H",
       "statistics": {
         "accepted": 6,
         "submitted": 47
-      }
+      },
+      "link": "https://qoj.ac/problem/6526"
     },
     {
-      "title": "",
+      "title": "Programming Contest",
       "alias": "I",
       "statistics": {
         "accepted": 166,
         "submitted": 594
-      }
+      },
+      "link": "https://qoj.ac/problem/6530"
     },
     {
-      "title": "",
+      "title": "Base Station Construction",
       "alias": "J",
       "statistics": {
         "accepted": 9,
         "submitted": 88
-      }
+      },
+      "link": "https://qoj.ac/problem/6531"
     },
     {
-      "title": "",
+      "title": "Trading",
       "alias": "K",
       "statistics": {
         "accepted": 179,
         "submitted": 320
-      }
+      },
+      "link": "https://qoj.ac/problem/6532"
     },
     {
-      "title": "",
+      "title": "Traveling in Cells",
       "alias": "L",
       "statistics": {
         "accepted": 0,
         "submitted": 43
-      }
+      },
+      "link": "https://qoj.ac/problem/6533"
     },
     {
-      "title": "",
+      "title": "Peg Solitaire",
       "alias": "M",
       "statistics": {
         "accepted": 19,
         "submitted": 78
-      }
+      },
+      "link": "https://qoj.ac/problem/6534"
     }
   ],
   "rows": [

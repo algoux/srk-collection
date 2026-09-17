@@ -31,84 +31,108 @@
       "statistics": {
         "accepted": 70,
         "submitted": 123
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22001?tid=6912d75751ad8a5edb58f7a5",
+      "title": "CCPC"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 46,
         "submitted": 181
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22002?tid=6912d75751ad8a5edb58f7a5",
+      "title": "道路"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 0,
         "submitted": 10
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22003?tid=6912d75751ad8a5edb58f7a5",
+      "title": "数三角形"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 42,
         "submitted": 604
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22004?tid=6912d75751ad8a5edb58f7a5",
+      "title": "函数"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 66,
         "submitted": 228
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22005?tid=6912d75751ad8a5edb58f7a5",
+      "title": "二进制"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 0,
         "submitted": 3
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22006?tid=6912d75751ad8a5edb58f7a5",
+      "title": "期望"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 0,
         "submitted": 9
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22007?tid=6912d75751ad8a5edb58f7a5",
+      "title": "重排数组"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 64,
         "submitted": 164
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22008?tid=6912d75751ad8a5edb58f7a5",
+      "title": "修复括号序列"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 26,
         "submitted": 161
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22009?tid=6912d75751ad8a5edb58f7a5",
+      "title": "石子游戏"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 5,
         "submitted": 185
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22010?tid=6912d75751ad8a5edb58f7a5",
+      "title": "密码"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 20,
         "submitted": 79
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22011?tid=6912d75751ad8a5edb58f7a5",
+      "title": "游乐场选址"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 0,
         "submitted": 1
-      }
+      },
+      "link": "https://www.atuer.cn/p/ccpc-P22012?tid=6912d75751ad8a5edb58f7a5",
+      "title": "寻宝"
     }
   ],
   "series": [
@@ -22118,6 +22142,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

@@ -27,7 +27,8 @@
   },
   "contributors": [
     "algoUX (https://algoux.org)",
-    "ADay (https://www.luogu.com.cn/user/312393)"
+    "ADay (https://www.luogu.com.cn/user/312393)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "这个榜单存在官方修订的罚时补偿，因此个别队伍的计算罚时可能无法和提交记录对应。了解更多：https://github.com/algoux/srk-collection-raw/tree/master/files/gxcpc9th",
@@ -226,77 +227,99 @@
       "statistics": {
         "accepted": 299,
         "submitted": 552
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/A",
+      "title": "大户爱的幂和"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 65,
         "submitted": 942
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/B",
+      "title": "大户爱的期望"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 0,
         "submitted": 16
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/C",
+      "title": "盒先生的星星"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 310,
         "submitted": 369
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/D",
+      "title": "歪歪做旗帜"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 11,
         "submitted": 111
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/E",
+      "title": "八奇炼桃都"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 181,
         "submitted": 1016
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/F",
+      "title": "屏峰"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 307,
         "submitted": 537
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/G",
+      "title": "歪歪学数学"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 51,
         "submitted": 279
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/H",
+      "title": "小 Z 怎么又在打游戏"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 1,
         "submitted": 20
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/I",
+      "title": "雨阶共鸣"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 68,
         "submitted": 878
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/J",
+      "title": "山脊封锁"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 18,
         "submitted": 140
-      }
+      },
+      "link": "https://ac.nowcoder.com/acm/contest/136164/K",
+      "title": "三角形广场"
     }
   ],
   "rows": [

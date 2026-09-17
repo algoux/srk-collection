@@ -19,7 +19,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -97,108 +98,121 @@
   ],
   "problems": [
     {
-      "title": "",
+      "title": "Go go Baron Bunny!",
       "alias": "A",
       "statistics": {
         "accepted": 0,
         "submitted": 2
-      }
+      },
+      "link": "https://qoj.ac/problem/7746"
     },
     {
-      "title": "",
+      "title": "Memory",
       "alias": "B",
       "statistics": {
         "accepted": 229,
         "submitted": 965
-      }
+      },
+      "link": "https://qoj.ac/problem/7747"
     },
     {
-      "title": "",
+      "title": "Karshilov's Matching Problem II",
       "alias": "C",
       "statistics": {
         "accepted": 4,
         "submitted": 19
-      }
+      },
+      "link": "https://qoj.ac/problem/7748"
     },
     {
-      "title": "",
+      "title": "A Simple MST Problem",
       "alias": "D",
       "statistics": {
         "accepted": 26,
         "submitted": 102
-      }
+      },
+      "link": "https://qoj.ac/problem/7749"
     },
     {
-      "title": "",
+      "title": "Revenge on My Boss",
       "alias": "E",
       "statistics": {
         "accepted": 11,
         "submitted": 83
-      }
+      },
+      "link": "https://qoj.ac/problem/7750"
     },
     {
-      "title": "",
+      "title": "Palindrome Path",
       "alias": "F",
       "statistics": {
         "accepted": 3,
         "submitted": 13
-      }
+      },
+      "link": "https://qoj.ac/problem/7751"
     },
     {
-      "title": "",
+      "title": "The Only Way to the Destination",
       "alias": "G",
       "statistics": {
         "accepted": 97,
         "submitted": 728
-      }
+      },
+      "link": "https://qoj.ac/problem/7752"
     },
     {
-      "title": "",
+      "title": "Energy Distribution",
       "alias": "H",
       "statistics": {
         "accepted": 11,
         "submitted": 184
-      }
+      },
+      "link": "https://qoj.ac/problem/7753"
     },
     {
-      "title": "",
+      "title": "Rolling For Days",
       "alias": "I",
       "statistics": {
         "accepted": 0,
         "submitted": 2
-      }
+      },
+      "link": "https://qoj.ac/problem/7754"
     },
     {
-      "title": "",
+      "title": "Game on a Forest",
       "alias": "J",
       "statistics": {
         "accepted": 144,
         "submitted": 310
-      }
+      },
+      "link": "https://qoj.ac/problem/7755"
     },
     {
-      "title": "",
+      "title": "Omniscia Spares None",
       "alias": "K",
       "statistics": {
         "accepted": 1,
         "submitted": 26
-      }
+      },
+      "link": "https://qoj.ac/problem/7756"
     },
     {
-      "title": "",
+      "title": "Palm Island",
       "alias": "L",
       "statistics": {
         "accepted": 221,
         "submitted": 401
-      }
+      },
+      "link": "https://qoj.ac/problem/7757"
     },
     {
-      "title": "",
+      "title": "Painter",
       "alias": "M",
       "statistics": {
         "accepted": 231,
         "submitted": 380
-      }
+      },
+      "link": "https://qoj.ac/problem/7758"
     }
   ],
   "rows": [

@@ -39,91 +39,117 @@
       "statistics": {
         "accepted": 29,
         "submitted": 207
-      }
+      },
+      "link": "https://qoj.ac/problem/6501",
+      "title": "Graph Partitioning"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 3,
         "submitted": 15
-      }
+      },
+      "link": "https://qoj.ac/problem/6502",
+      "title": "Disjoint Set Union"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 99,
         "submitted": 260
-      }
+      },
+      "link": "https://qoj.ac/problem/6503",
+      "title": "DFS Order 3"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 1,
         "submitted": 3
-      }
+      },
+      "link": "https://qoj.ac/problem/6504",
+      "title": "Flower's Land 2"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 126,
         "submitted": 204
-      }
+      },
+      "link": "https://qoj.ac/problem/6505",
+      "title": "CCPC String"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 125,
         "submitted": 272
-      }
+      },
+      "link": "https://qoj.ac/problem/6506",
+      "title": "Chase Game 3"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 0,
         "submitted": 2
-      }
+      },
+      "link": "https://qoj.ac/problem/6507",
+      "title": "Recover the String"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 6,
         "submitted": 46
-      }
+      },
+      "link": "https://qoj.ac/problem/6508",
+      "title": "This is not an Abnormal Team!"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 2,
         "submitted": 12
-      }
+      },
+      "link": "https://qoj.ac/problem/6509",
+      "title": "Not Another Range Query Problem"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 108,
         "submitted": 437
-      }
+      },
+      "link": "https://qoj.ac/problem/6510",
+      "title": "Best Carry Player 3"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 1,
         "submitted": 8
-      }
+      },
+      "link": "https://qoj.ac/problem/6511",
+      "title": "Balancing Sequences"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 48,
         "submitted": 376
-      }
+      },
+      "link": "https://qoj.ac/problem/6512",
+      "title": "Completely Multiplicative Function"
     },
     {
       "alias": "M",
       "statistics": {
         "accepted": 7,
         "submitted": 32
-      }
+      },
+      "link": "https://qoj.ac/problem/6513",
+      "title": "Expression 3"
     }
   ],
   "series": [
@@ -32821,7 +32847,8 @@
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
     "algoUX (https://algoux.org)",
-    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)"
+    "ProtectEMmm (https://www.writebug.com/group/YDAXOZyMWh)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",

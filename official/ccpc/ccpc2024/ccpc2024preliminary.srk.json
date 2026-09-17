@@ -22,84 +22,108 @@
       "statistics": {
         "accepted": 48,
         "submitted": 681
-      }
+      },
+      "link": "https://codeforces.com/gym/105336/problem/A",
+      "title": "军训 I"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 1905,
         "submitted": 5846
-      }
+      },
+      "link": "https://qoj.ac/problem/14523",
+      "title": "军训 II"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 149,
         "submitted": 1009
-      }
+      },
+      "link": "https://qoj.ac/problem/14524",
+      "title": "种树"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 1007,
         "submitted": 3118
-      }
+      },
+      "link": "https://codeforces.com/gym/105336/problem/D",
+      "title": "编码器-解码器"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 467,
         "submitted": 1436
-      }
+      },
+      "link": "https://qoj.ac/problem/14526",
+      "title": "随机过程"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 65,
         "submitted": 326
-      }
+      },
+      "link": "https://codeforces.com/gym/105336/problem/F",
+      "title": "包子鸡蛋 III"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 329,
         "submitted": 6619
-      }
+      },
+      "link": "https://codeforces.com/gym/105336/problem/G",
+      "title": "疯狂星期六"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 6,
         "submitted": 232
-      }
+      },
+      "link": "https://qoj.ac/problem/14529",
+      "title": "另一个游戏"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 312,
         "submitted": 780
-      }
+      },
+      "link": "https://qoj.ac/problem/14530",
+      "title": "找行李"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 428,
         "submitted": 2561
-      }
+      },
+      "link": "https://qoj.ac/problem/14531",
+      "title": "找最小"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 1855,
         "submitted": 6052
-      }
+      },
+      "link": "https://codeforces.com/gym/105336/problem/K",
+      "title": "取沙子游戏"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 2081,
         "submitted": 2444
-      }
+      },
+      "link": "https://codeforces.com/gym/105336/problem/L",
+      "title": "网络预选赛"
     }
   ],
   "series": [
@@ -506360,6 +506384,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

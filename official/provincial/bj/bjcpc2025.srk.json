@@ -23,7 +23,8 @@
     ]
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
@@ -103,7 +104,9 @@
       "statistics": {
         "accepted": 116,
         "submitted": 212
-      }
+      },
+      "link": "https://qoj.ac/problem/10513",
+      "title": "删除01串"
     },
     {
       "alias": "B",
@@ -113,7 +116,9 @@
       "statistics": {
         "accepted": 3,
         "submitted": 12
-      }
+      },
+      "link": "https://qoj.ac/problem/10514",
+      "title": "疲配"
     },
     {
       "alias": "C",
@@ -123,7 +128,9 @@
       "statistics": {
         "accepted": 117,
         "submitted": 282
-      }
+      },
+      "link": "https://qoj.ac/problem/10515",
+      "title": "砝码"
     },
     {
       "alias": "D",
@@ -133,7 +140,9 @@
       "statistics": {
         "accepted": 15,
         "submitted": 35
-      }
+      },
+      "link": "https://qoj.ac/problem/10516",
+      "title": "最近公共祖先"
     },
     {
       "alias": "E",
@@ -143,7 +152,9 @@
       "statistics": {
         "accepted": 90,
         "submitted": 419
-      }
+      },
+      "link": "https://qoj.ac/problem/10517",
+      "title": "布置WAP"
     },
     {
       "alias": "F",
@@ -153,7 +164,9 @@
       "statistics": {
         "accepted": 7,
         "submitted": 44
-      }
+      },
+      "link": "https://qoj.ac/problem/10518",
+      "title": "腐蚀与膨胀"
     },
     {
       "alias": "G",
@@ -163,7 +176,9 @@
       "statistics": {
         "accepted": 83,
         "submitted": 446
-      }
+      },
+      "link": "https://qoj.ac/problem/10519",
+      "title": "萤火虫难题"
     },
     {
       "alias": "H",
@@ -173,7 +188,9 @@
       "statistics": {
         "accepted": 48,
         "submitted": 150
-      }
+      },
+      "link": "https://qoj.ac/problem/10520",
+      "title": "矩阵除法"
     },
     {
       "alias": "I",
@@ -183,7 +200,9 @@
       "statistics": {
         "accepted": 35,
         "submitted": 229
-      }
+      },
+      "link": "https://qoj.ac/problem/10521",
+      "title": "最小LCM"
     },
     {
       "alias": "J",
@@ -193,7 +212,9 @@
       "statistics": {
         "accepted": 25,
         "submitted": 116
-      }
+      },
+      "link": "https://qoj.ac/problem/10522",
+      "title": "四舍五入"
     },
     {
       "alias": "K",
@@ -203,7 +224,9 @@
       "statistics": {
         "accepted": 5,
         "submitted": 10
-      }
+      },
+      "link": "https://qoj.ac/problem/10523",
+      "title": "最小生成树"
     }
   ],
   "rows": [

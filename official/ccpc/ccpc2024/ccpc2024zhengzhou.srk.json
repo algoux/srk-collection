@@ -19,7 +19,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -90,108 +91,121 @@
   },
   "problems": [
     {
-      "title": "C8B4EB",
+      "title": "A + B = C Problem",
       "alias": "A",
       "statistics": {
         "accepted": 3,
         "submitted": 110
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9768"
     },
     {
-      "title": "FF0000",
+      "title": "Rolling Stones",
       "alias": "B",
       "statistics": {
         "accepted": 284,
         "submitted": 713
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9769"
     },
     {
-      "title": "87CEEB",
+      "title": "Middle Point",
       "alias": "C",
       "statistics": {
         "accepted": 101,
         "submitted": 451
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9770"
     },
     {
-      "title": "D02090",
+      "title": "Guessing Game",
       "alias": "D",
       "statistics": {
         "accepted": 2,
         "submitted": 30
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9771"
     },
     {
-      "title": "4D3900",
+      "title": "Permutation Routing",
       "alias": "E",
       "statistics": {
         "accepted": 1,
         "submitted": 9
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9772"
     },
     {
-      "title": "FFA500",
+      "title": "Infinite Loop",
       "alias": "F",
       "statistics": {
         "accepted": 239,
         "submitted": 508
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9773"
     },
     {
-      "title": "8FBC8F",
+      "title": "Same Sum",
       "alias": "G",
       "statistics": {
         "accepted": 34,
         "submitted": 424
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9774"
     },
     {
-      "title": "000080",
+      "title": "The Witness",
       "alias": "H",
       "statistics": {
         "accepted": 0,
         "submitted": 19
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9775"
     },
     {
-      "title": "9ACD32",
+      "title": "Best Friend, Worst Enemy",
       "alias": "I",
       "statistics": {
         "accepted": 2,
         "submitted": 12
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9776"
     },
     {
-      "title": "FFB6C1",
+      "title": "Balance in All Things",
       "alias": "J",
       "statistics": {
         "accepted": 3,
         "submitted": 10
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9777"
     },
     {
-      "title": "FFBD98",
+      "title": "Brotato",
       "alias": "K",
       "statistics": {
         "accepted": 16,
         "submitted": 111
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9778"
     },
     {
-      "title": "FFFF00",
+      "title": "Z-order Curve",
       "alias": "L",
       "statistics": {
         "accepted": 311,
         "submitted": 585
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9779"
     },
     {
-      "title": "FFFFFF",
+      "title": "Rejection Sampling",
       "alias": "M",
       "statistics": {
         "accepted": 210,
         "submitted": 1459
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1873/problem/9780"
     }
   ],
   "rows": [

@@ -19,7 +19,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -97,108 +98,121 @@
   ],
   "problems": [
     {
-      "title": "F97782",
+      "title": "乘积，欧拉函数，求和",
       "alias": "A",
       "statistics": {
         "accepted": 48,
         "submitted": 229
-      }
+      },
+      "link": "https://qoj.ac/problem/9619"
     },
     {
-      "title": "E6C42D",
+      "title": "osu!mania",
       "alias": "B",
       "statistics": {
         "accepted": 310,
         "submitted": 669
-      }
+      },
+      "link": "https://qoj.ac/problem/9620"
     },
     {
-      "title": "5679B8",
+      "title": "连方",
       "alias": "C",
       "statistics": {
         "accepted": 203,
         "submitted": 879
-      }
+      },
+      "link": "https://qoj.ac/problem/9621"
     },
     {
-      "title": "CC5555",
+      "title": "有限小数",
       "alias": "D",
       "statistics": {
         "accepted": 66,
         "submitted": 1040
-      }
+      },
+      "link": "https://qoj.ac/problem/9622"
     },
     {
-      "title": "69A55D",
+      "title": "合成大西瓜",
       "alias": "E",
       "statistics": {
         "accepted": 274,
         "submitted": 578
-      }
+      },
+      "link": "https://qoj.ac/problem/9623"
     },
     {
-      "title": "E48C82",
+      "title": "Pico Park",
       "alias": "F",
       "statistics": {
         "accepted": 1,
         "submitted": 21
-      }
+      },
+      "link": "https://qoj.ac/problem/9624"
     },
     {
-      "title": "956417",
+      "title": "魔弹",
       "alias": "G",
       "statistics": {
         "accepted": 0,
         "submitted": 11
-      }
+      },
+      "link": "https://qoj.ac/problem/9625"
     },
     {
-      "title": "604690",
+      "title": "str(list(s))",
       "alias": "H",
       "statistics": {
         "accepted": 27,
         "submitted": 70
-      }
+      },
+      "link": "https://qoj.ac/problem/9626"
     },
     {
-      "title": "1C3184",
+      "title": "算术",
       "alias": "I",
       "statistics": {
         "accepted": 285,
         "submitted": 446
-      }
+      },
+      "link": "https://qoj.ac/problem/9627"
     },
     {
-      "title": "C0313D",
+      "title": "骰子",
       "alias": "J",
       "statistics": {
         "accepted": 312,
         "submitted": 322
-      }
+      },
+      "link": "https://qoj.ac/problem/9628"
     },
     {
-      "title": "2A7559",
+      "title": "小 C 的神秘图形",
       "alias": "K",
       "statistics": {
         "accepted": 307,
         "submitted": 385
-      }
+      },
+      "link": "https://qoj.ac/problem/9629"
     },
     {
-      "title": "306F81",
+      "title": "沙堆",
       "alias": "L",
       "statistics": {
         "accepted": 0,
         "submitted": 33
-      }
+      },
+      "link": "https://qoj.ac/problem/9630"
     },
     {
-      "title": "EE712F",
+      "title": "Median Replacement",
       "alias": "M",
       "statistics": {
         "accepted": 18,
         "submitted": 118
-      }
+      },
+      "link": "https://qoj.ac/problem/9631"
     }
   ],
   "rows": [

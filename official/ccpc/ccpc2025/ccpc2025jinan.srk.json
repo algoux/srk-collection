@@ -25,7 +25,9 @@
       },
       "style": {
         "backgroundColor": "#E83322"
-      }
+      },
+      "link": "https://qoj.ac/problem/15032",
+      "title": "Cipher"
     },
     {
       "alias": "B",
@@ -35,7 +37,9 @@
       },
       "style": {
         "backgroundColor": "#E83CC6"
-      }
+      },
+      "link": "https://qoj.ac/problem/15033",
+      "title": "Fortress"
     },
     {
       "alias": "C",
@@ -45,7 +49,9 @@
       },
       "style": {
         "backgroundColor": "#F5C443"
-      }
+      },
+      "link": "https://qoj.ac/problem/15034",
+      "title": "Finding Keywords"
     },
     {
       "alias": "D",
@@ -55,7 +61,9 @@
       },
       "style": {
         "backgroundColor": "#82C7EA"
-      }
+      },
+      "link": "https://qoj.ac/problem/15035",
+      "title": "Lighthouse"
     },
     {
       "alias": "E",
@@ -65,7 +73,9 @@
       },
       "style": {
         "backgroundColor": "#8048EC"
-      }
+      },
+      "link": "https://qoj.ac/problem/15036",
+      "title": "Tree and Subgraph Problem"
     },
     {
       "alias": "F",
@@ -75,7 +85,9 @@
       },
       "style": {
         "backgroundColor": "#71D29F"
-      }
+      },
+      "link": "https://qoj.ac/problem/15037",
+      "title": "Grid Filling Game"
     },
     {
       "alias": "G",
@@ -85,7 +97,9 @@
       },
       "style": {
         "backgroundColor": "#EF95CF"
-      }
+      },
+      "link": "https://qoj.ac/problem/15038",
+      "title": "Make SYSU Great Again IV"
     },
     {
       "alias": "H",
@@ -95,7 +109,9 @@
       },
       "style": {
         "backgroundColor": "#EF933E"
-      }
+      },
+      "link": "https://qoj.ac/problem/15039",
+      "title": "Hashing"
     },
     {
       "alias": "I",
@@ -105,7 +121,9 @@
       },
       "style": {
         "backgroundColor": "#96E85A"
-      }
+      },
+      "link": "https://qoj.ac/problem/15040",
+      "title": "I Love CCPC"
     },
     {
       "alias": "J",
@@ -115,7 +133,9 @@
       },
       "style": {
         "backgroundColor": "#3B8128"
-      }
+      },
+      "link": "https://qoj.ac/problem/15041",
+      "title": "Memory, Permutation, and Rooted Tree"
     },
     {
       "alias": "K",
@@ -125,7 +145,9 @@
       },
       "style": {
         "backgroundColor": "#6EBD5E"
-      }
+      },
+      "link": "https://qoj.ac/problem/15042",
+      "title": "Card Game"
     },
     {
       "alias": "L",
@@ -135,7 +157,9 @@
       },
       "style": {
         "backgroundColor": "#254AF0"
-      }
+      },
+      "link": "https://qoj.ac/problem/15043",
+      "title": "Activity Rehearsal"
     },
     {
       "alias": "M",
@@ -145,7 +169,9 @@
       },
       "style": {
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "link": "https://qoj.ac/problem/15044",
+      "title": "MEX Problem"
     }
   ],
   "series": [
@@ -71007,6 +71033,7 @@
   "markers": [],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

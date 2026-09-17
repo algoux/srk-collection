@@ -18,7 +18,8 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "remarks": {
     "zh-CN": "这个榜单缺失优胜奖选手的队伍成员信息，如果您有该比赛的参赛名单，欢迎联系我们补充数据。",
@@ -33,7 +34,9 @@
       },
       "style": {
         "backgroundColor": "#ea3e00"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/A",
+      "title": "GD 终极节奏实验室"
     },
     {
       "alias": "B",
@@ -43,7 +46,9 @@
       },
       "style": {
         "backgroundColor": "#fff903"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/B",
+      "title": "交换"
     },
     {
       "alias": "C",
@@ -53,7 +58,9 @@
       },
       "style": {
         "backgroundColor": "#0089e1"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/C",
+      "title": "掼蛋"
     },
     {
       "alias": "D",
@@ -63,7 +70,9 @@
       },
       "style": {
         "backgroundColor": "#00904a"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/D",
+      "title": "保卫萝卜"
     },
     {
       "alias": "E",
@@ -73,7 +82,9 @@
       },
       "style": {
         "backgroundColor": "#eba3b1"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/E",
+      "title": "树上删边"
     },
     {
       "alias": "F",
@@ -83,7 +94,9 @@
       },
       "style": {
         "backgroundColor": "#ee6200"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/F",
+      "title": "年少的誓约Ⅱ"
     },
     {
       "alias": "G",
@@ -93,7 +106,9 @@
       },
       "style": {
         "backgroundColor": "#62448b"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/G",
+      "title": "加边"
     },
     {
       "alias": "H",
@@ -103,7 +118,9 @@
       },
       "style": {
         "backgroundColor": "#015438"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/H",
+      "title": "王国------迁移"
     },
     {
       "alias": "I",
@@ -113,7 +130,9 @@
       },
       "style": {
         "backgroundColor": "#d84945"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/I",
+      "title": "王国------求策"
     },
     {
       "alias": "J",
@@ -123,7 +142,9 @@
       },
       "style": {
         "backgroundColor": "#61bff3"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/J",
+      "title": "王国------回忆"
     },
     {
       "alias": "K",
@@ -133,7 +154,9 @@
       },
       "style": {
         "backgroundColor": "#addc10"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/K",
+      "title": "微信小游戏"
     },
     {
       "alias": "L",
@@ -143,7 +166,9 @@
       },
       "style": {
         "backgroundColor": "#f2c301"
-      }
+      },
+      "link": "https://codeforces.com/gym/105924/problem/L",
+      "title": "澡堂"
     }
   ],
   "markers": [

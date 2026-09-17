@@ -25,7 +25,9 @@
       },
       "style": {
         "backgroundColor": "#FF69B4"
-      }
+      },
+      "link": "https://qoj.ac/problem/9975",
+      "title": "Hitoshizuku"
     },
     {
       "alias": "B",
@@ -35,7 +37,9 @@
       },
       "style": {
         "backgroundColor": "#FFA500"
-      }
+      },
+      "link": "https://qoj.ac/problem/9976",
+      "title": "Guess the Polygon 2"
     },
     {
       "alias": "C",
@@ -45,7 +49,9 @@
       },
       "style": {
         "backgroundColor": "#00008B"
-      }
+      },
+      "link": "https://qoj.ac/problem/9977",
+      "title": "Norte da Universidade"
     },
     {
       "alias": "D",
@@ -55,7 +61,9 @@
       },
       "style": {
         "backgroundColor": "#2E8B57"
-      }
+      },
+      "link": "https://qoj.ac/problem/9978",
+      "title": "Keystone Correction"
     },
     {
       "alias": "E",
@@ -65,7 +73,9 @@
       },
       "style": {
         "backgroundColor": "#FFC0CB"
-      }
+      },
+      "link": "https://qoj.ac/problem/9979",
+      "title": "Corrupted Scoreboard Log"
     },
     {
       "alias": "F",
@@ -75,7 +85,9 @@
       },
       "style": {
         "backgroundColor": "#FFFF00"
-      }
+      },
+      "link": "https://qoj.ac/problem/9980",
+      "title": "Boolean Function Reconstruction"
     },
     {
       "alias": "G",
@@ -85,7 +97,9 @@
       },
       "style": {
         "backgroundColor": "#FF0000"
-      }
+      },
+      "link": "https://qoj.ac/problem/9981",
+      "title": "Collatz Conjecture"
     },
     {
       "alias": "H",
@@ -95,7 +109,9 @@
       },
       "style": {
         "backgroundColor": "#DDA0DD"
-      }
+      },
+      "link": "https://qoj.ac/problem/9982",
+      "title": "Staircase Museum"
     },
     {
       "alias": "I",
@@ -105,7 +121,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/9983",
+      "title": "Color-Balanced Tree"
     },
     {
       "alias": "J",
@@ -115,7 +133,9 @@
       },
       "style": {
         "backgroundColor": "#ADD8E6"
-      }
+      },
+      "link": "https://qoj.ac/problem/9984",
+      "title": "The Mysterious Shop"
     },
     {
       "alias": "K",
@@ -125,7 +145,9 @@
       },
       "style": {
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "link": "https://qoj.ac/problem/9985",
+      "title": "Exploration Boundary"
     },
     {
       "alias": "L",
@@ -135,7 +157,9 @@
       },
       "style": {
         "backgroundColor": "#FFF44F"
-      }
+      },
+      "link": "https://qoj.ac/problem/9986",
+      "title": "Shiori"
     }
   ],
   "series": [
@@ -97936,6 +97960,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,108 +97,121 @@
   ],
   "problems": [
     {
-      "title": "D6A8E6",
+      "title": "Project Management",
       "alias": "A",
       "statistics": {
         "accepted": 113,
         "submitted": 765
-      }
+      },
+      "link": "https://qoj.ac/problem/10486"
     },
     {
-      "title": "FFFFFF",
+      "title": "Pinball",
       "alias": "B",
       "statistics": {
         "accepted": 0,
         "submitted": 9
-      }
+      },
+      "link": "https://qoj.ac/problem/10487"
     },
     {
-      "title": "FF0000",
+      "title": "Bracket Integer",
       "alias": "C",
       "statistics": {
         "accepted": 6,
         "submitted": 74
-      }
+      },
+      "link": "https://qoj.ac/problem/10488"
     },
     {
-      "title": "4D9DE0",
+      "title": "Distributed System",
       "alias": "D",
       "statistics": {
         "accepted": 246,
         "submitted": 762
-      }
+      },
+      "link": "https://qoj.ac/problem/10489"
     },
     {
-      "title": "DDA0B0",
+      "title": "Greatest Common Divisor",
       "alias": "E",
       "statistics": {
         "accepted": 22,
         "submitted": 296
-      }
+      },
+      "link": "https://qoj.ac/problem/10490"
     },
     {
-      "title": "4B0082",
+      "title": "ACE String",
       "alias": "F",
       "statistics": {
         "accepted": 0,
         "submitted": 13
-      }
+      },
+      "link": "https://qoj.ac/problem/10491"
     },
     {
-      "title": "006400",
+      "title": "Assembly Line",
       "alias": "G",
       "statistics": {
         "accepted": 128,
         "submitted": 370
-      }
+      },
+      "link": "https://qoj.ac/problem/10492"
     },
     {
-      "title": "FF8C00",
+      "title": "Minimum Spanning Tree",
       "alias": "H",
       "statistics": {
         "accepted": 109,
         "submitted": 440
-      }
+      },
+      "link": "https://qoj.ac/problem/10493"
     },
     {
-      "title": "87CEFA",
+      "title": "Square Puzzle",
       "alias": "I",
       "statistics": {
         "accepted": 38,
         "submitted": 173
-      }
+      },
+      "link": "https://qoj.ac/problem/10494"
     },
     {
-      "title": "C2A884",
+      "title": "Useful Algorithm",
       "alias": "J",
       "statistics": {
         "accepted": 2,
         "submitted": 20
-      }
+      },
+      "link": "https://qoj.ac/problem/10495"
     },
     {
-      "title": "50C878",
+      "title": "Path Planning 2",
       "alias": "K",
       "statistics": {
         "accepted": 3,
         "submitted": 117
-      }
+      },
+      "link": "https://qoj.ac/problem/10496"
     },
     {
-      "title": "FFFF00",
+      "title": "Stella",
       "alias": "L",
       "statistics": {
         "accepted": 270,
         "submitted": 296
-      }
+      },
+      "link": "https://qoj.ac/problem/10497"
     },
     {
-      "title": "FF007F",
+      "title": "Triangulation",
       "alias": "M",
       "statistics": {
         "accepted": 1,
         "submitted": 25
-      }
+      },
+      "link": "https://qoj.ac/problem/10498"
     }
   ],
   "rows": [

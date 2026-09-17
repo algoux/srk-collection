@@ -26,7 +26,9 @@
       },
       "style": {
         "backgroundColor": "#fe454d"
-      }
+      },
+      "link": "https://qoj.ac/problem/9037",
+      "title": "Ancient Maps, Hidden Danger"
     },
     {
       "alias": "B",
@@ -36,7 +38,9 @@
       },
       "style": {
         "backgroundColor": "#ffffff"
-      }
+      },
+      "link": "https://qoj.ac/problem/9038",
+      "title": "Basic Graph Algorithm"
     },
     {
       "alias": "C",
@@ -46,7 +50,9 @@
       },
       "style": {
         "backgroundColor": "#0477f2"
-      }
+      },
+      "link": "https://qoj.ac/problem/9039",
+      "title": "Conquer the Multiples"
     },
     {
       "alias": "D",
@@ -56,7 +62,9 @@
       },
       "style": {
         "backgroundColor": "#f7c472"
-      }
+      },
+      "link": "https://qoj.ac/problem/9040",
+      "title": "Decrease and Swap"
     },
     {
       "alias": "E",
@@ -66,7 +74,9 @@
       },
       "style": {
         "backgroundColor": "#f74fa0"
-      }
+      },
+      "link": "https://qoj.ac/problem/9041",
+      "title": "Equal Measure"
     },
     {
       "alias": "F",
@@ -76,7 +86,9 @@
       },
       "style": {
         "backgroundColor": "#ff9604"
-      }
+      },
+      "link": "https://qoj.ac/problem/9042",
+      "title": "Fast Bogosort"
     },
     {
       "alias": "G",
@@ -86,7 +98,9 @@
       },
       "style": {
         "backgroundColor": "#9269e1"
-      }
+      },
+      "link": "https://qoj.ac/problem/9043",
+      "title": "Geometry Task"
     },
     {
       "alias": "H",
@@ -96,7 +110,9 @@
       },
       "style": {
         "backgroundColor": "#12802e"
-      }
+      },
+      "link": "https://qoj.ac/problem/9044",
+      "title": "Hexagon Puzzle"
     },
     {
       "alias": "I",
@@ -106,7 +122,9 @@
       },
       "style": {
         "backgroundColor": "#fac2dd"
-      }
+      },
+      "link": "https://qoj.ac/problem/9045",
+      "title": "In Search of the Ultimate Artifact"
     },
     {
       "alias": "J",
@@ -116,7 +134,9 @@
       },
       "style": {
         "backgroundColor": "#87ceeb"
-      }
+      },
+      "link": "https://qoj.ac/problem/9046",
+      "title": "Just-in-Time Render Analysis"
     },
     {
       "alias": "K",
@@ -126,7 +146,9 @@
       },
       "style": {
         "backgroundColor": "#73cf65"
-      }
+      },
+      "link": "https://qoj.ac/problem/9047",
+      "title": "Knights of Night"
     },
     {
       "alias": "L",
@@ -136,7 +158,9 @@
       },
       "style": {
         "backgroundColor": "#ffef5b"
-      }
+      },
+      "link": "https://qoj.ac/problem/9048",
+      "title": "Lazy Susan"
     },
     {
       "alias": "M",
@@ -146,7 +170,9 @@
       },
       "style": {
         "backgroundColor": "#522e9a"
-      }
+      },
+      "link": "https://qoj.ac/problem/9049",
+      "title": "Machine Learning with Penguins"
     }
   ],
   "series": [
@@ -90051,6 +90077,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

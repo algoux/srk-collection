@@ -26,7 +26,9 @@
       "style": {
         "backgroundColor": "#ff0000",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/A",
+      "title": "那一年的秘密基地"
     },
     {
       "alias": "B",
@@ -37,7 +39,9 @@
       "style": {
         "backgroundColor": "#ffa500",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/B",
+      "title": "括号序列"
     },
     {
       "alias": "C",
@@ -48,7 +52,9 @@
       "style": {
         "backgroundColor": "#ffff00",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/C",
+      "title": "精灵对战"
     },
     {
       "alias": "D",
@@ -59,7 +65,9 @@
       "style": {
         "backgroundColor": "#1c6a35",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/D",
+      "title": "那一天的回文字符串"
     },
     {
       "alias": "E",
@@ -70,7 +78,9 @@
       "style": {
         "backgroundColor": "#0000ff",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/E",
+      "title": "永恒的奥古斯都"
     },
     {
       "alias": "F",
@@ -81,7 +91,9 @@
       "style": {
         "backgroundColor": "#0aba85",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/F",
+      "title": "交换余生"
     },
     {
       "alias": "G",
@@ -92,7 +104,9 @@
       "style": {
         "backgroundColor": "#b57edc",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/G",
+      "title": "禁忌教典的消失咒文"
     },
     {
       "alias": "H",
@@ -103,7 +117,9 @@
       "style": {
         "backgroundColor": "#fb8a9c",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/H",
+      "title": "最大权独立集问题"
     },
     {
       "alias": "I",
@@ -114,7 +130,9 @@
       "style": {
         "backgroundColor": "#8ac854",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/I",
+      "title": "星系观测计划"
     },
     {
       "alias": "J",
@@ -125,7 +143,9 @@
       "style": {
         "backgroundColor": "#964b00",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/J",
+      "title": "献给空白的无败冠冕"
     },
     {
       "alias": "K",
@@ -136,7 +156,9 @@
       "style": {
         "backgroundColor": "#fedee4",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/K",
+      "title": "环基基环树"
     },
     {
       "alias": "L",
@@ -147,7 +169,9 @@
       "style": {
         "backgroundColor": "#add8e6",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/106570/problem/L",
+      "title": "博德之跃 3"
     }
   ],
   "series": [
@@ -70850,6 +70874,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

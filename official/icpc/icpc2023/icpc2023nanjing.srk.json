@@ -35,7 +35,9 @@
       },
       "style": {
         "backgroundColor": "#006400"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/A",
+      "title": "Cool, It's Yesterday Four Times More"
     },
     {
       "alias": "B",
@@ -45,7 +47,9 @@
       },
       "style": {
         "backgroundColor": "#a52a2a"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/B",
+      "title": "Intersection over Union"
     },
     {
       "alias": "C",
@@ -55,14 +59,18 @@
       },
       "style": {
         "backgroundColor": "#ffa500"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/C",
+      "title": "Primitive Root"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 19,
         "submitted": 54
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/D",
+      "title": "Red Black Tree"
     },
     {
       "alias": "E",
@@ -72,7 +80,9 @@
       },
       "style": {
         "backgroundColor": "#0000ff"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/E",
+      "title": "Extending Distance"
     },
     {
       "alias": "F",
@@ -82,7 +92,9 @@
       },
       "style": {
         "backgroundColor": "#87ceeb"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/F",
+      "title": "Equivalent Rewriting"
     },
     {
       "alias": "G",
@@ -92,7 +104,9 @@
       },
       "style": {
         "backgroundColor": "#000000"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/G",
+      "title": "Knapsack"
     },
     {
       "alias": "H",
@@ -102,7 +116,9 @@
       },
       "style": {
         "backgroundColor": "#ff69b4"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/H",
+      "title": "Puzzle: Question Mark"
     },
     {
       "alias": "I",
@@ -112,7 +128,9 @@
       },
       "style": {
         "backgroundColor": "#ff00ff"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/I",
+      "title": "Counter"
     },
     {
       "alias": "J",
@@ -122,7 +140,9 @@
       },
       "style": {
         "backgroundColor": "#90ee90"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/J",
+      "title": "Suffix Structure"
     },
     {
       "alias": "K",
@@ -132,7 +152,9 @@
       },
       "style": {
         "backgroundColor": "#ff0000"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/K",
+      "title": "Grand Finale"
     },
     {
       "alias": "L",
@@ -142,7 +164,9 @@
       },
       "style": {
         "backgroundColor": "#800080"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/L",
+      "title": "Elevator"
     },
     {
       "alias": "M",
@@ -152,7 +176,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://codeforces.com/gym/104821/problem/M",
+      "title": "Trapping Rain Water"
     }
   ],
   "series": [
@@ -82077,6 +82103,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

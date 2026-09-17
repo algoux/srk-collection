@@ -22,84 +22,108 @@
       "statistics": {
         "accepted": 192,
         "submitted": 1116
-      }
+      },
+      "link": "https://qoj.ac/problem/7512",
+      "title": "Almost Prefix Concatenation"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 17,
         "submitted": 191
-      }
+      },
+      "link": "https://qoj.ac/problem/7513",
+      "title": "Palindromic Beads"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 2,
         "submitted": 90
-      }
+      },
+      "link": "https://qoj.ac/problem/7514",
+      "title": "Clique Challenge"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 178,
         "submitted": 2358
-      }
+      },
+      "link": "https://qoj.ac/problem/7515",
+      "title": "Discrete Fourier Transform"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 1305,
         "submitted": 3811
-      }
+      },
+      "link": "https://qoj.ac/problem/7516",
+      "title": "Robot Experiment"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 39,
         "submitted": 645
-      }
+      },
+      "link": "https://qoj.ac/problem/7517",
+      "title": "Flying Ship Story"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 55,
         "submitted": 772
-      }
+      },
+      "link": "https://qoj.ac/problem/7518",
+      "title": "GCD of Pattern Matching"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 9,
         "submitted": 140
-      }
+      },
+      "link": "https://qoj.ac/problem/7519",
+      "title": "Hurricane"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 0,
         "submitted": 64
-      }
+      },
+      "link": "https://qoj.ac/problem/7520",
+      "title": "Monster Generator"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 124,
         "submitted": 4101
-      }
+      },
+      "link": "https://qoj.ac/problem/7521",
+      "title": "Find the Gap"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 4,
         "submitted": 209
-      }
+      },
+      "link": "https://qoj.ac/problem/7522",
+      "title": "Sequence Shift"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 57,
         "submitted": 3077
-      }
+      },
+      "link": "https://qoj.ac/problem/7523",
+      "title": "Partially Free Meal"
     }
   ],
   "series": [
@@ -309601,6 +309625,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

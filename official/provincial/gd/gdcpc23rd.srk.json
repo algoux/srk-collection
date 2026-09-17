@@ -18,7 +18,8 @@
     "banner": "assets/outrank_sponsor_banner.webp"
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -97,7 +98,7 @@
   ],
   "problems": [
     {
-      "title": "舞者僵尸",
+      "title": "Dancing Zombie",
       "alias": "A",
       "style": {
         "backgroundColor": "#B794E6"
@@ -105,10 +106,11 @@
       "statistics": {
         "accepted": 202,
         "submitted": 967
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/A"
     },
     {
-      "title": "梦中星河",
+      "title": "Galaxy of Stars in a Dream",
       "alias": "B",
       "style": {
         "backgroundColor": "#324FE9"
@@ -116,10 +118,11 @@
       "statistics": {
         "accepted": 107,
         "submitted": 1218
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/B"
     },
     {
-      "title": "二进制串",
+      "title": "Binary String",
       "alias": "C",
       "style": {
         "backgroundColor": "#E82B27"
@@ -127,10 +130,11 @@
       "statistics": {
         "accepted": 296,
         "submitted": 363
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/C"
     },
     {
-      "title": "括号凸包",
+      "title": "Bracket Convex Hull",
       "alias": "D",
       "style": {
         "backgroundColor": "#EB73BB"
@@ -138,10 +142,11 @@
       "statistics": {
         "accepted": 5,
         "submitted": 78
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/D"
     },
     {
-      "title": "高维几何",
+      "title": "High-Dimensional Geometry",
       "alias": "E",
       "style": {
         "backgroundColor": "#C2D821"
@@ -149,10 +154,11 @@
       "statistics": {
         "accepted": 12,
         "submitted": 54
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/E"
     },
     {
-      "title": "进行一个数的数",
+      "title": "Counting",
       "alias": "F",
       "style": {
         "backgroundColor": "#F3EB1C"
@@ -160,10 +166,11 @@
       "statistics": {
         "accepted": 231,
         "submitted": 853
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/F"
     },
     {
-      "title": "传球谜题",
+      "title": "Passing Ball Problem",
       "alias": "G",
       "style": {
         "backgroundColor": "#F1DACA"
@@ -171,10 +178,11 @@
       "statistics": {
         "accepted": 0,
         "submitted": 10
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/G"
     },
     {
-      "title": "金银岛",
+      "title": "Treasure Island",
       "alias": "H",
       "style": {
         "backgroundColor": "#1ABA3E"
@@ -182,10 +190,11 @@
       "statistics": {
         "accepted": 10,
         "submitted": 85
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/H"
     },
     {
-      "title": "聪明猪的考验",
+      "title": "The Test of the Clever Pig",
       "alias": "I",
       "style": {
         "backgroundColor": "#E1DBCB"
@@ -193,10 +202,11 @@
       "statistics": {
         "accepted": 257,
         "submitted": 515
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/I"
     },
     {
-      "title": "宝石商人",
+      "title": "Splendor",
       "alias": "J",
       "style": {
         "backgroundColor": "#D2B0EC"
@@ -204,10 +214,11 @@
       "statistics": {
         "accepted": 17,
         "submitted": 41
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/J"
     },
     {
-      "title": "股票交易",
+      "title": "Stock Trading",
       "alias": "K",
       "style": {
         "backgroundColor": "#56D7DC"
@@ -215,10 +226,11 @@
       "statistics": {
         "accepted": 73,
         "submitted": 282
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/K"
     },
     {
-      "title": "二人游戏",
+      "title": "Two-Player Game",
       "alias": "L",
       "style": {
         "backgroundColor": "#C93728"
@@ -226,7 +238,8 @@
       "statistics": {
         "accepted": 86,
         "submitted": 431
-      }
+      },
+      "link": "https://codeforces.com/gym/106550/problem/L"
     }
   ],
   "rows": [

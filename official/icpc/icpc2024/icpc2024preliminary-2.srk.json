@@ -22,84 +22,108 @@
       "statistics": {
         "accepted": 1715,
         "submitted": 2791
-      }
+      },
+      "link": "https://qoj.ac/problem/9370",
+      "title": "Gambling on Choosing Regionals"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 6,
         "submitted": 128
-      }
+      },
+      "link": "https://qoj.ac/problem/9371",
+      "title": "Mountain Booking"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 103,
         "submitted": 1221
-      }
+      },
+      "link": "https://qoj.ac/problem/9372",
+      "title": "Prefix of Suffixes"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 1,
         "submitted": 163
-      }
+      },
+      "link": "https://qoj.ac/problem/9373",
+      "title": "Query on Tree"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 505,
         "submitted": 2677
-      }
+      },
+      "link": "https://qoj.ac/problem/9374",
+      "title": "Escape"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 2359,
         "submitted": 3657
-      }
+      },
+      "link": "https://qoj.ac/problem/9375",
+      "title": "Tourist"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 1059,
         "submitted": 2744
-      }
+      },
+      "link": "https://qoj.ac/problem/9376",
+      "title": "Game"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 29,
         "submitted": 243
-      }
+      },
+      "link": "https://qoj.ac/problem/9377",
+      "title": "Points Selection"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 2128,
         "submitted": 4244
-      }
+      },
+      "link": "https://qoj.ac/problem/9378",
+      "title": "Strange Binary"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 1856,
         "submitted": 6547
-      }
+      },
+      "link": "https://qoj.ac/problem/9379",
+      "title": "Stacking of Goods"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 88,
         "submitted": 254
-      }
+      },
+      "link": "https://qoj.ac/problem/9380",
+      "title": "Match"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 952,
         "submitted": 5416
-      }
+      },
+      "link": "https://qoj.ac/problem/9381",
+      "title": "502 Bad Gateway"
     }
   ],
   "series": [
@@ -540637,6 +540661,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

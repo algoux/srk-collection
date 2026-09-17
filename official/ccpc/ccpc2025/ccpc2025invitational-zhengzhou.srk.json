@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,108 +97,121 @@
   ],
   "problems": [
     {
-      "title": "C8455F",
+      "title": "Toxel 与独一无二的序列",
       "alias": "A",
       "statistics": {
         "accepted": 0,
         "submitted": 144
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/A"
     },
     {
-      "title": "2E45A6",
+      "title": "随机栈 II",
       "alias": "B",
       "statistics": {
         "accepted": 27,
         "submitted": 199
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/B"
     },
     {
-      "title": "408342",
+      "title": "Toxel 与宝可梦图鉴",
       "alias": "C",
       "statistics": {
         "accepted": 36,
         "submitted": 195
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/C"
     },
     {
-      "title": "C6B63C",
+      "title": "2025",
       "alias": "D",
       "statistics": {
         "accepted": 436,
         "submitted": 587
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/D"
     },
     {
-      "title": "724F93",
+      "title": "双生魔咒",
       "alias": "E",
       "statistics": {
         "accepted": 184,
         "submitted": 457
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/E"
     },
     {
-      "title": "E06EA9",
+      "title": "幻形之路",
       "alias": "F",
       "statistics": {
         "accepted": 282,
         "submitted": 1443
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/F"
     },
     {
-      "title": "E98241",
+      "title": "直径与最大独立集",
       "alias": "G",
       "statistics": {
         "accepted": 276,
         "submitted": 999
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/G"
     },
     {
-      "title": "69A2CB",
+      "title": "树论函数",
       "alias": "H",
       "statistics": {
         "accepted": 373,
         "submitted": 882
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/H"
     },
     {
-      "title": "91C360",
+      "title": "有的兄弟，有的",
       "alias": "I",
       "statistics": {
         "accepted": 5,
         "submitted": 63
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/I"
     },
     {
-      "title": "D39D93",
+      "title": "Ring Trick",
       "alias": "J",
       "statistics": {
         "accepted": 436,
         "submitted": 490
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/J"
     },
     {
-      "title": "3D6C58",
+      "title": "Ring Trick II",
       "alias": "K",
       "statistics": {
         "accepted": 9,
         "submitted": 110
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/K"
     },
     {
-      "title": "AA7030",
+      "title": "Astral Decay",
       "alias": "L",
       "statistics": {
         "accepted": 3,
         "submitted": 268
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/L"
     },
     {
-      "title": "93232C",
+      "title": "川陀航空学院",
       "alias": "M",
       "statistics": {
         "accepted": 403,
         "submitted": 971
-      }
+      },
+      "link": "https://codeforces.com/gym/105941/problem/M"
     }
   ],
   "rows": [

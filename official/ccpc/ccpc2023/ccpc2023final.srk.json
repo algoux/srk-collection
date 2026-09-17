@@ -35,7 +35,9 @@
       },
       "style": {
         "backgroundColor": "rgba(189, 14, 14, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8542",
+      "title": "Add One 2"
     },
     {
       "alias": "B",
@@ -45,7 +47,9 @@
       },
       "style": {
         "backgroundColor": "rgba(149, 31, 217, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8543",
+      "title": "Periodic Sequence"
     },
     {
       "alias": "C",
@@ -55,7 +59,9 @@
       },
       "style": {
         "backgroundColor": "rgba(16, 32, 96, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8544",
+      "title": "Colorful Graph 2"
     },
     {
       "alias": "D",
@@ -65,7 +71,9 @@
       },
       "style": {
         "backgroundColor": "rgba(38, 185, 60, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8545",
+      "title": "Min or Max"
     },
     {
       "alias": "E",
@@ -75,7 +83,9 @@
       },
       "style": {
         "backgroundColor": "rgba(239, 217, 9, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8546",
+      "title": "Min or Max 2"
     },
     {
       "alias": "F",
@@ -85,7 +95,9 @@
       },
       "style": {
         "backgroundColor": "rgba(243, 88, 20, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8547",
+      "title": "Whose Land?"
     },
     {
       "alias": "G",
@@ -95,7 +107,9 @@
       },
       "style": {
         "backgroundColor": "rgba(12, 76, 138, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8548",
+      "title": "China Convex Polygon Contest"
     },
     {
       "alias": "H",
@@ -105,7 +119,9 @@
       },
       "style": {
         "backgroundColor": "rgba(156, 155, 155, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8549",
+      "title": "The Game"
     },
     {
       "alias": "I",
@@ -115,7 +131,9 @@
       },
       "style": {
         "backgroundColor": "rgba(4, 154, 115, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8550",
+      "title": "All the Way Left"
     },
     {
       "alias": "J",
@@ -125,7 +143,9 @@
       },
       "style": {
         "backgroundColor": "rgba(159, 19, 236, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8551",
+      "title": "DFS Order 5"
     },
     {
       "alias": "K",
@@ -135,7 +155,9 @@
       },
       "style": {
         "backgroundColor": "rgba(42, 197, 202, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8552",
+      "title": "Sticks"
     },
     {
       "alias": "L",
@@ -145,7 +167,9 @@
       },
       "style": {
         "backgroundColor": "rgba(142, 56, 54, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8553",
+      "title": "Exchanging Kubic"
     },
     {
       "alias": "M",
@@ -155,7 +179,9 @@
       },
       "style": {
         "backgroundColor": "rgba(144, 238, 144, 0.7)"
-      }
+      },
+      "link": "https://qoj.ac/problem/8554",
+      "title": "Bot Friends"
     }
   ],
   "series": [
@@ -31420,6 +31446,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

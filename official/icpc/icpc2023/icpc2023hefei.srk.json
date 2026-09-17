@@ -35,7 +35,9 @@
       },
       "style": {
         "backgroundColor": "#ff00ff"
-      }
+      },
+      "link": "https://qoj.ac/problem/7874",
+      "title": "SQRT Problem"
     },
     {
       "alias": "B",
@@ -45,7 +47,9 @@
       },
       "style": {
         "backgroundColor": "#800080"
-      }
+      },
+      "link": "https://qoj.ac/problem/7875",
+      "title": "Queue Sorting"
     },
     {
       "alias": "C",
@@ -55,7 +59,9 @@
       },
       "style": {
         "backgroundColor": "#00ffff"
-      }
+      },
+      "link": "https://qoj.ac/problem/7876",
+      "title": "Cyclic Substrings"
     },
     {
       "alias": "D",
@@ -65,7 +71,9 @@
       },
       "style": {
         "backgroundColor": "#ffc0cb"
-      }
+      },
+      "link": "https://codeforces.com/gym/104857/problem/D",
+      "title": "Balanced Array"
     },
     {
       "alias": "E",
@@ -75,7 +83,9 @@
       },
       "style": {
         "backgroundColor": "#a52a2a"
-      }
+      },
+      "link": "https://qoj.ac/problem/7878",
+      "title": "Matrix Distances"
     },
     {
       "alias": "F",
@@ -85,14 +95,18 @@
       },
       "style": {
         "backgroundColor": "#ffa500"
-      }
+      },
+      "link": "https://qoj.ac/problem/7879",
+      "title": "Colorful Balloons"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 171,
         "submitted": 419
-      }
+      },
+      "link": "https://qoj.ac/problem/7880",
+      "title": "Streak Manipulation"
     },
     {
       "alias": "H",
@@ -102,7 +116,9 @@
       },
       "style": {
         "backgroundColor": "#8b0000"
-      }
+      },
+      "link": "https://codeforces.com/gym/104857/problem/H",
+      "title": "Computational Complexity"
     },
     {
       "alias": "I",
@@ -112,7 +128,9 @@
       },
       "style": {
         "backgroundColor": "#000080"
-      }
+      },
+      "link": "https://qoj.ac/problem/7882",
+      "title": "Linguistics Puzzle"
     },
     {
       "alias": "J",
@@ -122,7 +140,9 @@
       },
       "style": {
         "backgroundColor": "#ffff00"
-      }
+      },
+      "link": "https://qoj.ac/problem/7883",
+      "title": "Takeout Delivering"
     },
     {
       "alias": "K",
@@ -132,7 +152,9 @@
       },
       "style": {
         "backgroundColor": "#006400"
-      }
+      },
+      "link": "https://codeforces.com/gym/104857/problem/K",
+      "title": "Campus Partition"
     },
     {
       "alias": "L",
@@ -142,7 +164,9 @@
       },
       "style": {
         "backgroundColor": "#90ee90"
-      }
+      },
+      "link": "https://codeforces.com/gym/104857/problem/L",
+      "title": "Information Spread"
     }
   ],
   "series": [
@@ -78523,6 +78547,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

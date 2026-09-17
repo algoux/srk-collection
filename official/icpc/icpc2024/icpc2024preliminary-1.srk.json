@@ -22,91 +22,117 @@
       "statistics": {
         "accepted": 1918,
         "submitted": 10329
-      }
+      },
+      "link": "https://qoj.ac/problem/9308",
+      "title": "World Cup"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 23,
         "submitted": 192
-      }
+      },
+      "link": "https://qoj.ac/problem/9309",
+      "title": "Graph"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 308,
         "submitted": 4656
-      }
+      },
+      "link": "https://qoj.ac/problem/9310",
+      "title": "Permutation Counting 4"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 1,
         "submitted": 52
-      }
+      },
+      "link": "https://qoj.ac/problem/9311",
+      "title": "Protection War"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 9,
         "submitted": 91
-      }
+      },
+      "link": "https://qoj.ac/problem/9312",
+      "title": "Random Dungeon"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 1541,
         "submitted": 6792
-      }
+      },
+      "link": "https://qoj.ac/problem/9313",
+      "title": "Make Max"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 496,
         "submitted": 5358
-      }
+      },
+      "link": "https://qoj.ac/problem/9314",
+      "title": "The Median of the Median of the Median"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 86,
         "submitted": 325
-      }
+      },
+      "link": "https://qoj.ac/problem/9315",
+      "title": "Rainbow Bracket Sequence"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 0,
         "submitted": 53
-      }
+      },
+      "link": "https://qoj.ac/problem/9316",
+      "title": "Boxes"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 1,
         "submitted": 43
-      }
+      },
+      "link": "https://qoj.ac/problem/9317",
+      "title": "Rivals"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 1,
         "submitted": 65
-      }
+      },
+      "link": "https://qoj.ac/problem/9318",
+      "title": "AC Automation Chicken"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 125,
         "submitted": 792
-      }
+      },
+      "link": "https://qoj.ac/problem/9319",
+      "title": "Bull Farm"
     },
     {
       "alias": "M",
       "statistics": {
         "accepted": 2158,
         "submitted": 4176
-      }
+      },
+      "link": "https://qoj.ac/problem/9320",
+      "title": "Find the Easiest Problem"
     }
   ],
   "series": [
@@ -555673,6 +555699,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

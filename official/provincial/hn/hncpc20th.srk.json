@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,92 +97,103 @@
   ],
   "problems": [
     {
-      "title": "840004",
+      "title": "贪吃蛇",
       "alias": "A",
       "statistics": {
         "accepted": 14,
         "submitted": 334
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/A"
     },
     {
-      "title": "650306",
+      "title": "HolyK's Land",
       "alias": "B",
       "statistics": {
         "accepted": 0,
         "submitted": 15
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/B"
     },
     {
-      "title": "EA7DC2",
+      "title": "easy math",
       "alias": "C",
       "statistics": {
         "accepted": 156,
         "submitted": 413
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/C"
     },
     {
-      "title": "D4919A",
+      "title": "Too much noise!",
       "alias": "D",
       "statistics": {
         "accepted": 11,
         "submitted": 65
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/D"
     },
     {
-      "title": "88D100",
+      "title": "拼接串",
       "alias": "E",
       "statistics": {
         "accepted": 69,
         "submitted": 434
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/E"
     },
     {
-      "title": "B08A00",
+      "title": "阅读理解",
       "alias": "F",
       "statistics": {
         "accepted": 3,
         "submitted": 11
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/F"
     },
     {
-      "title": "E7D100",
+      "title": "Utakotoba",
       "alias": "G",
       "statistics": {
         "accepted": 4,
         "submitted": 21
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/G"
     },
     {
-      "title": "CED83C",
+      "title": "经文",
       "alias": "H",
       "statistics": {
         "accepted": 39,
         "submitted": 140
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/H"
     },
     {
-      "title": "C6C6C4",
+      "title": "数据检索系统",
       "alias": "I",
       "statistics": {
         "accepted": 152,
         "submitted": 322
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/I"
     },
     {
-      "title": "8951B6",
+      "title": "Beautiful Sequence",
       "alias": "J",
       "statistics": {
         "accepted": 42,
         "submitted": 104
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/J"
     },
     {
-      "title": "5688C3",
+      "title": "渡劫",
       "alias": "K",
       "statistics": {
         "accepted": 45,
         "submitted": 237
-      }
+      },
+      "link": "https://codeforces.com/gym/105423/problem/K"
     }
   ],
   "rows": [

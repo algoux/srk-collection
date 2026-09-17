@@ -2,7 +2,8 @@
   "type": "general",
   "version": "0.3.4",
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "sorter": {
     "algorithm": "ICPC",
@@ -96,91 +97,117 @@
       "statistics": {
         "accepted": 426,
         "submitted": 1874
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/A",
+      "title": "Printer"
     },
     {
       "alias": "B",
       "statistics": {
         "accepted": 0,
         "submitted": 48
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/B",
+      "title": "Triangle"
     },
     {
       "alias": "C",
       "statistics": {
         "accepted": 321,
         "submitted": 1145
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/C",
+      "title": "Colorful Segments 2"
     },
     {
       "alias": "D",
       "statistics": {
         "accepted": 149,
         "submitted": 1148
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/D",
+      "title": "Hero of the Kingdom"
     },
     {
       "alias": "E",
       "statistics": {
         "accepted": 9,
         "submitted": 208
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/E",
+      "title": "Sensors"
     },
     {
       "alias": "F",
       "statistics": {
         "accepted": 390,
         "submitted": 831
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/F",
+      "title": "Divide the Sequence"
     },
     {
       "alias": "G",
       "statistics": {
         "accepted": 2,
         "submitted": 33
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/G",
+      "title": "Cosmic Travel"
     },
     {
       "alias": "H",
       "statistics": {
         "accepted": 41,
         "submitted": 384
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/H",
+      "title": "Stop the Castle"
     },
     {
       "alias": "I",
       "statistics": {
         "accepted": 500,
         "submitted": 628
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/I",
+      "title": "Left Shifting"
     },
     {
       "alias": "J",
       "statistics": {
         "accepted": 291,
         "submitted": 689
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/J",
+      "title": "Colorful Spanning Tree"
     },
     {
       "alias": "K",
       "statistics": {
         "accepted": 453,
         "submitted": 844
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/K",
+      "title": "Matrix"
     },
     {
       "alias": "L",
       "statistics": {
         "accepted": 1,
         "submitted": 19
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/L",
+      "title": "Intersection of Paths"
     },
     {
       "alias": "M",
       "statistics": {
         "accepted": 19,
         "submitted": 140
-      }
+      },
+      "link": "https://codeforces.com/gym/105385/problem/M",
+      "title": "Palindromic Polygon"
     }
   ],
   "rows": [

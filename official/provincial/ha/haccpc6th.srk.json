@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,108 +97,121 @@
   ],
   "problems": [
     {
-      "title": "981D38",
+      "title": "Once In My Life",
       "alias": "A",
       "statistics": {
         "accepted": 67,
         "submitted": 577
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/A"
     },
     {
-      "title": "D8C020",
+      "title": "扫雷 1",
       "alias": "B",
       "statistics": {
         "accepted": 367,
         "submitted": 1300
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/B"
     },
     {
-      "title": "C880D8",
+      "title": "中二病也要打比赛",
       "alias": "C",
       "statistics": {
         "accepted": 52,
         "submitted": 177
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/C"
     },
     {
-      "title": "B8E840",
+      "title": "距离之比",
       "alias": "D",
       "statistics": {
         "accepted": 38,
         "submitted": 407
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/D"
     },
     {
-      "title": "F8C0E0",
+      "title": "保卫城邦",
       "alias": "E",
       "statistics": {
         "accepted": 0,
         "submitted": 21
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/E"
     },
     {
-      "title": "F89030",
+      "title": "优秀字符串",
       "alias": "F",
       "statistics": {
         "accepted": 442,
         "submitted": 559
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/F"
     },
     {
-      "title": "A8D8F8",
+      "title": "扫雷 2",
       "alias": "G",
       "statistics": {
         "accepted": 7,
         "submitted": 86
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/G"
     },
     {
-      "title": "F8C090",
+      "title": "随机栈",
       "alias": "H",
       "statistics": {
         "accepted": 257,
         "submitted": 812
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/H"
     },
     {
-      "title": "F0E030",
+      "title": "378QAQ 和字符串",
       "alias": "I",
       "statistics": {
         "accepted": 1,
         "submitted": 85
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/I"
     },
     {
-      "title": "78A030",
+      "title": "排列与合数",
       "alias": "J",
       "statistics": {
         "accepted": 376,
         "submitted": 1660
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/J"
     },
     {
-      "title": "D86868",
+      "title": "树上问题",
       "alias": "K",
       "statistics": {
         "accepted": 172,
         "submitted": 668
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/K"
     },
     {
-      "title": "E8E8E8",
+      "title": "Toxel 与 PCPC II",
       "alias": "L",
       "statistics": {
         "accepted": 202,
         "submitted": 845
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/L"
     },
     {
-      "title": "E840A8",
+      "title": "有效算法",
       "alias": "M",
       "statistics": {
         "accepted": 297,
         "submitted": 908
-      }
+      },
+      "link": "https://codeforces.com/gym/105158/problem/M"
     }
   ],
   "rows": [

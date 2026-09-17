@@ -26,7 +26,9 @@
       "style": {
         "backgroundColor": "#5a42a5",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18958",
+      "title": "草莓牛奶"
     },
     {
       "alias": "B",
@@ -37,7 +39,9 @@
       "style": {
         "backgroundColor": "#007800",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18959",
+      "title": "排列翻转"
     },
     {
       "alias": "C",
@@ -48,7 +52,9 @@
       "style": {
         "backgroundColor": "#f858b2",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18960",
+      "title": "Fry Beef"
     },
     {
       "alias": "D",
@@ -59,7 +65,9 @@
       "style": {
         "backgroundColor": "#b2328a",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18961",
+      "title": "求求你不要再爬塔二了"
     },
     {
       "alias": "E",
@@ -70,7 +78,9 @@
       "style": {
         "backgroundColor": "#95001a",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18962",
+      "title": "星战"
     },
     {
       "alias": "F",
@@ -81,7 +91,9 @@
       "style": {
         "backgroundColor": "#00707b",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18963",
+      "title": "尖塔最强机器人"
     },
     {
       "alias": "G",
@@ -92,7 +104,9 @@
       "style": {
         "backgroundColor": "#cdb100",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18964",
+      "title": "灭霸排序 II"
     },
     {
       "alias": "H",
@@ -103,7 +117,9 @@
       "style": {
         "backgroundColor": "#cb88a6",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18965",
+      "title": "最小异或乘积"
     },
     {
       "alias": "I",
@@ -114,7 +130,9 @@
       "style": {
         "backgroundColor": "#091169",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18966",
+      "title": "小礼品"
     },
     {
       "alias": "J",
@@ -125,7 +143,9 @@
       "style": {
         "backgroundColor": "#c65218",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18967",
+      "title": "字符串的 Porder 之和"
     },
     {
       "alias": "K",
@@ -136,7 +156,9 @@
       "style": {
         "backgroundColor": "#042e22",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18968",
+      "title": "像素8"
     },
     {
       "alias": "L",
@@ -147,7 +169,9 @@
       "style": {
         "backgroundColor": "#b8c1ca",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/18969",
+      "title": "解方程"
     }
   ],
   "series": [
@@ -95880,6 +95904,7 @@
   ],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

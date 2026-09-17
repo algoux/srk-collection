@@ -19,7 +19,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -97,108 +98,121 @@
   ],
   "problems": [
     {
-      "title": "EDE3A0",
+      "title": "A Good Problem",
       "alias": "A",
       "statistics": {
         "accepted": 257,
         "submitted": 673
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8328"
     },
     {
-      "title": "B0E3D2",
+      "title": "Excuse",
       "alias": "B",
       "statistics": {
         "accepted": 1,
         "submitted": 6
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8329"
     },
     {
-      "title": "D6F0F7",
+      "title": "Count off 3",
       "alias": "C",
       "statistics": {
         "accepted": 0,
         "submitted": 3
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8330"
     },
     {
-      "title": "FFE720",
+      "title": "Bot Brothers",
       "alias": "D",
       "statistics": {
         "accepted": 41,
         "submitted": 259
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8331"
     },
     {
-      "title": "EBEDE1",
+      "title": "Two in One",
       "alias": "E",
       "statistics": {
         "accepted": 46,
         "submitted": 104
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8332"
     },
     {
-      "title": "EEC673",
+      "title": "Gift",
       "alias": "F",
       "statistics": {
         "accepted": 258,
         "submitted": 710
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8333"
     },
     {
-      "title": "F1005B",
+      "title": "Gene",
       "alias": "G",
       "statistics": {
         "accepted": 196,
         "submitted": 701
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8334"
     },
     {
-      "title": "9F8DC3",
+      "title": "Fast Hash Transform",
       "alias": "H",
       "statistics": {
         "accepted": 3,
         "submitted": 4
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8335"
     },
     {
-      "title": "6C29BF",
+      "title": "Indeterminate Equation",
       "alias": "I",
       "statistics": {
         "accepted": 116,
         "submitted": 724
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8336"
     },
     {
-      "title": "20B400",
+      "title": "Counter Reset Problem",
       "alias": "J",
       "statistics": {
         "accepted": 7,
         "submitted": 10
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8337"
     },
     {
-      "title": "E15B02",
+      "title": "Quad Kingdoms Chess",
       "alias": "K",
       "statistics": {
         "accepted": 24,
         "submitted": 137
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8338"
     },
     {
-      "title": "4D84C3",
+      "title": "Rooted Tree",
       "alias": "L",
       "statistics": {
         "accepted": 137,
         "submitted": 176
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8339"
     },
     {
-      "title": "FD420E",
+      "title": "3 Sum",
       "alias": "M",
       "statistics": {
         "accepted": 12,
         "submitted": 132
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1540/problem/8340"
     }
   ],
   "rows": [

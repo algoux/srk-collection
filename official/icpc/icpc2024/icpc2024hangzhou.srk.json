@@ -27,7 +27,9 @@
       },
       "style": {
         "backgroundColor": "#e61c37"
-      }
+      },
+      "link": "https://qoj.ac/problem/9726",
+      "title": "AUS"
     },
     {
       "alias": "B",
@@ -37,7 +39,9 @@
       },
       "style": {
         "backgroundColor": "#f2d924"
-      }
+      },
+      "link": "https://qoj.ac/problem/9727",
+      "title": "Barkley III"
     },
     {
       "alias": "C",
@@ -47,7 +51,9 @@
       },
       "style": {
         "backgroundColor": "#55b76b"
-      }
+      },
+      "link": "https://qoj.ac/problem/9728",
+      "title": "Catch the Star"
     },
     {
       "alias": "D",
@@ -57,7 +63,9 @@
       },
       "style": {
         "backgroundColor": "#4381ba"
-      }
+      },
+      "link": "https://qoj.ac/problem/9729",
+      "title": "Dividing Sequence"
     },
     {
       "alias": "E",
@@ -67,7 +75,9 @@
       },
       "style": {
         "backgroundColor": "#eba2c6"
-      }
+      },
+      "link": "https://qoj.ac/problem/9730",
+      "title": "Elevator II"
     },
     {
       "alias": "F",
@@ -77,7 +87,9 @@
       },
       "style": {
         "backgroundColor": "#ed6b1c"
-      }
+      },
+      "link": "https://qoj.ac/problem/9731",
+      "title": "Fuzzy Ranking"
     },
     {
       "alias": "G",
@@ -87,7 +99,9 @@
       },
       "style": {
         "backgroundColor": "#abcde4"
-      }
+      },
+      "link": "https://qoj.ac/problem/9732",
+      "title": "Gathering Mushrooms"
     },
     {
       "alias": "H",
@@ -97,7 +111,9 @@
       },
       "style": {
         "backgroundColor": "#f8d5d0"
-      }
+      },
+      "link": "https://qoj.ac/problem/9733",
+      "title": "Heavy-light Decomposition"
     },
     {
       "alias": "I",
@@ -107,7 +123,9 @@
       },
       "style": {
         "backgroundColor": "#9072b1"
-      }
+      },
+      "link": "https://qoj.ac/problem/9734",
+      "title": "Identify Chord"
     },
     {
       "alias": "J",
@@ -117,7 +135,9 @@
       },
       "style": {
         "backgroundColor": "#e62e88"
-      }
+      },
+      "link": "https://qoj.ac/problem/9735",
+      "title": "Japanese Bands"
     },
     {
       "alias": "K",
@@ -127,7 +147,9 @@
       },
       "style": {
         "backgroundColor": "#d3c3dd"
-      }
+      },
+      "link": "https://qoj.ac/problem/9736",
+      "title": "Kind of Bingo"
     },
     {
       "alias": "L",
@@ -137,7 +159,9 @@
       },
       "style": {
         "backgroundColor": "#bad487"
-      }
+      },
+      "link": "https://qoj.ac/problem/9737",
+      "title": "Let's Go! New Adventure"
     },
     {
       "alias": "M",
@@ -147,7 +171,9 @@
       },
       "style": {
         "backgroundColor": "#6dbebf"
-      }
+      },
+      "link": "https://qoj.ac/problem/9738",
+      "title": "Make It Divisible"
     }
   ],
   "series": [
@@ -101514,6 +101540,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

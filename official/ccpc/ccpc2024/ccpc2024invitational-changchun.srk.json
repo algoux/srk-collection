@@ -26,7 +26,8 @@
     ]
   },
   "contributors": [
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "markers": [
     {
@@ -195,135 +196,147 @@
   "problems": [
     {
       "alias": "A",
-      "link": "https://codeforces.com/gym/105170/problem/A",
+      "link": "https://qoj.ac/problem/10749",
       "statistics": {
         "accepted": 1,
         "submitted": 18
       },
       "style": {
         "backgroundColor": "#64a8cc"
-      }
+      },
+      "title": "Eminor Array"
     },
     {
       "alias": "B",
-      "link": "https://codeforces.com/gym/105170/problem/B",
+      "link": "https://qoj.ac/problem/10750",
       "statistics": {
         "accepted": 17,
         "submitted": 57
       },
       "style": {
         "backgroundColor": "#985ab8"
-      }
+      },
+      "title": "Dfs Order 0.5"
     },
     {
       "alias": "C",
-      "link": "https://codeforces.com/gym/105170/problem/C",
+      "link": "https://qoj.ac/problem/10751",
       "statistics": {
         "accepted": 8,
         "submitted": 219
       },
       "style": {
         "backgroundColor": "#e33a3a"
-      }
+      },
+      "title": "Fibonacci Sum"
     },
     {
       "alias": "D",
-      "link": "https://codeforces.com/gym/105170/problem/D",
+      "link": "https://qoj.ac/problem/10752",
       "statistics": {
         "accepted": 8,
         "submitted": 106
       },
       "style": {
         "backgroundColor": "#f2b9f0"
-      }
+      },
+      "title": "Parallel Lines"
     },
     {
       "alias": "E",
-      "link": "https://codeforces.com/gym/105170/problem/E",
+      "link": "https://qoj.ac/problem/10753",
       "statistics": {
         "accepted": 21,
         "submitted": 327
       },
       "style": {
         "backgroundColor": "#d9ca58"
-      }
+      },
+      "title": "Connected Components"
     },
     {
       "alias": "F",
-      "link": "https://codeforces.com/gym/105170/problem/F",
+      "link": "https://qoj.ac/problem/10754",
       "statistics": {
         "accepted": 7,
         "submitted": 38
       },
       "style": {
         "backgroundColor": "#a4c48a"
-      }
+      },
+      "title": "Best Player"
     },
     {
       "alias": "G",
-      "link": "https://codeforces.com/gym/105170/problem/G",
+      "link": "https://qoj.ac/problem/10755",
       "statistics": {
         "accepted": 81,
         "submitted": 447
       },
       "style": {
         "backgroundColor": "#abaa65"
-      }
+      },
+      "title": "Platform Game"
     },
     {
       "alias": "H",
-      "link": "https://codeforces.com/gym/105170/problem/H",
+      "link": "https://qoj.ac/problem/10756",
       "statistics": {
         "accepted": 0,
         "submitted": 10
       },
       "style": {
         "backgroundColor": "#d4c0ab"
-      }
+      },
+      "title": "Games on the Ads 2: Painting"
     },
     {
       "alias": "I",
-      "link": "https://codeforces.com/gym/105170/problem/I",
+      "link": "https://qoj.ac/problem/10757",
       "statistics": {
         "accepted": 179,
         "submitted": 272
       },
       "style": {
         "backgroundColor": "#e0d4d4"
-      }
+      },
+      "title": "The Easiest Problem"
     },
     {
       "alias": "J",
-      "link": "https://codeforces.com/gym/105170/problem/J",
+      "link": "https://qoj.ac/problem/10758",
       "statistics": {
         "accepted": 0,
         "submitted": 4
       },
       "style": {
         "backgroundColor": "#a3d7d9"
-      }
+      },
+      "title": "Lone Trail"
     },
     {
       "alias": "K",
-      "link": "https://codeforces.com/gym/105170/problem/K",
+      "link": "https://qoj.ac/problem/10759",
       "statistics": {
         "accepted": 1,
         "submitted": 28
       },
       "style": {
         "backgroundColor": "#4fe659"
-      }
+      },
+      "title": "String Divide II"
     },
     {
       "alias": "L",
-      "link": "https://codeforces.com/gym/105170/problem/L",
+      "link": "https://qoj.ac/problem/10760",
       "statistics": {
         "accepted": 94,
         "submitted": 913
       },
       "style": {
         "backgroundColor": "#db667f"
-      }
+      },
+      "title": "Recharge"
     }
   ],
   "rows": [

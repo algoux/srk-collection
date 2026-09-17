@@ -18,7 +18,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -96,84 +97,94 @@
   ],
   "problems": [
     {
-      "title": "DEF043",
+      "title": "田字格",
       "alias": "A",
       "statistics": {
         "accepted": 0,
         "submitted": 33
-      }
+      },
+      "link": "https://qoj.ac/problem/8752"
     },
     {
-      "title": "79BDF0",
+      "title": "腊肠披萨",
       "alias": "B",
       "statistics": {
         "accepted": 28,
         "submitted": 433
-      }
+      },
+      "link": "https://qoj.ac/problem/8753"
     },
     {
-      "title": "55E368",
+      "title": "DFS 序",
       "alias": "C",
       "statistics": {
         "accepted": 192,
         "submitted": 602
-      }
+      },
+      "link": "https://qoj.ac/problem/8754"
     },
     {
-      "title": "FEBFE8",
+      "title": "拨打电话",
       "alias": "D",
       "statistics": {
         "accepted": 0,
         "submitted": 32
-      }
+      },
+      "link": "https://qoj.ac/problem/8755"
     },
     {
-      "title": "000000",
+      "title": "循环赛",
       "alias": "E",
       "statistics": {
         "accepted": 151,
         "submitted": 511
-      }
+      },
+      "link": "https://qoj.ac/problem/8756"
     },
     {
-      "title": "AAB8BF",
+      "title": "图",
       "alias": "F",
       "statistics": {
         "accepted": 12,
         "submitted": 124
-      }
+      },
+      "link": "https://qoj.ac/problem/8757"
     },
     {
-      "title": "FAA31A",
+      "title": "Menji 和 gcd",
       "alias": "G",
       "statistics": {
         "accepted": 214,
         "submitted": 738
-      }
+      },
+      "link": "https://qoj.ac/problem/8758"
     },
     {
-      "title": "FA090D",
+      "title": "小班课",
       "alias": "H",
       "statistics": {
         "accepted": 6,
         "submitted": 139
-      }
+      },
+      "link": "https://qoj.ac/problem/8759"
     },
     {
-      "title": "FFFFFF",
+      "title": "不等式",
       "alias": "I",
       "statistics": {
         "accepted": 233,
         "submitted": 1546
-      }
+      },
+      "link": "https://qoj.ac/problem/8760"
     },
     {
-      "title": "8C52BF",
+      "title": "另一个计数问题",
       "alias": "J",
       "statistics": {
         "accepted": 13,
         "submitted": 81
-      }
+      },
+      "link": "https://qoj.ac/problem/8761"
     }
   ],
   "rows": [

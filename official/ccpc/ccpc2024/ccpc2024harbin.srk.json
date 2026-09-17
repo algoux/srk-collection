@@ -19,7 +19,8 @@
   },
   "contributors": [
     "CSGOJ (https://cpc.csgrandeur.cn/rank/)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ],
   "series": [
     {
@@ -90,108 +91,121 @@
   },
   "problems": [
     {
-      "title": "DEB887",
+      "title": "Build a Computer",
       "alias": "A",
       "statistics": {
         "accepted": 64,
         "submitted": 277
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9519"
     },
     {
-      "title": "FF0000",
+      "title": "Concave Hull",
       "alias": "B",
       "statistics": {
         "accepted": 45,
         "submitted": 270
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9520"
     },
     {
-      "title": "008000",
+      "title": "Giving Directions in Harbin",
       "alias": "C",
       "statistics": {
         "accepted": 296,
         "submitted": 694
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9521"
     },
     {
-      "title": "FF00FF",
+      "title": "A Simple String Problem",
       "alias": "D",
       "statistics": {
         "accepted": 4,
         "submitted": 24
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9522"
     },
     {
-      "title": "00FF00",
+      "title": "Marble Race",
       "alias": "E",
       "statistics": {
         "accepted": 42,
         "submitted": 77
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9523"
     },
     {
-      "title": "FF69B4",
+      "title": "1D Galaxy",
       "alias": "F",
       "statistics": {
         "accepted": 0,
         "submitted": 10
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9524"
     },
     {
-      "title": "FFFF00",
+      "title": "Welcome to Join the Online Meeting!",
       "alias": "G",
       "statistics": {
         "accepted": 278,
         "submitted": 676
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9525"
     },
     {
-      "title": "00FA9A",
+      "title": "Subsequence Counting",
       "alias": "H",
       "statistics": {
         "accepted": 0,
         "submitted": 12
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9526"
     },
     {
-      "title": "87CEFA",
+      "title": "A Brand New Geometric Problem",
       "alias": "I",
       "statistics": {
         "accepted": 8,
         "submitted": 49
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9527"
     },
     {
-      "title": "FFB6C1",
+      "title": "New Energy Vehicle",
       "alias": "J",
       "statistics": {
         "accepted": 177,
         "submitted": 1083
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9528"
     },
     {
-      "title": "800080",
+      "title": "Farm Management",
       "alias": "K",
       "statistics": {
         "accepted": 247,
         "submitted": 658
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9529"
     },
     {
-      "title": "DAA520",
+      "title": "A Game On Tree",
       "alias": "L",
       "statistics": {
         "accepted": 59,
         "submitted": 127
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9530"
     },
     {
-      "title": "0000CD",
+      "title": "Weird Ceiling",
       "alias": "M",
       "statistics": {
         "accepted": 298,
         "submitted": 390
-      }
+      },
+      "link": "https://contest.ucup.ac/contest/1817/problem/9531"
     }
   ],
   "rows": [

@@ -27,7 +27,9 @@
       "style": {
         "backgroundColor": "#d8bfd8",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14706",
+      "title": "A Lot of Paintings"
     },
     {
       "alias": "B",
@@ -38,7 +40,9 @@
       "style": {
         "backgroundColor": "#ff1493",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14707",
+      "title": "Blood Memories"
     },
     {
       "alias": "C",
@@ -49,7 +53,9 @@
       "style": {
         "backgroundColor": "#ff0000",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14708",
+      "title": "Crossing River"
     },
     {
       "alias": "D",
@@ -60,7 +66,9 @@
       "style": {
         "backgroundColor": "#81d8d0",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14709",
+      "title": "Deductive Snooker Scoring"
     },
     {
       "alias": "E",
@@ -71,7 +79,9 @@
       "style": {
         "backgroundColor": "#add8e6",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14710",
+      "title": "Escaping from Trap"
     },
     {
       "alias": "F",
@@ -82,7 +92,9 @@
       "style": {
         "backgroundColor": "#ffff00",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14711",
+      "title": "Following Arrows"
     },
     {
       "alias": "G",
@@ -93,7 +105,9 @@
       "style": {
         "backgroundColor": "#ffe08d",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14712",
+      "title": "GCD of Subsets"
     },
     {
       "alias": "H",
@@ -104,7 +118,9 @@
       "style": {
         "backgroundColor": "#ffc0cb",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14713",
+      "title": "Heuristic Knapsack"
     },
     {
       "alias": "I",
@@ -115,7 +131,9 @@
       "style": {
         "backgroundColor": "#006400",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14714",
+      "title": "Inside Triangle"
     },
     {
       "alias": "J",
@@ -126,7 +144,9 @@
       "style": {
         "backgroundColor": "#ffa500",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14715",
+      "title": "Judging Papers"
     },
     {
       "alias": "K",
@@ -137,7 +157,9 @@
       "style": {
         "backgroundColor": "#000000",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14716",
+      "title": "K-Coverage"
     },
     {
       "alias": "L",
@@ -148,7 +170,9 @@
       "style": {
         "backgroundColor": "#00008d",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14717",
+      "title": "Label Matching"
     },
     {
       "alias": "M",
@@ -159,7 +183,9 @@
       "style": {
         "backgroundColor": "#6f4e37",
         "textColor": "#000000"
-      }
+      },
+      "link": "https://qoj.ac/problem/14718",
+      "title": "Meeting for Meals"
     }
   ],
   "series": [
@@ -81547,6 +81573,7 @@
   "markers": [],
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }

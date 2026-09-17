@@ -34,7 +34,9 @@
       },
       "style": {
         "backgroundColor": "rgba(189, 14, 14, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/A",
+      "title": "疾羽的救赎"
     },
     {
       "alias": "B",
@@ -44,7 +46,9 @@
       },
       "style": {
         "backgroundColor": "rgba(149, 31, 217, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/B",
+      "title": "终焉之茧"
     },
     {
       "alias": "C",
@@ -54,7 +58,9 @@
       },
       "style": {
         "backgroundColor": "rgba(16, 32, 96, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/C",
+      "title": "国王的疑惑"
     },
     {
       "alias": "D",
@@ -64,7 +70,9 @@
       },
       "style": {
         "backgroundColor": "rgba(38, 185, 60, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/D",
+      "title": "金人旧巷市廛喧"
     },
     {
       "alias": "E",
@@ -74,7 +82,9 @@
       },
       "style": {
         "backgroundColor": "rgba(239, 217, 9, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/E",
+      "title": "永世乐土"
     },
     {
       "alias": "F",
@@ -84,7 +94,9 @@
       },
       "style": {
         "backgroundColor": "rgba(243, 88, 20, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/F",
+      "title": "最长上升子序列"
     },
     {
       "alias": "G",
@@ -94,7 +106,9 @@
       },
       "style": {
         "backgroundColor": "rgba(12, 76, 138, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/G",
+      "title": "精灵宝可梦对战"
     },
     {
       "alias": "H",
@@ -104,7 +118,9 @@
       },
       "style": {
         "backgroundColor": "rgba(156, 155, 155, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/H",
+      "title": "字符串游戏"
     },
     {
       "alias": "I",
@@ -114,7 +130,9 @@
       },
       "style": {
         "backgroundColor": "rgba(4, 154, 115, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/I",
+      "title": "幸福前方的物语"
     },
     {
       "alias": "J",
@@ -124,7 +142,9 @@
       },
       "style": {
         "backgroundColor": "rgba(159, 19, 236, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/J",
+      "title": "圣夜的奇迹跑者"
     },
     {
       "alias": "K",
@@ -134,7 +154,9 @@
       },
       "style": {
         "backgroundColor": "rgba(42, 197, 202, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/K",
+      "title": "RSP"
     },
     {
       "alias": "L",
@@ -144,7 +166,9 @@
       },
       "style": {
         "backgroundColor": "rgba(142, 56, 54, 0.7)"
-      }
+      },
+      "link": "https://codeforces.com/gym/104725/problem/L",
+      "title": "养成游戏"
     }
   ],
   "series": [
@@ -40844,6 +40868,7 @@
   },
   "contributors": [
     "XCPCIO (https://xcpcio.com)",
-    "algoUX (https://algoux.org)"
+    "algoUX (https://algoux.org)",
+    "HeiMaoM"
   ]
 }
