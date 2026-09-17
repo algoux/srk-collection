@@ -168,7 +168,19 @@
       "user": {
         "id": "GZ2026-009",
         "name": "三只蒟蒻牛",
-        "organization": "西华大学"
+        "organization": "西华大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吴岚轩"
+          },
+          {
+            "name": "莫鸿"
+          },
+          {
+            "name": "郑颖"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -261,7 +273,18 @@
         "id": "GZ2026-026",
         "name": "鲸兆量化",
         "organization": "鲸兆大学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "陈泽楷"
+          },
+          {
+            "name": "郑宇"
+          },
+          {
+            "name": "邱文硕"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -349,7 +372,19 @@
       "user": {
         "id": "GZ2026-075",
         "name": "领航者",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘圣丰"
+          },
+          {
+            "name": "吴楚扬"
+          },
+          {
+            "name": "汤浩"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -433,7 +468,13 @@
       "user": {
         "id": "GZ2026-080",
         "name": "银狼",
-        "organization": "南京工程学院"
+        "organization": "南京工程学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "丁昊"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -518,7 +559,18 @@
         "id": "GZ2026-069",
         "name": "辣虾果冻萝卜干",
         "organization": "石河子大学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "岳展锐"
+          },
+          {
+            "name": "苏麟"
+          },
+          {
+            "name": "罗靖豪"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -602,7 +654,19 @@
       "user": {
         "id": "GZ2026-061",
         "name": "哥布林之家",
-        "organization": "广东金融学院"
+        "organization": "广东金融学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郭庆"
+          },
+          {
+            "name": "陈优彬"
+          },
+          {
+            "name": "林子健"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -686,7 +750,19 @@
       "user": {
         "id": "GZ2026-034",
         "name": "去WAWA超时买AC",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "唐宇杰"
+          },
+          {
+            "name": "刘海博"
+          },
+          {
+            "name": "李景颖"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -766,7 +842,19 @@
       "user": {
         "id": "GZ2026-020",
         "name": "Whynot",
-        "organization": "湖北第二师范学院"
+        "organization": "湖北第二师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈瑞杰"
+          },
+          {
+            "name": "魏传旭"
+          },
+          {
+            "name": "肖梓恒"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -846,7 +934,19 @@
       "user": {
         "id": "GZ2026-006",
         "name": "柴烧曹记凉菜",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "卢畅"
+          },
+          {
+            "name": "柴泽平"
+          },
+          {
+            "name": "曹政凯"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -926,7 +1026,19 @@
       "user": {
         "id": "GZ2026-073",
         "name": "暴力胜过思考，打表替代大脑",
-        "organization": "湖北经济学院"
+        "organization": "湖北经济学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈怡冰"
+          },
+          {
+            "name": "李鑫业"
+          },
+          {
+            "name": "刘天浩"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -1006,7 +1118,19 @@
       "user": {
         "id": "GZ2026-044",
         "name": "燃烧精血也要AK",
-        "organization": "广东金融学院"
+        "organization": "广东金融学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "翁博"
+          },
+          {
+            "name": "张建镇"
+          },
+          {
+            "name": "叶兆谦"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -1086,7 +1210,19 @@
       "user": {
         "id": "GZ2026-024",
         "name": "队名",
-        "organization": "西南石油大学"
+        "organization": "西南石油大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "罗赐曦"
+          },
+          {
+            "name": "张程晰"
+          },
+          {
+            "name": "郭宇航"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1162,7 +1298,19 @@
       "user": {
         "id": "GZ2026-071",
         "name": "不漏细节少交WA",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "毛文杰"
+          },
+          {
+            "name": "张荣鑫"
+          },
+          {
+            "name": "叶淑萌"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1238,7 +1386,19 @@
       "user": {
         "id": "GZ2026-019",
         "name": "你是凑企鹅你是凑企鹅你是谁呀",
-        "organization": "西安邮电大学"
+        "organization": "西安邮电大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "栗子轩"
+          },
+          {
+            "name": "周剑鑫"
+          },
+          {
+            "name": "刘冠宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1314,7 +1474,19 @@
       "user": {
         "id": "GZ2026-086",
         "name": "你怎么知道我英语四级375",
-        "organization": "广东金融学院"
+        "organization": "广东金融学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘紫萱"
+          },
+          {
+            "name": "李思甜"
+          },
+          {
+            "name": "郑博诚"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1390,7 +1562,19 @@
       "user": {
         "id": "GZ2026-012",
         "name": "芙芙天下第一",
-        "organization": "东莞理工学院"
+        "organization": "东莞理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李海宇"
+          },
+          {
+            "name": "盛泽斌"
+          },
+          {
+            "name": "李明洋"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1466,7 +1650,19 @@
       "user": {
         "id": "GZ2026-017",
         "name": "给小睦黄瓜叠三层fever",
-        "organization": "东莞理工学院"
+        "organization": "东莞理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林航"
+          },
+          {
+            "name": "孙永霖"
+          },
+          {
+            "name": "温学森"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1542,7 +1738,19 @@
       "user": {
         "id": "GZ2026-065",
         "name": "哈吉米南北绿豆",
-        "organization": "广西科技大学"
+        "organization": "广西科技大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林嘉秋"
+          },
+          {
+            "name": "姚思源"
+          },
+          {
+            "name": "叶怡姿"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1618,7 +1826,19 @@
       "user": {
         "id": "GZ2026-030",
         "name": "巴巴博弈",
-        "organization": "东莞理工学院"
+        "organization": "东莞理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林靖康"
+          },
+          {
+            "name": "况有为"
+          },
+          {
+            "name": "陈锦豪"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1694,7 +1914,19 @@
       "user": {
         "id": "GZ2026-031",
         "name": "你老急什么？",
-        "organization": "湖北经济学院"
+        "organization": "湖北经济学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张全政"
+          },
+          {
+            "name": "郑奥"
+          },
+          {
+            "name": "杨佳慧"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1770,7 +2002,19 @@
       "user": {
         "id": "GZ2026-083",
         "name": "Happy 猫和他的小伙伴（秽土转生版）",
-        "organization": "贵州财经大学"
+        "organization": "贵州财经大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郑力凡"
+          },
+          {
+            "name": "肖大海"
+          },
+          {
+            "name": "陈余飞"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1846,7 +2090,19 @@
       "user": {
         "id": "GZ2026-008",
         "name": "Herilon",
-        "organization": "湖北第二师范学院"
+        "organization": "湖北第二师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杜恒卓"
+          },
+          {
+            "name": "施睿杰"
+          },
+          {
+            "name": "龙智杰"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1922,7 +2178,19 @@
       "user": {
         "id": "GZ2026-014",
         "name": "不知道脸上是泪水还是队长的口水",
-        "organization": "成都理工大学工程技术学院"
+        "organization": "成都理工大学工程技术学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孔维杰"
+          },
+          {
+            "name": "黎雄"
+          },
+          {
+            "name": "邹宇轩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -1998,7 +2266,19 @@
       "user": {
         "id": "GZ2026-004",
         "name": "剑来",
-        "organization": "贵州工程应用技术学院"
+        "organization": "贵州工程应用技术学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张晓宇"
+          },
+          {
+            "name": "阙小坪"
+          },
+          {
+            "name": "吴彪"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2074,7 +2354,19 @@
       "user": {
         "id": "GZ2026-049",
         "name": "肘肘肘",
-        "organization": "华中农业大学"
+        "organization": "华中农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "吕博宇"
+          },
+          {
+            "name": "方景宇"
+          },
+          {
+            "name": "王文曦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2150,7 +2442,19 @@
       "user": {
         "id": "GZ2026-085",
         "name": "只会暴力和罚时",
-        "organization": "东莞理工学院"
+        "organization": "东莞理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "唐俊杰"
+          },
+          {
+            "name": "张博瀚"
+          },
+          {
+            "name": "伍健铭"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2227,7 +2531,18 @@
         "id": "GZ2026-055",
         "name": "我队友会弹春日影吗",
         "organization": "春日影大学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "胡浩荣"
+          },
+          {
+            "name": "沈汉强"
+          },
+          {
+            "name": "林志强"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2303,7 +2618,19 @@
       "user": {
         "id": "GZ2026-041",
         "name": "冬日影色舞",
-        "organization": "西南石油大学"
+        "organization": "西南石油大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "叶春良"
+          },
+          {
+            "name": "刘跃"
+          },
+          {
+            "name": "谢彬"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2379,7 +2706,19 @@
       "user": {
         "id": "GZ2026-048",
         "name": "大改要想",
-        "organization": "东莞理工学院"
+        "organization": "东莞理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "林学军"
+          },
+          {
+            "name": "胡孟柯"
+          },
+          {
+            "name": "陈仰帆"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2455,7 +2794,19 @@
       "user": {
         "id": "GZ2026-063",
         "name": "砂糖橘看日出",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "万家林"
+          },
+          {
+            "name": "殷智宇"
+          },
+          {
+            "name": "刘益平"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2531,7 +2882,19 @@
       "user": {
         "id": "GZ2026-068",
         "name": "NOI没拿到的牌子就在ICPC拿吧",
-        "organization": "内蒙古工业大学"
+        "organization": "内蒙古工业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李耀"
+          },
+          {
+            "name": "李中然"
+          },
+          {
+            "name": "孙庆鹤"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2607,7 +2970,16 @@
       "user": {
         "id": "GZ2026-016",
         "name": "还是AC更自在",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孙云飞"
+          },
+          {
+            "name": "刘福焱"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2683,7 +3055,19 @@
       "user": {
         "id": "GZ2026-070",
         "name": "暂无",
-        "organization": "江西师范大学"
+        "organization": "江西师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王志文"
+          },
+          {
+            "name": "张昊杰"
+          },
+          {
+            "name": "朱粤松"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -2759,7 +3143,19 @@
       "user": {
         "id": "GZ2026-033",
         "name": "只因杂鱼队长上不了CF绿名 身为队里颜值担当的我被迫上位",
-        "organization": "广东金融学院"
+        "organization": "广东金融学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "江明徽"
+          },
+          {
+            "name": "张文曦"
+          },
+          {
+            "name": "陈泽松"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -2831,7 +3227,19 @@
       "user": {
         "id": "GZ2026-050",
         "name": "嘿！这是你的益达",
-        "organization": "五邑大学"
+        "organization": "五邑大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "梁信滔"
+          },
+          {
+            "name": "陈伟强"
+          },
+          {
+            "name": "黎俊毅"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -2903,7 +3311,19 @@
       "user": {
         "id": "GZ2026-036",
         "name": "比赛可以输，汉堡必须吃双份",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王海玉"
+          },
+          {
+            "name": "张楚"
+          },
+          {
+            "name": "张广晟"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -2975,7 +3395,19 @@
       "user": {
         "id": "GZ2026-087",
         "name": "我要在舞萌DX上打World Final！",
-        "organization": "南京工程学院"
+        "organization": "南京工程学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "鲍姝宁"
+          },
+          {
+            "name": "于航"
+          },
+          {
+            "name": "田宇航"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3047,7 +3479,19 @@
       "user": {
         "id": "GZ2026-039",
         "name": "豆包豆包，帮我生成一个队名",
-        "organization": "广西科技大学"
+        "organization": "广西科技大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "余绍龙"
+          },
+          {
+            "name": "李嘉晨"
+          },
+          {
+            "name": "叶丹"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3119,7 +3563,19 @@
       "user": {
         "id": "GZ2026-010",
         "name": "贪心优化者",
-        "organization": "太原理工大学"
+        "organization": "太原理工大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "郭超逸"
+          },
+          {
+            "name": "张佳坤"
+          },
+          {
+            "name": "姚凯"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3191,7 +3647,19 @@
       "user": {
         "id": "GZ2026-088",
         "name": "华侨大学初出茅庐队",
-        "organization": "华侨大学"
+        "organization": "华侨大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "李卓希"
+          },
+          {
+            "name": "何穗希"
+          },
+          {
+            "name": "郑耀华"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3263,7 +3731,19 @@
       "user": {
         "id": "GZ2026-067",
         "name": "我永远喜欢小野寺小咲",
-        "organization": "安徽建筑大学"
+        "organization": "安徽建筑大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "孙林川"
+          },
+          {
+            "name": "王乃炜"
+          },
+          {
+            "name": "程伟宁"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3335,7 +3815,19 @@
       "user": {
         "id": "GZ2026-081",
         "name": "三九琪露诺队",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曹宪浙"
+          },
+          {
+            "name": "王亦凡"
+          },
+          {
+            "name": "林铭浩"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3407,7 +3899,19 @@
       "user": {
         "id": "GZ2026-005",
         "name": "天菩萨",
-        "organization": "贵州商学院"
+        "organization": "贵州商学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张志伟"
+          },
+          {
+            "name": "黄灿睿"
+          },
+          {
+            "name": "罗文焯"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3479,7 +3983,19 @@
       "user": {
         "id": "GZ2026-082",
         "name": "01",
-        "organization": "西南石油大学"
+        "organization": "西南石油大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "夏鑫宇"
+          },
+          {
+            "name": "刘源"
+          },
+          {
+            "name": "孙磊"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3551,7 +4067,19 @@
       "user": {
         "id": "GZ2026-079",
         "name": "芸芸众生，博弈代码",
-        "organization": "江西师范大学"
+        "organization": "江西师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘凌福"
+          },
+          {
+            "name": "谢子骏"
+          },
+          {
+            "name": "黄行浩"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3623,7 +4151,19 @@
       "user": {
         "id": "GZ2026-038",
         "name": "前面的题目以后再来探索吧",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "覃浩轩"
+          },
+          {
+            "name": "周景东"
+          },
+          {
+            "name": "靳凯洋"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3695,7 +4235,19 @@
       "user": {
         "id": "GZ2026-054",
         "name": "WA学弟",
-        "organization": "凯里学院"
+        "organization": "凯里学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨知非"
+          },
+          {
+            "name": "金恒宇"
+          },
+          {
+            "name": "张新民"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3767,7 +4319,19 @@
       "user": {
         "id": "GZ2026-029",
         "name": "AAA智识星神批发",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王子豪"
+          },
+          {
+            "name": "刘亚涛"
+          },
+          {
+            "name": "刘宇轩"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3839,7 +4403,19 @@
       "user": {
         "id": "GZ2026-059",
         "name": "逐火之蛾",
-        "organization": "成都理工大学工程技术学院"
+        "organization": "成都理工大学工程技术学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "谢旭"
+          },
+          {
+            "name": "陈茂杰"
+          },
+          {
+            "name": "吴忠鑫"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3911,7 +4487,19 @@
       "user": {
         "id": "GZ2026-037",
         "name": "对对队",
-        "organization": "贵州大学"
+        "organization": "贵州大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈鑫"
+          },
+          {
+            "name": "张章"
+          },
+          {
+            "name": "蔡玉"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -3983,7 +4571,19 @@
       "user": {
         "id": "GZ2026-051",
         "name": "旮旯给木领域大蛇",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "龙轩"
+          },
+          {
+            "name": "王博涵"
+          },
+          {
+            "name": "方淳铭"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -4055,7 +4655,19 @@
       "user": {
         "id": "GZ2026-028",
         "name": "不认真的雪",
-        "organization": "江西农业大学"
+        "organization": "江西农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "余天顺"
+          },
+          {
+            "name": "王珏"
+          },
+          {
+            "name": "钟志程"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -4127,7 +4739,19 @@
       "user": {
         "id": "GZ2026-066",
         "name": "编译器说我队",
-        "organization": "东莞理工学院"
+        "organization": "东莞理工学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张懿"
+          },
+          {
+            "name": "李想"
+          },
+          {
+            "name": "彭腾锋"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -4199,7 +4823,19 @@
       "user": {
         "id": "GZ2026-077",
         "name": "开始懂了",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘明辉"
+          },
+          {
+            "name": "宁校宽"
+          },
+          {
+            "name": "李千骜"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -4271,7 +4907,19 @@
       "user": {
         "id": "GZ2026-011",
         "name": "未名舟",
-        "organization": "西安石油大学"
+        "organization": "西安石油大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "温奕翔"
+          },
+          {
+            "name": "吴桐瑀"
+          },
+          {
+            "name": "王佳乐"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -4343,7 +4991,19 @@
       "user": {
         "id": "GZ2026-007",
         "name": "用奶龙的奶奶奶龙奶龙会不会被奶死",
-        "organization": "华中农业大学"
+        "organization": "华中农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "潘玺名"
+          },
+          {
+            "name": "张晨曦"
+          },
+          {
+            "name": "王晗"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4411,7 +5071,16 @@
       "user": {
         "id": "GZ2026-052",
         "name": "你说的队！",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "支杰"
+          },
+          {
+            "name": "郑泽"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4479,7 +5148,19 @@
       "user": {
         "id": "GZ2026-035",
         "name": "少吃点",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "沈长仪"
+          },
+          {
+            "name": "杜雨懋"
+          },
+          {
+            "name": "陈德"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4547,7 +5228,19 @@
       "user": {
         "id": "GZ2026-062",
         "name": "平平队",
-        "organization": "福州工商学院"
+        "organization": "福州工商学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "罗平"
+          },
+          {
+            "name": "傅元坤"
+          },
+          {
+            "name": "吴光达"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4615,7 +5308,19 @@
       "user": {
         "id": "GZ2026-076",
         "name": "关注塔菲喵",
-        "organization": "广西科技大学"
+        "organization": "广西科技大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "苏逸翔"
+          },
+          {
+            "name": "朱晨恺"
+          },
+          {
+            "name": "杨骐荣"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4683,7 +5388,19 @@
       "user": {
         "id": "GZ2026-022",
         "name": "熬过所有人",
-        "organization": "成都理工大学工程技术学院"
+        "organization": "成都理工大学工程技术学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王平瑞"
+          },
+          {
+            "name": "姜天鑫"
+          },
+          {
+            "name": "李鑫淼"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4751,7 +5468,19 @@
       "user": {
         "id": "GZ2026-042",
         "name": "A三题全员女装",
-        "organization": "贵州工程应用技术学院"
+        "organization": "贵州工程应用技术学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "邓玉紫"
+          },
+          {
+            "name": "卢瑶"
+          },
+          {
+            "name": "李贝"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4819,7 +5548,16 @@
       "user": {
         "id": "GZ2026-074",
         "name": "写的都对",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "韦洒"
+          },
+          {
+            "name": "袁永丽"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4887,7 +5625,16 @@
       "user": {
         "id": "GZ2026-047",
         "name": "我欲乘风",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "龙凤"
+          },
+          {
+            "name": "刘昱伶"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -4955,7 +5702,19 @@
       "user": {
         "id": "GZ2026-018",
         "name": "食堂打饭不要插队",
-        "organization": "成都锦城学院"
+        "organization": "成都锦城学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "徐松"
+          },
+          {
+            "name": "刘佳馨"
+          },
+          {
+            "name": "付云龙"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5023,7 +5782,19 @@
       "user": {
         "id": "GZ2026-023",
         "name": "你码不过我你信不信",
-        "organization": "广西科技大学"
+        "organization": "广西科技大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "曾锦恩"
+          },
+          {
+            "name": "邹智博"
+          },
+          {
+            "name": "覃朗"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5091,7 +5862,19 @@
       "user": {
         "id": "GZ2026-032",
         "name": "霹雳火",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张良杰"
+          },
+          {
+            "name": "龙江"
+          },
+          {
+            "name": "郭定洁"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5159,7 +5942,19 @@
       "user": {
         "id": "GZ2026-027",
         "name": "acm不能ac只能当m",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "万昱炜"
+          },
+          {
+            "name": "吴靖"
+          },
+          {
+            "name": "李科瑾"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5227,7 +6022,16 @@
       "user": {
         "id": "GZ2026-001",
         "name": "WA了就罢了",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "蔡广滨"
+          },
+          {
+            "name": "车旋"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5295,7 +6099,19 @@
       "user": {
         "id": "GZ2026-013",
         "name": "贵师大数科",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨铭"
+          },
+          {
+            "name": "徐朝阳"
+          },
+          {
+            "name": "赵茂杰"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5363,7 +6179,19 @@
       "user": {
         "id": "GZ2026-078",
         "name": "这是个很酷的名字",
-        "organization": "贵州商学院"
+        "organization": "贵州商学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "袁旭"
+          },
+          {
+            "name": "叶子仁"
+          },
+          {
+            "name": "宋豪进"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5431,7 +6259,19 @@
       "user": {
         "id": "GZ2026-046",
         "name": "long long",
-        "organization": "黔南民族师范学院"
+        "organization": "黔南民族师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "刘长龙"
+          },
+          {
+            "name": "曾一凡"
+          },
+          {
+            "name": "干林锋"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5499,7 +6339,19 @@
       "user": {
         "id": "GZ2026-021",
         "name": "沐星",
-        "organization": "贵州工程应用技术学院"
+        "organization": "贵州工程应用技术学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陆云成"
+          },
+          {
+            "name": "司刘阳"
+          },
+          {
+            "name": "佘俊登"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5567,7 +6419,19 @@
       "user": {
         "id": "GZ2026-084",
         "name": "酷",
-        "organization": "黔南民族师范学院"
+        "organization": "黔南民族师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "何澜"
+          },
+          {
+            "name": "麴天扬"
+          },
+          {
+            "name": "程天兵"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5635,7 +6499,19 @@
       "user": {
         "id": "GZ2026-043",
         "name": "遇到困难就睡大觉",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王静"
+          },
+          {
+            "name": "王嘉宇"
+          },
+          {
+            "name": "向胜鑫"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5703,7 +6579,19 @@
       "user": {
         "id": "GZ2026-060",
         "name": "SKT第一",
-        "organization": "萍乡学院"
+        "organization": "萍乡学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王文鑫"
+          },
+          {
+            "name": "熊鹏翔"
+          },
+          {
+            "name": "汪恪丞"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5771,7 +6659,13 @@
       "user": {
         "id": "GZ2026-002",
         "name": "单挑贵州省赛真的会赢吗",
-        "organization": "山西工商学院"
+        "organization": "山西工商学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "谢志华"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5840,7 +6734,18 @@
         "id": "GZ2026-072",
         "name": "重生之评测机把我TLE然后我觉醒了暗黑算法",
         "organization": "桂林理工大学",
-        "official": false
+        "official": false,
+        "teamMembers": [
+          {
+            "name": "冉鸿远"
+          },
+          {
+            "name": "邵云舒"
+          },
+          {
+            "name": "吕津锋"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5908,7 +6813,19 @@
       "user": {
         "id": "GZ2026-045",
         "name": "代码定乾坤",
-        "organization": "贵州中医药大学时珍学院"
+        "organization": "贵州中医药大学时珍学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "朱玉龙"
+          },
+          {
+            "name": "汪浩然"
+          },
+          {
+            "name": "吴景浩"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -5976,7 +6893,19 @@
       "user": {
         "id": "GZ2026-056",
         "name": "你问我们为什么这么甜，因为我们有个糖王",
-        "organization": "贵州民族大学"
+        "organization": "贵州民族大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "王鑫"
+          },
+          {
+            "name": "田坤"
+          },
+          {
+            "name": "冉登谕"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -6044,7 +6973,19 @@
       "user": {
         "id": "GZ2026-053",
         "name": "三个臭皮匠",
-        "organization": "贵州中医药大学时珍学院"
+        "organization": "贵州中医药大学时珍学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "陈纯耀烨"
+          },
+          {
+            "name": "冉永方"
+          },
+          {
+            "name": "王鹏程"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -6112,7 +7053,19 @@
       "user": {
         "id": "GZ2026-064",
         "name": "静默序列",
-        "organization": "贵州师范大学"
+        "organization": "贵州师范大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "秦志远"
+          },
+          {
+            "name": "李星呈"
+          },
+          {
+            "name": "吕德华"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -6180,7 +7133,19 @@
       "user": {
         "id": "GZ2026-015",
         "name": "WA学长",
-        "organization": "凯里学院"
+        "organization": "凯里学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "高剑鸿"
+          },
+          {
+            "name": "李海量"
+          },
+          {
+            "name": "蒋桐"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -6248,7 +7213,19 @@
       "user": {
         "id": "GZ2026-058",
         "name": "精密计算者",
-        "organization": "黔南民族师范学院"
+        "organization": "黔南民族师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "史旭东"
+          },
+          {
+            "name": "刘永胜"
+          },
+          {
+            "name": "蒋煜华"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -6312,7 +7289,19 @@
       "user": {
         "id": "GZ2026-003",
         "name": "卷心菜",
-        "organization": "贵州师范学院"
+        "organization": "贵州师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "罗佳佳"
+          },
+          {
+            "name": "韦可盈"
+          },
+          {
+            "name": "李红桃"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -6376,7 +7365,19 @@
       "user": {
         "id": "GZ2026-025",
         "name": "朗朗晴天",
-        "organization": "江西软件职业技术大学"
+        "organization": "江西软件职业技术大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "杨欢欢"
+          },
+          {
+            "name": "曾络"
+          },
+          {
+            "name": "卢嫕婕妤"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -6436,7 +7437,19 @@
       "user": {
         "id": "GZ2026-040",
         "name": "Runtime Error？",
-        "organization": "六盘水师范学院"
+        "organization": "六盘水师范学院",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "张鹏程"
+          },
+          {
+            "name": "潘小线"
+          },
+          {
+            "name": "杨金兰"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -6496,7 +7509,19 @@
       "user": {
         "id": "GZ2026-057",
         "name": "转生马桶遇见便秘美少女",
-        "organization": "华南农业大学"
+        "organization": "华南农业大学",
+        "official": true,
+        "teamMembers": [
+          {
+            "name": "颜乾彪"
+          },
+          {
+            "name": "陈钢"
+          },
+          {
+            "name": "钱志远"
+          }
+        ]
       },
       "score": {
         "value": 0,
