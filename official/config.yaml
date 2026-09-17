@@ -1257,15 +1257,15 @@ root:
         - path: gz
           name: 贵州省赛
           children:
-            - path: gzcpc2026
+            - path: gzccpc2026
               format: srk.json
-              name: 2026-06-07 2026
+              name: 2026-06-07 2026 CCPC
             - path: gzcpc2025
               format: srk.json
-              name: 2025-06-08 2025
+              name: 2025-06-08 2025 ICPC
             - path: gzcpc2024
               format: srk.json
-              name: 2024-07-14 2024
+              name: 2024-07-14 2024 ICPC
         - path: sn
           name: 陕西省赛
           children:
