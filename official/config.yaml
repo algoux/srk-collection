@@ -633,6 +633,9 @@ root:
             - path: ccpc2026invitational-guizhou
               format: srk.json
               name: 2026-06-07 贵州邀请赛
+            - path: ccpc2026preliminary
+              format: srk.json
+              name: 2026-09-19 网络赛
         - path: ccpc2025
           name: CCPC 2025 (11th)
           children:
