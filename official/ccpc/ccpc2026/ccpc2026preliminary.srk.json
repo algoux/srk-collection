@@ -116,8 +116,8 @@
         "backgroundColor": "#ee7528"
       },
       "statistics": {
-        "accepted": 1821,
-        "submitted": 5810
+        "accepted": 1818,
+        "submitted": 5804
       }
     },
     {
@@ -126,8 +126,8 @@
         "backgroundColor": "#fde047"
       },
       "statistics": {
-        "accepted": 485,
-        "submitted": 5042
+        "accepted": 484,
+        "submitted": 5039
       }
     },
     {
@@ -146,8 +146,8 @@
         "backgroundColor": "#5eead4"
       },
       "statistics": {
-        "accepted": 1595,
-        "submitted": 4050
+        "accepted": 1592,
+        "submitted": 4045
       }
     },
     {
@@ -176,8 +176,8 @@
         "backgroundColor": "#a855f7"
       },
       "statistics": {
-        "accepted": 1845,
-        "submitted": 2369
+        "accepted": 1842,
+        "submitted": 2366
       }
     },
     {
@@ -186,8 +186,8 @@
         "backgroundColor": "#d946ef"
       },
       "statistics": {
-        "accepted": 1796,
-        "submitted": 2846
+        "accepted": 1793,
+        "submitted": 2843
       }
     },
     {
@@ -196,8 +196,8 @@
         "backgroundColor": "#f472b6"
       },
       "statistics": {
-        "accepted": 266,
-        "submitted": 1939
+        "accepted": 265,
+        "submitted": 1938
       }
     },
     {
@@ -226,8 +226,8 @@
         "backgroundColor": "#737373"
       },
       "statistics": {
-        "accepted": 424,
-        "submitted": 1410
+        "accepted": 423,
+        "submitted": 1405
       }
     },
     {
@@ -236,8 +236,8 @@
         "backgroundColor": "#f5f5f0"
       },
       "statistics": {
-        "accepted": 2109,
-        "submitted": 2320
+        "accepted": 2106,
+        "submitted": 2317
       }
     }
   ],
@@ -62052,188 +62052,6 @@
               "result": "AC",
               "time": [
                 391,
-                "s"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "user": {
-        "id": "6",
-        "name": "重庆师范大学一队",
-        "organization": "重庆师范大学",
-        "teamMembers": [
-          {
-            "name": "蒋锦森"
-          },
-          {
-            "name": "孙义杰"
-          },
-          {
-            "name": "周宣庆"
-          }
-        ],
-        "official": true
-      },
-      "score": {
-        "value": 8,
-        "time": [
-          626,
-          "min"
-        ]
-      },
-      "statuses": [
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            1515,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                1515,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            7459,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                7459,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            2269,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                2269,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            8827,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                8827,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            727,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                727,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            10629,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                10629,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            5939,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                5939,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            387,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                387,
                 "s"
               ]
             }
@@ -277187,191 +277005,6 @@
     },
     {
       "user": {
-        "id": "769",
-        "name": "青川拓扑",
-        "organization": "东南大学",
-        "teamMembers": [
-          {
-            "name": "洪荣誉"
-          },
-          {
-            "name": "张响"
-          },
-          {
-            "name": "王吴凡"
-          }
-        ],
-        "official": true
-      },
-      "score": {
-        "value": 5,
-        "time": [
-          392,
-          "min"
-        ]
-      },
-      "statuses": [
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 2,
-          "time": [
-            2643,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "WA",
-              "time": [
-                2571,
-                "s"
-              ]
-            },
-            {
-              "result": "AC",
-              "time": [
-                2643,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 2,
-          "time": [
-            8924,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "WA",
-              "time": [
-                5081,
-                "s"
-              ]
-            },
-            {
-              "result": "AC",
-              "time": [
-                8924,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            6827,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                6827,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            2349,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                2349,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "RJ",
-          "tries": 4,
-          "solutions": [
-            {
-              "result": "TLE",
-              "time": [
-                13970,
-                "s"
-              ]
-            },
-            {
-              "result": "TLE",
-              "time": [
-                15048,
-                "s"
-              ]
-            },
-            {
-              "result": "WA",
-              "time": [
-                15958,
-                "s"
-              ]
-            },
-            {
-              "result": "WA",
-              "time": [
-                16383,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            509,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                509,
-                "s"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "user": {
         "id": "138",
         "name": "Deepsleep V4 Pro 满血版",
         "organization": "广西科技大学",
@@ -307183,184 +306816,6 @@
               "result": "AC",
               "time": [
                 619,
-                "s"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "user": {
-        "id": "687",
-        "name": "打铁组队看牛来",
-        "organization": "云南大学",
-        "teamMembers": [
-          {
-            "name": "吴吁柬"
-          },
-          {
-            "name": "樊奕洋"
-          },
-          {
-            "name": "苏弈宁"
-          }
-        ],
-        "official": true
-      },
-      "score": {
-        "value": 5,
-        "time": [
-          578,
-          "min"
-        ]
-      },
-      "statuses": [
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 3,
-          "time": [
-            3081,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "WA",
-              "time": [
-                2687,
-                "s"
-              ]
-            },
-            {
-              "result": "WA",
-              "time": [
-                2725,
-                "s"
-              ]
-            },
-            {
-              "result": "AC",
-              "time": [
-                3081,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "RJ",
-          "tries": 2,
-          "solutions": [
-            {
-              "result": "WA",
-              "time": [
-                5899,
-                "s"
-              ]
-            },
-            {
-              "result": "WA",
-              "time": [
-                6261,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 2,
-          "time": [
-            4860,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "WA",
-              "time": [
-                3589,
-                "s"
-              ]
-            },
-            {
-              "result": "AC",
-              "time": [
-                4860,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            9456,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                9456,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            12846,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                12846,
-                "s"
-              ]
-            }
-          ]
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": null
-        },
-        {
-          "result": "AC",
-          "tries": 1,
-          "time": [
-            917,
-            "s"
-          ],
-          "solutions": [
-            {
-              "result": "AC",
-              "time": [
-                917,
                 "s"
               ]
             }
