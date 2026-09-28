@@ -4,10 +4,6 @@
   "contributors": [
     "algoUX (https://algoux.org)"
   ],
-  "remarks": {
-    "zh-CN": "这个榜单缺失奖牌数据，如果您有该比赛的原始榜单或获奖名单，欢迎联系我们补充数据。",
-    "fallback": "This ranklist lacks medal data. If you have the original ranklist or the list of winners, please contact us to supplement the data."
-  },
   "contest": {
     "title": {
       "zh-CN": "2026–2027国际大学生程序设计竞赛贵州省赛·正式赛",
@@ -55,10 +51,42 @@
         "options": {
           "count": {
             "value": [
-              0,
-              0,
-              0
+              9,
+              17,
+              25
             ]
+          }
+        }
+      }
+    },
+    {
+      "title": "省内#",
+      "segments": [
+        {
+          "style": "gold",
+          "title": "Gold Award"
+        },
+        {
+          "style": "silver",
+          "title": "Silver Award"
+        },
+        {
+          "style": "bronze",
+          "title": "Bronze Award"
+        }
+      ],
+      "rule": {
+        "preset": "ICPC",
+        "options": {
+          "count": {
+            "value": [
+              4,
+              7,
+              10
+            ]
+          },
+          "filter": {
+            "byMarker": "provincial"
           }
         }
       }
@@ -78,6 +106,13 @@
           "includeOfficialOnly": true
         }
       }
+    }
+  ],
+  "markers": [
+    {
+      "id": "provincial",
+      "label": "省内",
+      "style": "blue"
     }
   ],
   "problems": [
@@ -769,6 +804,9 @@
           {
             "name": "李景颖"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -2021,6 +2059,9 @@
           {
             "name": "陈余飞"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -2285,6 +2326,9 @@
           {
             "name": "吴彪"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -2986,6 +3030,9 @@
           {
             "name": "刘福焱"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -3834,6 +3881,9 @@
           {
             "name": "林铭浩"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -3918,6 +3968,9 @@
           {
             "name": "罗文焯"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -4170,6 +4223,9 @@
           {
             "name": "靳凯洋"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -4254,6 +4310,9 @@
           {
             "name": "张新民"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -4338,6 +4397,9 @@
           {
             "name": "刘宇轩"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -4506,6 +4568,9 @@
           {
             "name": "蔡玉"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -4842,6 +4907,9 @@
           {
             "name": "李千骜"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -5087,6 +5155,9 @@
           {
             "name": "郑泽"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -5167,6 +5238,9 @@
           {
             "name": "陈德"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -5487,6 +5561,9 @@
           {
             "name": "李贝"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -5564,6 +5641,9 @@
           {
             "name": "袁永丽"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -5641,6 +5721,9 @@
           {
             "name": "刘昱伶"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -5881,6 +5964,9 @@
           {
             "name": "郭定洁"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -5961,6 +6047,9 @@
           {
             "name": "李科瑾"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6038,6 +6127,9 @@
           {
             "name": "车旋"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6118,6 +6210,9 @@
           {
             "name": "赵茂杰"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6198,6 +6293,9 @@
           {
             "name": "宋豪进"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6278,6 +6376,9 @@
           {
             "name": "干林锋"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6358,6 +6459,9 @@
           {
             "name": "佘俊登"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6438,6 +6542,9 @@
           {
             "name": "程天兵"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6518,6 +6625,9 @@
           {
             "name": "向胜鑫"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6832,6 +6942,9 @@
           {
             "name": "吴景浩"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6912,6 +7025,9 @@
           {
             "name": "冉登谕"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -6992,6 +7108,9 @@
           {
             "name": "王鹏程"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -7072,6 +7191,9 @@
           {
             "name": "吕德华"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -7152,6 +7274,9 @@
           {
             "name": "蒋桐"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -7232,6 +7357,9 @@
           {
             "name": "蒋煜华"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -7308,6 +7436,9 @@
           {
             "name": "李红桃"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
@@ -7456,6 +7587,9 @@
           {
             "name": "杨金兰"
           }
+        ],
+        "markers": [
+          "provincial"
         ]
       },
       "score": {
