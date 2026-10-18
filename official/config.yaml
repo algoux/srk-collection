@@ -6,6 +6,9 @@ root:
         - path: icpc2026
           name: ICPC 2026 (51st)
           children:
+            - path: icpc2026xi_an
+              format: srk.json
+              name: 2026-10-18 西安站
             - path: icpc2026invitational-shenzhen
               format: srk.json
               name: 2026-04-11 深圳邀请赛
