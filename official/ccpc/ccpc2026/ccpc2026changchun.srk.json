@@ -46,13 +46,12 @@
       "rule": {
         "preset": "ICPC",
         "options": {
-          "ratio": {
+          "count": {
             "value": [
-              0.1,
-              0.2,
-              0.3
-            ],
-            "denominator": "scored"
+              30,
+              60,
+              90
+            ]
           }
         }
       }
@@ -95,11 +94,6 @@
     }
   },
   "markers": [
-    {
-      "id": "default",
-      "label": "默认赛事",
-      "style": "blue"
-    },
     {
       "id": "female",
       "label": "女队",
@@ -239,9 +233,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙江大学.webp"
       },
       "score": {
         "value": 12,
@@ -580,9 +572,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-复旦大学.webp"
       },
       "score": {
         "value": 11,
@@ -857,9 +847,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-复旦大学.webp"
       },
       "score": {
         "value": 10,
@@ -1135,9 +1123,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京大学.webp"
       },
       "score": {
         "value": 10,
@@ -1405,9 +1391,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京大学.webp"
       },
       "score": {
         "value": 10,
@@ -1689,9 +1673,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京交通大学.webp"
       },
       "score": {
         "value": 9,
@@ -1941,9 +1923,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中山大学.webp"
       },
       "score": {
         "value": 9,
@@ -2187,9 +2167,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-复旦大学.webp"
       },
       "score": {
         "value": 9,
@@ -2454,9 +2432,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-同济大学.webp"
       },
       "score": {
         "value": 9,
@@ -2712,9 +2688,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 9,
@@ -2972,9 +2946,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西安交通大学.webp"
       },
       "score": {
         "value": 9,
@@ -3262,9 +3234,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京交通大学.webp"
       },
       "score": {
         "value": 9,
@@ -3534,9 +3504,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京大学.webp"
       },
       "score": {
         "value": 9,
@@ -3834,9 +3802,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国科学技术大学.webp"
       },
       "score": {
         "value": 8,
@@ -4102,9 +4068,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-杭州电子科技大学.webp"
       },
       "score": {
         "value": 8,
@@ -4353,9 +4317,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-济南大学.webp"
       },
       "score": {
         "value": 8,
@@ -4637,9 +4599,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国人民大学.webp"
       },
       "score": {
         "value": 8,
@@ -4870,9 +4830,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-厦门大学.webp"
       },
       "score": {
         "value": 8,
@@ -5089,9 +5047,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙江大学.webp"
       },
       "score": {
         "value": 8,
@@ -5329,9 +5285,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京邮电大学.webp"
       },
       "score": {
         "value": 8,
@@ -5576,9 +5530,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京师范大学.webp"
       },
       "score": {
         "value": 8,
@@ -5822,10 +5774,7 @@
             "role": "coach"
           }
         ],
-        "official": false,
-        "markers": [
-          "default"
-        ]
+        "official": false
       },
       "score": {
         "value": 8,
@@ -6068,9 +6017,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工业大学.webp"
       },
       "score": {
         "value": 8,
@@ -6303,9 +6250,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中山大学.webp"
       },
       "score": {
         "value": 8,
@@ -6536,9 +6481,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京大学.webp"
       },
       "score": {
         "value": 8,
@@ -6767,9 +6710,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华南农业大学.webp"
       },
       "score": {
         "value": 8,
@@ -7120,9 +7061,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京航空航天大学.webp"
       },
       "score": {
         "value": 8,
@@ -7365,9 +7304,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-湘潭大学.webp"
       },
       "score": {
         "value": 8,
@@ -7591,9 +7528,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南开大学.webp"
       },
       "score": {
         "value": 8,
@@ -7852,9 +7787,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京大学.webp"
       },
       "score": {
         "value": 8,
@@ -8090,9 +8023,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京建筑大学.webp"
       },
       "score": {
         "value": 7,
@@ -8312,9 +8243,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙江大学.webp"
       },
       "score": {
         "value": 7,
@@ -8575,9 +8504,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京交通大学.webp"
       },
       "score": {
         "value": 7,
@@ -8790,9 +8717,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西北工业大学.webp"
       },
       "score": {
         "value": 7,
@@ -9042,9 +8967,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-电子科技大学.webp"
       },
       "score": {
         "value": 7,
@@ -9287,9 +9210,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京大学.webp"
       },
       "score": {
         "value": 7,
@@ -9514,9 +9435,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-湖南师范大学.webp"
       },
       "score": {
         "value": 7,
@@ -9780,9 +9699,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京化工大学.webp"
       },
       "score": {
         "value": 7,
@@ -9970,9 +9887,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-天津大学.webp"
       },
       "score": {
         "value": 7,
@@ -10192,9 +10107,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北师范大学附属中学.webp"
       },
       "score": {
         "value": 7,
@@ -10435,9 +10348,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北师范大学附属中学.webp"
       },
       "score": {
         "value": 7,
@@ -10685,9 +10596,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华中科技大学.webp"
       },
       "score": {
         "value": 7,
@@ -10903,9 +10812,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工业大学（深圳）.webp"
       },
       "score": {
         "value": 7,
@@ -11144,9 +11051,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华南理工大学.webp"
       },
       "score": {
         "value": 7,
@@ -11369,9 +11274,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-同济大学.webp"
       },
       "score": {
         "value": 7,
@@ -11594,9 +11497,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北大学.webp"
       },
       "score": {
         "value": 7,
@@ -11842,9 +11743,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
         "value": 7,
@@ -12032,9 +11931,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大连理工大学.webp"
       },
       "score": {
         "value": 7,
@@ -12240,9 +12137,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华南理工大学.webp"
       },
       "score": {
         "value": 7,
@@ -12444,9 +12339,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华东师范大学.webp"
       },
       "score": {
         "value": 7,
@@ -12643,9 +12536,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京邮电大学.webp"
       },
       "score": {
         "value": 7,
@@ -12923,9 +12814,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-电子科技大学.webp"
       },
       "score": {
         "value": 7,
@@ -13148,9 +13037,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中南大学.webp"
       },
       "score": {
         "value": 7,
@@ -13403,9 +13290,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-上海交通大学.webp"
       },
       "score": {
         "value": 7,
@@ -13658,9 +13543,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京工业大学.webp"
       },
       "score": {
         "value": 7,
@@ -14050,9 +13933,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-重庆移通学院.webp"
       },
       "score": {
         "value": 7,
@@ -14303,9 +14184,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 7,
@@ -14579,9 +14458,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-杭州电子科技大学.webp"
       },
       "score": {
         "value": 6,
@@ -14830,9 +14707,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-福州大学.webp"
       },
       "score": {
         "value": 6,
@@ -15014,9 +14889,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-武汉大学.webp"
       },
       "score": {
         "value": 6,
@@ -15191,9 +15064,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-绍兴理工学院.webp"
       },
       "score": {
         "value": 6,
@@ -15407,9 +15278,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京大学.webp"
       },
       "score": {
         "value": 6,
@@ -15653,9 +15522,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-四川大学.webp"
       },
       "score": {
         "value": 6,
@@ -15897,9 +15764,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国科学院大学.webp"
       },
       "score": {
         "value": 6,
@@ -16125,9 +15990,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-重庆理工大学.webp"
       },
       "score": {
         "value": 6,
@@ -16325,9 +16188,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西安交通大学.webp"
       },
       "score": {
         "value": 6,
@@ -16546,9 +16407,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 6,
@@ -16799,9 +16658,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-上海科技大学.webp"
       },
       "score": {
         "value": 6,
@@ -17013,9 +16870,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京大学.webp"
       },
       "score": {
         "value": 6,
@@ -17292,9 +17147,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东大学.webp"
       },
       "score": {
         "value": 6,
@@ -17485,9 +17338,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-香港科技大学（广州）.webp"
       },
       "score": {
         "value": 6,
@@ -17757,9 +17608,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京航空航天大学.webp"
       },
       "score": {
         "value": 6,
@@ -18026,9 +17875,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华东理工大学.webp"
       },
       "score": {
         "value": 6,
@@ -18217,9 +18064,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-国防科技大学.webp"
       },
       "score": {
         "value": 6,
@@ -18480,9 +18325,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工业大学.webp"
       },
       "score": {
         "value": 6,
@@ -18712,9 +18555,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-暨南大学.webp"
       },
       "score": {
         "value": 6,
@@ -18912,9 +18753,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京航空航天大学.webp"
       },
       "score": {
         "value": 6,
@@ -19103,9 +18942,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-武汉大学.webp"
       },
       "score": {
         "value": 6,
@@ -19324,9 +19161,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北大学.webp"
       },
       "score": {
         "value": 6,
@@ -19550,9 +19385,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-广东工业大学.webp"
       },
       "score": {
         "value": 6,
@@ -19778,9 +19611,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京科技大学.webp"
       },
       "score": {
         "value": 6,
@@ -20020,9 +19851,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-集美大学.webp"
       },
       "score": {
         "value": 6,
@@ -20229,9 +20058,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大连理工大学.webp"
       },
       "score": {
         "value": 6,
@@ -20447,9 +20274,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-四川大学.webp"
       },
       "score": {
         "value": 6,
@@ -20700,9 +20525,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西北工业大学.webp"
       },
       "score": {
         "value": 6,
@@ -20956,9 +20779,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华东师范大学.webp"
       },
       "score": {
         "value": 6,
@@ -21156,9 +20977,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国人民大学.webp"
       },
       "score": {
         "value": 6,
@@ -21447,9 +21266,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-新疆大学.webp"
       },
       "score": {
         "value": 6,
@@ -21675,9 +21492,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东南大学.webp"
       },
       "score": {
         "value": 6,
@@ -21912,9 +21727,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-广州大学.webp"
       },
       "score": {
         "value": 6,
@@ -22145,9 +21958,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京理工大学.webp"
       },
       "score": {
         "value": 6,
@@ -22352,9 +22163,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东南大学.webp"
       },
       "score": {
         "value": 6,
@@ -22643,9 +22452,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-杭州电子科技大学.webp"
       },
       "score": {
         "value": 6,
@@ -22908,9 +22715,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西南交通大学.webp"
       },
       "score": {
         "value": 6,
@@ -23157,9 +22962,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京航空航天大学.webp"
       },
       "score": {
         "value": 6,
@@ -23448,9 +23251,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国海洋大学.webp"
       },
       "score": {
         "value": 6,
@@ -23676,9 +23477,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-安徽工业大学.webp"
       },
       "score": {
         "value": 6,
@@ -23895,9 +23694,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-天津工业大学.webp"
       },
       "score": {
         "value": 6,
@@ -24141,9 +23938,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中山大学.webp"
       },
       "score": {
         "value": 6,
@@ -24381,9 +24176,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西安电子科技大学.webp"
       },
       "score": {
         "value": 6,
@@ -24733,9 +24526,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国人民大学.webp"
       },
       "score": {
         "value": 5,
@@ -24973,9 +24764,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华中科技大学.webp"
       },
       "score": {
         "value": 5,
@@ -25208,9 +24997,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙江师范大学.webp"
       },
       "score": {
         "value": 5,
@@ -25381,9 +25168,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-上海理工大学.webp"
       },
       "score": {
         "value": 5,
@@ -25621,9 +25406,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-厦门大学.webp"
       },
       "score": {
         "value": 5,
@@ -25831,9 +25614,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中央财经大学.webp"
       },
       "score": {
         "value": 5,
@@ -26011,9 +25792,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大连海事大学.webp"
       },
       "score": {
         "value": 5,
@@ -26221,9 +26000,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西安交通大学.webp"
       },
       "score": {
         "value": 5,
@@ -26470,9 +26247,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西安电子科技大学.webp"
       },
       "score": {
         "value": 5,
@@ -26678,9 +26453,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-重庆大学.webp"
       },
       "score": {
         "value": 5,
@@ -26907,9 +26680,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东农业大学.webp"
       },
       "score": {
         "value": 5,
@@ -27094,9 +26865,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北师范大学附属中学.webp"
       },
       "score": {
         "value": 5,
@@ -27288,9 +27057,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨德强高级中学.webp"
       },
       "score": {
         "value": 5,
@@ -27496,9 +27263,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国科学技术大学.webp"
       },
       "score": {
         "value": 5,
@@ -27704,9 +27469,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-合肥工业大学.webp"
       },
       "score": {
         "value": 5,
@@ -27935,9 +27698,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-安徽师范大学.webp"
       },
       "score": {
         "value": 5,
@@ -28115,9 +27876,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 5,
@@ -28332,9 +28091,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华中科技大学.webp"
       },
       "score": {
         "value": 5,
@@ -28591,9 +28348,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 5,
@@ -28778,9 +28533,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 5,
@@ -28956,9 +28709,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨师范大学附属中学.webp"
       },
       "score": {
         "value": 5,
@@ -29171,9 +28922,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东大学（威海）.webp"
       },
       "score": {
         "value": 5,
@@ -29388,9 +29137,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大连理工大学.webp"
       },
       "score": {
         "value": 5,
@@ -29623,9 +29370,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河北师范大学.webp"
       },
       "score": {
         "value": 5,
@@ -29810,9 +29555,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国农业大学.webp"
       },
       "score": {
         "value": 5,
@@ -30004,9 +29747,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-郑州轻工业大学.webp"
       },
       "score": {
         "value": 5,
@@ -30190,9 +29931,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙江师范大学.webp"
       },
       "score": {
         "value": 5,
@@ -30361,9 +30100,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京理工大学.webp"
       },
       "score": {
         "value": 5,
@@ -30660,9 +30397,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国矿业大学（北京）.webp"
       },
       "score": {
         "value": 5,
@@ -30902,9 +30637,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-电子科技大学.webp"
       },
       "score": {
         "value": 5,
@@ -31140,9 +30873,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-宁波大学.webp"
       },
       "score": {
         "value": 5,
@@ -31297,9 +31028,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-郑州大学.webp"
       },
       "score": {
         "value": 5,
@@ -31500,9 +31229,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-郑州轻工业大学.webp"
       },
       "score": {
         "value": 5,
@@ -31664,9 +31391,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京邮电大学.webp"
       },
       "score": {
         "value": 5,
@@ -31855,9 +31580,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西南科技大学.webp"
       },
       "score": {
         "value": 5,
@@ -32130,9 +31853,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京工业大学.webp"
       },
       "score": {
         "value": 5,
@@ -32361,9 +32082,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京信息科技大学.webp"
       },
       "score": {
         "value": 5,
@@ -32569,9 +32288,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-武汉大学.webp"
       },
       "score": {
         "value": 5,
@@ -32791,9 +32508,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西华大学.webp"
       },
       "score": {
         "value": 5,
@@ -33011,9 +32726,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 5,
@@ -33256,9 +32969,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京航空航天大学.webp"
       },
       "score": {
         "value": 5,
@@ -33450,9 +33161,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东南大学.webp"
       },
       "score": {
         "value": 5,
@@ -33642,9 +33351,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大连交通大学.webp"
       },
       "score": {
         "value": 5,
@@ -33887,9 +33594,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-重庆邮电大学.webp"
       },
       "score": {
         "value": 5,
@@ -34172,9 +33877,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工业大学（威海）.webp"
       },
       "score": {
         "value": 5,
@@ -34336,9 +34039,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-燕山大学.webp"
       },
       "score": {
         "value": 5,
@@ -34542,9 +34243,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东大学（威海）.webp"
       },
       "score": {
         "value": 5,
@@ -34836,9 +34535,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工业大学（深圳）.webp"
       },
       "score": {
         "value": 4,
@@ -35058,9 +34755,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河北工程大学.webp"
       },
       "score": {
         "value": 4,
@@ -35283,9 +34978,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-安徽理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -35494,9 +35187,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河南大学.webp"
       },
       "score": {
         "value": 4,
@@ -35682,9 +35373,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京交通大学威海校区.webp"
       },
       "score": {
         "value": 4,
@@ -35849,9 +35538,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京师范大学.webp"
       },
       "score": {
         "value": 4,
@@ -36116,9 +35803,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-江苏大学.webp"
       },
       "score": {
         "value": 4,
@@ -36331,9 +36016,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-成都信息工程大学.webp"
       },
       "score": {
         "value": 4,
@@ -36528,9 +36211,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北大学.webp"
       },
       "score": {
         "value": 4,
@@ -36771,9 +36452,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-曲阜师范大学.webp"
       },
       "score": {
         "value": 4,
@@ -36928,9 +36607,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-电子科技大学.webp"
       },
       "score": {
         "value": 4,
@@ -37072,9 +36749,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-太原理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -37264,9 +36939,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-江西农业大学.webp"
       },
       "score": {
         "value": 4,
@@ -37465,9 +37138,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-四川大学.webp"
       },
       "score": {
         "value": 4,
@@ -37655,9 +37326,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工业大学.webp"
       },
       "score": {
         "value": 4,
@@ -37873,9 +37542,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -38058,9 +37725,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-嘉兴大学.webp"
       },
       "score": {
         "value": 4,
@@ -38253,9 +37918,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京林业大学.webp"
       },
       "score": {
         "value": 4,
@@ -38420,9 +38083,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-福州大学.webp"
       },
       "score": {
         "value": 4,
@@ -38638,9 +38299,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -38823,9 +38482,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -39027,9 +38684,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中南大学.webp"
       },
       "score": {
         "value": 4,
@@ -39178,9 +38833,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南开大学.webp"
       },
       "score": {
         "value": 4,
@@ -39382,9 +39035,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-沈阳理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -39614,9 +39265,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-黑龙江大学.webp"
       },
       "score": {
         "value": 4,
@@ -39767,9 +39416,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -39955,9 +39602,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北农业大学.webp"
       },
       "score": {
         "value": 4,
@@ -40112,9 +39757,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京化工大学.webp"
       },
       "score": {
         "value": 4,
@@ -40283,9 +39926,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-深圳理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -40489,9 +40130,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西湖大学.webp"
       },
       "score": {
         "value": 4,
@@ -40709,9 +40348,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南阳理工学院.webp"
       },
       "score": {
         "value": 4,
@@ -40869,9 +40506,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-内蒙古大学.webp"
       },
       "score": {
         "value": 4,
@@ -41045,9 +40680,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-佛山大学.webp"
       },
       "score": {
         "value": 4,
@@ -41254,9 +40887,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中央民族大学.webp"
       },
       "score": {
         "value": 4,
@@ -41486,9 +41117,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西安电子科技大学.webp"
       },
       "score": {
         "value": 4,
@@ -41690,9 +41319,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -41864,9 +41491,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-沈阳化工大学.webp"
       },
       "score": {
         "value": 4,
@@ -42066,9 +41691,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-江南大学.webp"
       },
       "score": {
         "value": 4,
@@ -42268,9 +41891,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-上海交通大学.webp"
       },
       "score": {
         "value": 4,
@@ -42448,9 +42069,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-杭州师范大学.webp"
       },
       "score": {
         "value": 4,
@@ -42694,9 +42313,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中原工学院.webp"
       },
       "score": {
         "value": 4,
@@ -42968,9 +42585,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 4,
@@ -43176,9 +42791,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-衡水学院.webp"
       },
       "score": {
         "value": 4,
@@ -43350,9 +42963,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-郑州大学.webp"
       },
       "score": {
         "value": 4,
@@ -43508,9 +43119,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -43775,9 +43384,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-武汉理工大学.webp"
       },
       "score": {
         "value": 4,
@@ -43988,9 +43595,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-郑州商学院.webp"
       },
       "score": {
         "value": 4,
@@ -44152,9 +43757,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-厦门大学.webp"
       },
       "score": {
         "value": 4,
@@ -44342,9 +43945,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-安徽农业大学.webp"
       },
       "score": {
         "value": 4,
@@ -44537,9 +44138,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-武汉大学.webp"
       },
       "score": {
         "value": 4,
@@ -44785,9 +44384,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-辽宁科技大学.webp"
       },
       "score": {
         "value": 4,
@@ -44989,9 +44586,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-兰州大学.webp"
       },
       "score": {
         "value": 4,
@@ -45170,9 +44765,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东财经大学.webp"
       },
       "score": {
         "value": 4,
@@ -45356,9 +44949,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东管理学院.webp"
       },
       "score": {
         "value": 4,
@@ -45514,9 +45105,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-青岛大学.webp"
       },
       "score": {
         "value": 4,
@@ -45753,9 +45342,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东大学.webp"
       },
       "score": {
         "value": 4,
@@ -45934,9 +45521,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-上海交通大学.webp"
       },
       "score": {
         "value": 4,
@@ -46101,9 +45686,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河南农业大学.webp"
       },
       "score": {
         "value": 4,
@@ -46293,9 +45876,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南昌职业大学.webp"
       },
       "score": {
         "value": 4,
@@ -46474,9 +46055,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-辽宁大学.webp"
       },
       "score": {
         "value": 4,
@@ -46683,9 +46262,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南开大学.webp"
       },
       "score": {
         "value": 4,
@@ -46891,9 +46468,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-温州医科大学.webp"
       },
       "score": {
         "value": 4,
@@ -47063,9 +46638,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 4,
@@ -47249,9 +46822,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
         "value": 4,
@@ -47449,9 +47020,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨德强高级中学.webp"
       },
       "score": {
         "value": 4,
@@ -47637,9 +47206,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大庆市兰德学校.webp"
       },
       "score": {
         "value": 4,
@@ -47823,9 +47390,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨德强高级中学.webp"
       },
       "score": {
         "value": 4,
@@ -48011,9 +47576,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
         "value": 4,
@@ -48171,9 +47734,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-安徽师范大学.webp"
       },
       "score": {
         "value": 3,
@@ -48380,9 +47941,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-临沂大学.webp"
       },
       "score": {
         "value": 3,
@@ -48571,9 +48130,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-延边大学.webp"
       },
       "score": {
         "value": 3,
@@ -48725,9 +48282,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国民航大学.webp"
       },
       "score": {
         "value": 3,
@@ -48967,9 +48522,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-湖南中医药大学.webp"
       },
       "score": {
         "value": 3,
@@ -49107,9 +48660,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国传媒大学.webp"
       },
       "score": {
         "value": 3,
@@ -49325,9 +48876,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东交通学院.webp"
       },
       "score": {
         "value": 3,
@@ -49493,9 +49042,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙大城市学院.webp"
       },
       "score": {
         "value": 3,
@@ -49668,9 +49215,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东科技大学.webp"
       },
       "score": {
         "value": 3,
@@ -49850,9 +49395,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国矿业大学.webp"
       },
       "score": {
         "value": 3,
@@ -50041,9 +49584,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京林业大学.webp"
       },
       "score": {
         "value": 3,
@@ -50239,9 +49780,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春工业大学.webp"
       },
       "score": {
         "value": 3,
@@ -50423,9 +49962,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉利学院.webp"
       },
       "score": {
         "value": 3,
@@ -50586,9 +50123,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-天津仁爱学院.webp"
       },
       "score": {
         "value": 3,
@@ -50717,9 +50252,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东华理工大学.webp"
       },
       "score": {
         "value": 3,
@@ -50878,9 +50411,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-福州外语外贸学院.webp"
       },
       "score": {
         "value": 3,
@@ -51104,9 +50635,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-宁夏大学.webp"
       },
       "score": {
         "value": 3,
@@ -51258,9 +50787,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-广东海洋大学.webp"
       },
       "score": {
         "value": 3,
@@ -51412,9 +50939,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-湖南工业大学.webp"
       },
       "score": {
         "value": 3,
@@ -51605,9 +51130,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-信息工程大学.webp"
       },
       "score": {
         "value": 3,
@@ -51756,9 +51279,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-成都大学.webp"
       },
       "score": {
         "value": 3,
@@ -52063,9 +51584,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国民航大学.webp"
       },
       "score": {
         "value": 3,
@@ -52217,9 +51736,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-广东工业大学揭阳校区.webp"
       },
       "score": {
         "value": 3,
@@ -52364,9 +51881,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京工业大学.webp"
       },
       "score": {
         "value": 3,
@@ -52583,9 +52098,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-齐鲁工业大学.webp"
       },
       "score": {
         "value": 3,
@@ -52774,9 +52287,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙江理工大学.webp"
       },
       "score": {
         "value": 3,
@@ -52956,9 +52467,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华中师范大学.webp"
       },
       "score": {
         "value": 3,
@@ -53147,9 +52656,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北林业大学.webp"
       },
       "score": {
         "value": 3,
@@ -53396,9 +52903,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京印刷学院.webp"
       },
       "score": {
         "value": 3,
@@ -53563,9 +53068,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-福州工商学院.webp"
       },
       "score": {
         "value": 3,
@@ -53831,9 +53334,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国传媒大学.webp"
       },
       "score": {
         "value": 3,
@@ -54003,9 +53504,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南昌大学.webp"
       },
       "score": {
         "value": 3,
@@ -54171,9 +53670,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-宁波大学.webp"
       },
       "score": {
         "value": 3,
@@ -54334,9 +53831,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北大学秦皇岛分校.webp"
       },
       "score": {
         "value": 3,
@@ -54544,9 +54039,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-湖北经济学院.webp"
       },
       "score": {
         "value": 3,
@@ -54727,9 +54220,9 @@
         ],
         "official": true,
         "markers": [
-          "default",
           "female"
-        ]
+        ],
+        "avatar": "assets/logo-厦门理工学院.webp"
       },
       "score": {
         "value": 3,
@@ -54971,9 +54464,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北农业大学.webp"
       },
       "score": {
         "value": 3,
@@ -55134,9 +54625,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-辽宁省实验中学.webp"
       },
       "score": {
         "value": 3,
@@ -55498,9 +54987,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春理工大学.webp"
       },
       "score": {
         "value": 3,
@@ -55661,9 +55148,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-重庆大学.webp"
       },
       "score": {
         "value": 3,
@@ -55836,9 +55321,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华南师范大学.webp"
       },
       "score": {
         "value": 3,
@@ -56048,9 +55531,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南方科技大学.webp"
       },
       "score": {
         "value": 3,
@@ -56227,9 +55708,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-香港科技大学（广州）.webp"
       },
       "score": {
         "value": 3,
@@ -56415,9 +55894,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工程大学.webp"
       },
       "score": {
         "value": 3,
@@ -56594,9 +56071,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京理工大学.webp"
       },
       "score": {
         "value": 3,
@@ -56741,9 +56216,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河北大学.webp"
       },
       "score": {
         "value": 3,
@@ -56934,9 +56407,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南阳理工学院.webp"
       },
       "score": {
         "value": 3,
@@ -57102,9 +56573,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 3,
@@ -57304,9 +56773,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南昌大学.webp"
       },
       "score": {
         "value": 3,
@@ -57448,9 +56915,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京语言大学.webp"
       },
       "score": {
         "value": 3,
@@ -57620,9 +57085,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-嘉应学院.webp"
       },
       "score": {
         "value": 3,
@@ -57795,9 +57258,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-广东工业大学.webp"
       },
       "score": {
         "value": 3,
@@ -57993,9 +57454,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东大学.webp"
       },
       "score": {
         "value": 3,
@@ -58138,9 +57597,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-成都信息工程大学.webp"
       },
       "score": {
         "value": 3,
@@ -58299,9 +57756,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-琼台师范学院.webp"
       },
       "score": {
         "value": 3,
@@ -58509,9 +57964,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-浙江工业大学.webp"
       },
       "score": {
         "value": 3,
@@ -58670,9 +58123,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-湖南大学.webp"
       },
       "score": {
         "value": 3,
@@ -58851,9 +58302,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-湖南农业大学.webp"
       },
       "score": {
         "value": 3,
@@ -59021,9 +58470,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-齐齐哈尔大学.webp"
       },
       "score": {
         "value": 3,
@@ -59180,9 +58627,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-天津理工大学.webp"
       },
       "score": {
         "value": 3,
@@ -59332,9 +58777,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北华大学.webp"
       },
       "score": {
         "value": 3,
@@ -59470,9 +58913,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨工业大学（威海）.webp"
       },
       "score": {
         "value": 3,
@@ -59675,9 +59116,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-辽宁省实验中学.webp"
       },
       "score": {
         "value": 3,
@@ -59843,9 +59282,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-中国科学院大学.webp"
       },
       "score": {
         "value": 3,
@@ -59997,9 +59434,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-西交利物浦大学.webp"
       },
       "score": {
         "value": 3,
@@ -60177,9 +59612,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大连工程学院.webp"
       },
       "score": {
         "value": 3,
@@ -60344,9 +59777,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-成都信息工程大学.webp"
       },
       "score": {
         "value": 3,
@@ -60525,9 +59956,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-厦门大学.webp"
       },
       "score": {
         "value": 3,
@@ -60690,9 +60119,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京邮电大学.webp"
       },
       "score": {
         "value": 3,
@@ -60911,9 +60338,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-上海大学.webp"
       },
       "score": {
         "value": 3,
@@ -61126,9 +60551,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-合肥工业大学宣城校区.webp"
       },
       "score": {
         "value": 2,
@@ -61260,9 +60683,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-江西理工大学.webp"
       },
       "score": {
         "value": 2,
@@ -61401,9 +60822,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春大学.webp"
       },
       "score": {
         "value": 2,
@@ -61535,9 +60954,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北京理工大学.webp"
       },
       "score": {
         "value": 2,
@@ -61664,9 +61081,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华北电力大学（保定）.webp"
       },
       "score": {
         "value": 2,
@@ -61791,9 +61206,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东师范大学.webp"
       },
       "score": {
         "value": 2,
@@ -61927,9 +61340,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河南牧业经济学院.webp"
       },
       "score": {
         "value": 2,
@@ -62068,9 +61479,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河北农业大学.webp"
       },
       "score": {
         "value": 2,
@@ -62243,9 +61652,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-成都锦城学院.webp"
       },
       "score": {
         "value": 2,
@@ -62430,9 +61837,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 2,
@@ -62557,9 +61962,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-沈阳师范大学.webp"
       },
       "score": {
         "value": 2,
@@ -62684,9 +62087,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北林业大学.webp"
       },
       "score": {
         "value": 2,
@@ -62862,9 +62263,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-福建农林大学.webp"
       },
       "score": {
         "value": 2,
@@ -62996,9 +62395,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大庆市兰德学校.webp"
       },
       "score": {
         "value": 2,
@@ -63218,9 +62615,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-山东工程职业技术大学.webp"
       },
       "score": {
         "value": 2,
@@ -63375,9 +62770,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林师范大学.webp"
       },
       "score": {
         "value": 2,
@@ -63541,9 +62934,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大连民族大学.webp"
       },
       "score": {
         "value": 2,
@@ -63686,9 +63077,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-华东理工大学.webp"
       },
       "score": {
         "value": 2,
@@ -63813,9 +63202,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-南京师范大学.webp"
       },
       "score": {
         "value": 2,
@@ -63984,9 +63371,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-哈尔滨理工大学.webp"
       },
       "score": {
         "value": 2,
@@ -64160,9 +63545,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-内蒙古大学.webp"
       },
       "score": {
         "value": 2,
@@ -64315,9 +63698,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 2,
@@ -64495,9 +63876,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-天津科技大学.webp"
       },
       "score": {
         "value": 2,
@@ -64641,9 +64020,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林大学.webp"
       },
       "score": {
         "value": 2,
@@ -64826,9 +64203,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-内蒙古农业大学.webp"
       },
       "score": {
         "value": 2,
@@ -64979,9 +64354,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春工业大学.webp"
       },
       "score": {
         "value": 2,
@@ -65239,9 +64612,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-佳木斯大学.webp"
       },
       "score": {
         "value": 2,
@@ -65470,9 +64841,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-海南大学.webp"
       },
       "score": {
         "value": 1,
@@ -65583,9 +64952,9 @@
         ],
         "official": true,
         "markers": [
-          "default",
           "female"
-        ]
+        ],
+        "avatar": "assets/logo-长春工业大学.webp"
       },
       "score": {
         "value": 1,
@@ -65704,9 +65073,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-琼台师范学院.webp"
       },
       "score": {
         "value": 1,
@@ -65839,9 +65206,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春工业大学.webp"
       },
       "score": {
         "value": 1,
@@ -66097,9 +65462,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-辽宁科技大学.webp"
       },
       "score": {
         "value": 1,
@@ -66252,9 +65615,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-内蒙古财经大学.webp"
       },
       "score": {
         "value": 1,
@@ -66407,9 +65768,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-东北电力大学.webp"
       },
       "score": {
         "value": 1,
@@ -66535,9 +65894,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-天津商业大学.webp"
       },
       "score": {
         "value": 1,
@@ -66672,9 +66029,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-沈阳航空航天大学.webp"
       },
       "score": {
         "value": 1,
@@ -66816,9 +66171,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-成都东软学院.webp"
       },
       "score": {
         "value": 1,
@@ -66995,9 +66348,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-北华大学.webp"
       },
       "score": {
         "value": 1,
@@ -67179,9 +66530,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春工业大学.webp"
       },
       "score": {
         "value": 0,
@@ -67308,9 +66657,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长江大学.webp"
       },
       "score": {
         "value": 0,
@@ -67473,9 +66820,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-通化师范学院.webp"
       },
       "score": {
         "value": 0,
@@ -67583,9 +66928,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-呼和浩特民族学院.webp"
       },
       "score": {
         "value": 0,
@@ -67698,9 +67041,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长江大学.webp"
       },
       "score": {
         "value": 0,
@@ -67826,9 +67167,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-内蒙古科技大学包头师范学院.webp"
       },
       "score": {
         "value": 0,
@@ -67934,9 +67273,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-琼台师范学院.webp"
       },
       "score": {
         "value": 0,
@@ -68072,9 +67409,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-大庆市兰德学校.webp"
       },
       "score": {
         "value": 0,
@@ -68280,9 +67615,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-辽宁工程技术大学.webp"
       },
       "score": {
         "value": 0,
@@ -68453,9 +67786,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-长春工业大学.webp"
       },
       "score": {
         "value": 0,
@@ -68609,9 +67940,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-深圳理工大学.webp"
       },
       "score": {
         "value": 0,
@@ -68705,9 +68034,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-吉林外国语大学.webp"
       },
       "score": {
         "value": 0,
@@ -68801,9 +68128,7 @@
           }
         ],
         "official": true,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-内蒙古师范大学.webp"
       },
       "score": {
         "value": 0,
@@ -68893,9 +68218,7 @@
           }
         ],
         "official": false,
-        "markers": [
-          "default"
-        ]
+        "avatar": "assets/logo-河北科技师范学院.webp"
       },
       "score": {
         "value": 0,
