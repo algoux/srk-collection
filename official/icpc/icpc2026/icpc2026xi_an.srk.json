@@ -19,6 +19,10 @@
       {
         "title": "原始榜单",
         "link": "https://board.xcpcio.com/icpc/51st/xian"
+      },
+      {
+        "title": "队员名单：西安赛站参赛手册（发布），第 6–24 页",
+        "link": "https://github.com/JunjieCharles/xcpc-sight/blob/abcd8abebab61fd81451b1ab3f2c3a30edc03c0c/static/sources/icpc-2026-xian-manual.pdf"
       }
     ]
   },
@@ -173,7 +177,18 @@
         "id": "Team262",
         "organization": "北京大学",
         "official": true,
-        "location": "F12"
+        "location": "F12",
+        "teamMembers": [
+          {
+            "name": "全柏锋"
+          },
+          {
+            "name": "汪飞鸿"
+          },
+          {
+            "name": "龚咏乔"
+          }
+        ]
       },
       "score": {
         "value": 9,
@@ -478,7 +493,18 @@
         "id": "Team331",
         "organization": "北京梦熊科技发展有限责任公司",
         "official": false,
-        "location": "G120"
+        "location": "G120",
+        "teamMembers": [
+          {
+            "name": "彭亦宸"
+          },
+          {
+            "name": "张一藩"
+          },
+          {
+            "name": "柳宏谦"
+          }
+        ]
       },
       "score": {
         "value": 8,
@@ -755,7 +781,18 @@
         "id": "Team144",
         "organization": "清华大学",
         "official": true,
-        "location": "C55"
+        "location": "C55",
+        "teamMembers": [
+          {
+            "name": "程思元"
+          },
+          {
+            "name": "戚朗瑞"
+          },
+          {
+            "name": "魏佳泽"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1030,7 +1067,18 @@
         "id": "Team203",
         "organization": "上海交通大学",
         "official": true,
-        "location": "D54"
+        "location": "D54",
+        "teamMembers": [
+          {
+            "name": "唐星珣"
+          },
+          {
+            "name": "骆雨霄"
+          },
+          {
+            "name": "李俊毅"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1268,7 +1316,18 @@
         "id": "Team139",
         "organization": "南京大学",
         "official": true,
-        "location": "C50"
+        "location": "C50",
+        "teamMembers": [
+          {
+            "name": "张瑞珉"
+          },
+          {
+            "name": "朱羽宽"
+          },
+          {
+            "name": "陈子达"
+          }
+        ]
       },
       "score": {
         "value": 7,
@@ -1564,7 +1623,18 @@
         "id": "Team090",
         "organization": "北京大学",
         "official": true,
-        "location": "C01"
+        "location": "C01",
+        "teamMembers": [
+          {
+            "name": "李雷思问"
+          },
+          {
+            "name": "汪煦康"
+          },
+          {
+            "name": "王飞扬"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -1788,7 +1858,18 @@
         "id": "Team236",
         "organization": "中山大学",
         "official": true,
-        "location": "E27"
+        "location": "E27",
+        "teamMembers": [
+          {
+            "name": "陈艺涛"
+          },
+          {
+            "name": "张冀飞"
+          },
+          {
+            "name": "戴恒飞"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2026,7 +2107,18 @@
         "id": "Team031",
         "organization": "北京航空航天大学",
         "official": true,
-        "location": "A32"
+        "location": "A32",
+        "teamMembers": [
+          {
+            "name": "龚锦勋"
+          },
+          {
+            "name": "徐宏烯"
+          },
+          {
+            "name": "李博琛"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2306,7 +2398,18 @@
         "id": "Team321",
         "organization": "北京梦熊科技发展有限责任公司",
         "official": false,
-        "location": "G111"
+        "location": "G111",
+        "teamMembers": [
+          {
+            "name": "施涵森"
+          },
+          {
+            "name": "颜黎"
+          },
+          {
+            "name": "郝喻杰"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2621,7 +2724,18 @@
         "id": "Team167",
         "organization": "清华大学",
         "official": true,
-        "location": "D18"
+        "location": "D18",
+        "teamMembers": [
+          {
+            "name": "赵海鲲"
+          },
+          {
+            "name": "陈旭磊"
+          },
+          {
+            "name": "李青阳"
+          }
+        ]
       },
       "score": {
         "value": 6,
@@ -2941,7 +3055,18 @@
         "id": "Team030",
         "organization": "北京大学",
         "official": true,
-        "location": "A31"
+        "location": "A31",
+        "teamMembers": [
+          {
+            "name": "那峥"
+          },
+          {
+            "name": "朱羿衡"
+          },
+          {
+            "name": "刘佳铭"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3205,7 +3330,18 @@
         "id": "Team065",
         "organization": "香港中文大学",
         "official": true,
-        "location": "B24"
+        "location": "B24",
+        "teamMembers": [
+          {
+            "name": "黄进"
+          },
+          {
+            "name": "卢沂锋"
+          },
+          {
+            "name": "黄文礼"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3392,7 +3528,18 @@
         "id": "Team132",
         "organization": "西湖大学",
         "official": true,
-        "location": "C43"
+        "location": "C43",
+        "teamMembers": [
+          {
+            "name": "严密"
+          },
+          {
+            "name": "汪阳"
+          },
+          {
+            "name": "俞开"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3600,7 +3747,18 @@
         "id": "Team325",
         "organization": "西安市铁一中国际合作学校",
         "official": false,
-        "location": "G115"
+        "location": "G115",
+        "teamMembers": [
+          {
+            "name": "杨瑞斌"
+          },
+          {
+            "name": "王肇澜"
+          },
+          {
+            "name": "房子煊"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -3820,7 +3978,18 @@
         "id": "Team272",
         "organization": "上海科技大学",
         "official": true,
-        "location": "F22"
+        "location": "F22",
+        "teamMembers": [
+          {
+            "name": "付余阳光"
+          },
+          {
+            "name": "陈冠宇"
+          },
+          {
+            "name": "李卓轩"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4012,7 +4181,18 @@
         "id": "Team409",
         "organization": "北京邮电大学",
         "official": true,
-        "location": "G90"
+        "location": "G90",
+        "teamMembers": [
+          {
+            "name": "吴显熠"
+          },
+          {
+            "name": "詹笙平"
+          },
+          {
+            "name": "雷童"
+          }
+        ]
       },
       "score": {
         "value": 5,
@@ -4325,7 +4505,18 @@
         "id": "Team083",
         "organization": "清华大学",
         "official": true,
-        "location": "B42"
+        "location": "B42",
+        "teamMembers": [
+          {
+            "name": "郭米乐"
+          },
+          {
+            "name": "苏明阳"
+          },
+          {
+            "name": "李宁远"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -4579,7 +4770,18 @@
         "id": "Team094",
         "organization": "南京邮电大学",
         "official": true,
-        "location": "C05"
+        "location": "C05",
+        "teamMembers": [
+          {
+            "name": "王普立"
+          },
+          {
+            "name": "赵聿祺"
+          },
+          {
+            "name": "崔晨曦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -4815,7 +5017,18 @@
         "id": "Team108",
         "organization": "中国科学技术大学",
         "official": true,
-        "location": "C19"
+        "location": "C19",
+        "teamMembers": [
+          {
+            "name": "陆子宸"
+          },
+          {
+            "name": "许傲施"
+          },
+          {
+            "name": "李慕文"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5009,7 +5222,18 @@
         "id": "Team120",
         "organization": "北京航空航天大学",
         "official": true,
-        "location": "C31"
+        "location": "C31",
+        "teamMembers": [
+          {
+            "name": "黄子晔"
+          },
+          {
+            "name": "刘睿知"
+          },
+          {
+            "name": "杨开印"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5243,7 +5467,18 @@
         "id": "Team255",
         "organization": "北京航空航天大学",
         "official": true,
-        "location": "F05"
+        "location": "F05",
+        "teamMembers": [
+          {
+            "name": "席晨皓"
+          },
+          {
+            "name": "杨睿彬"
+          },
+          {
+            "name": "唐路凌"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5442,7 +5677,18 @@
         "id": "Team061",
         "organization": "南京航空航天大学",
         "official": true,
-        "location": "B20"
+        "location": "B20",
+        "teamMembers": [
+          {
+            "name": "杨皓"
+          },
+          {
+            "name": "赵乐坤"
+          },
+          {
+            "name": "胡昊天"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5669,7 +5915,18 @@
         "id": "Team155",
         "organization": "武汉大学",
         "official": true,
-        "location": "D06"
+        "location": "D06",
+        "teamMembers": [
+          {
+            "name": "蔡骐羽"
+          },
+          {
+            "name": "张心悦"
+          },
+          {
+            "name": "罗汇翔"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -5912,7 +6169,18 @@
         "id": "Team151",
         "organization": "重庆大学",
         "official": true,
-        "location": "D02"
+        "location": "D02",
+        "teamMembers": [
+          {
+            "name": "徐天昊"
+          },
+          {
+            "name": "陈朝鎏"
+          },
+          {
+            "name": "苏浩轩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6141,7 +6409,18 @@
         "id": "Team324",
         "organization": "西北工业大学附属中学",
         "official": false,
-        "location": "G114"
+        "location": "G114",
+        "teamMembers": [
+          {
+            "name": "张嘉宁"
+          },
+          {
+            "name": "赵泽尧"
+          },
+          {
+            "name": "吕郑豪"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6349,7 +6628,18 @@
         "id": "Team161",
         "organization": "华中科技大学",
         "official": true,
-        "location": "D12"
+        "location": "D12",
+        "teamMembers": [
+          {
+            "name": "姜泰哲"
+          },
+          {
+            "name": "晏梓豪"
+          },
+          {
+            "name": "孙致平"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6550,7 +6840,18 @@
         "id": "Team014",
         "organization": "北京信息科技大学",
         "official": true,
-        "location": "A15"
+        "location": "A15",
+        "teamMembers": [
+          {
+            "name": "朱默涵"
+          },
+          {
+            "name": "方梓谦"
+          },
+          {
+            "name": "杜翊嘉"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6721,7 +7022,18 @@
         "id": "Team418",
         "organization": "哈尔滨工业大学（深圳）",
         "official": true,
-        "location": "G99"
+        "location": "G99",
+        "teamMembers": [
+          {
+            "name": "秦绍竣"
+          },
+          {
+            "name": "任德阳"
+          },
+          {
+            "name": "王一鸣"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -6934,7 +7246,18 @@
         "id": "Team182",
         "organization": "西安交通大学",
         "official": true,
-        "location": "D33"
+        "location": "D33",
+        "teamMembers": [
+          {
+            "name": "石皓文"
+          },
+          {
+            "name": "王博想"
+          },
+          {
+            "name": "邱宇成"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7221,7 +7544,18 @@
         "id": "Team250",
         "organization": "华东理工大学",
         "official": true,
-        "location": "E41"
+        "location": "E41",
+        "teamMembers": [
+          {
+            "name": "何昀羲"
+          },
+          {
+            "name": "傅正航"
+          },
+          {
+            "name": "张智宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7429,7 +7763,18 @@
         "id": "Team222",
         "organization": "北京航空航天大学",
         "official": true,
-        "location": "E13"
+        "location": "E13",
+        "teamMembers": [
+          {
+            "name": "徐浩然"
+          },
+          {
+            "name": "肖迪睿"
+          },
+          {
+            "name": "廖俊麟"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7651,7 +7996,18 @@
         "id": "Team071",
         "organization": "中国科学技术大学",
         "official": true,
-        "location": "B30"
+        "location": "B30",
+        "teamMembers": [
+          {
+            "name": "赵宋樾"
+          },
+          {
+            "name": "解今夕"
+          },
+          {
+            "name": "彭俊展"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -7859,7 +8215,18 @@
         "id": "Team411",
         "organization": "哈尔滨工业大学（威海）",
         "official": true,
-        "location": "G92"
+        "location": "G92",
+        "teamMembers": [
+          {
+            "name": "龙禺辰"
+          },
+          {
+            "name": "李欣鹏"
+          },
+          {
+            "name": "吴昊亮"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8109,7 +8476,18 @@
         "id": "Team393",
         "organization": "深圳技术大学",
         "official": true,
-        "location": "G74"
+        "location": "G74",
+        "teamMembers": [
+          {
+            "name": "蔡泽垲"
+          },
+          {
+            "name": "张可怡"
+          },
+          {
+            "name": "林坚炜"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8329,7 +8707,18 @@
         "id": "Team396",
         "organization": "华中科技大学",
         "official": true,
-        "location": "G77"
+        "location": "G77",
+        "teamMembers": [
+          {
+            "name": "李思远"
+          },
+          {
+            "name": "张恩睿"
+          },
+          {
+            "name": "段新宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8565,7 +8954,18 @@
         "id": "Team216",
         "organization": "西安交通大学",
         "official": true,
-        "location": "E07"
+        "location": "E07",
+        "teamMembers": [
+          {
+            "name": "陈智"
+          },
+          {
+            "name": "张煦家"
+          },
+          {
+            "name": "王悦曦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -8848,7 +9248,18 @@
         "id": "Team153",
         "organization": "浙江大学",
         "official": true,
-        "location": "D04"
+        "location": "D04",
+        "teamMembers": [
+          {
+            "name": "李俊睿"
+          },
+          {
+            "name": "施翔天"
+          },
+          {
+            "name": "陆安易"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9105,7 +9516,18 @@
         "id": "Team184",
         "organization": "上海大学",
         "official": true,
-        "location": "D35"
+        "location": "D35",
+        "teamMembers": [
+          {
+            "name": "朱克儒"
+          },
+          {
+            "name": "卢嘉洋"
+          },
+          {
+            "name": "李致宁"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9297,7 +9719,18 @@
         "id": "Team319",
         "organization": "暨南大学",
         "official": true,
-        "location": "G11"
+        "location": "G11",
+        "teamMembers": [
+          {
+            "name": "曹哲睿"
+          },
+          {
+            "name": "王玺瑞"
+          },
+          {
+            "name": "王宇涛"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9559,7 +9992,18 @@
         "id": "Team025",
         "organization": "南京航空航天大学",
         "official": true,
-        "location": "A26"
+        "location": "A26",
+        "teamMembers": [
+          {
+            "name": "邵嘉奇"
+          },
+          {
+            "name": "张鑫雨"
+          },
+          {
+            "name": "吕海亮"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9765,7 +10209,18 @@
         "id": "Team181",
         "organization": "中国科学技术大学",
         "official": true,
-        "location": "D32"
+        "location": "D32",
+        "teamMembers": [
+          {
+            "name": "陈鑫"
+          },
+          {
+            "name": "梁家瑞"
+          },
+          {
+            "name": "黄嘉玮"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -9964,7 +10419,18 @@
         "id": "Team103",
         "organization": "华中科技大学",
         "official": true,
-        "location": "C14"
+        "location": "C14",
+        "teamMembers": [
+          {
+            "name": "李鑫"
+          },
+          {
+            "name": "王子石"
+          },
+          {
+            "name": "郭梓洋"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10142,7 +10608,18 @@
         "id": "Team369",
         "organization": "西安交通大学",
         "official": true,
-        "location": "G50"
+        "location": "G50",
+        "teamMembers": [
+          {
+            "name": "许孜诚"
+          },
+          {
+            "name": "杨一帆"
+          },
+          {
+            "name": "杨润轩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10362,7 +10839,18 @@
         "id": "Team106",
         "organization": "吉林大学",
         "official": true,
-        "location": "C17"
+        "location": "C17",
+        "teamMembers": [
+          {
+            "name": "邱天"
+          },
+          {
+            "name": "席乐媛"
+          },
+          {
+            "name": "栗铭远"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10586,7 +11074,18 @@
         "id": "Team196",
         "organization": "复旦大学",
         "official": true,
-        "location": "D47"
+        "location": "D47",
+        "teamMembers": [
+          {
+            "name": "陈作将"
+          },
+          {
+            "name": "魏因希"
+          },
+          {
+            "name": "盖逸凡"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -10843,7 +11342,18 @@
         "id": "Team404",
         "organization": "南京大学",
         "official": true,
-        "location": "G85"
+        "location": "G85",
+        "teamMembers": [
+          {
+            "name": "金昕炜"
+          },
+          {
+            "name": "徐子皓"
+          },
+          {
+            "name": "李睿星"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11058,7 +11568,18 @@
         "id": "Team399",
         "organization": "香港科技大学（广州）",
         "official": true,
-        "location": "G80"
+        "location": "G80",
+        "teamMembers": [
+          {
+            "name": "莫曜翟"
+          },
+          {
+            "name": "宋奕辰"
+          },
+          {
+            "name": "万彦麟"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11327,7 +11848,18 @@
         "id": "Team006",
         "organization": "中山大学",
         "official": true,
-        "location": "A07"
+        "location": "A07",
+        "teamMembers": [
+          {
+            "name": "杨志宸"
+          },
+          {
+            "name": "陈鸿睿"
+          },
+          {
+            "name": "刘亘煊"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11528,7 +12060,18 @@
         "id": "Team370",
         "organization": "宁波大学",
         "official": true,
-        "location": "G51"
+        "location": "G51",
+        "teamMembers": [
+          {
+            "name": "吴镇桥"
+          },
+          {
+            "name": "沈天佑"
+          },
+          {
+            "name": "赵晨翔"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11741,7 +12284,18 @@
         "id": "Team210",
         "organization": "北京大学",
         "official": true,
-        "location": "E01"
+        "location": "E01",
+        "teamMembers": [
+          {
+            "name": "朱灏任"
+          },
+          {
+            "name": "于孟宏"
+          },
+          {
+            "name": "朱宏泽"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -11947,7 +12501,18 @@
         "id": "Team323",
         "organization": "西安湖滨中学",
         "official": false,
-        "location": "G113"
+        "location": "G113",
+        "teamMembers": [
+          {
+            "name": "李承恩"
+          },
+          {
+            "name": "秦思实"
+          },
+          {
+            "name": "王佳禾"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12211,7 +12776,18 @@
         "id": "Team053",
         "organization": "南开大学",
         "official": true,
-        "location": "B12"
+        "location": "B12",
+        "teamMembers": [
+          {
+            "name": "张雪柯"
+          },
+          {
+            "name": "张晨旭"
+          },
+          {
+            "name": "许熙宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12489,7 +13065,18 @@
         "id": "Team414",
         "organization": "电子科技大学",
         "official": true,
-        "location": "G95"
+        "location": "G95",
+        "teamMembers": [
+          {
+            "name": "郑祯宇"
+          },
+          {
+            "name": "张诗杨"
+          },
+          {
+            "name": "幸子豪"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12734,7 +13321,18 @@
         "id": "Team195",
         "organization": "山东理工大学",
         "official": true,
-        "location": "D46"
+        "location": "D46",
+        "teamMembers": [
+          {
+            "name": "梁嘉坤"
+          },
+          {
+            "name": "王一铭"
+          },
+          {
+            "name": "张龙庆"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -12933,7 +13531,18 @@
         "id": "Team092",
         "organization": "北京科技大学",
         "official": true,
-        "location": "C03"
+        "location": "C03",
+        "teamMembers": [
+          {
+            "name": "康伊德"
+          },
+          {
+            "name": "姜皓凯"
+          },
+          {
+            "name": "国林泉"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13132,7 +13741,18 @@
         "id": "Team122",
         "organization": "浙江师范大学",
         "official": true,
-        "location": "C33"
+        "location": "C33",
+        "teamMembers": [
+          {
+            "name": "李燕斌"
+          },
+          {
+            "name": "刘思源"
+          },
+          {
+            "name": "张之娴"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13359,7 +13979,18 @@
         "id": "Team089",
         "organization": "中山大学",
         "official": true,
-        "location": "B48"
+        "location": "B48",
+        "teamMembers": [
+          {
+            "name": "林炜童"
+          },
+          {
+            "name": "彭铭轩"
+          },
+          {
+            "name": "马仲邈"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13595,7 +14226,18 @@
         "id": "Team012",
         "organization": "北京交通大学",
         "official": true,
-        "location": "A13"
+        "location": "A13",
+        "teamMembers": [
+          {
+            "name": "张宸宇"
+          },
+          {
+            "name": "刘孟哲"
+          },
+          {
+            "name": "刘腾俊"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13794,7 +14436,18 @@
         "id": "Team367",
         "organization": "温州大学",
         "official": true,
-        "location": "G48"
+        "location": "G48",
+        "teamMembers": [
+          {
+            "name": "何卓睿"
+          },
+          {
+            "name": "黎明轩"
+          },
+          {
+            "name": "韦乾平"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -13993,7 +14646,18 @@
         "id": "Team304",
         "organization": "四川大学",
         "official": true,
-        "location": "G06"
+        "location": "G06",
+        "teamMembers": [
+          {
+            "name": "张逸涵"
+          },
+          {
+            "name": "韩子睿"
+          },
+          {
+            "name": "李祉橙"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14199,7 +14863,18 @@
         "id": "Team278",
         "organization": "杭州电子科技大学",
         "official": true,
-        "location": "F28"
+        "location": "F28",
+        "teamMembers": [
+          {
+            "name": "王策"
+          },
+          {
+            "name": "吴俞寰"
+          },
+          {
+            "name": "姜浥尘"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14375,7 +15050,18 @@
         "id": "Team045",
         "organization": "厦门大学马来西亚分校",
         "official": true,
-        "location": "B04"
+        "location": "B04",
+        "teamMembers": [
+          {
+            "name": "刘牧新"
+          },
+          {
+            "name": "高佳越"
+          },
+          {
+            "name": "崔泽禹"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14585,7 +15271,18 @@
         "id": "Team310",
         "organization": "中国人民解放军网络空间部队信息工程大学",
         "official": true,
-        "location": "G101"
+        "location": "G101",
+        "teamMembers": [
+          {
+            "name": "蔡智勋"
+          },
+          {
+            "name": "胡轲帆"
+          },
+          {
+            "name": "赵凌睿"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14775,7 +15472,18 @@
         "id": "Team252",
         "organization": "华北理工大学",
         "official": true,
-        "location": "F02"
+        "location": "F02",
+        "teamMembers": [
+          {
+            "name": "霍一博"
+          },
+          {
+            "name": "贺正阳"
+          },
+          {
+            "name": "吴常润"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -14960,7 +15668,18 @@
         "id": "Team179",
         "organization": "福州大学",
         "official": true,
-        "location": "D30"
+        "location": "D30",
+        "teamMembers": [
+          {
+            "name": "连伟成"
+          },
+          {
+            "name": "林嘉祚"
+          },
+          {
+            "name": "王郑涵"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15152,7 +15871,18 @@
         "id": "Team378",
         "organization": "浙江理工大学",
         "official": true,
-        "location": "G59"
+        "location": "G59",
+        "teamMembers": [
+          {
+            "name": "柴春阳"
+          },
+          {
+            "name": "周才凯"
+          },
+          {
+            "name": "王舜宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15414,7 +16144,18 @@
         "id": "Team008",
         "organization": "上海科技大学",
         "official": true,
-        "location": "A09"
+        "location": "A09",
+        "teamMembers": [
+          {
+            "name": "高悦洋"
+          },
+          {
+            "name": "朱芳仪"
+          },
+          {
+            "name": "刘宇宸"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15606,7 +16347,18 @@
         "id": "Team087",
         "organization": "复旦大学",
         "official": true,
-        "location": "B46"
+        "location": "B46",
+        "teamMembers": [
+          {
+            "name": "辛绍航"
+          },
+          {
+            "name": "李尚霖"
+          },
+          {
+            "name": "殷潇轩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -15849,7 +16601,18 @@
         "id": "Team104",
         "organization": "河海大学",
         "official": true,
-        "location": "C15"
+        "location": "C15",
+        "teamMembers": [
+          {
+            "name": "林桁"
+          },
+          {
+            "name": "周厚望"
+          },
+          {
+            "name": "吕广信"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16069,7 +16832,18 @@
         "id": "Team416",
         "organization": "华南农业大学",
         "official": true,
-        "location": "G97"
+        "location": "G97",
+        "teamMembers": [
+          {
+            "name": "邓皓泽"
+          },
+          {
+            "name": "阮贵鹏"
+          },
+          {
+            "name": "邹炜泉"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16259,7 +17033,18 @@
         "id": "Team211",
         "organization": "浙江大学",
         "official": true,
-        "location": "E02"
+        "location": "E02",
+        "teamMembers": [
+          {
+            "name": "应宸宇"
+          },
+          {
+            "name": "王喆"
+          },
+          {
+            "name": "周学诚"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16481,7 +17266,18 @@
         "id": "Team228",
         "organization": "南京大学",
         "official": true,
-        "location": "E19"
+        "location": "E19",
+        "teamMembers": [
+          {
+            "name": "计昀"
+          },
+          {
+            "name": "蒋雨泽"
+          },
+          {
+            "name": "杨照华"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -16780,7 +17576,18 @@
         "id": "Team097",
         "organization": "复旦大学",
         "official": true,
-        "location": "C08"
+        "location": "C08",
+        "teamMembers": [
+          {
+            "name": "徐子函"
+          },
+          {
+            "name": "王俊南"
+          },
+          {
+            "name": "任清扬"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17021,7 +17828,18 @@
         "id": "Team207",
         "organization": "杭州电子科技大学",
         "official": true,
-        "location": "D58"
+        "location": "D58",
+        "teamMembers": [
+          {
+            "name": "朱永"
+          },
+          {
+            "name": "茹豪正"
+          },
+          {
+            "name": "陈铭浩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17327,7 +18145,18 @@
         "id": "Team079",
         "organization": "西安邮电大学",
         "official": true,
-        "location": "B38"
+        "location": "B38",
+        "teamMembers": [
+          {
+            "name": "毋至晨"
+          },
+          {
+            "name": "赵旭东"
+          },
+          {
+            "name": "武奕源"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17540,7 +18369,18 @@
         "id": "Team240",
         "organization": "中国人民大学",
         "official": true,
-        "location": "E31"
+        "location": "E31",
+        "teamMembers": [
+          {
+            "name": "李昊森"
+          },
+          {
+            "name": "熊洋铭"
+          },
+          {
+            "name": "孙安江"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17762,7 +18602,18 @@
         "id": "Team114",
         "organization": "哈尔滨工业大学（深圳）",
         "official": true,
-        "location": "C25"
+        "location": "C25",
+        "teamMembers": [
+          {
+            "name": "李煜恒"
+          },
+          {
+            "name": "陈佳横"
+          },
+          {
+            "name": "陈彦波"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -17982,7 +18833,18 @@
         "id": "Team394",
         "organization": "中国科学技术大学",
         "official": true,
-        "location": "G75"
+        "location": "G75",
+        "teamMembers": [
+          {
+            "name": "金成义"
+          },
+          {
+            "name": "郑心舟"
+          },
+          {
+            "name": "逄佳烨"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18160,7 +19022,18 @@
         "id": "Team389",
         "organization": "杭州电子科技大学",
         "official": true,
-        "location": "G70"
+        "location": "G70",
+        "teamMembers": [
+          {
+            "name": "伍耀文"
+          },
+          {
+            "name": "高书捷"
+          },
+          {
+            "name": "张舟"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18487,7 +19360,18 @@
         "id": "Team096",
         "organization": "浙江大学",
         "official": true,
-        "location": "C07"
+        "location": "C07",
+        "teamMembers": [
+          {
+            "name": "胡淞锦"
+          },
+          {
+            "name": "房俊哲"
+          },
+          {
+            "name": "陈子谦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18711,7 +19595,18 @@
         "id": "Team125",
         "organization": "大连理工大学盘锦校区",
         "official": true,
-        "location": "C36"
+        "location": "C36",
+        "teamMembers": [
+          {
+            "name": "曹瀚文"
+          },
+          {
+            "name": "雷云辉"
+          },
+          {
+            "name": "于子洋"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -18905,7 +19800,18 @@
         "id": "Team402",
         "organization": "北京化工大学",
         "official": true,
-        "location": "G83"
+        "location": "G83",
+        "teamMembers": [
+          {
+            "name": "常钦保"
+          },
+          {
+            "name": "林梓沛"
+          },
+          {
+            "name": "倪亚伦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19111,7 +20017,18 @@
         "id": "Team157",
         "organization": "北京化工大学",
         "official": true,
-        "location": "D08"
+        "location": "D08",
+        "teamMembers": [
+          {
+            "name": "程泽华"
+          },
+          {
+            "name": "鲍涵"
+          },
+          {
+            "name": "柴树楠"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19294,7 +20211,18 @@
         "id": "Team405",
         "organization": "西安工业大学",
         "official": true,
-        "location": "G86"
+        "location": "G86",
+        "teamMembers": [
+          {
+            "name": "邓琦文"
+          },
+          {
+            "name": "修天润"
+          },
+          {
+            "name": "施昺琛"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19491,7 +20419,18 @@
         "id": "Team206",
         "organization": "浙江工业大学",
         "official": true,
-        "location": "D57"
+        "location": "D57",
+        "teamMembers": [
+          {
+            "name": "俞佳毅"
+          },
+          {
+            "name": "叶许乐"
+          },
+          {
+            "name": "蒋徐杰"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19681,7 +20620,18 @@
         "id": "Team243",
         "organization": "电子科技大学",
         "official": true,
-        "location": "E34"
+        "location": "E34",
+        "teamMembers": [
+          {
+            "name": "周蛰粼"
+          },
+          {
+            "name": "徐明君"
+          },
+          {
+            "name": "赵城尧"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -19878,7 +20828,18 @@
         "id": "Team348",
         "organization": "武汉大学",
         "official": true,
-        "location": "G29"
+        "location": "G29",
+        "teamMembers": [
+          {
+            "name": "周恬逸"
+          },
+          {
+            "name": "宋铭萱"
+          },
+          {
+            "name": "陈冠宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20126,7 +21087,18 @@
         "id": "Team001",
         "organization": "兰州大学",
         "official": true,
-        "location": "A01"
+        "location": "A01",
+        "teamMembers": [
+          {
+            "name": "任墨涵"
+          },
+          {
+            "name": "张恩彬"
+          },
+          {
+            "name": "金相宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20332,7 +21304,18 @@
         "id": "Team137",
         "organization": "山东理工大学",
         "official": true,
-        "location": "C48"
+        "location": "C48",
+        "teamMembers": [
+          {
+            "name": "汤星宇"
+          },
+          {
+            "name": "吴文斌"
+          },
+          {
+            "name": "吕宏业"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20524,7 +21507,18 @@
         "id": "Team208",
         "organization": "哈尔滨工业大学（深圳）",
         "official": true,
-        "location": "D59"
+        "location": "D59",
+        "teamMembers": [
+          {
+            "name": "江俊宏"
+          },
+          {
+            "name": "曹鹏宇"
+          },
+          {
+            "name": "高俊垚"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -20779,7 +21773,18 @@
         "id": "Team328",
         "organization": "西安高新第三初级中学",
         "official": false,
-        "location": "G118"
+        "location": "G118",
+        "teamMembers": [
+          {
+            "name": "吕明栩"
+          },
+          {
+            "name": "肖子卓"
+          },
+          {
+            "name": "王一乐"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21048,7 +22053,18 @@
         "id": "Team301",
         "organization": "重庆邮电大学",
         "official": true,
-        "location": "G03"
+        "location": "G03",
+        "teamMembers": [
+          {
+            "name": "蒲冠宏"
+          },
+          {
+            "name": "吴凤卓"
+          },
+          {
+            "name": "江胜川"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21277,7 +22293,18 @@
         "id": "Team224",
         "organization": "长安大学",
         "official": true,
-        "location": "E15"
+        "location": "E15",
+        "teamMembers": [
+          {
+            "name": "钱麦曲"
+          },
+          {
+            "name": "冯瀚文"
+          },
+          {
+            "name": "龙炜枫"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21467,7 +22494,18 @@
         "id": "Team158",
         "organization": "华东师范大学",
         "official": true,
-        "location": "D09"
+        "location": "D09",
+        "teamMembers": [
+          {
+            "name": "董柯演"
+          },
+          {
+            "name": "张博超"
+          },
+          {
+            "name": "黄启轩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21650,7 +22688,18 @@
         "id": "Team048",
         "organization": "西南科技大学",
         "official": true,
-        "location": "B07"
+        "location": "B07",
+        "teamMembers": [
+          {
+            "name": "谢世杰"
+          },
+          {
+            "name": "刘卓志"
+          },
+          {
+            "name": "官畅宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -21914,7 +22963,18 @@
         "id": "Team231",
         "organization": "香港大学",
         "official": true,
-        "location": "E22"
+        "location": "E22",
+        "teamMembers": [
+          {
+            "name": "杨明天"
+          },
+          {
+            "name": "吴浩元"
+          },
+          {
+            "name": "徐致远"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -22136,7 +23196,18 @@
         "id": "Team344",
         "organization": "兰州大学",
         "official": true,
-        "location": "G25"
+        "location": "G25",
+        "teamMembers": [
+          {
+            "name": "曹家硕"
+          },
+          {
+            "name": "沈天辰"
+          },
+          {
+            "name": "张照博"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -22363,7 +23434,18 @@
         "id": "Team379",
         "organization": "东北大学",
         "official": true,
-        "location": "G60"
+        "location": "G60",
+        "teamMembers": [
+          {
+            "name": "王百汇"
+          },
+          {
+            "name": "王浩旸"
+          },
+          {
+            "name": "聂天一"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -22590,7 +23672,18 @@
         "id": "Team320",
         "organization": "清华大学附属中学",
         "official": false,
-        "location": "G110"
+        "location": "G110",
+        "teamMembers": [
+          {
+            "name": "田滨诚"
+          },
+          {
+            "name": "雷德轩"
+          },
+          {
+            "name": "张清扬"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -22833,7 +23926,18 @@
         "id": "Team173",
         "organization": "电子科技大学",
         "official": true,
-        "location": "D24"
+        "location": "D24",
+        "teamMembers": [
+          {
+            "name": "沈轩如"
+          },
+          {
+            "name": "王新宽"
+          },
+          {
+            "name": "王佳政"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -23016,7 +24120,18 @@
         "id": "Team128",
         "organization": "杭州师范大学",
         "official": true,
-        "location": "C39"
+        "location": "C39",
+        "teamMembers": [
+          {
+            "name": "王昊琛"
+          },
+          {
+            "name": "潘大卫"
+          },
+          {
+            "name": "冷题名"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -23308,7 +24423,18 @@
         "id": "Team397",
         "organization": "北方工业大学",
         "official": true,
-        "location": "G78"
+        "location": "G78",
+        "teamMembers": [
+          {
+            "name": "刘屹鸥"
+          },
+          {
+            "name": "周易"
+          },
+          {
+            "name": "陈俊彬"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -23530,7 +24656,18 @@
         "id": "Team020",
         "organization": "四川大学",
         "official": true,
-        "location": "A21"
+        "location": "A21",
+        "teamMembers": [
+          {
+            "name": "肖瑾瑜"
+          },
+          {
+            "name": "彭振洋"
+          },
+          {
+            "name": "王红智"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -23787,7 +24924,18 @@
         "id": "Team277",
         "organization": "山东大学",
         "official": true,
-        "location": "F27"
+        "location": "F27",
+        "teamMembers": [
+          {
+            "name": "吴思宁"
+          },
+          {
+            "name": "杨佳明"
+          },
+          {
+            "name": "杨卓"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -24000,7 +25148,18 @@
         "id": "Team374",
         "organization": "东南大学",
         "official": true,
-        "location": "G55"
+        "location": "G55",
+        "teamMembers": [
+          {
+            "name": "靳赫涛"
+          },
+          {
+            "name": "杜鑫研"
+          },
+          {
+            "name": "毛周祥"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -24218,7 +25377,18 @@
         "id": "Team077",
         "organization": "山东大学",
         "official": true,
-        "location": "B36"
+        "location": "B36",
+        "teamMembers": [
+          {
+            "name": "庞绍旗"
+          },
+          {
+            "name": "吴桐雨"
+          },
+          {
+            "name": "王钧祺"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -24408,7 +25578,18 @@
         "id": "Team102",
         "organization": "西安交通大学",
         "official": true,
-        "location": "C13"
+        "location": "C13",
+        "teamMembers": [
+          {
+            "name": "胡辰同"
+          },
+          {
+            "name": "林子涵"
+          },
+          {
+            "name": "李牧远"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -24621,7 +25802,18 @@
         "id": "Team274",
         "organization": "哈尔滨工业大学",
         "official": true,
-        "location": "F24"
+        "location": "F24",
+        "teamMembers": [
+          {
+            "name": "李乐雨"
+          },
+          {
+            "name": "刘思维"
+          },
+          {
+            "name": "郭道玮"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -24811,7 +26003,18 @@
         "id": "Team282",
         "organization": "厦门大学",
         "official": true,
-        "location": "F32"
+        "location": "F32",
+        "teamMembers": [
+          {
+            "name": "庄嘉豪"
+          },
+          {
+            "name": "陈健宇"
+          },
+          {
+            "name": "李海滨"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -25015,7 +26218,18 @@
         "id": "Team126",
         "organization": "北京理工大学",
         "official": true,
-        "location": "C37"
+        "location": "C37",
+        "teamMembers": [
+          {
+            "name": "陈家辉"
+          },
+          {
+            "name": "邵子鸣"
+          },
+          {
+            "name": "王煜皓"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -25256,7 +26470,18 @@
         "id": "Team099",
         "organization": "大连理工大学",
         "official": true,
-        "location": "C10"
+        "location": "C10",
+        "teamMembers": [
+          {
+            "name": "刘兆洲"
+          },
+          {
+            "name": "冯子祥"
+          },
+          {
+            "name": "时佳骏"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -25485,7 +26710,18 @@
         "id": "Team160",
         "organization": "中山大学",
         "official": true,
-        "location": "D11"
+        "location": "D11",
+        "teamMembers": [
+          {
+            "name": "黄子轩"
+          },
+          {
+            "name": "林于皓"
+          },
+          {
+            "name": "何明祚"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -25747,7 +26983,18 @@
         "id": "Team026",
         "organization": "南京信息工程大学",
         "official": true,
-        "location": "A27"
+        "location": "A27",
+        "teamMembers": [
+          {
+            "name": "李腾飞"
+          },
+          {
+            "name": "何家齐"
+          },
+          {
+            "name": "汪琪"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -25923,7 +27170,18 @@
         "id": "Team276",
         "organization": "四川大学",
         "official": true,
-        "location": "F26"
+        "location": "F26",
+        "teamMembers": [
+          {
+            "name": "黄乐天"
+          },
+          {
+            "name": "阳帆"
+          },
+          {
+            "name": "王宣淇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -26171,7 +27429,18 @@
         "id": "Team365",
         "organization": "浙大城市学院",
         "official": true,
-        "location": "G46"
+        "location": "G46",
+        "teamMembers": [
+          {
+            "name": "张雪松"
+          },
+          {
+            "name": "颜硕建"
+          },
+          {
+            "name": "谢尚哲"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -26391,7 +27660,18 @@
         "id": "Team237",
         "organization": "香港科技大学（广州）",
         "official": true,
-        "location": "E28"
+        "location": "E28",
+        "teamMembers": [
+          {
+            "name": "刘彦彤"
+          },
+          {
+            "name": "何宇翔"
+          },
+          {
+            "name": "王梓鑫"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -26625,7 +27905,18 @@
         "id": "Team316",
         "organization": "西北工业大学附属中学",
         "official": false,
-        "location": "G107"
+        "location": "G107",
+        "teamMembers": [
+          {
+            "name": "杨其非"
+          },
+          {
+            "name": "孙匡正"
+          },
+          {
+            "name": "郑好"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -27008,7 +28299,18 @@
         "id": "Team264",
         "organization": "华中科技大学",
         "official": true,
-        "location": "F14"
+        "location": "F14",
+        "teamMembers": [
+          {
+            "name": "朱雨程"
+          },
+          {
+            "name": "阮弘毅"
+          },
+          {
+            "name": "吴高宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -27214,7 +28516,18 @@
         "id": "Team336",
         "organization": "华南理工大学",
         "official": true,
-        "location": "G17"
+        "location": "G17",
+        "teamMembers": [
+          {
+            "name": "谷奕鑫"
+          },
+          {
+            "name": "黄昊霖"
+          },
+          {
+            "name": "莫铉炜"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -27397,7 +28710,18 @@
         "id": "Team170",
         "organization": "浙江工商大学",
         "official": true,
-        "location": "D21"
+        "location": "D21",
+        "teamMembers": [
+          {
+            "name": "沈士渊"
+          },
+          {
+            "name": "魏嘉豪"
+          },
+          {
+            "name": "徐晨阳"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -27622,7 +28946,18 @@
         "id": "Team268",
         "organization": "深圳大学",
         "official": true,
-        "location": "F18"
+        "location": "F18",
+        "teamMembers": [
+          {
+            "name": "孙瑜宁"
+          },
+          {
+            "name": "程文镠"
+          },
+          {
+            "name": "王翌轩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -27828,7 +29163,18 @@
         "id": "Team315",
         "organization": "西安市铁一中国际合作学校",
         "official": false,
-        "location": "G106"
+        "location": "G106",
+        "teamMembers": [
+          {
+            "name": "刘力扬"
+          },
+          {
+            "name": "徐康硕"
+          },
+          {
+            "name": "蒋雨曦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -28071,7 +29417,18 @@
         "id": "Team019",
         "organization": "重庆大学",
         "official": true,
-        "location": "A20"
+        "location": "A20",
+        "teamMembers": [
+          {
+            "name": "余泽楷"
+          },
+          {
+            "name": "陈柯霖"
+          },
+          {
+            "name": "熊思豪"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -28335,7 +29692,18 @@
         "id": "Team322",
         "organization": "西安交大附中",
         "official": false,
-        "location": "G112"
+        "location": "G112",
+        "teamMembers": [
+          {
+            "name": "高栩恪"
+          },
+          {
+            "name": "张芃浩"
+          },
+          {
+            "name": "李天江"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -28553,7 +29921,18 @@
         "id": "Team300",
         "organization": "同济大学",
         "official": true,
-        "location": "G02"
+        "location": "G02",
+        "teamMembers": [
+          {
+            "name": "宋瑞"
+          },
+          {
+            "name": "彭楚杰"
+          },
+          {
+            "name": "许哲彦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -28778,7 +30157,18 @@
         "id": "Team023",
         "organization": "天津大学",
         "official": true,
-        "location": "A24"
+        "location": "A24",
+        "teamMembers": [
+          {
+            "name": "亢佳泰"
+          },
+          {
+            "name": "陈俊宇"
+          },
+          {
+            "name": "王锦浩"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -28968,7 +30358,18 @@
         "id": "Team248",
         "organization": "东华大学",
         "official": true,
-        "location": "E39"
+        "location": "E39",
+        "teamMembers": [
+          {
+            "name": "沈兴波"
+          },
+          {
+            "name": "程政凯"
+          },
+          {
+            "name": "金浩帆"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -29197,7 +30598,18 @@
         "id": "Team381",
         "organization": "成都信息工程大学",
         "official": true,
-        "location": "G62"
+        "location": "G62",
+        "teamMembers": [
+          {
+            "name": "刘雨葳"
+          },
+          {
+            "name": "林莫豪"
+          },
+          {
+            "name": "王浩然"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -29417,7 +30829,18 @@
         "id": "Team249",
         "organization": "西南民族大学",
         "official": true,
-        "location": "E40"
+        "location": "E40",
+        "teamMembers": [
+          {
+            "name": "石珈豪"
+          },
+          {
+            "name": "俞铭泽"
+          },
+          {
+            "name": "杨钦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -29649,7 +31072,18 @@
         "id": "Team390",
         "organization": "华南师范大学",
         "official": true,
-        "location": "G71"
+        "location": "G71",
+        "teamMembers": [
+          {
+            "name": "陈华昊"
+          },
+          {
+            "name": "陈育瀚"
+          },
+          {
+            "name": "冼健民"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -29906,7 +31340,18 @@
         "id": "Team172",
         "organization": "兰州大学",
         "official": true,
-        "location": "D23"
+        "location": "D23",
+        "teamMembers": [
+          {
+            "name": "张潇锋"
+          },
+          {
+            "name": "吕宁"
+          },
+          {
+            "name": "邵逸帆"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -30096,7 +31541,18 @@
         "id": "Team306",
         "organization": "南昌大学",
         "official": true,
-        "location": "G08"
+        "location": "G08",
+        "teamMembers": [
+          {
+            "name": "张保霖"
+          },
+          {
+            "name": "李逸博"
+          },
+          {
+            "name": "张修贤"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -30300,7 +31756,18 @@
         "id": "Team148",
         "organization": "广东东软学院",
         "official": true,
-        "location": "C59"
+        "location": "C59",
+        "teamMembers": [
+          {
+            "name": "康忠毅"
+          },
+          {
+            "name": "陈笔政"
+          },
+          {
+            "name": "李寅之"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -30490,7 +31957,18 @@
         "id": "Team312",
         "organization": "上海大学",
         "official": true,
-        "location": "G103"
+        "location": "G103",
+        "teamMembers": [
+          {
+            "name": "王毛易"
+          },
+          {
+            "name": "徐丁"
+          },
+          {
+            "name": "王正杰"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -30673,7 +32151,18 @@
         "id": "Team392",
         "organization": "西安电子科技大学",
         "official": true,
-        "location": "G73"
+        "location": "G73",
+        "teamMembers": [
+          {
+            "name": "盛夏润"
+          },
+          {
+            "name": "石峻瑞"
+          },
+          {
+            "name": "屈弋卓"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -30872,7 +32361,18 @@
         "id": "Team213",
         "organization": "华南农业大学",
         "official": true,
-        "location": "E04"
+        "location": "E04",
+        "teamMembers": [
+          {
+            "name": "叶子琦"
+          },
+          {
+            "name": "黄卓铭"
+          },
+          {
+            "name": "梁嘉俊"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -31097,7 +32597,18 @@
         "id": "Team156",
         "organization": "南京邮电大学",
         "official": true,
-        "location": "D07"
+        "location": "D07",
+        "teamMembers": [
+          {
+            "name": "卫鸿飞"
+          },
+          {
+            "name": "江明轩"
+          },
+          {
+            "name": "陶顾韬"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -31653,7 +33164,18 @@
         "id": "Team073",
         "organization": "成都信息工程大学",
         "official": true,
-        "location": "B32"
+        "location": "B32",
+        "teamMembers": [
+          {
+            "name": "秦朝超"
+          },
+          {
+            "name": "韦彦祖"
+          },
+          {
+            "name": "魏章博"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -31843,7 +33365,18 @@
         "id": "Team183",
         "organization": "广东工业大学",
         "official": true,
-        "location": "D34"
+        "location": "D34",
+        "teamMembers": [
+          {
+            "name": "邱启涵"
+          },
+          {
+            "name": "何炜华"
+          },
+          {
+            "name": "钟敦复"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -32012,7 +33545,18 @@
         "id": "Team082",
         "organization": "浙大城市学院",
         "official": true,
-        "location": "B41"
+        "location": "B41",
+        "teamMembers": [
+          {
+            "name": "阮奕豪"
+          },
+          {
+            "name": "徐豪钰"
+          },
+          {
+            "name": "吴可欣"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -32218,7 +33762,18 @@
         "id": "Team263",
         "organization": "浙江农林大学",
         "official": true,
-        "location": "F13"
+        "location": "F13",
+        "teamMembers": [
+          {
+            "name": "劳馨怡"
+          },
+          {
+            "name": "王孙超"
+          },
+          {
+            "name": "毛亦秀"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -32431,7 +33986,18 @@
         "id": "Team372",
         "organization": "华中农业大学",
         "official": true,
-        "location": "G53"
+        "location": "G53",
+        "teamMembers": [
+          {
+            "name": "张可凡"
+          },
+          {
+            "name": "王思学"
+          },
+          {
+            "name": "刘泽成"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -32686,7 +34252,18 @@
         "id": "Team242",
         "organization": "西北工业大学",
         "official": true,
-        "location": "E33"
+        "location": "E33",
+        "teamMembers": [
+          {
+            "name": "于博源"
+          },
+          {
+            "name": "文煜州"
+          },
+          {
+            "name": "代常睿"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -32897,7 +34474,18 @@
         "id": "Team360",
         "organization": "中国人民大学",
         "official": true,
-        "location": "G41"
+        "location": "G41",
+        "teamMembers": [
+          {
+            "name": "李泽润"
+          },
+          {
+            "name": "徐冠熙"
+          },
+          {
+            "name": "万昊"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -33136,7 +34724,18 @@
         "id": "Team004",
         "organization": "东北大学秦皇岛分校",
         "official": true,
-        "location": "A04"
+        "location": "A04",
+        "teamMembers": [
+          {
+            "name": "焦一晟"
+          },
+          {
+            "name": "曾凡一"
+          },
+          {
+            "name": "秦浩越"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -33354,7 +34953,18 @@
         "id": "Team145",
         "organization": "山东科技大学",
         "official": true,
-        "location": "C56"
+        "location": "C56",
+        "teamMembers": [
+          {
+            "name": "邢子建"
+          },
+          {
+            "name": "李屹然"
+          },
+          {
+            "name": "宋明翰"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -33595,7 +35205,18 @@
         "id": "Team127",
         "organization": "暨南大学",
         "official": true,
-        "location": "C38"
+        "location": "C38",
+        "teamMembers": [
+          {
+            "name": "梁子龙"
+          },
+          {
+            "name": "姚沛雨"
+          },
+          {
+            "name": "郑天翔"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -33829,7 +35450,18 @@
         "id": "Team024",
         "organization": "香港中文大学",
         "official": true,
-        "location": "A25"
+        "location": "A25",
+        "teamMembers": [
+          {
+            "name": "蘇梓仁"
+          },
+          {
+            "name": "Nguyen Tan Minh"
+          },
+          {
+            "name": "李淳軒"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -34063,7 +35695,18 @@
         "id": "Team093",
         "organization": "北京工业大学",
         "official": true,
-        "location": "C04"
+        "location": "C04",
+        "teamMembers": [
+          {
+            "name": "曾子涵"
+          },
+          {
+            "name": "柴俊"
+          },
+          {
+            "name": "张梦宇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -34283,7 +35926,18 @@
         "id": "Team329",
         "organization": "西安市铁一中学",
         "official": false,
-        "location": "G119"
+        "location": "G119",
+        "teamMembers": [
+          {
+            "name": "王正清和"
+          },
+          {
+            "name": "闵子桐"
+          },
+          {
+            "name": "吴浩冉"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -34517,7 +36171,18 @@
         "id": "Team343",
         "organization": "山东大学",
         "official": true,
-        "location": "G24"
+        "location": "G24",
+        "teamMembers": [
+          {
+            "name": "姜刘子硕"
+          },
+          {
+            "name": "杨涵锐"
+          },
+          {
+            "name": "张健熙"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -34758,7 +36423,18 @@
         "id": "Team095",
         "organization": "浙江万里学院",
         "official": true,
-        "location": "C06"
+        "location": "C06",
+        "teamMembers": [
+          {
+            "name": "关天泽"
+          },
+          {
+            "name": "马康博"
+          },
+          {
+            "name": "叶仁杰"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -34969,7 +36645,18 @@
         "id": "Team330",
         "organization": "浙江工商大学",
         "official": true,
-        "location": "G12"
+        "location": "G12",
+        "teamMembers": [
+          {
+            "name": "卢嘉亮"
+          },
+          {
+            "name": "张任杰"
+          },
+          {
+            "name": "郑铁峥"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -35222,7 +36909,18 @@
         "id": "Team245",
         "organization": "西南财经大学",
         "official": true,
-        "location": "E36"
+        "location": "E36",
+        "teamMembers": [
+          {
+            "name": "张熙伟"
+          },
+          {
+            "name": "刘思涵"
+          },
+          {
+            "name": "林祥兴"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -35440,7 +37138,18 @@
         "id": "Team084",
         "organization": "浙江工业大学",
         "official": true,
-        "location": "B43"
+        "location": "B43",
+        "teamMembers": [
+          {
+            "name": "赵延恺"
+          },
+          {
+            "name": "项天乐"
+          },
+          {
+            "name": "虞泽鑫"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -35660,7 +37369,18 @@
         "id": "Team205",
         "organization": "河南理工大学",
         "official": true,
-        "location": "D56"
+        "location": "D56",
+        "teamMembers": [
+          {
+            "name": "刘婧华"
+          },
+          {
+            "name": "李梦洋"
+          },
+          {
+            "name": "张立攀"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -35871,7 +37591,18 @@
         "id": "Team288",
         "organization": "浙江理工大学",
         "official": true,
-        "location": "F38"
+        "location": "F38",
+        "teamMembers": [
+          {
+            "name": "黄浩翔"
+          },
+          {
+            "name": "苏沛铭"
+          },
+          {
+            "name": "胡世朋"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -36081,7 +37812,18 @@
         "id": "Team309",
         "organization": "华南理工大学",
         "official": true,
-        "location": "G100"
+        "location": "G100",
+        "teamMembers": [
+          {
+            "name": "樊瑞涵"
+          },
+          {
+            "name": "梁祖章"
+          },
+          {
+            "name": "黄皓炜"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -36294,7 +38036,18 @@
         "id": "Team010",
         "organization": "上海理工大学",
         "official": true,
-        "location": "A11"
+        "location": "A11",
+        "teamMembers": [
+          {
+            "name": "周天昊"
+          },
+          {
+            "name": "钟瑶萍"
+          },
+          {
+            "name": "李俊毅"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -36505,7 +38258,18 @@
         "id": "Team036",
         "organization": "电子科技大学",
         "official": true,
-        "location": "A37"
+        "location": "A37",
+        "teamMembers": [
+          {
+            "name": "胡新奇"
+          },
+          {
+            "name": "蒋帅泉"
+          },
+          {
+            "name": "李书奇"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -36751,7 +38515,18 @@
         "id": "Team318",
         "organization": "西安市辅轮中学",
         "official": false,
-        "location": "G109"
+        "location": "G109",
+        "teamMembers": [
+          {
+            "name": "李知颖"
+          },
+          {
+            "name": "乔景依"
+          },
+          {
+            "name": "程思阳"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -37027,7 +38802,18 @@
         "id": "Team239",
         "organization": "湖北工业大学",
         "official": true,
-        "location": "E30"
+        "location": "E30",
+        "teamMembers": [
+          {
+            "name": "梅锦昕"
+          },
+          {
+            "name": "李怡爽"
+          },
+          {
+            "name": "解哲曦"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -37238,7 +39024,18 @@
         "id": "Team088",
         "organization": "哈尔滨工业大学",
         "official": true,
-        "location": "B47"
+        "location": "B47",
+        "teamMembers": [
+          {
+            "name": "张皓志"
+          },
+          {
+            "name": "姜启言"
+          },
+          {
+            "name": "金东俊"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -37493,7 +39290,18 @@
         "id": "Team294",
         "organization": "河北师范大学",
         "official": true,
-        "location": "F44"
+        "location": "F44",
+        "teamMembers": [
+          {
+            "name": "孙传炜"
+          },
+          {
+            "name": "曾云昊"
+          },
+          {
+            "name": "崔珂欣"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -37760,7 +39568,18 @@
         "id": "Team064",
         "organization": "西湖大学",
         "official": true,
-        "location": "B23"
+        "location": "B23",
+        "teamMembers": [
+          {
+            "name": "鲍柯源"
+          },
+          {
+            "name": "张梓昱"
+          },
+          {
+            "name": "王志升"
+          }
+        ]
       },
       "score": {
         "value": 4,
@@ -38029,7 +39848,18 @@
         "id": "Team386",
         "organization": "福州大学",
         "official": true,
-        "location": "G67"
+        "location": "G67",
+        "teamMembers": [
+          {
+            "name": "邱镇海"
+          },
+          {
+            "name": "林陈邦"
+          },
+          {
+            "name": "王镜翔"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -38354,7 +40184,18 @@
         "id": "Team185",
         "organization": "香港大学",
         "official": true,
-        "location": "D36"
+        "location": "D36",
+        "teamMembers": [
+          {
+            "name": "黄承宇"
+          },
+          {
+            "name": "何健行"
+          },
+          {
+            "name": "何润隆"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -38593,7 +40434,18 @@
         "id": "Team168",
         "organization": "广东金融学院",
         "official": true,
-        "location": "D19"
+        "location": "D19",
+        "teamMembers": [
+          {
+            "name": "郭庆"
+          },
+          {
+            "name": "陈优彬"
+          },
+          {
+            "name": "林子健"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -38762,7 +40614,18 @@
         "id": "Team307",
         "organization": "华东师范大学",
         "official": true,
-        "location": "G09"
+        "location": "G09",
+        "teamMembers": [
+          {
+            "name": "高嘉鑫"
+          },
+          {
+            "name": "李锦辉"
+          },
+          {
+            "name": "黄从恺"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -39092,7 +40955,18 @@
         "id": "Team138",
         "organization": "杭州电子科技大学",
         "official": true,
-        "location": "C49"
+        "location": "C49",
+        "teamMembers": [
+          {
+            "name": "陈旭"
+          },
+          {
+            "name": "陈瀚锐"
+          },
+          {
+            "name": "罗立诚"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -39266,7 +41140,18 @@
         "id": "Team129",
         "organization": "北京电子科技学院",
         "official": true,
-        "location": "C40"
+        "location": "C40",
+        "teamMembers": [
+          {
+            "name": "于凯"
+          },
+          {
+            "name": "岳金涛"
+          },
+          {
+            "name": "冷亚纹"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -39521,7 +41406,18 @@
         "id": "Team384",
         "organization": "哈尔滨工程大学",
         "official": true,
-        "location": "G65"
+        "location": "G65",
+        "teamMembers": [
+          {
+            "name": "郭奕辰"
+          },
+          {
+            "name": "李昀轩"
+          },
+          {
+            "name": "汪天浩"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -39699,7 +41595,18 @@
         "id": "Team295",
         "organization": "香港大学",
         "official": true,
-        "location": "F45"
+        "location": "F45",
+        "teamMembers": [
+          {
+            "name": "Akhmet Issa"
+          },
+          {
+            "name": "Owen Sidarta"
+          },
+          {
+            "name": "Christivan Komah"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -39959,7 +41866,18 @@
         "id": "Team347",
         "organization": "上海第二工业大学",
         "official": true,
-        "location": "G28"
+        "location": "G28",
+        "teamMembers": [
+          {
+            "name": "何易"
+          },
+          {
+            "name": "马韩明轩"
+          },
+          {
+            "name": "张志博"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -40149,7 +42067,18 @@
         "id": "Team022",
         "organization": "湖南科技大学",
         "official": true,
-        "location": "A23"
+        "location": "A23",
+        "teamMembers": [
+          {
+            "name": "危俊辉"
+          },
+          {
+            "name": "徐志鑫"
+          },
+          {
+            "name": "吴从洛"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -40367,7 +42296,18 @@
         "id": "Team209",
         "organization": "东北大学",
         "official": true,
-        "location": "D60"
+        "location": "D60",
+        "teamMembers": [
+          {
+            "name": "王渝迪"
+          },
+          {
+            "name": "王耀辉"
+          },
+          {
+            "name": "康兴锐"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -40550,7 +42490,18 @@
         "id": "Team229",
         "organization": "北京师范大学",
         "official": true,
-        "location": "E20"
+        "location": "E20",
+        "teamMembers": [
+          {
+            "name": "李赫祥"
+          },
+          {
+            "name": "吴霁轩"
+          },
+          {
+            "name": "李少航"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -40754,7 +42705,18 @@
         "id": "Team259",
         "organization": "西安欧亚学院",
         "official": true,
-        "location": "F09"
+        "location": "F09",
+        "teamMembers": [
+          {
+            "name": "林川翔"
+          },
+          {
+            "name": "周志远"
+          },
+          {
+            "name": "张亦豪"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -40965,7 +42927,18 @@
         "id": "Team241",
         "organization": "郑州轻工业大学",
         "official": true,
-        "location": "E32"
+        "location": "E32",
+        "teamMembers": [
+          {
+            "name": "甘承璞"
+          },
+          {
+            "name": "范双学"
+          },
+          {
+            "name": "窦万锦"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -41155,7 +43128,18 @@
         "id": "Team194",
         "organization": "浙大城市学院",
         "official": true,
-        "location": "D45"
+        "location": "D45",
+        "teamMembers": [
+          {
+            "name": "宋珂鑫"
+          },
+          {
+            "name": "何鑫星"
+          },
+          {
+            "name": "俞轩昂"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -41338,7 +43322,18 @@
         "id": "Team111",
         "organization": "湖南大学",
         "official": true,
-        "location": "C22"
+        "location": "C22",
+        "teamMembers": [
+          {
+            "name": "朱潇庸"
+          },
+          {
+            "name": "陈梵"
+          },
+          {
+            "name": "张浩翔"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -41612,7 +43607,18 @@
         "id": "Team223",
         "organization": "中国石油大学（华东）",
         "official": true,
-        "location": "E14"
+        "location": "E14",
+        "teamMembers": [
+          {
+            "name": "郭家昌"
+          },
+          {
+            "name": "张熙真"
+          },
+          {
+            "name": "贾元鑫"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -41875,7 +43881,18 @@
         "markers": [
           "girl"
         ],
-        "location": "E23"
+        "location": "E23",
+        "teamMembers": [
+          {
+            "name": "陈弈帆"
+          },
+          {
+            "name": "钱曼怡"
+          },
+          {
+            "name": "杨梓汶"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -42114,7 +44131,18 @@
         "id": "Team366",
         "organization": "湖南科技大学",
         "official": false,
-        "location": "G47"
+        "location": "G47",
+        "teamMembers": [
+          {
+            "name": "胡博潇"
+          },
+          {
+            "name": "毛祎昀"
+          },
+          {
+            "name": "蒋心妍"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -42374,7 +44402,18 @@
         "id": "Team364",
         "organization": "天津大学",
         "official": true,
-        "location": "G45"
+        "location": "G45",
+        "teamMembers": [
+          {
+            "name": "杨浩然"
+          },
+          {
+            "name": "方心怡"
+          },
+          {
+            "name": "刘冠阳"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -42606,7 +44645,18 @@
         "id": "Team333",
         "organization": "南开大学",
         "official": true,
-        "location": "G14"
+        "location": "G14",
+        "teamMembers": [
+          {
+            "name": "郁卓阳"
+          },
+          {
+            "name": "母焯行"
+          },
+          {
+            "name": "詹力臻"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -42824,7 +44874,18 @@
         "id": "Team047",
         "organization": "东南大学",
         "official": true,
-        "location": "B06"
+        "location": "B06",
+        "teamMembers": [
+          {
+            "name": "曾楷舜"
+          },
+          {
+            "name": "苏楷翔"
+          },
+          {
+            "name": "潘俊弛"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -43077,7 +45138,18 @@
         "id": "Team212",
         "organization": "北京邮电大学",
         "official": true,
-        "location": "E03"
+        "location": "E03",
+        "teamMembers": [
+          {
+            "name": "丁培钊"
+          },
+          {
+            "name": "李子俊"
+          },
+          {
+            "name": "张哲源"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -43260,7 +45332,18 @@
         "id": "Team002",
         "organization": "浙大宁波理工学院",
         "official": true,
-        "location": "A02"
+        "location": "A02",
+        "teamMembers": [
+          {
+            "name": "陈洪逸"
+          },
+          {
+            "name": "张奔晟"
+          },
+          {
+            "name": "郑城坤"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -43434,7 +45517,18 @@
         "id": "Team202",
         "organization": "大连理工大学",
         "official": true,
-        "location": "D53"
+        "location": "D53",
+        "teamMembers": [
+          {
+            "name": "司辰飞"
+          },
+          {
+            "name": "王越"
+          },
+          {
+            "name": "潘浩然"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -43624,7 +45718,18 @@
         "id": "Team261",
         "organization": "云南大学",
         "official": true,
-        "location": "F11"
+        "location": "F11",
+        "teamMembers": [
+          {
+            "name": "李健阳"
+          },
+          {
+            "name": "王毅豪"
+          },
+          {
+            "name": "吴一航"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -43851,7 +45956,18 @@
         "id": "Team187",
         "organization": "西北工业大学",
         "official": true,
-        "location": "D38"
+        "location": "D38",
+        "teamMembers": [
+          {
+            "name": "马昊"
+          },
+          {
+            "name": "王爽"
+          },
+          {
+            "name": "李昊宇"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -44020,7 +46136,18 @@
         "id": "Team303",
         "organization": "南京航空航天大学",
         "official": true,
-        "location": "G05"
+        "location": "G05",
+        "teamMembers": [
+          {
+            "name": "张森睿"
+          },
+          {
+            "name": "晏海博"
+          },
+          {
+            "name": "来思远"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -44266,7 +46393,18 @@
         "id": "Team313",
         "organization": "西安邮电大学",
         "official": true,
-        "location": "G104"
+        "location": "G104",
+        "teamMembers": [
+          {
+            "name": "苏子清"
+          },
+          {
+            "name": "魏佳程"
+          },
+          {
+            "name": "徐灿"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -44440,7 +46578,18 @@
         "id": "Team007",
         "organization": "中国科学院大学",
         "official": true,
-        "location": "A08"
+        "location": "A08",
+        "teamMembers": [
+          {
+            "name": "邬圣锋"
+          },
+          {
+            "name": "葛轩铭"
+          },
+          {
+            "name": "王惟正"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -44721,7 +46870,18 @@
         "id": "Team085",
         "organization": "苏州大学",
         "official": true,
-        "location": "B44"
+        "location": "B44",
+        "teamMembers": [
+          {
+            "name": "朱昊文"
+          },
+          {
+            "name": "顾百川"
+          },
+          {
+            "name": "李雨泽"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -44967,7 +47127,18 @@
         "id": "Team105",
         "organization": "上海应用技术大学",
         "official": true,
-        "location": "C16"
+        "location": "C16",
+        "teamMembers": [
+          {
+            "name": "王圣涵"
+          },
+          {
+            "name": "何祺鹏"
+          },
+          {
+            "name": "项家挺"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -45171,7 +47342,18 @@
         "id": "Team189",
         "organization": "宁波工程学院",
         "official": true,
-        "location": "D40"
+        "location": "D40",
+        "teamMembers": [
+          {
+            "name": "胡一鸣"
+          },
+          {
+            "name": "叶双强"
+          },
+          {
+            "name": "张杨晨昱"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -45389,7 +47571,18 @@
         "id": "Team290",
         "organization": "扬州大学",
         "official": true,
-        "location": "F40"
+        "location": "F40",
+        "teamMembers": [
+          {
+            "name": "余兴正"
+          },
+          {
+            "name": "胡海波"
+          },
+          {
+            "name": "季轩宇"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -45563,7 +47756,18 @@
         "id": "Team341",
         "organization": "西安理工大学",
         "official": true,
-        "location": "G22"
+        "location": "G22",
+        "teamMembers": [
+          {
+            "name": "韩明轩"
+          },
+          {
+            "name": "留昊"
+          },
+          {
+            "name": "周彦泽"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -45760,7 +47964,18 @@
         "id": "Team256",
         "organization": "广东工业大学",
         "official": true,
-        "location": "F06"
+        "location": "F06",
+        "teamMembers": [
+          {
+            "name": "吴伟涛"
+          },
+          {
+            "name": "陈栖羽"
+          },
+          {
+            "name": "林李青"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -46001,7 +48216,18 @@
         "id": "Team070",
         "organization": "同济大学",
         "official": true,
-        "location": "B29"
+        "location": "B29",
+        "teamMembers": [
+          {
+            "name": "韩昊苏"
+          },
+          {
+            "name": "武煦"
+          },
+          {
+            "name": "张轩诚"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -46296,7 +48522,18 @@
         "id": "Team175",
         "organization": "大连海事大学",
         "official": true,
-        "location": "D26"
+        "location": "D26",
+        "teamMembers": [
+          {
+            "name": "覃茂钦"
+          },
+          {
+            "name": "杜思源"
+          },
+          {
+            "name": "王赞溪"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -46481,7 +48718,18 @@
         "id": "Team164",
         "organization": "华东交通大学",
         "official": true,
-        "location": "D15"
+        "location": "D15",
+        "teamMembers": [
+          {
+            "name": "魏征"
+          },
+          {
+            "name": "叶一钟"
+          },
+          {
+            "name": "付浩然"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -46685,7 +48933,18 @@
         "id": "Team244",
         "organization": "江西师范大学",
         "official": true,
-        "location": "E35"
+        "location": "E35",
+        "teamMembers": [
+          {
+            "name": "江民利"
+          },
+          {
+            "name": "梁蓝睿"
+          },
+          {
+            "name": "张天宇"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -46875,7 +49134,18 @@
         "id": "Team204",
         "organization": "西安工业大学",
         "official": true,
-        "location": "D55"
+        "location": "D55",
+        "teamMembers": [
+          {
+            "name": "王伟"
+          },
+          {
+            "name": "祝程"
+          },
+          {
+            "name": "郭家兴"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -47079,7 +49349,18 @@
         "id": "Team400",
         "organization": "广州大学",
         "official": true,
-        "location": "G81"
+        "location": "G81",
+        "teamMembers": [
+          {
+            "name": "杨逍"
+          },
+          {
+            "name": "王承宇"
+          },
+          {
+            "name": "谢宇峰"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -47360,7 +49641,18 @@
         "id": "Team028",
         "organization": "山东科技大学",
         "official": true,
-        "location": "A29"
+        "location": "A29",
+        "teamMembers": [
+          {
+            "name": "秦立杰"
+          },
+          {
+            "name": "徐涵煜"
+          },
+          {
+            "name": "杨竣凯"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -47557,7 +49849,18 @@
         "id": "Team038",
         "organization": "北京邮电大学",
         "official": true,
-        "location": "A39"
+        "location": "A39",
+        "teamMembers": [
+          {
+            "name": "周一鸣"
+          },
+          {
+            "name": "胡恒瑞"
+          },
+          {
+            "name": "吴宗阳"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -47731,7 +50034,18 @@
         "id": "Team150",
         "organization": "东北大学秦皇岛分校",
         "official": true,
-        "location": "D01"
+        "location": "D01",
+        "teamMembers": [
+          {
+            "name": "严翊文"
+          },
+          {
+            "name": "许轩赫"
+          },
+          {
+            "name": "万刘甲"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -47935,7 +50249,18 @@
         "id": "Team349",
         "organization": "深圳大学",
         "official": true,
-        "location": "G30"
+        "location": "G30",
+        "teamMembers": [
+          {
+            "name": "熊鑫辉"
+          },
+          {
+            "name": "岑健锋"
+          },
+          {
+            "name": "陈俊森"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -48183,7 +50508,18 @@
         "id": "Team033",
         "organization": "河海大学",
         "official": true,
-        "location": "A34"
+        "location": "A34",
+        "teamMembers": [
+          {
+            "name": "邵然"
+          },
+          {
+            "name": "谭炜烨"
+          },
+          {
+            "name": "金泽楷"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -48471,7 +50807,18 @@
         "id": "Team032",
         "organization": "合肥工业大学",
         "official": true,
-        "location": "A33"
+        "location": "A33",
+        "teamMembers": [
+          {
+            "name": "肖壹凡"
+          },
+          {
+            "name": "万志翔"
+          },
+          {
+            "name": "陈暄石"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -48661,7 +51008,18 @@
         "id": "Team225",
         "organization": "河南师范大学",
         "official": true,
-        "location": "E16"
+        "location": "E16",
+        "teamMembers": [
+          {
+            "name": "张云翔"
+          },
+          {
+            "name": "孙易飞"
+          },
+          {
+            "name": "周俊鑫"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -48828,7 +51186,18 @@
         "id": "Team123",
         "organization": "南京工业大学",
         "official": true,
-        "location": "C34"
+        "location": "C34",
+        "teamMembers": [
+          {
+            "name": "刘珂"
+          },
+          {
+            "name": "盘英章"
+          },
+          {
+            "name": "宋申辉"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -49016,7 +51385,18 @@
         "id": "Team107",
         "organization": "华南师范大学",
         "official": true,
-        "location": "C18"
+        "location": "C18",
+        "teamMembers": [
+          {
+            "name": "张楚阳"
+          },
+          {
+            "name": "张志昊"
+          },
+          {
+            "name": "谭尚贤"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -49213,7 +51593,18 @@
         "id": "Team072",
         "organization": "东华大学",
         "official": true,
-        "location": "B31"
+        "location": "B31",
+        "teamMembers": [
+          {
+            "name": "钟卓远"
+          },
+          {
+            "name": "程君豪"
+          },
+          {
+            "name": "刘亚锐"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -49401,7 +51792,18 @@
         "id": "Team289",
         "organization": "西北大学",
         "official": true,
-        "location": "F39"
+        "location": "F39",
+        "teamMembers": [
+          {
+            "name": "王海涵"
+          },
+          {
+            "name": "杨李"
+          },
+          {
+            "name": "金昱丞"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -49568,7 +51970,18 @@
         "id": "Team235",
         "organization": "电子科技大学中山学院",
         "official": true,
-        "location": "E26"
+        "location": "E26",
+        "teamMembers": [
+          {
+            "name": "胡明杰"
+          },
+          {
+            "name": "潘子安"
+          },
+          {
+            "name": "侯骏辉"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -49807,7 +52220,18 @@
         "id": "Team115",
         "organization": "武汉大学",
         "official": true,
-        "location": "C26"
+        "location": "C26",
+        "teamMembers": [
+          {
+            "name": "苏雨硕"
+          },
+          {
+            "name": "陈明德"
+          },
+          {
+            "name": "杨博文"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -50025,7 +52449,18 @@
         "id": "Team251",
         "organization": "北京工业大学",
         "official": true,
-        "location": "F01"
+        "location": "F01",
+        "teamMembers": [
+          {
+            "name": "韩博弈"
+          },
+          {
+            "name": "屈昊阳"
+          },
+          {
+            "name": "薛安"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -50192,7 +52627,18 @@
         "id": "Team408",
         "organization": "江西农业大学",
         "official": true,
-        "location": "G89"
+        "location": "G89",
+        "teamMembers": [
+          {
+            "name": "刘圣丰"
+          },
+          {
+            "name": "汤浩"
+          },
+          {
+            "name": "吴楚扬"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -50424,7 +52870,18 @@
         "id": "Team109",
         "organization": "郑州大学",
         "official": true,
-        "location": "C20"
+        "location": "C20",
+        "teamMembers": [
+          {
+            "name": "唐博"
+          },
+          {
+            "name": "张沛轩"
+          },
+          {
+            "name": "王朔淇"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -50607,7 +53064,18 @@
         "id": "Team388",
         "organization": "东华理工大学",
         "official": true,
-        "location": "G69"
+        "location": "G69",
+        "teamMembers": [
+          {
+            "name": "尚志超"
+          },
+          {
+            "name": "欧阳嘉隆"
+          },
+          {
+            "name": "薛笑运"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -50797,7 +53265,18 @@
         "id": "Team286",
         "organization": "北京邮电大学",
         "official": true,
-        "location": "F36"
+        "location": "F36",
+        "teamMembers": [
+          {
+            "name": "罗鑫宇"
+          },
+          {
+            "name": "谢兆轩"
+          },
+          {
+            "name": "朱致远"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -51015,7 +53494,18 @@
         "id": "Team067",
         "organization": "西南大学",
         "official": true,
-        "location": "B26"
+        "location": "B26",
+        "teamMembers": [
+          {
+            "name": "鲜翔羽"
+          },
+          {
+            "name": "钱虹旭"
+          },
+          {
+            "name": "苏韵桥"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -51268,7 +53758,18 @@
         "id": "Team383",
         "organization": "西南交通大学",
         "official": true,
-        "location": "G64"
+        "location": "G64",
+        "teamMembers": [
+          {
+            "name": "高远"
+          },
+          {
+            "name": "林朝钊"
+          },
+          {
+            "name": "何晓润"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -51731,7 +54232,18 @@
         "id": "Team142",
         "organization": "东北师范大学",
         "official": true,
-        "location": "C53"
+        "location": "C53",
+        "teamMembers": [
+          {
+            "name": "谢杨宇涛"
+          },
+          {
+            "name": "郭航航"
+          },
+          {
+            "name": "张启锐"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -51942,7 +54454,18 @@
         "id": "Team021",
         "organization": "烟台大学",
         "official": true,
-        "location": "A22"
+        "location": "A22",
+        "teamMembers": [
+          {
+            "name": "张幸通"
+          },
+          {
+            "name": "臧宇轩"
+          },
+          {
+            "name": "王鑫雨"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -52153,7 +54676,18 @@
         "id": "Team091",
         "organization": "东北大学",
         "official": true,
-        "location": "C02"
+        "location": "C02",
+        "teamMembers": [
+          {
+            "name": "杜昊楠"
+          },
+          {
+            "name": "夏从耀"
+          },
+          {
+            "name": "张绍宸"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -52378,7 +54912,18 @@
         "id": "Team407",
         "organization": "中南大学",
         "official": true,
-        "location": "G88"
+        "location": "G88",
+        "teamMembers": [
+          {
+            "name": "龚垚淼"
+          },
+          {
+            "name": "谢礼健"
+          },
+          {
+            "name": "杨宇晨"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -52640,7 +55185,18 @@
         "id": "Team361",
         "organization": "青岛大学",
         "official": true,
-        "location": "G42"
+        "location": "G42",
+        "teamMembers": [
+          {
+            "name": "方长安"
+          },
+          {
+            "name": "贾初晨"
+          },
+          {
+            "name": "王烨"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -52832,7 +55388,18 @@
         "id": "Team040",
         "organization": "中国矿业大学",
         "official": true,
-        "location": "A41"
+        "location": "A41",
+        "teamMembers": [
+          {
+            "name": "周博岩"
+          },
+          {
+            "name": "陈子涵"
+          },
+          {
+            "name": "杜重阳"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -53050,7 +55617,18 @@
         "id": "Team051",
         "organization": "中国石油大学（华东）",
         "official": true,
-        "location": "B10"
+        "location": "B10",
+        "teamMembers": [
+          {
+            "name": "曹广驰"
+          },
+          {
+            "name": "黄阔"
+          },
+          {
+            "name": "王子豪"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -53289,7 +55867,18 @@
         "id": "Team055",
         "organization": "湖南理工大学",
         "official": true,
-        "location": "B14"
+        "location": "B14",
+        "teamMembers": [
+          {
+            "name": "林卫昱"
+          },
+          {
+            "name": "陈俊鑫"
+          },
+          {
+            "name": "费峥宇"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -53535,7 +56124,18 @@
         "id": "Team112",
         "organization": "上海大学",
         "official": true,
-        "location": "C23"
+        "location": "C23",
+        "teamMembers": [
+          {
+            "name": "王博成"
+          },
+          {
+            "name": "全静颖"
+          },
+          {
+            "name": "黄彦磊"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -53774,7 +56374,18 @@
         "id": "Team299",
         "organization": "山东建筑大学",
         "official": true,
-        "location": "G01"
+        "location": "G01",
+        "teamMembers": [
+          {
+            "name": "张开瑞"
+          },
+          {
+            "name": "于丁浩"
+          },
+          {
+            "name": "阮邦俊"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -54027,7 +56638,18 @@
         "id": "Team003",
         "organization": "厦门大学",
         "official": true,
-        "location": "A03"
+        "location": "A03",
+        "teamMembers": [
+          {
+            "name": "赵姜旭"
+          },
+          {
+            "name": "茹乐尧"
+          },
+          {
+            "name": "周泰儒"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -54308,7 +56930,18 @@
         "id": "Team147",
         "organization": "北方工业大学",
         "official": true,
-        "location": "C58"
+        "location": "C58",
+        "teamMembers": [
+          {
+            "name": "黄子迪"
+          },
+          {
+            "name": "李金承"
+          },
+          {
+            "name": "胡佳乐"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -54624,7 +57257,18 @@
         "id": "Team292",
         "organization": "东北大学",
         "official": true,
-        "location": "F42"
+        "location": "F42",
+        "teamMembers": [
+          {
+            "name": "勾业翔"
+          },
+          {
+            "name": "郑宇胜"
+          },
+          {
+            "name": "马泽儒"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -54807,7 +57451,18 @@
         "id": "Team391",
         "organization": "福建商学院",
         "official": true,
-        "location": "G72"
+        "location": "G72",
+        "teamMembers": [
+          {
+            "name": "黄舒芃"
+          },
+          {
+            "name": "邵锐智"
+          },
+          {
+            "name": "朱耀邦"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -54990,7 +57645,18 @@
         "id": "Team219",
         "organization": "东北林业大学",
         "official": true,
-        "location": "E10"
+        "location": "E10",
+        "teamMembers": [
+          {
+            "name": "吕亮"
+          },
+          {
+            "name": "王中宇"
+          },
+          {
+            "name": "李轶"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -55201,7 +57867,18 @@
         "id": "Team165",
         "organization": "武汉纺织大学",
         "official": true,
-        "location": "D16"
+        "location": "D16",
+        "teamMembers": [
+          {
+            "name": "万福辉"
+          },
+          {
+            "name": "朱佳伟"
+          },
+          {
+            "name": "孙嘉麒"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -55405,7 +58082,18 @@
         "id": "Team326",
         "organization": "西安市铁一中学",
         "official": false,
-        "location": "G116"
+        "location": "G116",
+        "teamMembers": [
+          {
+            "name": "蒋沐辰"
+          },
+          {
+            "name": "王铂涵"
+          },
+          {
+            "name": "屈子睿"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -55665,7 +58353,18 @@
         "id": "Team162",
         "organization": "杭州师范大学",
         "official": true,
-        "location": "D13"
+        "location": "D13",
+        "teamMembers": [
+          {
+            "name": "张卓"
+          },
+          {
+            "name": "王科然"
+          },
+          {
+            "name": "徐鑫懿"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -56023,7 +58722,18 @@
         "id": "Team266",
         "organization": "西南民族大学",
         "official": true,
-        "location": "F16"
+        "location": "F16",
+        "teamMembers": [
+          {
+            "name": "王杰"
+          },
+          {
+            "name": "项若楚"
+          },
+          {
+            "name": "李涛"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -56283,7 +58993,18 @@
         "id": "Team270",
         "organization": "深圳技术大学",
         "official": true,
-        "location": "F20"
+        "location": "F20",
+        "teamMembers": [
+          {
+            "name": "伊轩文"
+          },
+          {
+            "name": "武家辉"
+          },
+          {
+            "name": "徐鑫"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -56522,7 +59243,18 @@
         "id": "Team166",
         "organization": "南京航空航天大学",
         "official": true,
-        "location": "D17"
+        "location": "D17",
+        "teamMembers": [
+          {
+            "name": "王煜文"
+          },
+          {
+            "name": "孙嘉琦"
+          },
+          {
+            "name": "郑策"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -56761,7 +59493,18 @@
         "id": "Team346",
         "organization": "大连理工大学",
         "official": true,
-        "location": "G27"
+        "location": "G27",
+        "teamMembers": [
+          {
+            "name": "戴宁凯"
+          },
+          {
+            "name": "舒扬"
+          },
+          {
+            "name": "姜博雯"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -56935,7 +59678,18 @@
         "id": "Team078",
         "organization": "宁波大学",
         "official": true,
-        "location": "B37"
+        "location": "B37",
+        "teamMembers": [
+          {
+            "name": "陈嘉晟"
+          },
+          {
+            "name": "周正睿"
+          },
+          {
+            "name": "张嘉伟"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -57102,7 +59856,18 @@
         "id": "Team371",
         "organization": "苏州科技大学",
         "official": true,
-        "location": "G52"
+        "location": "G52",
+        "teamMembers": [
+          {
+            "name": "倪翊诚"
+          },
+          {
+            "name": "贺鹏飞"
+          },
+          {
+            "name": "邹昱"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -57290,7 +60055,18 @@
         "id": "Team180",
         "organization": "河南工业大学",
         "official": true,
-        "location": "D31"
+        "location": "D31",
+        "teamMembers": [
+          {
+            "name": "白镇豪"
+          },
+          {
+            "name": "王子昂"
+          },
+          {
+            "name": "曹子鹏"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -57478,7 +60254,18 @@
         "id": "Team220",
         "organization": "南京邮电大学",
         "official": true,
-        "location": "E11"
+        "location": "E11",
+        "teamMembers": [
+          {
+            "name": "蔡松延"
+          },
+          {
+            "name": "史恬乐"
+          },
+          {
+            "name": "韩宇桐"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -57652,7 +60439,18 @@
         "id": "Team080",
         "organization": "海南大学",
         "official": true,
-        "location": "B39"
+        "location": "B39",
+        "teamMembers": [
+          {
+            "name": "陈伟珂"
+          },
+          {
+            "name": "周彦钊"
+          },
+          {
+            "name": "袁浩成"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -57847,7 +60645,18 @@
         "id": "Team086",
         "organization": "上海大学",
         "official": true,
-        "location": "B45"
+        "location": "B45",
+        "teamMembers": [
+          {
+            "name": "丁硕能"
+          },
+          {
+            "name": "张子馨"
+          },
+          {
+            "name": "王本帅"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -58049,7 +60858,18 @@
         "id": "Team118",
         "organization": "华南理工大学",
         "official": true,
-        "location": "C29"
+        "location": "C29",
+        "teamMembers": [
+          {
+            "name": "杨燊杰"
+          },
+          {
+            "name": "杨舒翔"
+          },
+          {
+            "name": "何佳晟"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -58274,7 +61094,18 @@
         "id": "Team131",
         "organization": "江苏海洋大学",
         "official": true,
-        "location": "C42"
+        "location": "C42",
+        "teamMembers": [
+          {
+            "name": "马迪"
+          },
+          {
+            "name": "沈家乐"
+          },
+          {
+            "name": "叶阳天"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -58485,7 +61316,18 @@
         "id": "Team075",
         "organization": "浙江科技大学",
         "official": true,
-        "location": "B34"
+        "location": "B34",
+        "teamMembers": [
+          {
+            "name": "杨成德"
+          },
+          {
+            "name": "斯炳琅"
+          },
+          {
+            "name": "吴昊逸"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -58666,7 +61508,18 @@
         "id": "Team141",
         "organization": "广东工业大学",
         "official": true,
-        "location": "C52"
+        "location": "C52",
+        "teamMembers": [
+          {
+            "name": "王浩辰"
+          },
+          {
+            "name": "凡正晖"
+          },
+          {
+            "name": "林烁东"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -58889,7 +61742,18 @@
         "id": "Team291",
         "organization": "韶关学院",
         "official": true,
-        "location": "F41"
+        "location": "F41",
+        "teamMembers": [
+          {
+            "name": "朱子睿"
+          },
+          {
+            "name": "叶福都"
+          },
+          {
+            "name": "谢泽栩"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -59091,7 +61955,18 @@
         "id": "Team049",
         "organization": "浙江育英职业技术学院",
         "official": true,
-        "location": "B08"
+        "location": "B08",
+        "teamMembers": [
+          {
+            "name": "吴玥葳"
+          },
+          {
+            "name": "胡壹楠"
+          },
+          {
+            "name": "陈旌"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -59351,7 +62226,18 @@
         "id": "Team387",
         "organization": "江苏大学",
         "official": true,
-        "location": "G68"
+        "location": "G68",
+        "teamMembers": [
+          {
+            "name": "杨宇骞"
+          },
+          {
+            "name": "杨皓煜"
+          },
+          {
+            "name": "洪硕"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -59632,7 +62518,18 @@
         "id": "Team335",
         "organization": "江西财经大学",
         "official": true,
-        "location": "G16"
+        "location": "G16",
+        "teamMembers": [
+          {
+            "name": "杨镇宁"
+          },
+          {
+            "name": "陈煜仕"
+          },
+          {
+            "name": "陈帆"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -59841,7 +62738,18 @@
         "id": "Team081",
         "organization": "武汉工程大学",
         "official": true,
-        "location": "B40"
+        "location": "B40",
+        "teamMembers": [
+          {
+            "name": "徐子健"
+          },
+          {
+            "name": "靳鹏凯"
+          },
+          {
+            "name": "曾宪理"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -60192,7 +63100,18 @@
         "id": "Team376",
         "organization": "青岛理工大学",
         "official": true,
-        "location": "G57"
+        "location": "G57",
+        "teamMembers": [
+          {
+            "name": "赵增豪"
+          },
+          {
+            "name": "吴秀彦"
+          },
+          {
+            "name": "刘敬苛"
+          }
+        ]
       },
       "score": {
         "value": 3,
@@ -60387,7 +63306,18 @@
         "id": "Team188",
         "organization": "上海海事大学",
         "official": true,
-        "location": "D39"
+        "location": "D39",
+        "teamMembers": [
+          {
+            "name": "倪嘉宏"
+          },
+          {
+            "name": "顾以为"
+          },
+          {
+            "name": "陈立元"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -60561,7 +63491,18 @@
         "id": "Team357",
         "organization": "北京理工大学",
         "official": true,
-        "location": "G38"
+        "location": "G38",
+        "teamMembers": [
+          {
+            "name": "王闻韬"
+          },
+          {
+            "name": "谢睿迪"
+          },
+          {
+            "name": "彭浩然"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -60742,7 +63683,18 @@
         "id": "Team382",
         "organization": "广东工业大学",
         "official": true,
-        "location": "G63"
+        "location": "G63",
+        "teamMembers": [
+          {
+            "name": "许圣坤"
+          },
+          {
+            "name": "吴小鹏"
+          },
+          {
+            "name": "林琮皓"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -60965,7 +63917,18 @@
         "id": "Team056",
         "organization": "武汉理工大学",
         "official": true,
-        "location": "B15"
+        "location": "B15",
+        "teamMembers": [
+          {
+            "name": "郭逸非"
+          },
+          {
+            "name": "徐炳戌"
+          },
+          {
+            "name": "王泽宁"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -61181,7 +64144,18 @@
         "id": "Team353",
         "organization": "吉林大学",
         "official": true,
-        "location": "G34"
+        "location": "G34",
+        "teamMembers": [
+          {
+            "name": "余赫"
+          },
+          {
+            "name": "肖子豪"
+          },
+          {
+            "name": "常易铭"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -61474,7 +64448,18 @@
         "id": "Team284",
         "organization": "同济大学",
         "official": true,
-        "location": "F34"
+        "location": "F34",
+        "teamMembers": [
+          {
+            "name": "李胤龙"
+          },
+          {
+            "name": "赵崇治"
+          },
+          {
+            "name": "莫怀淇"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -61699,7 +64684,18 @@
         "id": "Team176",
         "organization": "南京农业大学",
         "official": true,
-        "location": "D27"
+        "location": "D27",
+        "teamMembers": [
+          {
+            "name": "李嘉熙"
+          },
+          {
+            "name": "陈锦坤"
+          },
+          {
+            "name": "宋来宇"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -61850,7 +64846,18 @@
         "id": "Team281",
         "organization": "香港理工大学",
         "official": true,
-        "location": "F31"
+        "location": "F31",
+        "teamMembers": [
+          {
+            "name": "闵泽宇"
+          },
+          {
+            "name": "孟祥宇"
+          },
+          {
+            "name": "黄瑞满"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -62038,7 +65045,18 @@
         "id": "Team359",
         "organization": "南阳理工学院",
         "official": true,
-        "location": "G40"
+        "location": "G40",
+        "teamMembers": [
+          {
+            "name": "马帅"
+          },
+          {
+            "name": "袁鑫晨"
+          },
+          {
+            "name": "哈欣"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -62198,7 +65216,18 @@
         "id": "Team154",
         "organization": "合肥工业大学宣城校区",
         "official": true,
-        "location": "D05"
+        "location": "D05",
+        "teamMembers": [
+          {
+            "name": "傅添成"
+          },
+          {
+            "name": "张力翔"
+          },
+          {
+            "name": "刘嘉傲"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -62388,7 +65417,18 @@
         "id": "Team380",
         "organization": "武汉理工大学",
         "official": true,
-        "location": "G61"
+        "location": "G61",
+        "teamMembers": [
+          {
+            "name": "刘承明"
+          },
+          {
+            "name": "杨发通"
+          },
+          {
+            "name": "倪锋"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -62660,7 +65700,18 @@
         "id": "Team297",
         "organization": "吉林大学",
         "official": true,
-        "location": "F47"
+        "location": "F47",
+        "teamMembers": [
+          {
+            "name": "刘鑫宇"
+          },
+          {
+            "name": "龙麒旭"
+          },
+          {
+            "name": "杨翔宇"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -62857,7 +65908,18 @@
         "id": "Team193",
         "organization": "南阳师范学院",
         "official": true,
-        "location": "D44"
+        "location": "D44",
+        "teamMembers": [
+          {
+            "name": "刘鹏奇"
+          },
+          {
+            "name": "王子龙"
+          },
+          {
+            "name": "陈康华"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -63059,7 +66121,18 @@
         "id": "Team018",
         "organization": "武汉大学",
         "official": true,
-        "location": "A19"
+        "location": "A19",
+        "teamMembers": [
+          {
+            "name": "曹博文"
+          },
+          {
+            "name": "朱玺锟"
+          },
+          {
+            "name": "岳忠航"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -63263,7 +66336,18 @@
         "id": "Team190",
         "organization": "湖南农业大学",
         "official": true,
-        "location": "D41"
+        "location": "D41",
+        "teamMembers": [
+          {
+            "name": "李海芬"
+          },
+          {
+            "name": "董振华"
+          },
+          {
+            "name": "周辉"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -63472,7 +66556,18 @@
         "id": "Team410",
         "organization": "湘潭大学",
         "official": true,
-        "location": "G91"
+        "location": "G91",
+        "teamMembers": [
+          {
+            "name": "喻千航"
+          },
+          {
+            "name": "彭宸"
+          },
+          {
+            "name": "李康怀"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -63639,7 +66734,18 @@
         "id": "Team163",
         "organization": "上海杉达学院",
         "official": true,
-        "location": "D14"
+        "location": "D14",
+        "teamMembers": [
+          {
+            "name": "姜欣楠"
+          },
+          {
+            "name": "王凯"
+          },
+          {
+            "name": "张晟源"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -63820,7 +66926,18 @@
         "id": "Team354",
         "organization": "福建理工大学",
         "official": true,
-        "location": "G35"
+        "location": "G35",
+        "teamMembers": [
+          {
+            "name": "郑少豪"
+          },
+          {
+            "name": "蔡仲衡"
+          },
+          {
+            "name": "阮家骏"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -63978,7 +67095,18 @@
         "id": "Team233",
         "organization": "东北大学",
         "official": true,
-        "location": "E24"
+        "location": "E24",
+        "teamMembers": [
+          {
+            "name": "肖逸涵"
+          },
+          {
+            "name": "李欣刚"
+          },
+          {
+            "name": "李星辰"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -64152,7 +67280,18 @@
         "id": "Team037",
         "organization": "国防科技大学",
         "official": true,
-        "location": "A38"
+        "location": "A38",
+        "teamMembers": [
+          {
+            "name": "邓皓元"
+          },
+          {
+            "name": "杨家康"
+          },
+          {
+            "name": "张钰奇"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -64336,7 +67475,18 @@
         "markers": [
           "girl"
         ],
-        "location": "C60"
+        "location": "C60",
+        "teamMembers": [
+          {
+            "name": "张雨涵"
+          },
+          {
+            "name": "毛英灿"
+          },
+          {
+            "name": "吴艺莹"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -64699,7 +67849,18 @@
         "id": "Team027",
         "organization": "西北大学",
         "official": true,
-        "location": "A28"
+        "location": "A28",
+        "teamMembers": [
+          {
+            "name": "陈龚睿"
+          },
+          {
+            "name": "罗青翔"
+          },
+          {
+            "name": "郭靖芸"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -64908,7 +68069,18 @@
         "id": "Team130",
         "organization": "江西财经大学",
         "official": true,
-        "location": "C41"
+        "location": "C41",
+        "teamMembers": [
+          {
+            "name": "钟明皓"
+          },
+          {
+            "name": "周君"
+          },
+          {
+            "name": "詹宇飞"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -65066,7 +68238,18 @@
         "id": "Team101",
         "organization": "东北大学秦皇岛分校",
         "official": true,
-        "location": "C12"
+        "location": "C12",
+        "teamMembers": [
+          {
+            "name": "吴政霖"
+          },
+          {
+            "name": "张景皓"
+          },
+          {
+            "name": "陈天文"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -65240,7 +68423,18 @@
         "id": "Team287",
         "organization": "广西大学",
         "official": true,
-        "location": "F37"
+        "location": "F37",
+        "teamMembers": [
+          {
+            "name": "郑毅"
+          },
+          {
+            "name": "杜永坤"
+          },
+          {
+            "name": "陈君屹"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -65470,7 +68664,18 @@
         "id": "Team074",
         "organization": "中国传媒大学",
         "official": true,
-        "location": "B33"
+        "location": "B33",
+        "teamMembers": [
+          {
+            "name": "魏子翔"
+          },
+          {
+            "name": "冯安航"
+          },
+          {
+            "name": "杨嘉盛"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -65679,7 +68884,18 @@
         "id": "Team398",
         "organization": "厦门大学",
         "official": true,
-        "location": "G79"
+        "location": "G79",
+        "teamMembers": [
+          {
+            "name": "韩子言"
+          },
+          {
+            "name": "翁坤"
+          },
+          {
+            "name": "张云哲"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -65874,7 +69090,18 @@
         "id": "Team143",
         "organization": "山东财经大学",
         "official": true,
-        "location": "C54"
+        "location": "C54",
+        "teamMembers": [
+          {
+            "name": "孟庆睿"
+          },
+          {
+            "name": "潘文驰"
+          },
+          {
+            "name": "袁硕"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -66039,7 +69266,18 @@
         "id": "Team035",
         "organization": "长春工业大学",
         "official": true,
-        "location": "A36"
+        "location": "A36",
+        "teamMembers": [
+          {
+            "name": "陈柯嵩"
+          },
+          {
+            "name": "池鑫远"
+          },
+          {
+            "name": "饶晟烨"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -66199,7 +69437,18 @@
         "id": "Team283",
         "organization": "江西师范大学",
         "official": true,
-        "location": "F33"
+        "location": "F33",
+        "teamMembers": [
+          {
+            "name": "杨加航"
+          },
+          {
+            "name": "王诗琳"
+          },
+          {
+            "name": "陈泽帆"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -66475,7 +69724,18 @@
         "id": "Team059",
         "organization": "北京师范大学",
         "official": true,
-        "location": "B18"
+        "location": "B18",
+        "teamMembers": [
+          {
+            "name": "王旭"
+          },
+          {
+            "name": "应志浩"
+          },
+          {
+            "name": "卢红淇"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -66654,7 +69914,18 @@
         "id": "Team337",
         "organization": "福建农林大学",
         "official": true,
-        "location": "G18"
+        "location": "G18",
+        "teamMembers": [
+          {
+            "name": "蔡成泽"
+          },
+          {
+            "name": "曾程程"
+          },
+          {
+            "name": "吕航涛"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -66821,7 +70092,18 @@
         "id": "Team192",
         "organization": "中国矿业大学（北京）",
         "official": true,
-        "location": "D43"
+        "location": "D43",
+        "teamMembers": [
+          {
+            "name": "何明熹"
+          },
+          {
+            "name": "曾越"
+          },
+          {
+            "name": "王星力"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -66986,7 +70268,18 @@
         "id": "Team305",
         "organization": "重庆大学",
         "official": true,
-        "location": "G07"
+        "location": "G07",
+        "teamMembers": [
+          {
+            "name": "李欣悦"
+          },
+          {
+            "name": "杨淮楠"
+          },
+          {
+            "name": "韩宇乐"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -67209,7 +70502,18 @@
         "id": "Team298",
         "organization": "河北工业大学",
         "official": true,
-        "location": "F48"
+        "location": "F48",
+        "teamMembers": [
+          {
+            "name": "朱宸岐"
+          },
+          {
+            "name": "张天铄"
+          },
+          {
+            "name": "杜凌文"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -67374,7 +70678,18 @@
         "id": "Team234",
         "organization": "湘潭大学",
         "official": true,
-        "location": "E25"
+        "location": "E25",
+        "teamMembers": [
+          {
+            "name": "陈梓轩"
+          },
+          {
+            "name": "章恒福"
+          },
+          {
+            "name": "郑新杰"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -67590,7 +70905,18 @@
         "id": "Team146",
         "organization": "中国科学院大学",
         "official": true,
-        "location": "C57"
+        "location": "C57",
+        "teamMembers": [
+          {
+            "name": "张晨轩"
+          },
+          {
+            "name": "谢欣宇"
+          },
+          {
+            "name": "黄奕皓"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -67764,7 +71090,18 @@
         "id": "Team121",
         "organization": "中南大学",
         "official": true,
-        "location": "C32"
+        "location": "C32",
+        "teamMembers": [
+          {
+            "name": "王夫子"
+          },
+          {
+            "name": "唐梓轩"
+          },
+          {
+            "name": "叶楷"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -67977,7 +71314,18 @@
         "id": "Team016",
         "organization": "深圳职业技术大学",
         "official": true,
-        "location": "A17"
+        "location": "A17",
+        "teamMembers": [
+          {
+            "name": "林浩然"
+          },
+          {
+            "name": "何俊浩"
+          },
+          {
+            "name": "何一鸣"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -68251,7 +71599,18 @@
         "id": "Team358",
         "organization": "西北工业大学",
         "official": true,
-        "location": "G39"
+        "location": "G39",
+        "teamMembers": [
+          {
+            "name": "王梓恒"
+          },
+          {
+            "name": "黄奕轩"
+          },
+          {
+            "name": "郭浩然"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -68439,7 +71798,18 @@
         "id": "Team039",
         "organization": "吉林大学",
         "official": true,
-        "location": "A40"
+        "location": "A40",
+        "teamMembers": [
+          {
+            "name": "何旭"
+          },
+          {
+            "name": "林辰旭"
+          },
+          {
+            "name": "林钰博"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -68690,7 +72060,18 @@
         "id": "Team098",
         "organization": "中南民族大学",
         "official": true,
-        "location": "C09"
+        "location": "C09",
+        "teamMembers": [
+          {
+            "name": "张宇豪"
+          },
+          {
+            "name": "冯钰航"
+          },
+          {
+            "name": "赖臣霖"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -68906,7 +72287,18 @@
         "id": "Team186",
         "organization": "长安大学",
         "official": true,
-        "location": "D37"
+        "location": "D37",
+        "teamMembers": [
+          {
+            "name": "许明虎"
+          },
+          {
+            "name": "张宇睿"
+          },
+          {
+            "name": "韩韬"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -69087,7 +72479,18 @@
         "id": "Team136",
         "organization": "武汉纺织大学外经贸学院",
         "official": true,
-        "location": "C47"
+        "location": "C47",
+        "teamMembers": [
+          {
+            "name": "程荆翔"
+          },
+          {
+            "name": "万奇杭"
+          },
+          {
+            "name": "彭建洋"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -69273,7 +72676,18 @@
         "id": "Team041",
         "organization": "南京理工大学",
         "official": true,
-        "location": "A42"
+        "location": "A42",
+        "teamMembers": [
+          {
+            "name": "虞程喆"
+          },
+          {
+            "name": "徐敬硕"
+          },
+          {
+            "name": "万文浩"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -69496,7 +72910,18 @@
         "id": "Team046",
         "organization": "南昌大学",
         "official": true,
-        "location": "B05"
+        "location": "B05",
+        "teamMembers": [
+          {
+            "name": "陈周宇杰"
+          },
+          {
+            "name": "游理皓"
+          },
+          {
+            "name": "纪熹桐"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -69668,7 +73093,18 @@
         "id": "Team054",
         "organization": "河南理工大学",
         "official": true,
-        "location": "B13"
+        "location": "B13",
+        "teamMembers": [
+          {
+            "name": "王彦钊"
+          },
+          {
+            "name": "宋雨杭"
+          },
+          {
+            "name": "房静"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -69898,7 +73334,18 @@
         "id": "Team362",
         "organization": "西华大学",
         "official": true,
-        "location": "G43"
+        "location": "G43",
+        "teamMembers": [
+          {
+            "name": "银敏皓"
+          },
+          {
+            "name": "陈伟德"
+          },
+          {
+            "name": "冉俊杰"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -70107,7 +73554,18 @@
         "id": "Team280",
         "organization": "国防科技大学",
         "official": true,
-        "location": "F30"
+        "location": "F30",
+        "teamMembers": [
+          {
+            "name": "高英博"
+          },
+          {
+            "name": "刘宇轩"
+          },
+          {
+            "name": "武森淼"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -70365,7 +73823,18 @@
         "id": "Team385",
         "organization": "长沙理工大学",
         "official": true,
-        "location": "G66"
+        "location": "G66",
+        "teamMembers": [
+          {
+            "name": "向超"
+          },
+          {
+            "name": "周宇"
+          },
+          {
+            "name": "耿若冰"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -70595,7 +74064,18 @@
         "id": "Team066",
         "organization": "阿坝师范学院",
         "official": true,
-        "location": "B25"
+        "location": "B25",
+        "teamMembers": [
+          {
+            "name": "刘付焮"
+          },
+          {
+            "name": "冯浩"
+          },
+          {
+            "name": "唐杰"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -70846,7 +74326,18 @@
         "id": "Team257",
         "organization": "怀化学院",
         "official": true,
-        "location": "F07"
+        "location": "F07",
+        "teamMembers": [
+          {
+            "name": "潘永承"
+          },
+          {
+            "name": "马志波"
+          },
+          {
+            "name": "孙微"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -71034,7 +74525,18 @@
         "id": "Team009",
         "organization": "西安邮电大学",
         "official": true,
-        "location": "A10"
+        "location": "A10",
+        "teamMembers": [
+          {
+            "name": "贾濡源"
+          },
+          {
+            "name": "边玉顺"
+          },
+          {
+            "name": "罗浩铭"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -71229,7 +74731,18 @@
         "id": "Team174",
         "organization": "长沙学院",
         "official": true,
-        "location": "D25"
+        "location": "D25",
+        "teamMembers": [
+          {
+            "name": "邓翅宇"
+          },
+          {
+            "name": "谭超"
+          },
+          {
+            "name": "王子默"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -71424,7 +74937,18 @@
         "id": "Team100",
         "organization": "北京化工大学",
         "official": true,
-        "location": "C11"
+        "location": "C11",
+        "teamMembers": [
+          {
+            "name": "潘宏华"
+          },
+          {
+            "name": "周星旭"
+          },
+          {
+            "name": "王铭哲"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -71605,7 +75129,18 @@
         "id": "Team395",
         "organization": "西南财经大学",
         "official": true,
-        "location": "G76"
+        "location": "G76",
+        "teamMembers": [
+          {
+            "name": "王焱"
+          },
+          {
+            "name": "熊懿平"
+          },
+          {
+            "name": "李文杰"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -71807,7 +75342,18 @@
         "id": "Team011",
         "organization": "成都大学",
         "official": true,
-        "location": "A12"
+        "location": "A12",
+        "teamMembers": [
+          {
+            "name": "郭名伟"
+          },
+          {
+            "name": "高奕"
+          },
+          {
+            "name": "张发亮"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -72030,7 +75576,18 @@
         "id": "Team308",
         "organization": "广西大学",
         "official": true,
-        "location": "G10"
+        "location": "G10",
+        "teamMembers": [
+          {
+            "name": "李丹琳"
+          },
+          {
+            "name": "杨富杰"
+          },
+          {
+            "name": "张天诺"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -72344,7 +75901,18 @@
         "id": "Team124",
         "organization": "华中农业大学",
         "official": true,
-        "location": "C35"
+        "location": "C35",
+        "teamMembers": [
+          {
+            "name": "赵子瑞"
+          },
+          {
+            "name": "朴熙俊"
+          },
+          {
+            "name": "张琛皓"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -72537,7 +76105,18 @@
         "id": "Team113",
         "organization": "南阳理工学院",
         "official": true,
-        "location": "C24"
+        "location": "C24",
+        "teamMembers": [
+          {
+            "name": "鲍鸿杰"
+          },
+          {
+            "name": "李富强"
+          },
+          {
+            "name": "孙展博"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -72739,7 +76318,18 @@
         "id": "Team267",
         "organization": "西安电子科技大学",
         "official": true,
-        "location": "F17"
+        "location": "F17",
+        "teamMembers": [
+          {
+            "name": "高琦"
+          },
+          {
+            "name": "薛思宇"
+          },
+          {
+            "name": "顾梓骞"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -72937,7 +76527,18 @@
         "markers": [
           "girl"
         ],
-        "location": "C51"
+        "location": "C51",
+        "teamMembers": [
+          {
+            "name": "马君宇"
+          },
+          {
+            "name": "彭一校"
+          },
+          {
+            "name": "张一凡"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -73216,7 +76817,18 @@
         "id": "Team042",
         "organization": "天津大学",
         "official": true,
-        "location": "B01"
+        "location": "B01",
+        "teamMembers": [
+          {
+            "name": "吴仁辉"
+          },
+          {
+            "name": "王其震"
+          },
+          {
+            "name": "杨宝福"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -73446,7 +77058,18 @@
         "id": "Team340",
         "organization": "西北工业大学",
         "official": true,
-        "location": "G21"
+        "location": "G21",
+        "teamMembers": [
+          {
+            "name": "姜欣宇"
+          },
+          {
+            "name": "李佳凝"
+          },
+          {
+            "name": "王瀚涛"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -73678,7 +77301,18 @@
         "id": "Team373",
         "organization": "韩山师范学院",
         "official": true,
-        "location": "G54"
+        "location": "G54",
+        "teamMembers": [
+          {
+            "name": "黄梓颍"
+          },
+          {
+            "name": "黄子彪"
+          },
+          {
+            "name": "周树豪"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -73857,7 +77491,18 @@
         "id": "Team238",
         "organization": "重庆邮电大学",
         "official": true,
-        "location": "E29"
+        "location": "E29",
+        "teamMembers": [
+          {
+            "name": "任城鑫"
+          },
+          {
+            "name": "王艺潼"
+          },
+          {
+            "name": "练子铭"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -74087,7 +77732,18 @@
         "id": "Team069",
         "organization": "河南大学",
         "official": true,
-        "location": "B28"
+        "location": "B28",
+        "teamMembers": [
+          {
+            "name": "李文举"
+          },
+          {
+            "name": "刘俊毅"
+          },
+          {
+            "name": "吴昊"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -74380,7 +78036,18 @@
         "id": "Team110",
         "organization": "浙江工业大学",
         "official": true,
-        "location": "C21"
+        "location": "C21",
+        "teamMembers": [
+          {
+            "name": "程煜泽"
+          },
+          {
+            "name": "卜凡"
+          },
+          {
+            "name": "吕天玉"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -74624,7 +78291,18 @@
         "id": "Team177",
         "organization": "西南石油大学",
         "official": true,
-        "location": "D28"
+        "location": "D28",
+        "teamMembers": [
+          {
+            "name": "罗赐曦"
+          },
+          {
+            "name": "龚云飞"
+          },
+          {
+            "name": "黄禹霖"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -75031,7 +78709,18 @@
         "id": "Team246",
         "organization": "山东师范大学",
         "official": true,
-        "location": "E37"
+        "location": "E37",
+        "teamMembers": [
+          {
+            "name": "刘郑"
+          },
+          {
+            "name": "杜彦贞"
+          },
+          {
+            "name": "戴文星"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -75275,7 +78964,18 @@
         "id": "Team377",
         "organization": "西南科技大学",
         "official": true,
-        "location": "G58"
+        "location": "G58",
+        "teamMembers": [
+          {
+            "name": "陈亮旭"
+          },
+          {
+            "name": "童博文"
+          },
+          {
+            "name": "吴子杨"
+          }
+        ]
       },
       "score": {
         "value": 2,
@@ -75503,7 +79203,18 @@
         "id": "Team279",
         "organization": "新疆大学",
         "official": true,
-        "location": "F29"
+        "location": "F29",
+        "teamMembers": [
+          {
+            "name": "张宵硕"
+          },
+          {
+            "name": "胡晗"
+          },
+          {
+            "name": "张庆桢"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -75682,7 +79393,18 @@
         "id": "Team178",
         "organization": "浙江财经大学",
         "official": true,
-        "location": "D29"
+        "location": "D29",
+        "teamMembers": [
+          {
+            "name": "张孝顺"
+          },
+          {
+            "name": "沈乐琰"
+          },
+          {
+            "name": "叶涛瑞"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -75856,7 +79578,18 @@
         "id": "Team015",
         "organization": "浙江师范大学",
         "official": true,
-        "location": "A16"
+        "location": "A16",
+        "teamMembers": [
+          {
+            "name": "李侑轩"
+          },
+          {
+            "name": "姜翔元"
+          },
+          {
+            "name": "黄玉景"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -76088,7 +79821,18 @@
         "id": "Team169",
         "organization": "成都理工大学",
         "official": true,
-        "location": "D20"
+        "location": "D20",
+        "teamMembers": [
+          {
+            "name": "张鹏"
+          },
+          {
+            "name": "郑川建"
+          },
+          {
+            "name": "方思盈"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -76255,7 +79999,18 @@
         "id": "Team197",
         "organization": "香港科技大学",
         "official": true,
-        "location": "D48"
+        "location": "D48",
+        "teamMembers": [
+          {
+            "name": "莫云翔"
+          },
+          {
+            "name": "莫子龙"
+          },
+          {
+            "name": "陈浩贤"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -76443,7 +80198,18 @@
         "id": "Team171",
         "organization": "浙江师范大学",
         "official": true,
-        "location": "D22"
+        "location": "D22",
+        "teamMembers": [
+          {
+            "name": "汪浩阳"
+          },
+          {
+            "name": "邱嘉豪"
+          },
+          {
+            "name": "杨兆钰"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -76608,7 +80374,18 @@
         "id": "Team005",
         "organization": "中国农业大学",
         "official": true,
-        "location": "A05"
+        "location": "A05",
+        "teamMembers": [
+          {
+            "name": "许恩侨"
+          },
+          {
+            "name": "范旭林"
+          },
+          {
+            "name": "李佳瑞"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -76782,7 +80559,18 @@
         "id": "Team275",
         "organization": "中央民族大学",
         "official": true,
-        "location": "F25"
+        "location": "F25",
+        "teamMembers": [
+          {
+            "name": "陈耀曦"
+          },
+          {
+            "name": "钱梓健"
+          },
+          {
+            "name": "龚子豪"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -76977,7 +80765,18 @@
         "id": "Team117",
         "organization": "武汉理工大学",
         "official": true,
-        "location": "C28"
+        "location": "C28",
+        "teamMembers": [
+          {
+            "name": "李晨"
+          },
+          {
+            "name": "詹万炜"
+          },
+          {
+            "name": "俞烨宸"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -77193,7 +80992,18 @@
         "id": "Team375",
         "organization": "西北工业大学",
         "official": true,
-        "location": "G56"
+        "location": "G56",
+        "teamMembers": [
+          {
+            "name": "魏子尧"
+          },
+          {
+            "name": "万梓宸"
+          },
+          {
+            "name": "刘骐铭"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -77358,7 +81168,18 @@
         "id": "Team227",
         "organization": "河南大学",
         "official": true,
-        "location": "E18"
+        "location": "E18",
+        "teamMembers": [
+          {
+            "name": "付凌霄"
+          },
+          {
+            "name": "曹润苇"
+          },
+          {
+            "name": "靳子炫"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -77530,7 +81351,18 @@
         "id": "Team214",
         "organization": "山东石油化工学院",
         "official": true,
-        "location": "E05"
+        "location": "E05",
+        "teamMembers": [
+          {
+            "name": "何海扬"
+          },
+          {
+            "name": "李倍源"
+          },
+          {
+            "name": "孙启翔"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -77672,7 +81504,18 @@
         "id": "Team029",
         "organization": "哈尔滨工业大学（威海）",
         "official": true,
-        "location": "A30"
+        "location": "A30",
+        "teamMembers": [
+          {
+            "name": "詹柏川"
+          },
+          {
+            "name": "卜家骏"
+          },
+          {
+            "name": "李胤辉"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -77844,7 +81687,18 @@
         "id": "Team356",
         "organization": "北京林业大学",
         "official": true,
-        "location": "G37"
+        "location": "G37",
+        "teamMembers": [
+          {
+            "name": "沈浩楠"
+          },
+          {
+            "name": "吴羿璋"
+          },
+          {
+            "name": "孔祥翼"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -78055,7 +81909,18 @@
         "id": "Team217",
         "organization": "中国传媒大学",
         "official": true,
-        "location": "E08"
+        "location": "E08",
+        "teamMembers": [
+          {
+            "name": "黄润秋"
+          },
+          {
+            "name": "缪沁宏"
+          },
+          {
+            "name": "陈奕帆"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -78213,7 +82078,18 @@
         "id": "Team345",
         "organization": "西北农林科技大学",
         "official": true,
-        "location": "G26"
+        "location": "G26",
+        "teamMembers": [
+          {
+            "name": "邓雅议"
+          },
+          {
+            "name": "陈青泽"
+          },
+          {
+            "name": "刘书瑞"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -78406,7 +82282,18 @@
         "id": "Team135",
         "organization": "江西农业大学",
         "official": true,
-        "location": "C46"
+        "location": "C46",
+        "teamMembers": [
+          {
+            "name": "龙轩"
+          },
+          {
+            "name": "王博涵"
+          },
+          {
+            "name": "方淳铭"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -78580,7 +82467,18 @@
         "id": "Team159",
         "organization": "中国矿业大学",
         "official": true,
-        "location": "D10"
+        "location": "D10",
+        "teamMembers": [
+          {
+            "name": "梁浩均"
+          },
+          {
+            "name": "田在希"
+          },
+          {
+            "name": "刘宇程"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -78729,7 +82627,18 @@
         "id": "Team043",
         "organization": "江南大学",
         "official": true,
-        "location": "B02"
+        "location": "B02",
+        "teamMembers": [
+          {
+            "name": "刘禹辰"
+          },
+          {
+            "name": "于环宇"
+          },
+          {
+            "name": "王壹玮"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -78908,7 +82817,18 @@
         "id": "Team201",
         "organization": "南京理工大学",
         "official": true,
-        "location": "D52"
+        "location": "D52",
+        "teamMembers": [
+          {
+            "name": "喻昕之"
+          },
+          {
+            "name": "靳博涵"
+          },
+          {
+            "name": "李志祥"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -79073,7 +82993,18 @@
         "id": "Team269",
         "organization": "广东海洋大学",
         "official": true,
-        "location": "F19"
+        "location": "F19",
+        "teamMembers": [
+          {
+            "name": "程伟峻"
+          },
+          {
+            "name": "蒋世融"
+          },
+          {
+            "name": "陈奕全"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -79310,7 +83241,18 @@
         "id": "Team200",
         "organization": "深圳理工大学",
         "official": true,
-        "location": "D51"
+        "location": "D51",
+        "teamMembers": [
+          {
+            "name": "张子轩"
+          },
+          {
+            "name": "李翔宇"
+          },
+          {
+            "name": "郝乾琅"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -79503,7 +83445,18 @@
         "id": "Team363",
         "organization": "长春理工大学",
         "official": true,
-        "location": "G44"
+        "location": "G44",
+        "teamMembers": [
+          {
+            "name": "苏可航"
+          },
+          {
+            "name": "张华基"
+          },
+          {
+            "name": "方超鹏"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -79668,7 +83621,18 @@
         "id": "Team062",
         "organization": "天津工业大学",
         "official": true,
-        "location": "B21"
+        "location": "B21",
+        "teamMembers": [
+          {
+            "name": "刘子祺"
+          },
+          {
+            "name": "李思齐"
+          },
+          {
+            "name": "陈鸿楷"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -79870,7 +83834,18 @@
         "id": "Team198",
         "organization": "山东管理学院",
         "official": true,
-        "location": "D49"
+        "location": "D49",
+        "teamMembers": [
+          {
+            "name": "商玉颖"
+          },
+          {
+            "name": "袁洋"
+          },
+          {
+            "name": "王之星"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -80021,7 +83996,18 @@
         "id": "Team076",
         "organization": "香港大学",
         "official": true,
-        "location": "B35"
+        "location": "B35",
+        "teamMembers": [
+          {
+            "name": "胡博渊"
+          },
+          {
+            "name": "王思为"
+          },
+          {
+            "name": "Keenan Christopher Adimulia"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -80214,7 +84200,18 @@
         "id": "Team116",
         "organization": "浙江农林大学",
         "official": true,
-        "location": "C27"
+        "location": "C27",
+        "teamMembers": [
+          {
+            "name": "詹志轩"
+          },
+          {
+            "name": "张辰梁"
+          },
+          {
+            "name": "贾豫宁"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -80379,7 +84376,18 @@
         "id": "Team034",
         "organization": "青海大学",
         "official": true,
-        "location": "A35"
+        "location": "A35",
+        "teamMembers": [
+          {
+            "name": "马祥宇"
+          },
+          {
+            "name": "邓颜昭"
+          },
+          {
+            "name": "王赫然"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -80551,7 +84559,18 @@
         "id": "Team339",
         "organization": "郑州轻工业大学",
         "official": true,
-        "location": "G20"
+        "location": "G20",
+        "teamMembers": [
+          {
+            "name": "马艺轩"
+          },
+          {
+            "name": "尹航"
+          },
+          {
+            "name": "吕浩源"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -80730,7 +84749,18 @@
         "id": "Team057",
         "organization": "杭州电子科技大学信息工程学院",
         "official": true,
-        "location": "B16"
+        "location": "B16",
+        "teamMembers": [
+          {
+            "name": "吴锦豪"
+          },
+          {
+            "name": "陈东铼"
+          },
+          {
+            "name": "黄高毅"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -80902,7 +84932,18 @@
         "id": "Team311",
         "organization": "辽宁大学",
         "official": true,
-        "location": "G102"
+        "location": "G102",
+        "teamMembers": [
+          {
+            "name": "宋文杰"
+          },
+          {
+            "name": "姜正硕"
+          },
+          {
+            "name": "王梓睿"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -81127,7 +85168,18 @@
         "id": "Team352",
         "organization": "盐城工学院",
         "official": true,
-        "location": "G33"
+        "location": "G33",
+        "teamMembers": [
+          {
+            "name": "张扬"
+          },
+          {
+            "name": "李雨翀"
+          },
+          {
+            "name": "宁金鸣"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -81420,7 +85472,18 @@
         "id": "Team215",
         "organization": "安徽师范大学",
         "official": true,
-        "location": "E06"
+        "location": "E06",
+        "teamMembers": [
+          {
+            "name": "许译涛"
+          },
+          {
+            "name": "王李庆晨"
+          },
+          {
+            "name": "袁文晟"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -81671,7 +85734,18 @@
         "id": "Team401",
         "organization": "西安明德理工学院",
         "official": true,
-        "location": "G82"
+        "location": "G82",
+        "teamMembers": [
+          {
+            "name": "丁艺恒"
+          },
+          {
+            "name": "曾泽峰"
+          },
+          {
+            "name": "杨佳依"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -81827,7 +85901,18 @@
         "id": "Team230",
         "organization": "江西农业大学",
         "official": true,
-        "location": "E21"
+        "location": "E21",
+        "teamMembers": [
+          {
+            "name": "万家林"
+          },
+          {
+            "name": "刘益平"
+          },
+          {
+            "name": "殷智宇"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -82101,7 +86186,18 @@
         "id": "Team302",
         "organization": "吉首大学",
         "official": true,
-        "location": "G04"
+        "location": "G04",
+        "teamMembers": [
+          {
+            "name": "邓徐杰"
+          },
+          {
+            "name": "陈浩然"
+          },
+          {
+            "name": "袁登攀"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -82304,7 +86400,18 @@
         "markers": [
           "girl"
         ],
-        "location": "F15"
+        "location": "F15",
+        "teamMembers": [
+          {
+            "name": "岳星雨"
+          },
+          {
+            "name": "陈凌燕"
+          },
+          {
+            "name": "胡欣语"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -82513,7 +86620,18 @@
         "id": "Team260",
         "organization": "湖北工业大学",
         "official": true,
-        "location": "F10"
+        "location": "F10",
+        "teamMembers": [
+          {
+            "name": "詹志翀"
+          },
+          {
+            "name": "张哲"
+          },
+          {
+            "name": "盛世嵩"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -82727,7 +86845,18 @@
         "id": "Team314",
         "organization": "西北农林科技大学",
         "official": true,
-        "location": "G105"
+        "location": "G105",
+        "teamMembers": [
+          {
+            "name": "杨杰"
+          },
+          {
+            "name": "陈铎文"
+          },
+          {
+            "name": "王彬沣"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -82915,7 +87044,18 @@
         "id": "Team334",
         "organization": "山东理工大学",
         "official": true,
-        "location": "G15"
+        "location": "G15",
+        "teamMembers": [
+          {
+            "name": "孙国栋"
+          },
+          {
+            "name": "张翔瑞"
+          },
+          {
+            "name": "王硕"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -83117,7 +87257,18 @@
         "id": "Team221",
         "organization": "武汉轻工大学",
         "official": true,
-        "location": "E12"
+        "location": "E12",
+        "teamMembers": [
+          {
+            "name": "王福洪"
+          },
+          {
+            "name": "黄宏"
+          },
+          {
+            "name": "汤士哲"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -83340,7 +87491,18 @@
         "id": "Team412",
         "organization": "江西师范大学",
         "official": true,
-        "location": "G93"
+        "location": "G93",
+        "teamMembers": [
+          {
+            "name": "胡天翊"
+          },
+          {
+            "name": "彭明俊"
+          },
+          {
+            "name": "王楷翔"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -83591,7 +87753,18 @@
         "id": "Team406",
         "organization": "南阳师范学院",
         "official": true,
-        "location": "G87"
+        "location": "G87",
+        "teamMembers": [
+          {
+            "name": "买睿妤"
+          },
+          {
+            "name": "黄雯建"
+          },
+          {
+            "name": "杜正祺"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -83807,7 +87980,18 @@
         "id": "Team044",
         "organization": "河北工程大学",
         "official": true,
-        "location": "B03"
+        "location": "B03",
+        "teamMembers": [
+          {
+            "name": "闫子昂"
+          },
+          {
+            "name": "赵泽勋"
+          },
+          {
+            "name": "卞建博"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -84016,7 +88200,18 @@
         "id": "Team296",
         "organization": "广东金融学院",
         "official": true,
-        "location": "F46"
+        "location": "F46",
+        "teamMembers": [
+          {
+            "name": "刘紫萱"
+          },
+          {
+            "name": "李思甜"
+          },
+          {
+            "name": "郑博诚"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -84209,7 +88404,18 @@
         "id": "Team342",
         "organization": "临沂大学",
         "official": true,
-        "location": "G23"
+        "location": "G23",
+        "teamMembers": [
+          {
+            "name": "费秋翔"
+          },
+          {
+            "name": "张琦"
+          },
+          {
+            "name": "陈曦"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -84458,7 +88664,18 @@
         "id": "Team133",
         "organization": "海南大学",
         "official": true,
-        "location": "C44"
+        "location": "C44",
+        "teamMembers": [
+          {
+            "name": "余睿涵"
+          },
+          {
+            "name": "李俊飞"
+          },
+          {
+            "name": "陈诺"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -84679,7 +88896,18 @@
         "id": "Team017",
         "organization": "成都理工大学工程技术学院",
         "official": true,
-        "location": "A18"
+        "location": "A18",
+        "teamMembers": [
+          {
+            "name": "孔维杰"
+          },
+          {
+            "name": "黎雄"
+          },
+          {
+            "name": "邹宇轩"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -84893,7 +89121,18 @@
         "id": "Team351",
         "organization": "山东科技大学",
         "official": true,
-        "location": "G32"
+        "location": "G32",
+        "teamMembers": [
+          {
+            "name": "朱恒锐"
+          },
+          {
+            "name": "黄佳贤"
+          },
+          {
+            "name": "黑振源"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -85116,7 +89355,18 @@
         "id": "Team068",
         "organization": "青岛农业大学",
         "official": true,
-        "location": "B27"
+        "location": "B27",
+        "teamMembers": [
+          {
+            "name": "张宝文"
+          },
+          {
+            "name": "孟祥迪"
+          },
+          {
+            "name": "付志远"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -85309,7 +89559,18 @@
         "id": "Team119",
         "organization": "中国海洋大学",
         "official": true,
-        "location": "C30"
+        "location": "C30",
+        "teamMembers": [
+          {
+            "name": "李永铖"
+          },
+          {
+            "name": "邓笑天"
+          },
+          {
+            "name": "李云龙"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -85518,7 +89779,18 @@
         "id": "Team368",
         "organization": "南京晓庄学院",
         "official": true,
-        "location": "G49"
+        "location": "G49",
+        "teamMembers": [
+          {
+            "name": "佘亦纲"
+          },
+          {
+            "name": "董晨育"
+          },
+          {
+            "name": "黄世睿"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -85939,7 +90211,18 @@
         "id": "Team258",
         "organization": "湖南涉外经济学院",
         "official": true,
-        "location": "F08"
+        "location": "F08",
+        "teamMembers": [
+          {
+            "name": "赵瑞翔"
+          },
+          {
+            "name": "刘溢"
+          },
+          {
+            "name": "虞尚武"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -86204,7 +90487,18 @@
         "id": "Team273",
         "organization": "天津工业大学",
         "official": true,
-        "location": "F23"
+        "location": "F23",
+        "teamMembers": [
+          {
+            "name": "张楚杨"
+          },
+          {
+            "name": "李誉锴"
+          },
+          {
+            "name": "李文亮"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -86411,7 +90705,18 @@
         "id": "Team253",
         "organization": "宁波财经学院",
         "official": true,
-        "location": "F03"
+        "location": "F03",
+        "teamMembers": [
+          {
+            "name": "王裕超"
+          },
+          {
+            "name": "李辉鸿"
+          },
+          {
+            "name": "徐明炜"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -86655,7 +90960,18 @@
         "id": "Team285",
         "organization": "香港科技大学",
         "official": true,
-        "location": "F35"
+        "location": "F35",
+        "teamMembers": [
+          {
+            "name": "张悠然"
+          },
+          {
+            "name": "李礼真"
+          },
+          {
+            "name": "叶雍"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -86857,7 +91173,18 @@
         "id": "Team293",
         "organization": "江汉大学",
         "official": true,
-        "location": "F43"
+        "location": "F43",
+        "teamMembers": [
+          {
+            "name": "陈子杰"
+          },
+          {
+            "name": "杨泽宵"
+          },
+          {
+            "name": "周圣然"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -87055,7 +91382,18 @@
         "id": "Team332",
         "organization": "河南农业大学",
         "official": true,
-        "location": "G13"
+        "location": "G13",
+        "teamMembers": [
+          {
+            "name": "王小鸣"
+          },
+          {
+            "name": "张鹏举"
+          },
+          {
+            "name": "任浩喆"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -87276,7 +91614,18 @@
         "id": "Team013",
         "organization": "南通大学",
         "official": true,
-        "location": "A14"
+        "location": "A14",
+        "teamMembers": [
+          {
+            "name": "徐自在"
+          },
+          {
+            "name": "李忠泽"
+          },
+          {
+            "name": "杜健坤"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -87483,7 +91832,18 @@
         "id": "Team152",
         "organization": "河南农业大学",
         "official": true,
-        "location": "D03"
+        "location": "D03",
+        "teamMembers": [
+          {
+            "name": "陈劲霄"
+          },
+          {
+            "name": "宋明潭"
+          },
+          {
+            "name": "闫铭哲"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -87783,7 +92143,18 @@
         "id": "Team355",
         "organization": "上海电力大学",
         "official": true,
-        "location": "G36"
+        "location": "G36",
+        "teamMembers": [
+          {
+            "name": "王文杰"
+          },
+          {
+            "name": "李彦柯"
+          },
+          {
+            "name": "程烺"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -88053,7 +92424,18 @@
         "id": "Team247",
         "organization": "四川师范大学",
         "official": true,
-        "location": "E38"
+        "location": "E38",
+        "teamMembers": [
+          {
+            "name": "赵黎明"
+          },
+          {
+            "name": "刘铭昊"
+          },
+          {
+            "name": "叶馥源"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -88283,7 +92665,18 @@
         "id": "Team134",
         "organization": "西安理工大学",
         "official": true,
-        "location": "C45"
+        "location": "C45",
+        "teamMembers": [
+          {
+            "name": "谢量"
+          },
+          {
+            "name": "汪昳娴"
+          },
+          {
+            "name": "廖臻"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -88497,7 +92890,18 @@
         "id": "Team191",
         "organization": "井冈山大学",
         "official": true,
-        "location": "D42"
+        "location": "D42",
+        "teamMembers": [
+          {
+            "name": "杨文源"
+          },
+          {
+            "name": "徐明"
+          },
+          {
+            "name": "李方凯"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -88795,7 +93199,18 @@
         "id": "Team199",
         "organization": "徐州工程学院",
         "official": true,
-        "location": "D50"
+        "location": "D50",
+        "teamMembers": [
+          {
+            "name": "赵志程"
+          },
+          {
+            "name": "王畅"
+          },
+          {
+            "name": "王子阳"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -89044,7 +93459,18 @@
         "id": "Team254",
         "organization": "湖南师范大学",
         "official": true,
-        "location": "F04"
+        "location": "F04",
+        "teamMembers": [
+          {
+            "name": "陈斌"
+          },
+          {
+            "name": "陈岳燊"
+          },
+          {
+            "name": "张一凡"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -89340,7 +93766,18 @@
         "markers": [
           "girl"
         ],
-        "location": "E09"
+        "location": "E09",
+        "teamMembers": [
+          {
+            "name": "管彤"
+          },
+          {
+            "name": "孟瑞萱"
+          },
+          {
+            "name": "曹碧玲"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -89566,7 +94003,18 @@
         "id": "Team413",
         "organization": "中国传媒大学",
         "official": true,
-        "location": "G94"
+        "location": "G94",
+        "teamMembers": [
+          {
+            "name": "张竣翔"
+          },
+          {
+            "name": "赵昱琛"
+          },
+          {
+            "name": "王绪昊"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -89822,7 +94270,18 @@
         "id": "Team327",
         "organization": "西北工业大学附属中学",
         "official": false,
-        "location": "G117"
+        "location": "G117",
+        "teamMembers": [
+          {
+            "name": "鲁泊成"
+          },
+          {
+            "name": "雷康宁"
+          },
+          {
+            "name": "杨皓循"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -90129,7 +94588,18 @@
         "id": "Team058",
         "organization": "成都大学",
         "official": true,
-        "location": "B17"
+        "location": "B17",
+        "teamMembers": [
+          {
+            "name": "何子豪"
+          },
+          {
+            "name": "陈杰明"
+          },
+          {
+            "name": "周博文"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -90413,7 +94883,18 @@
         "id": "Team060",
         "organization": "济南大学",
         "official": true,
-        "location": "B19"
+        "location": "B19",
+        "teamMembers": [
+          {
+            "name": "尚可"
+          },
+          {
+            "name": "王浩然"
+          },
+          {
+            "name": "李念"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -90660,7 +95141,18 @@
         "id": "Team350",
         "organization": "广州软件学院",
         "official": true,
-        "location": "G31"
+        "location": "G31",
+        "teamMembers": [
+          {
+            "name": "赖奕文"
+          },
+          {
+            "name": "曾嘉政"
+          },
+          {
+            "name": "钟文贤"
+          }
+        ]
       },
       "score": {
         "value": 1,
@@ -90970,7 +95462,18 @@
         "id": "Team063",
         "organization": "渭南师范学院",
         "official": true,
-        "location": "B22"
+        "location": "B22",
+        "teamMembers": [
+          {
+            "name": "孟长青"
+          },
+          {
+            "name": "龚昌盛"
+          },
+          {
+            "name": "刘天煜"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -91105,7 +95608,18 @@
         "id": "Team052",
         "organization": "宁波财经学院",
         "official": true,
-        "location": "B11"
+        "location": "B11",
+        "teamMembers": [
+          {
+            "name": "伍亚轩"
+          },
+          {
+            "name": "武裕哲"
+          },
+          {
+            "name": "陈雄斌"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -91410,7 +95924,18 @@
         "id": "Team415",
         "organization": "东莞理工学院",
         "official": true,
-        "location": "G96"
+        "location": "G96",
+        "teamMembers": [
+          {
+            "name": "唐俊杰"
+          },
+          {
+            "name": "张博瀚"
+          },
+          {
+            "name": "伍健铭"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -91633,7 +96158,18 @@
         "id": "Team417",
         "organization": "新疆大学",
         "official": true,
-        "location": "G98"
+        "location": "G98",
+        "teamMembers": [
+          {
+            "name": "姜树豪"
+          },
+          {
+            "name": "马振杰"
+          },
+          {
+            "name": "易恩宇"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -91845,7 +96381,15 @@
         "id": "Team338",
         "organization": "佛山大学",
         "official": true,
-        "location": "G19"
+        "location": "G19",
+        "teamMembers": [
+          {
+            "name": "刘骏学"
+          },
+          {
+            "name": "陈凯鹏"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -92043,7 +96587,18 @@
         "id": "Team226",
         "organization": "延安大学西安创新学院",
         "official": true,
-        "location": "E17"
+        "location": "E17",
+        "teamMembers": [
+          {
+            "name": "何一豪"
+          },
+          {
+            "name": "张博超"
+          },
+          {
+            "name": "闫承翰"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -92255,7 +96810,18 @@
         "id": "Team317",
         "organization": "陕西省西安中学",
         "official": false,
-        "location": "G108"
+        "location": "G108",
+        "teamMembers": [
+          {
+            "name": "王少卿"
+          },
+          {
+            "name": "高嘉祺"
+          },
+          {
+            "name": "李星宇"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -92547,7 +97113,18 @@
         "id": "Team050",
         "organization": "乐山师范学院",
         "official": true,
-        "location": "B09"
+        "location": "B09",
+        "teamMembers": [
+          {
+            "name": "贾祥杰"
+          },
+          {
+            "name": "刘景辉"
+          },
+          {
+            "name": "唐浩宇"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -92747,7 +97324,18 @@
         "id": "Team271",
         "organization": "长沙理工大学",
         "official": true,
-        "location": "F21"
+        "location": "F21",
+        "teamMembers": [
+          {
+            "name": "奚忠财"
+          },
+          {
+            "name": "李雨霏"
+          },
+          {
+            "name": "肖锦文"
+          }
+        ]
       },
       "score": {
         "value": 0,
@@ -93054,7 +97642,18 @@
         "id": "Team403",
         "organization": "河北师范大学",
         "official": true,
-        "location": "G84"
+        "location": "G84",
+        "teamMembers": [
+          {
+            "name": "张星"
+          },
+          {
+            "name": "余杰"
+          },
+          {
+            "name": "张一宽"
+          }
+        ]
       },
       "score": {
         "value": 0,
