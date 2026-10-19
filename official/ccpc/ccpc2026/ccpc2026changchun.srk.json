@@ -1,6 +1,6 @@
 {
   "type": "general",
-  "version": "0.3.13",
+  "version": "0.3.14",
   "contest": {
     "title": {
       "zh-CN": "2026 年第十二届中国大学生程序设计竞赛 长春站 正式赛",
@@ -90,7 +90,18 @@
         "min"
       ],
       "timePrecision": "s",
-      "rankingTimePrecision": "min"
+      "rankingTimePrecision": "min",
+      "extendedAlgorithms": [
+        {
+          "algorithm": "CCPC26",
+          "config": {
+            "problemRevealAcceptedThreshold": {
+              "count": 50,
+              "ratio": 0.2
+            }
+          }
+        }
+      ]
     }
   },
   "markers": [
