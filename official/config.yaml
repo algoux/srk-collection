@@ -1197,6 +1197,9 @@ root:
         - path: hn
           name: 湖南省赛
           children:
+            - path: hncpc22nd
+              format: srk.json
+              name: 2026-10-25 第二十二届
             - path: hncpc20th
               format: srk.json
               name: 2024-10-13 第二十届
