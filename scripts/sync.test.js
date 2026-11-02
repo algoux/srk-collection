@@ -13,6 +13,7 @@ const {
   parseNameStatusDiff,
   resolveIncrementalTargets,
   prepareSyncFile,
+  sync,
   syncRank,
   syncCollection,
   withRequestRetry,
@@ -437,7 +438,7 @@ test('syncRank creates the contest before uploading RankMain and then associates
 
   try {
     const file = await prepareFixture(tempDir);
-    await syncRank(file, {
+    const updated = await syncRank(file, {
       dryRun: false,
       logger: { log: () => {}, error: () => {} },
       request: {
@@ -475,6 +476,7 @@ test('syncRank creates the contest before uploading RankMain and then associates
       tempUploadingDir: tempDir,
     });
 
+    assert.strictEqual(updated, true);
     assert.deepStrictEqual(calls, [
       ['get', 'public/contests/foo'],
       ['post', 'contests'],
@@ -492,7 +494,7 @@ test('syncRank reuses matching RankMain metadata without remote writes', async (
 
   try {
     const file = await prepareFixture(tempDir);
-    await syncRank(file, {
+    const updated = await syncRank(file, {
       dryRun: false,
       logger: { log: () => {}, error: () => {} },
       request: {
@@ -528,6 +530,7 @@ test('syncRank reuses matching RankMain metadata without remote writes', async (
       tempUploadingDir: tempDir,
     });
 
+    assert.strictEqual(updated, false);
     assert.deepStrictEqual(writes, []);
   } finally {
     await fs.remove(tempDir);
@@ -540,7 +543,7 @@ test('syncRank replaces a mismatched RankMain hash and patches the existing cont
 
   try {
     const file = await prepareFixture(tempDir);
-    await syncRank(file, {
+    const updated = await syncRank(file, {
       dryRun: false,
       logger: { log: () => {}, error: () => {} },
       request: {
@@ -578,6 +581,7 @@ test('syncRank replaces a mismatched RankMain hash and patches the existing cont
       tempUploadingDir: tempDir,
     });
 
+    assert.strictEqual(updated, true);
     assert.deepStrictEqual(calls, [
       ['get', 'public/contests/foo'],
       ['get', 'public/files/2001'],
@@ -596,7 +600,7 @@ test('syncRank dry-run does not call v2 write endpoints for a missing contest', 
 
   try {
     const file = await prepareFixture(tempDir);
-    await syncRank(file, {
+    const updated = await syncRank(file, {
       dryRun: true,
       logger: { log: (message) => logs.push(message), error: () => {} },
       request: {
@@ -616,6 +620,7 @@ test('syncRank dry-run does not call v2 write endpoints for a missing contest', 
       tempUploadingDir: tempDir,
     });
 
+    assert.strictEqual(updated, false);
     assert.deepStrictEqual(writes, []);
     assert.ok(logs.some((message) => message.includes('[dry-run] Would create contest foo')));
     assert.ok(logs.some((message) => message.includes('[dry-run] Would upload file foo')));
@@ -719,5 +724,239 @@ test('syncCollection dry-run does not call v2 collection write endpoints', async
   assert.deepStrictEqual(writes, []);
   assert.ok(logs.some((message) => message.includes('[dry-run] Would update collection official')));
 });
+
+for (const scenario of [
+  { name: 'successful sync', options: {}, expected: true, calls: ['get', 'patch'] },
+  { name: 'dry-run', options: { dryRun: true }, expected: false, calls: ['get'] },
+  {
+    name: 'no relevant changes',
+    options: { changedFrom: 'base', changedTo: 'head', git: () => '' },
+    expected: false,
+    calls: [],
+  },
+  { name: 'failed sync', options: {}, failure: true, calls: ['get', 'patch'] },
+]) {
+  test(`sync reports completed updates: ${scenario.name}`, async () => {
+    const tempDir = await fs.mkdtemp(path.join(os.tmpdir(), 'sync-result-test-'));
+    const calls = [];
+    try {
+      await fs.writeFile(path.join(tempDir, 'config.yaml'), 'root:\n  children: []\n');
+      const result = sync(tempDir, {
+        ...scenario.options,
+        logger: { log: () => {}, error: () => {} },
+        request: {
+          get: async () => {
+            calls.push('get');
+            return apiSuccess({ id: '3001', content: {} });
+          },
+          patch: async () => {
+            calls.push('patch');
+            return scenario.failure ? apiFailure(100001, 'sync rejected') : apiSuccess();
+          },
+        },
+        sleep: async () => {},
+      });
+      if (scenario.failure) {
+        await assert.rejects(result, /sync rejected/);
+      } else {
+        assert.deepStrictEqual(await result, {
+          synced: scenario.expected,
+          updatedRanks: [],
+          collectionUpdated: scenario.expected,
+        });
+      }
+      assert.deepStrictEqual(calls, scenario.calls);
+    } finally {
+      await fs.remove(tempDir);
+    }
+  });
+}
+
+async function prepareSyncSummaryFixture(tempDir, keys) {
+  await prepareFixture(tempDir);
+  const source = await fs.readJson(path.join(tempDir, 'foo.srk.json'));
+  const files = {};
+  for (const key of keys) {
+    const name = `${key} Contest`;
+    await fs.writeJson(path.join(tempDir, `${key}.srk.json`), {
+      ...source,
+      contest: { ...source.contest, title: name },
+    });
+    files[key] = prepareSyncFile(tempDir, key, {
+      format: 'srk.json',
+      path: `${key}.srk.json`,
+      name,
+    });
+  }
+  await fs.writeJson(path.join(tempDir, 'config.yaml'), {
+    root: { children: keys.map((key) => ({ path: key, format: 'srk.json', name: key })) },
+  });
+  return files;
+}
+
+function makeSummaryRequest(files, outdatedKeys, onPatch) {
+  return {
+    get: async (url) => {
+      if (url.startsWith('public/contests/')) {
+        const key = decodeURIComponent(url.slice('public/contests/'.length));
+        const file = files[key];
+        assert(file, `unexpected contest ${key}`);
+        return apiSuccess({
+          _id: `contest-${key}`,
+          uk: key,
+          ...file.contestMetadata,
+          name: outdatedKeys.includes(key) ? `Old ${file.name}` : file.name,
+          srkFileID: `file-${key}`,
+        });
+      }
+      if (url.startsWith('public/files/file-')) {
+        const key = url.slice('public/files/file-'.length);
+        const file = files[key];
+        assert(file, `unexpected file ${key}`);
+        return apiSuccess({
+          contestId: `contest-${key}`,
+          category: 'RankMain',
+          hashType: 'sha256',
+          hashValue: file.sha256,
+        });
+      }
+      assert(url.startsWith('public/collections/'), `unexpected get ${url}`);
+      return apiSuccess({ _id: 'collection-1', content: {} });
+    },
+    post: async (url) => {
+      throw new Error(`Matching files must not be uploaded again: ${url}`);
+    },
+    patch: onPatch,
+  };
+}
+
+function summarySyncOptions(tempDir, keys, request, extra = {}) {
+  return {
+    changedFrom: 'base',
+    changedTo: 'head',
+    git: (args) =>
+      args[0] === 'diff'
+        ? keys.map((key) => `M\t${tempDir}/${key}.srk.json`).join('\n')
+        : '',
+    logger: { log: () => {}, error: () => {} },
+    request,
+    sleep: async () => {},
+    ...extra,
+  };
+}
+
+test('sync lists only updated ranklists in source order after concurrent metadata updates', async () => {
+  const tempDir = await fs.mkdtemp(path.join(os.tmpdir(), 'sync-summary-test-'));
+  try {
+    const keys = ['first', 'unchanged', 'last'];
+    const files = await prepareSyncSummaryFixture(tempDir, keys);
+    const completed = [];
+    const request = makeSummaryRequest(files, ['first', 'last'], async (url, options) => {
+      const key = url.slice('contests/'.length);
+      assert(['first', 'last'].includes(key), `unexpected patch ${url}`);
+      assert.strictEqual(options.json.srkFileID, `file-${key}`);
+      assert.strictEqual(options.json.name, files[key].name);
+      if (key === 'first') await new Promise((resolve) => setImmediate(resolve));
+      completed.push(key);
+      return apiSuccess();
+    });
+    const summary = await sync(tempDir, summarySyncOptions(tempDir, keys, request));
+    assert.deepStrictEqual(completed, ['last', 'first']);
+    assert.deepStrictEqual(summary, {
+      synced: true,
+      updatedRanks: [
+        { uniqueKey: 'first', name: 'first Contest' },
+        { uniqueKey: 'last', name: 'last Contest' },
+      ],
+      collectionUpdated: false,
+    });
+  } finally {
+    await fs.remove(tempDir);
+  }
+});
+
+for (const scenario of [
+  { name: 'already synchronized ranklists', outdatedKeys: [], dryRun: false },
+  { name: 'dry-run with pending metadata updates', outdatedKeys: ['foo'], dryRun: true },
+]) {
+  test(`sync reports no updates for ${scenario.name}`, async () => {
+    const tempDir = await fs.mkdtemp(path.join(os.tmpdir(), 'sync-summary-test-'));
+    try {
+      const files = await prepareSyncSummaryFixture(tempDir, ['foo']);
+      const request = makeSummaryRequest(files, scenario.outdatedKeys, async (url) => {
+        throw new Error(`Unexpected write: ${url}`);
+      });
+      const summary = await sync(
+        tempDir,
+        summarySyncOptions(tempDir, ['foo'], request, { dryRun: scenario.dryRun }),
+      );
+      assert.deepStrictEqual(summary, {
+        synced: false,
+        updatedRanks: [],
+        collectionUpdated: false,
+      });
+    } finally {
+      await fs.remove(tempDir);
+    }
+  });
+}
+
+test('sync reports collection-only updates without listing unchanged ranklists', async () => {
+  const tempDir = await fs.mkdtemp(path.join(os.tmpdir(), 'sync-summary-test-'));
+  try {
+    const files = await prepareSyncSummaryFixture(tempDir, ['foo']);
+    const writes = [];
+    const request = makeSummaryRequest(files, [], async (url) => {
+      writes.push(url);
+      return apiSuccess();
+    });
+    const summary = await sync(
+      tempDir,
+      summarySyncOptions(tempDir, [], request, {
+        git: (args) => (args[0] === 'diff' ? `M\t${tempDir}/config.yaml` : ''),
+      }),
+    );
+    assert.deepStrictEqual(writes, [`collections/${encodeURIComponent(tempDir)}`]);
+    assert.deepStrictEqual(summary, {
+      synced: true,
+      updatedRanks: [],
+      collectionUpdated: true,
+    });
+  } finally {
+    await fs.remove(tempDir);
+  }
+});
+
+for (const phase of ['rank', 'collection']) {
+  test(`sync rejects a ${phase} failure even when another ranklist was updated`, async () => {
+    const tempDir = await fs.mkdtemp(path.join(os.tmpdir(), 'sync-summary-test-'));
+    try {
+      const files = await prepareSyncSummaryFixture(tempDir, ['first', 'last']);
+      const writes = [];
+      const request = makeSummaryRequest(files, ['first', 'last'], async (url) => {
+        writes.push(url);
+        if (
+          (phase === 'rank' && url === 'contests/last') ||
+          (phase === 'collection' && url.startsWith('collections/'))
+        ) {
+          return apiFailure(100002, 'summary fixture write rejected');
+        }
+        return apiSuccess();
+      });
+      const options = summarySyncOptions(tempDir, ['first', 'last'], request);
+      if (phase === 'collection') {
+        options.changedFrom = '';
+      }
+      await assert.rejects(
+        sync(tempDir, options),
+        phase === 'rank' ? /Some ranklists failed to sync: last/ : /summary fixture write rejected/,
+      );
+      assert(writes.includes('contests/first'));
+      if (phase === 'rank') assert(!writes.some((url) => url.startsWith('collections/')));
+    } finally {
+      await fs.remove(tempDir);
+    }
+  });
+}
 
 run();
