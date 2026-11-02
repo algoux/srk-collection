@@ -648,6 +648,9 @@ root:
             - path: ccpc2026changchun
               format: srk.json
               name: 2026-10-18 长春站
+            - path: ccpc2026ladies
+              forma: srk.json
+              name: 2026-11-01 女生赛
         - path: ccpc2025
           name: CCPC 2025 (11th)
           children:
