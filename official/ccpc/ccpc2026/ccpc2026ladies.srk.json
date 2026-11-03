@@ -90,7 +90,18 @@
         "min"
       ],
       "timePrecision": "s",
-      "rankingTimePrecision": "min"
+      "rankingTimePrecision": "min",
+      "extendedAlgorithms": [
+        {
+          "algorithm": "CCPC26",
+          "config": {
+            "problemRevealAcceptedThreshold": {
+              "count": 50,
+              "ratio": 0.2
+            }
+          }
+        }
+      ]
     }
   },
   "problems": [
