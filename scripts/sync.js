@@ -416,7 +416,7 @@ async function syncRank(file, options) {
     logger.log(`[dry-run] Would create contest ${file.uniqueKey}`);
     logger.log(`[dry-run] Would upload file ${file.uniqueKey}`);
     logger.log(`[dry-run] Would associate file with contest ${file.uniqueKey}`);
-    return;
+    return false;
   }
 
   let contestId = existingContest && existingContest._id;
@@ -484,7 +484,7 @@ async function syncRank(file, options) {
 
   if (dryRun) {
     logger.log(`[dry-run] Would associate file with contest ${file.uniqueKey}`);
-    return;
+    return false;
   }
   if (
     existingContest &&
@@ -492,7 +492,7 @@ async function syncRank(file, options) {
     isContestUpToDate(existingContest, file.contestMetadata, fileID)
   ) {
     logger.log(`Skipped cuz rank ${file.uniqueKey} is up to date`);
-    return;
+    return false;
   }
 
   logger.log('Updating contest', file.uniqueKey);
@@ -503,6 +503,7 @@ async function syncRank(file, options) {
     }),
     `PATCH ${contestPath}`,
   );
+  return true;
 }
 
 async function syncCollection(dir, config, options) {
@@ -615,7 +616,7 @@ async function sync(dir, options = {}) {
 
     if (targets.rankKeys.length === 0 && !targets.syncCollection) {
       logger.log('No relevant changes found, skipping sync');
-      return;
+      return { synced: false, updatedRanks: [], collectionUpdated: false };
     }
 
     const files = prepareSyncFiles(dir, fileMap, targets.rankKeys);
@@ -624,7 +625,7 @@ async function sync(dir, options = {}) {
     const rankTasks = files.map((file) =>
       queue.add(async () => {
         try {
-          await syncRank(file, {
+          return await syncRank(file, {
             dryRun: options.dryRun,
             logger,
             request,
@@ -639,7 +640,7 @@ async function sync(dir, options = {}) {
       }),
     );
 
-    await Promise.allSettled(rankTasks);
+    const rankResults = await Promise.allSettled(rankTasks);
 
     if (failures.length > 0) {
       throw new Error(
@@ -657,6 +658,15 @@ async function sync(dir, options = {}) {
     }
 
     logger.log(`Done in ${Date.now() - startedAt}ms`);
+    const updatedRanks = files
+      .filter((file, index) => rankResults[index].value === true)
+      .map(({ uniqueKey, name }) => ({ uniqueKey, name }));
+    const collectionUpdated = targets.syncCollection && !options.dryRun;
+    return {
+      synced: updatedRanks.length > 0 || collectionUpdated,
+      updatedRanks,
+      collectionUpdated,
+    };
   } finally {
     await fs.remove(tempUploadingDir);
   }
@@ -677,7 +687,17 @@ async function main(argv = process.argv.slice(2)) {
   }
 
   try {
-    await sync(parsed.dir, parsed);
+    const result = await sync(parsed.dir, parsed);
+    if (process.env.GITHUB_OUTPUT) {
+      try {
+        await fs.appendFile(
+          process.env.GITHUB_OUTPUT,
+          `synced=${result.synced}\nsummary=${JSON.stringify(result)}\n`,
+        );
+      } catch (error) {
+        console.warn('Unable to write sync notification outputs:', error.message);
+      }
+    }
   } catch (error) {
     console.error(error);
     process.exitCode = 1;

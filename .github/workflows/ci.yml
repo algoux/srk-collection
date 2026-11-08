@@ -42,6 +42,30 @@ jobs:
             const previous = runs.find((run) => run.id !== context.runId);
             core.setOutput('sha', previous ? previous.head_sha : '');
       - run: npm ci --production
-      - run: npm run sync -- official --changed-from "${{ steps.last-success.outputs.sha }}" --changed-to "${{ github.event.workflow_run.head_sha }}"
+      - name: Sync official collection
+        id: sync
+        run: npm run sync -- official --changed-from "${{ steps.last-success.outputs.sha }}" --changed-to "${{ github.event.workflow_run.head_sha }}"
         env:
           RL_API_AUTH_TOKEN: ${{ secrets.RL_API_AUTH_TOKEN }}
+
+      - name: Prepare collection sync notification
+        id: notification
+        if: ${{ success() && steps.sync.outputs.synced == 'true' }}
+        continue-on-error: true
+        env:
+          SYNC_SUMMARY: ${{ steps.sync.outputs.summary }}
+          SYNC_COMMIT: ${{ github.event.workflow_run.head_sha }}
+          REPOSITORY_URL: ${{ github.server_url }}/${{ github.repository }}
+          WORKFLOW_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: node scripts/build-sync-notification.js
+
+      - name: Notify collection sync success
+        if: ${{ success() && steps.notification.outcome == 'success' && steps.notification.outputs.body != '' }}
+        continue-on-error: true
+        uses: azurdream/meowpush-gh-actions@v1
+        with:
+          key: ${{ secrets.MEOWPUSH_KEY }}
+          title: '${{ github.repository }} Sync Success'
+          body: ${{ steps.notification.outputs.body }}
+          url: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          group: github-actions
