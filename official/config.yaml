@@ -651,7 +651,7 @@ root:
             - path: ccpc2026ladies
               format: srk.json
               name: 2026-11-01 女生赛
-            - path: cccpc2026leshan
+            - path: ccpc2026leshan
               format: srk.json
               name: 2026-11-08 乐山站
         - path: ccpc2025
