@@ -969,6 +969,9 @@ root:
         - path: ln
           name: 辽宁省赛
           children:
+            - path: lncpc7th
+              format: srk.json
+              name: "2026-11-14 2026 年辽宁省大学生程序设计竞赛暨 ICPC 国际大学生程序设计竞赛（辽宁省赛）- 正式赛"
             - path: lncpc6th
               format: srk.json
               name: 2025-11-15 第六届
