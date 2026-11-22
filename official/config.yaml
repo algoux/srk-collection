@@ -663,6 +663,9 @@ root:
             - path: ccpc2026jingzhou
               format: srk.json
               name: 2026-11-15 荆州站
+            - path: ccpc2026xiamen
+              format: srk.json
+              name: 2026-11-22 厦门站
         - path: ccpc2025
           name: CCPC 2025 (11th)
           children:
