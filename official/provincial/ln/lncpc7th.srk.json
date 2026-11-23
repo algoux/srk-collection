@@ -24,8 +24,7 @@
         "submitted": 213
       },
       "style": {
-        "backgroundColor": "#ff7f00",
-        "textColor": "#000000"
+        "backgroundColor": "#ff7f00"
       }
     },
     {
@@ -35,8 +34,7 @@
         "submitted": 589
       },
       "style": {
-        "backgroundColor": "#FF0000",
-        "textColor": "#000000"
+        "backgroundColor": "#FF0000"
       }
     },
     {
@@ -46,8 +44,7 @@
         "submitted": 117
       },
       "style": {
-        "backgroundColor": "#006400",
-        "textColor": "#000000"
+        "backgroundColor": "#006400"
       }
     },
     {
@@ -57,8 +54,7 @@
         "submitted": 711
       },
       "style": {
-        "backgroundColor": "#ff6b81",
-        "textColor": "#000000"
+        "backgroundColor": "#ff6b81"
       }
     },
     {
@@ -68,8 +64,7 @@
         "submitted": 311
       },
       "style": {
-        "backgroundColor": "#9a73d6",
-        "textColor": "#000000"
+        "backgroundColor": "#9a73d6"
       }
     },
     {
@@ -79,8 +74,7 @@
         "submitted": 187
       },
       "style": {
-        "backgroundColor": "#ffff00",
-        "textColor": "#000000"
+        "backgroundColor": "#ffff00"
       }
     },
     {
@@ -90,8 +84,7 @@
         "submitted": 11
       },
       "style": {
-        "backgroundColor": "#9edf79",
-        "textColor": "#000000"
+        "backgroundColor": "#9edf79"
       }
     },
     {
@@ -101,8 +94,7 @@
         "submitted": 37
       },
       "style": {
-        "backgroundColor": "#0f52ba",
-        "textColor": "#000000"
+        "backgroundColor": "#0f52ba"
       }
     },
     {
@@ -112,8 +104,7 @@
         "submitted": 47
       },
       "style": {
-        "backgroundColor": "#ff2a85",
-        "textColor": "#000000"
+        "backgroundColor": "#ff2a85"
       }
     },
     {
@@ -123,8 +114,7 @@
         "submitted": 228
       },
       "style": {
-        "backgroundColor": "#81d8cf",
-        "textColor": "#000000"
+        "backgroundColor": "#81d8cf"
       }
     },
     {
@@ -134,8 +124,7 @@
         "submitted": 241
       },
       "style": {
-        "backgroundColor": "#1e9e50",
-        "textColor": "#000000"
+        "backgroundColor": "#1e9e50"
       }
     },
     {
@@ -145,8 +134,7 @@
         "submitted": 630
       },
       "style": {
-        "backgroundColor": "#fba3b8",
-        "textColor": "#000000"
+        "backgroundColor": "#fba3b8"
       }
     },
     {
@@ -156,8 +144,7 @@
         "submitted": 293
       },
       "style": {
-        "backgroundColor": "#add8e6",
-        "textColor": "#000000"
+        "backgroundColor": "#add8e6"
       }
     },
     {
@@ -167,14 +154,13 @@
         "submitted": 16
       },
       "style": {
-        "backgroundColor": "#ffd700",
-        "textColor": "#000000"
+        "backgroundColor": "#ffd700"
       }
     }
   ],
   "series": [
     {
-      "title": "省内队伍#",
+      "title": "省内#",
       "segments": [
         {
           "title": "金奖",
@@ -206,7 +192,7 @@
       }
     },
     {
-      "title": "省外队伍#",
+      "title": "省外#",
       "segments": [
         {
           "title": "金奖",
