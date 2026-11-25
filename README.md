@@ -21,6 +21,7 @@
 - [xcpc-elo](https://github.com/Zzzzzzyt/xcpc-elo)
 - [XIPF](https://github.com/dbywsc/XIPF)
 - [xcpc · rating](https://github.com/Hei-MaoM/xcpcrating)
+- [xcpc-sight](https://github.com/JunjieCharles/xcpc-sight)
 
 如果你也在使用 srk-collection 的数据构建项目，欢迎联系我们或在本仓库提交 Issue/PR，我们很乐意将你的项目添加到列表中。
 
